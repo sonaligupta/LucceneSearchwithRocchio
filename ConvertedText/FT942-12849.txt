@@ -1,0 +1,106 @@
+FT942-12849
+
+FT  27 APR 94 / Survey of Pension Fund Investment (10): Cost the deciding
+factor - Custody of stock and bond certificates
+
+
+   By NORMA COHEN
+
+
+The finance director of a small textiles firm based in the north of England
+recently surprised an independent consultant appointed to advise his pension
+scheme. Asked about the scheme's arrangements for the custody of its stocks
+and bonds, the finance director opened the door to the safe in his office.
+There, on a shelf, were the share certificates belonging, ostensibly, to
+scheme members.
+'I suggested to him that this was not considered best practice in the
+industry and he said 'Are you questioning my integrity?',' the consultant
+recalled, no doubt mindful of the more conventional approach under which
+securities are sent for safe-keeping to banks.
+At the other end of the spectrum, lies a group of banks which has built
+significant businesses acting as master 'global custodians' for the assets
+of some of the UK's biggest pension funds. In the aftermath of the Maxwell
+affair, in which Pounds 440m disappeared from pension schemes controlled by
+Robert Maxwell, the group has sought rules requiring appointment of a
+custodian separate from the fund manager.
+It is alleged that hundreds of millions of pounds were spirited out of the
+pension schemes because the fund managers also acted as custodians to the
+scheme and handed over stock and bond certificates on the instructions of Mr
+Maxwell.
+The Goode Committee was asked to consider at some length whether pension
+schemes should in fact be required to appoint a custodian independent of the
+fund manager. Lobbying hard on the other side of the issue was a
+well-organised group of leading fund managers all of which provide custody
+services for their clients.
+In the end, the Goode Committee stopped well short of recommending the
+appointment of an independent custodian. The report goes to great lengths to
+explain the group's thinking. 'The question we have to consider is whether
+the additional protection which would be given by the appointment of an
+independent custodian so outweighs the expense and possible administrative
+problems that it should be made compulsory,' the report said. In a footnote,
+the report referred to recent studies by the National Association of Pension
+Funds and management consultants Booz Allen and Hamilton showing that
+because of the charging structure of custodians, clients may be unaware of
+exactly how much they are paying for the service.
+'We are not satisfied that use of a custodian would necessarily prove a
+significant obstacle to a determined wrongdoer unless custodians were to be
+required to assume a considerably more active monitoring role than they now
+perform,' the report said.
+Instead, 'trustees should periodically review their custody arrangements and
+satisfy themselves that these are satisfactory,' the report said.
+Meanwhile, regulators have rejected the idea of tighter oversight of
+custodians generally. The Securities and Investments Board, the City's chief
+regulatory watchdog, has considered whether it ought to regulate custodians
+directly and concluded that, for now, it should not.
+In the US, however, the 1974 Erisa legislation, setting out the rules under
+which pension schemes are to be administered, specifically requires
+independent custodians. Moreover, custodians are required to refuse to
+honour any instructions which they have reason to believe are not in the
+best interests of members.
+Supporters of similar rules in the UK note that a theft on the scale of Mr
+Maxwell's did not occur on the other side of the Atlantic.
+However, there may be more to the Erisa legislation than simple recognition
+that independent custodians offer greater safety. Unlike the UK, fund
+managers operating around the time of the Erisa legislation typically were
+unable to offer custody services. That had been left up to the largest US
+commercial banks which had once been the chief providers of pension fund
+management services but were no longer.
+In effect, the Erisa legislation simply codified what was effectively best
+practice already in the US, just as the Goode Committee suggests codifying
+what is best practice in Britain. However, it may be market forces rather
+than the effect of any legislation which forces changes in UK pension funds'
+choice of custodian.
+Mr Bruce Pullman, a director at Quantec, a consulting firm specialising in
+advice on quantitative fund management, notes that the increased use of
+'specialist' fund managers will force pension funds to seek independent
+custodians. 'In the US, General Motors has about 40 fund managers for its
+pension scheme. The thought of having 40 different custodians is absurd.'
+Moreover, there is evidence that pension fund trustees, partly with the
+guidance of their consultants, are taking a much harder look at costs.
+Officially, most of the UK's larger fund managers say they do not charge
+separately for custody services and a client who places the custody of his
+funds with an independent firm will receive no reduction in charges.
+Mr Gordon Lindsey, head of custody services at SG Warburg which owns 75 per
+cent of Mercury Asset Management, said that the company uses a single data
+base for its fund management operations and custodial activities. If it were
+required to send instructions to an independent custodian, MAM would
+actually incur greater costs and it would have to charge the client
+accordingly.
+However, many clients now realise that in addition to the headline fee
+charged, custodians are often earning a turn off their portfolio in foreign
+exchange, treasury management and stock lending. Increasingly, they are
+calculating the all-in cost of their custody service and seeking to
+'unbundle'.
+'Unbundling is a trend driven by best practice,' said Mr Robert Binney,
+business executive at Chase Manhattan's global securities services division.
+Larger clients, he said, are now seeking competitive pricing from custodians
+for all of these services, something that pension schemes relying on their
+fund manager's custodian simply cannot do.
+
+The Financial Times
+
+
+London Page VI
+
+940427
+

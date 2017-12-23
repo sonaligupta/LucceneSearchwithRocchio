@@ -1,0 +1,31 @@
+FT921-14187
+
+FT  17 JAN 92 / Technology (Worth Watching): Notebooks for heavyweights
+
+
+   By PAUL TAYLOR
+
+
+NEW portable and notebook PCs continue to roll off the production lines
+packing even more power into the clam-shell box, writes Paul Taylor.
+Now Toshiba has added to the top end of its range with the T6400DX and
+T6400SX models built around Intel's 80484DX and 80486SX chips. The machines
+are aimed at engineers and scientists who need heavyweight computing power.
+The mains-powered portables, with thin film technology colour or monochrome
+gas-plasma screens, boast 16-bit card expansion slots, memory expansion up
+to 20Mbytes using credit card-sized memory cards and full-sized 102-key
+detachable keyboards.
+Toshiba has also introduced the mid-range T3300SL notebook driven by a
+power-saving 25MHz Intel 80386SL chip and using nickel hydride batteries
+which offer a third more power than their nickel cadmium equivalents. An
+internal modem which can be plugged into a cellular telephone is also
+available.
+Contacts:  Toshiba: Japan, 03 3457 4511; UK, 0932 841600.
+
+The Financial Times
+
+
+London Page 14
+
+920117
+

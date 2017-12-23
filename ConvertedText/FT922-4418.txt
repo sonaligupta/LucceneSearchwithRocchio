@@ -1,0 +1,100 @@
+FT922-4418
+
+FT  05 JUN 92 / Survey of Vehicle Manufacturing Technology (5): Expanding
+into new areas - Computer-aided design
+
+
+   By ANDREW BAXTER LOOKS AT
+
+
+THE automotive industry was one of the pioneer customers for computer-aided
+design and manufacturing equipment, and remains an important testbed for new
+products and applications.
+Vehicle producers recognised the benefits to be gained from designing on
+screen, long before phrases such as 'simultaneous' or 'concurrent
+engineering' loomed over Detroit's horizon. Large companies are into their
+fourth or fifth generation of equipment.
+The same holds true for their suppliers, particularly in the automotive
+design sector. Abbey Panels, the Coventry-based producer of full-size
+vehicle body models and prototypes, realised in 1978 that it needed the best
+Cadcam available to survive as a leader in vehicle modelling.
+Companies such as Abbey, which uses the Euclid-IS 3D solid modelling system
+produced by Matra Datavision, have taken advantage of the growing
+sophistication of Cadcam software. Solid and surface modelling has become a
+vital element in the success of simultaneous engineering, although by no
+means a guarantee of the idea's main aims - reduced product development
+times and improved quality.
+For the big vehicle manufacturers, Cadcam installations are in almost
+constant flux. Rover Group, for example, is spending Pounds 17m over three
+years on upgrading its Computervision Cadcam facility to support its
+concurrent engineering strategies while enhancing product quality. The UK
+motor group has been using Computervision equipment since 1983.
+Cadcam with solid modelling is expanding into areas of hitherto unparalleled
+design complexity.
+Lucas Commercial Diesel Systems is using a Computervision CADDS 4X system to
+model complex castings for products such as its EPIC electronic fuel
+injection system for high-speed diesels.
+Solid modelling enables Lucas quickly to develop the correct
+numerically-controlled (NC) toolpath for manufacturing the product, reducing
+time-to-market and increasing quality levels.
+The motor industry's voracious appetite for products and software to keep
+the design process competitive is providing business for many of the smaller
+players in the computer systems business.
+Wisdom Systems, based in the US, has a technology called knowledge-based
+engineering (KBE). It automates the simultaneous engineering strategy, and
+builds a knowledge-based model incorporating not only the geometric
+variations of the product but also all relevant manufacturing, costing,
+production planning and marketing constraints.
+The system has been tried at PSA, the holding company of Citroen and
+Peugeot. It has produced an optimised design for a mechanical assembly at
+increased speeds.
+Another knowledge-based system used in the motor industry is Solstar,
+developed by Foseco (FS) of the UK to predict the shrinkage that occurs when
+metals and alloys solidify during casting. The system can deal with complex
+shapes such as manifolds and cylinder blocks.
+Specialist design simulation companies such as Analogy are benefiting from
+the motor industry's need to check how mechanical and electronic system
+designs work at an early stage in the development process.
+Analogy's Saber Automotive Simulation Package, recently improved, can reduce
+lead-times by analysing the operation of designs before prototyping, thus
+reducing the number of design cycles needed.
+Another important trend is for motor manufacturers to use 3D solid modelling
+for designing tools as well as vehicles Volkswagen was one of the earliest
+to recognise the potential of Cadcam in this area, having begun seven years
+ago to develop AWK, a 3D, solids-based system based on Euclid-IS.
+The system automates many of the repetitive tasks for tool design,
+eliminating much of the tedium from making changes.
+However, the most significant indirect benefit of 3D modelling in the next
+few years is likely to be its role in the nascent market for rapid
+prototyping equipment.
+There are at least a dozen rapid prototyping systems under development or
+being sold throughout the world, although some are in an early phase. But
+they share one characteristic - a 3D Cad file of a part is converted into
+thousands of slices and then reassembled as a real object.
+The reassembling process varies widely, but the most commercially-developed
+system is produced by California-based 3D Systems, which uses an ultraviolet
+laser to trace the shape of a slice on to a resin stored in a vat. As the
+beam completes each layer, the part is lowered a few thousands of an inch
+and the process repeated.
+Apart from its owner British Aerospace, Rover is believed to be the only
+industrial company in the UK to have the system. It commissioned 3D Systems'
+largest model last summer.
+The savings in time from the process - known as stereolithography - have
+been good.
+A complex prototype such as an inlet manifold would conventionally have been
+made by soft-tooling for aluminium, taken some 16 weeks and cost about
+Pounds 22,000 for the tooling.
+With stereolithography, a manifold could be run on a testbed engine three
+weeks after the Cad data was supplied, at a cost of Pounds 1,200.
+Two other rapid prototyping technologies are available in the UK, laminated
+object manufacturing from Helisys of the US, and the Solider instant slice
+curing process from the Israeli/US company Cubital. The latter has been used
+to produce a complex inlet manifold for Rover.
+
+The Financial Times
+
+
+London Page II
+
+920605
+

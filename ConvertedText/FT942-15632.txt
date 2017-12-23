@@ -1,0 +1,127 @@
+FT942-15632
+
+FT  14 APR 94 / Economic Viewpoint: Markets fret over future inflation
+
+
+   By SAMUEL BRITTAN
+
+
+Securities markets have been pausing for breath since Easter after a bout of
+nerves in the early months of this year. The main pressures have come from
+US bond markets.
+Part of the turbulence has been due to what the US bond analyst Henry
+Kaufman calls structural changes, such as 'the leveraged activities of
+high-octane portfolio managers' and the spread of mutual funds to high-risk
+areas. But there are also economic reasons, or at least fears.
+The smart thing to say during much of 1993 was that inflation was
+yesterday's worry, and that the present concern was deflation in the sense
+of falling prices of assets and tradeable commodities. This is still true in
+Japan. In the US, however, the fashionable view has changed almost
+overnight, to that of inflation being a danger after all.
+US short-term interest rates have risen by somewhat more than suggested by
+the headline rises in the Fed Funds rate. The Fed is, however, being
+criticised for not moving earlier and more sharply to raise interest rates.
+Wayne Angell, until recently a Fed governor, has criticised the US central
+bank for seeming to give zero inflation a secondary priority compared to
+'getting the economy going'. Angell was in the Fed minority voting for
+higher interest rates last December. His present prescription is to raise
+the rarely moved official discount rate by a shock full percentage point to
+4 per cent, which he believes would take the Fed Funds rate to 4 1/2 per
+cent and no doubt shift market rates higher still.
+The Clinton administration is trying to shout down the worriers with the
+assurance that there is no inflation on the horizon. But the neat division
+of labour under which the White House exhorts and the Fed acts is, however,
+threatened by the administration's continuing desire to edge the dollar
+down, and the already ridiculously high yen still further upwards. This will
+be - fortunately - more difficult if US interest rates are rising, thus
+increasing the attractions of dollar over yen holdings.
+The existence of indexed gilts in the UK allows one to make slightly more
+informed guesses about market dynamics. The redemption yield on the UK
+medium-term benchmark bond has risen since the end of the year by nearly 1
+1/2 percentage points to about 7 1/2 per cent. During the same period the
+yield on longer-term indexed gilts has increased by slightly less than  3/4
+percentage points, which is a rough index of the increase in long-term real
+interest rates. The remaining rise represents an adverse shift in
+inflationary expectations. Indeed the bond market evidence suggests a
+long-term expectation of UK inflation of a little more than 4 per cent a
+year. This is much below the average of the past two decades, but worse than
+appeared likely during last winter's euphoria, and a whisker above the upper
+end of the UK government's target range.
+The yield on US 10-year bonds has risen even more than the UK yield: by
+about 1 3/4 percentage points from a lower trough in the autumn of 1993. But
+international capital market integration may have reached the point where UK
+indexed gilt yields are relevant in US markets. In that case we have to
+conclude that inflationary expectations have deteriorated by more than a
+whole percentage point in the US - quite a lot when one is talking about a
+decade ahead.
+What is the source of this inflationary pessimism? A survey by the UK
+broking firm, James Capel, concludes that underlying US inflation is around
+the headline rate of 2 1/2 per cent, and that there are no visible upward
+pressures on costs. The main adverse signal comes from commodity market
+indices, where price rises are relatively modest and may be in response to
+exaggerated world growth expectations.
+Nevertheless James Capel shares the worries of the Fed hawks about the
+inflationary outlook. The lags in monetary policy are so long that policy
+has to be tightened now if inflationary pressures in 1995 and 1996 are to be
+countered. The danger is illustrated in the chart. US output is now believed
+to be pressing against the limits of capacity - not physical capacity, but
+the rate of operation beyond which inflation accelerates.
+No country has solved the question of how to set policies whose full effects
+on inflation will not be apparent for two or three years. Although I am a
+fan of charts of 'output gaps', I use them to illustrate fundamental ideas,
+and not because I take the posited numerical relationships seriously.
+James Capel, for instance, expects that a modest acceleration in the actual
+US growth rate to 3 1/2 per cent in 1994 would be sufficient to trigger a 4
+1/2 per cent inflation rate in 1995. In fact, we do not know even
+approximately, either the underlying growth trend, or the safe level of
+capacity utilisation, or the degree of sensitivity of inflation to a given
+pressure on capacity.
+We do not even know the relative weight that US policymakers ought to put on
+the divergent output gaps in the US and the rest of the world. For the very
+same estimates, which show the US working slightly above the safe limit of
+capacity, show all the other Group of Seven leading industrialised countries
+working at an average of no less than 6 per cent below capacity
+What then should Alan Greenspan do (apart from making sure of a majority on
+the Open Market Committee)? An appropriate policy would be a mixture of
+something he has already discussed and something he has not. He has said
+that real short-term interest rates have been artificially low while the
+economy needed support, but they now need to return to a normal level.
+What might that be? US three-month real interest rates are about 1 1/2 per
+cent a year on the basis of a conventional backward look at inflation, but
+only about  1/2 per cent on the basis of medium-term inflationary
+expectations. What is a normal short-term real rate? One might say 2-3 per
+cent on the basis of historical averages. Reasoning along these lines would
+suggest that US market rates be jacked up by a further 1, or probably 2,
+percentage points at the earliest opportunity.
+But the Fed needs a safety device as well, and should not put all its faith
+in a fallible estimate of normal real interest rates. Faithful readers will
+not be surprised to find my suggesting Nominal Gross Domestic Product as a
+check. This can be looked at as a combination of inflation plus real growth.
+It is better than an inflation target alone, because how fast the economy is
+growing sheds some light on likely inflationary pressures - or the absence
+of them - some time ahead. A Nominal GDP guideline also gives headroom for a
+little more growth, if inflation continues to come in at rates lower than
+expected, and would support a further tightening if inflationary pressures
+build up unexpectedly.
+To summarise: the US needs a further rise of 1-2 percentage points in
+short-term interest rates. The process should be halted or reversed if the
+growth of US GDP falls in nominal terms much below 5 per cent, but
+intensified if it rises much above 6 per cent. Need I say that I am talking
+about trends and not quarter-to-quarter vagaries of the national income
+figures?
+By the same criteria, German monetary policy needs to be loosened further,
+especially if a forward rather than backward-looking view of inflation is
+taken in estimating both real interest rates and Nominal GDP. In Japan
+short-term real interest rates seem below 1 per cent if measured by consumer
+prices; but they are a good deal higher if related to producer prices, which
+have fallen by more than 2 per cent in the past year. All three countries
+are moving in the right direction, but too slowly and too late - with
+Germany lagging a good deal more than the US.
+
+The Financial Times
+
+
+London Page 22
+
+940414
+

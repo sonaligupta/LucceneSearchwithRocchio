@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/Archive/dom4j-2.0.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/Archive/dom4j-2.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/Archive/jaxen-1.0-FCS/jaxen-core.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/Archive/jaxen-1.0-FCS/jaxen-dom.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/Archive/jaxen-1.0-FCS/jaxen-dom4j.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/Archive/jaxen-1.0-FCS/jaxen-exml.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/Archive/jaxen-1.0-FCS/jaxen-full.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/Archive/jaxen-1.0-FCS/jaxen-jdom.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/Archive/jaxen-1.0-FCS/lib/ant-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/Archive/jaxen-1.0-FCS/lib/dom4j-core.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/Archive/jaxen-1.0-FCS/lib/EXML.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/Archive/jaxen-1.0-FCS/lib/jakarta-ant-1.3-optional.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/Archive/jaxen-1.0-FCS/lib/jdom.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/Archive/jaxen-1.0-FCS/lib/junit.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/Archive/jaxen-1.0-FCS/lib/saxpath.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lucene-core-3.6.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

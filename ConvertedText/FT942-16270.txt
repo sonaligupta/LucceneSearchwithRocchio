@@ -1,0 +1,102 @@
+FT942-16270
+
+FT  11 APR 94 / Survey of Latin American Finance (20): Funds flow into
+options - Derivatives
+
+
+   By ANTONIA SHARPE
+
+
+The huge investment flows into Latin American securities over the past few
+years have fuelled rapid growth in the use of derivatives in the region and
+beyond.
+Bankers who have been involved in the development and marketing of these
+structured fixed-income and equity products, mainly in the form of options
+and warrants, say their main attraction is that they provide investors with
+a highly-leveraged exposure to Latin America at a fraction of the cost of
+buying the underlying securities. At the same time, they offer investors a
+certain amount of protection against the inherent volatility in these
+markets.
+'If you want to delve into Latin America with limited risk then options are
+the way to do it,' says Mr Louis Hanover, a specialist on emerging market
+debt derivatives at Merrill Lynch in New York.
+However, others have reservations about the risks associated with
+derivatives on such volatile underlying securities. They point to the lack
+of a recent price history to allow one to judge volatility of the underlying
+security - a critical factor in its pricing. A further concern is the
+relatively high chance of liquidity drying up in the event of a price
+collapse or the repatriation of international funds which have been invested
+in Latin America over the past few years.
+Mr William F. Truscott, an equity fund manager at Boston-based fund manager
+Scudder, Stevens & Clark, says of derivatives: 'We haven't made active use
+of them. You have to look at them very closely to make sure that you're not
+overpaying - particularly if you're buying over-the-counter options.'
+Nevertheless, the early success of the industry has drawn attention away
+from the risks. Derivatives fans point to the mushrooming trading volumes in
+derivatives on Latin American debt following the restructuring of Latin
+American sovereign bank debt through the issuance of Brady bonds. Mr Hanover
+estimates that around 200m options on notional bonds are now traded on a
+daily basis.
+Mr Jordi Wiegerinck, head of asset trading at the Dutch bank, ING, in Sao
+Paulo, expects the trading volume in derivatives on Brazilian debt alone to
+rise threefold this year to Dollars 40bn to Dollars 50bn from Dollars 18bn
+last year. 'The liquid underlying market has enabled the derivatives market
+to develop,' says Mr Wiegerinck.
+He adds that warrants offer best possible leverage to a volatile market.
+'You can buy the underlying security and get a yield of 12 to 13 per cent
+but you run the risk that the country will not be solvent in two years'
+time,' he says.
+On the equity side, bankers say that the derivatives business has been given
+a significant boost by the wave of privatisation which has swept through the
+region since the late 1980s.
+Mr Jeremy Campbell-Lamerton, managing director of Inverlat International,
+the London-based European operation of Grupo Financiero Inverlat, Mexico's
+fourth largest financial institution, says that the progress has been
+substantial in three fields.
+First, the options exchange in Chicago now has contracts on 10 Latin
+American companies, providing international investors with exposure to
+companies in Mexico, Brazil, Chile and Argentina. These include Telmex, the
+Mexican telephone company; Ica, the Mexican construction company; Panamco, a
+US-listed Panamanian company which has Coca-Cola interests in Mexico;
+Aracruz, the Brazilian pulp and paper company; CTC, Chile's telephone
+company and YPF, the Argentine oil group.
+Second, most countries in Latin America now have thriving options exchanges
+for local investors. Although the life of the options is short, around 28
+days, trading volume in the instruments is significant, particularly in
+Argentina and Mexico where the market's capitalisation is estimated at
+Dollars 100m.
+There have also been issues of domestic over-the-counter (OTC) warrants on
+Brazilian and Mexican stocks denominated in local currencies, though
+foreigners are less interested in these products, mainly due to the currency
+risk.
+As a result, there has been a third area of growth in Latin American
+derivatives for which international investors have shown a formidable
+appetite, namely the dollar-denominated OTC market in so-called 'synthetic'
+warrants.
+These warrants, which for the most part are exercisable into the American
+Depositary Receipts (ADRs) of Latin American companies, are 'synthetic'
+since they have not issued by the companies but by banks which have
+identified a pool of demand from their clients. The warrants can also be
+cash-settled.
+Since the warrants are priced in dollars, the holder does not need to worry
+about capital controls or currency risk. In addition, trading in many of the
+warrants can be settled through Cedel and Euroclear, Europe's two main
+clearing houses.
+Mr Campbell-Lamerton says that this market has grown rapidly over the past
+12 months and estimates that there are now 120 issues compared with fewer
+than 10 issues one year ago. Volume is thought to be around Dollars 2bn.
+Although the market is at an early stage, its future development will be
+limited by the finite pool of ADRs which can be used, Mr Campbell-Lamerton
+says.
+The warrants are not 'covered', that is the issuing bank will not actually
+own the underlying securities. However, the issuing bank will have hedged
+itself by taking out a series of options so that if the warrant holders
+exercise their rights, the bank can deliver the goods.
+
+The Financial Times
+
+
+London Page VIII
+
+940411
+

@@ -1,0 +1,73 @@
+FT944-5947
+
+FT  01 DEC 94 / Technology: Standard rules of procedure - Alan Cane on the
+resolution of a row in Europe's telecoms industry
+
+
+   By ALAN CANE
+
+
+A dispute over technical standards that has been threatening to split the
+European telecommunications industry was resolved last week when a
+compromise policy was agreed after more than five years of bickering.
+Almost the entire membership of the European Telecommunications Standards
+Institute (Etsi) voted for the new policy, which ensures that companies will
+not have to give up their rights to their own proprietary technology
+unknowingly as part of the standards-setting process.
+As a consequence, the Computer and Business Equipment Manufacturers
+Association of America, representing large US companies including
+International Business Machines, Motorola and Digital Equipment, has
+withdrawn a complaint filed with the European Commission.
+IBM said yesterday: 'It is a balanced and satisfactory solution for everyone
+concerned.' Frede Ask, deputy director of Etsi with responsibility for legal
+matters, said he was pleased that an agreement had been reached: 'I was
+always in favour of the abandoned policy, which I believed was fair, but as
+some of our members were unhappy, it was a clear indication that the policy
+had to be changed.'
+The dispute centred on the way telecommunications standards are set. Etsi is
+one of three officially recognised European bodies responsible for setting
+standards. Established by Brussels, it is composed of telecoms operators,
+national governments, equipment manufacturers, information technology
+companies and consultancies. US companies with European interests can be
+members on the same terms as European-owned concerns, but when it comes to
+voting, national governments and national telecommunications organisations
+are in the majority.
+Standards in telecommunications, as in any technical area, are vital to
+progress. Setting industry-wide standards promotes competition, encourages
+innovation, cuts costs and lowers prices. Europe's rag-bag of standards is
+in urgent need of rationalisation. Yet after some years of wrangling, a
+standards policy was approved by Etsi last year which proved impossible to
+implement.
+Intellectual property rights (IPRs) - the rights of a company to own its own
+technological advances - proved the sticking point. Standards involve sets
+of operational rules that can involve products and processes from a variety
+of companies. These companies own the IPRs in their products and have
+frequently invested millions in their development. Yet if progress is to be
+made, they are obliged to agree to give up their IPRs so new standards can
+be developed and broadly licensed. Given adequate compensation, most
+companies would agree this is fair and reasonable.
+Yet the Etsi proposal last year said that a company had just 90 days to
+decide whether to withhold permission for a particular IPR to become part of
+a standard. If it did not withhold permission, the technology became
+available by default for licensing to Etsi members and non-members.
+IT companies, which see their competitiveness linked to their stock of IPRs,
+were outraged. Also, such is the rate of technological progress that large
+companies, in particular, may not know in detail what IPRs they own or which
+ones may be involved in standards Etsi is working on.
+The compromise takes a quite different tack. Etsi has to approach a company
+to request permission to use a piece of intellectual property it owns in
+developing a standard. The company then has three months to decide whether
+to give permission. The new policy says: 'IPR holders, whether members of
+Etsi and their affiliates or third parties, should be adequately and fairly
+rewarded for the use of their IPRs in the implementation of standards.'
+If a company refuses to make its intellectual property available, it is up
+to Etsi to find another way round the problem, either by investigating other
+technologies or taking a different approaches.
+
+The Financial Times
+
+
+London Page 20
+
+941201
+

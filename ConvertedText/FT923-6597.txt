@@ -1,0 +1,80 @@
+FT923-6597
+
+FT  22 AUG 92 / Victory for human ingenuity: The checkerboard battle between
+God and a computer
+
+
+   By DOMINIC LAWSON
+
+
+IT IS POSSIBLE that at about 7pm this evening the human race will absorb a
+big dent to its collective pride. That is when a draughts (or checkers)
+match between the world's strongest-ever player of the game and a computer
+designed to beat him is scheduled to end.
+The human, Dr Marion Tinsley, a mathematics professor from Talahassee,
+Florida, has been the strongest exponent of what Americans call checkers
+since 1955. During that time Dr Tinsley has lost only five games.
+On Wednesday, at the match venue, London's Park Lane Hotel, the good doctor
+lost the sixth game of his career to Chinook, a computer programed by
+Jonathan Schaeffer of the University of Alberta, Canada. Tinsley was, by all
+accounts, astounded by the denouement of this game, and just marginally
+consoled by the fact that he had won the only previous decisive encounter of
+the best-of-40 series.
+According to The Times, if Dr Tinsley does lose the match 'another fragment
+of man's dominion will have been stripped away by the microchip.' Tinsley
+takes the thing even more metaphysically. He is that most American thing, a
+born-again Christian. 'I'm sure I have a better programer than Chinook has.
+God gave me a logical mind,' Tinsley told The Independent. 'I don't want to
+let my programer down, and I'm sure I won't'
+I know how Dr Tinsley feels. Three years ago I challenged the world's
+strongest chess program, Deep Thought, to a game. Earlier that year, Deep
+Thought, programed at Carnegie Mellon University in Pittsburgh and partly
+funded by the CIA, had started to beat grandmasters in tournament play.
+My theory was that the chess masters were losing because they played against
+Deep Thought as if they were dealing with a human. They were trying to
+out-calculate the brute. And since Deep Thought assessed 750,000 positions a
+second that was attacking the enemy at his strongest point. My (not very
+original) theory was that one should attack at the machine's weak point -
+strategy.
+I took on Deep Thought by telephone. Each of us was allotted 30 minutes for
+all moves. I had not played tournament chess for years, but everything
+seemed to work like a charm. By avoiding violent contact, and posing only
+positional rather than tactical threats, I achieved a winning position. But
+then came the problem. To win even the most overwhelming position, it is
+necessary to engage in some tactics. I could not find a way through, and
+lost on time.
+'Tough game,' said the programer down the line with the condescension
+typical of a victorious human. In reality, it is no sort of triumph for a
+computer to beat the mind of Dominic Lawson, although chess, with its
+1,000,000,000,000,000, 000,000,000,000,000,000,000,000,000, 000 (or 1044)
+possible positions, is hardly susceptible to the exhaustive analysis
+favoured by the electronic brain. The number of possible draughts positions,
+however, is thought to be no higher than the square root of that of chess,
+which indicates that Dr Tinsley really is up against it.
+I do not care much about draughts, and would not lose much sleep if it
+became what mathematicians call a 'trivial' or solvable problem. But I would
+grieve if that fate overtook chess. The game would die if grandmasters could
+simply copy from the computer by rote all the best opening variations and
+responses. They would themselves become enslaved by the computer's
+omniscience; their artistic and creative achievements would be at an end.
+Even now chess grandmasters routinely use computers in overnight end-game
+analysis, and some brilliant variations attributed to certain unscrupulous
+grandmasters should in fact be attributed to the mind of the machine, or
+rather to that of some computer scientist in Moscow or New York. And here
+lies the point which I hope will not elude Dr Tinsley, should he lose his
+match against Chinook later today.
+Rather than become all maudlin and apocalyptic at the thought that his
+God-given brain has been bested by a soulless computer, Dr Tinsley should
+use his logical mind to work out that the brain of Jonathan Schaeffer,
+Chinook's programer, is no more or less a creation of God than his own
+cerebral cortex. If Marion Tinsley loses the title he has held for 37 years,
+he will be a victim of human ingenuity.
+Dominic Lawson is editor of The Spectator.
+
+The Financial Times
+
+
+London Page XVI
+
+920822
+

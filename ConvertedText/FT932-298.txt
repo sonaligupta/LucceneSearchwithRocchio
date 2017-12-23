@@ -1,0 +1,105 @@
+FT932-298
+
+FT  29 JUN 93 / Survey of Computer Networking (4): Why to buy is better -
+Global networks / A difficult decision
+
+
+   By GEORGE BLACK
+
+
+MANY organisations which are seeking to build global information networks
+face a difficult 'buy' or 'make' decision in the near future.
+The signs are that most will go for 'buy' rather than 'make'. The main
+reason is that they believe this will be quicker, cheaper and easier.
+That will be a reversal of what was the prevalent trend until recently. Most
+large companies used to feel more secure owning and managing their own
+networks. It took a lot of time, money and effort to set them up, but it
+gave the users complete control.
+Now many want to do 'one-stop shopping' for telecommunications services
+worldwide. The arguments that have already convinced many users to outsource
+computing services apply to telecommunications. Network design has become so
+complex that many think it best to hand it over to experts on a fixed price
+contract for several years.
+Mr Pim Bilderbeek, manager of the European network research centre for
+International Data Corporation, predicts: 'More will buy than make because
+that way they will free capital for other purposes and be able to
+concentrate on their core businesses.'
+Just as important is that they will get rid of all the problems of
+negotiations with a large number of equipment suppliers and maintainers and
+with the national telephone companies of the countries in which they
+operate.
+These complex dealings have been the biggest hurdles for those companies
+which have built their own global networks. When anything goes wrong on a
+private network, it is often extremely hard to sort out who is responsible.
+Another factor is that the technology is becoming obsolete so quickly that
+users may prefer to leave it to service providers to keep up with all the
+latest inventions.
+For organisations seeking to do business in emerging regions such as eastern
+Europe, setting up a network may be much harder than in the more
+technologically advanced countries. Where cables are inadequate, they may
+need to rely on service companies which can provide access to satellite
+systems.
+The expected switch to outsourcing is good news for the suppliers of managed
+network services such as BT, Cable & Wireless and Infonet.
+These companies have been increasing their revenue from network services but
+have had to invest so heavily in establishing global networks that few have
+reaped profits in this sector so far. But the prospect of a rapidly growing
+customer base should reassure them of the wisdom of their investment.
+Mr Trevor Watts, marketing manager for network services at service provider
+AT&T Istel, says that global companies must ask themselves whether they want
+to commit huge resources to running their own networks in every country.
+He notes that to do so they must be able to cope with different technical
+standards in each country, for instance for the new ISDN digital telephone
+system.
+Mr Peter Hickman, a senior business consultant with GE Information Services,
+the leading supplier of electronic data interchange services, says it is now
+extremely hard for even large companies to provide all the necessary
+expertise and support for global networks.
+But some large companies, notably the financial institutions, are still
+reluctant to hand over all their communications requirements to service
+providers because they are not convinced that managed networks are secure
+enough for their sensitive data. Most of the banks use their jointly-owned
+body, Swift, to perform their major network functions.
+As banking becomes less of a retail chain and more of a network application,
+the banks are increasingly concerned about the ability of other network
+providers to come into their market. They may therefore try to become
+network providers themselves. That already seems to be starting to happen at
+some of the top European banks.
+Both service providers and those who intend to build their own global
+networks face some big technical challenges in keeping up with users'
+demands. Most companies have allowed their networks to grow in a piecemeal
+manner and have managed them only by firefighting problems as they occur
+rather than by proper planning.
+Mr Watts believes that part of the solution to global network problems will
+lie in the new technologies of Frame Relay and Asynchronous Transfer Mode.
+Frame Relay promises to overcome the restriction on throughput of
+packet-switched data networks based on the Consultative Committee for
+International Telephony and Telegraphy X25 standard. It is starting to be
+seen as a cost-effective solution by US multinationals, but European
+companies have yet to be persuaded of its advantages. However, Frame Relay
+still needs more monitoring and diagnostics features to be able to deliver
+substantial benefits to users.
+ATM is seen as the next step after Frame Relay in increasing the rate of
+data transfer and integrating local and wide area networks. US
+multinationals are starting to investigate ways of adopting ATM as a future
+backbone technology for achieving a higher still throughput of data.
+Frame Relay and ATM may be the key to providing the increased bandwidth
+which global companies will require for multimedia applications involving
+image transmission. They appear to be well suited to users who need to
+transmit very large files of data in short bursts to remote sites.
+Competition for global customers will become intense in the next few years.
+Last month AT&T launched a service in the Asia Pacific region called
+'Worldsource'. It has created a set of partnerships with telecommunications
+companies in other countries.
+BT's recent announcement that it will take a 20 per cent stake in AT&T's
+rival MCI points in the same direction. Others will seek to do the same to
+get a share of the growing market in international voice and data
+communications.
+
+The Financial Times
+
+
+London Page III
+
+930629
+

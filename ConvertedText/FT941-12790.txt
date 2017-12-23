@@ -1,0 +1,27 @@
+FT941-12790
+
+FT  28 JAN 94 / Technology (Worth Watching): Fingerprint system may aid
+banks
+
+
+   By DELLA BRADSHAW
+
+
+As a result of the rise in crimes related to credit card fraud and false
+money transactions, banks and other financial institutions are looking at
+improved means of recognising card holders - such as fingerprint
+recognition.
+Japanese electronics manufacturer NEC is launching a fingerprint recognition
+system in Europe and the US that could help in the fight against crime.
+The Unix-based automated fingerprint recognition system matches the
+fingerprints to those held on file. Prices start from Pounds 133,000 for a
+system which stores fingerprints from 50,000 people. NEC: Japan, 03 3454
+111; UK, 071 353 4383.
+
+The Financial Times
+
+
+London Page 14
+
+940128
+

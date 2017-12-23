@@ -1,0 +1,160 @@
+FT924-6470
+
+FT  20 NOV 92 / Survey of Home Entertainment 4: Two new formats prepare for
+battle - Audio
+
+
+   By PAUL TAYLOR
+
+
+THE introduction of two new digital audio formats in Europe this autumn has
+set the stage for another classic consumer electronics battle - this time in
+the portable audio market.
+Since the introduction of the Sony Walkman 13 years ago, the portable audio
+market has been dominated by the analogue cassette tape. But while
+Walkman-style personal stereos and other portable cassette players have
+conditioned consumers to expect go-anywhere, mostly trouble-free music, the
+digital Compact Disc player has raised sound quality expectations
+significantly.
+In an attempt to provide portability with high definition digital sound
+quality, new formats such as Sony's Digital Audio Tape (DAT) have been
+introduced, but have not proved a great commercial success, and standard CD
+players have been shrunk in size but have mostly proved too sensitive to
+movement.
+So far none of these options has seriously challenged the conventional
+cassette tape which remains the most popular format for pre-recorded music.
+Recently, however, there have been some signs that dissatisfaction with the
+sound quality, durability and appearance of cassette tapes may be growing.
+Sales of pre-recorded cassette tapes peaked in 1989 but fell by 11.5 per
+cent in 1990 and slipped again last year when 1.3bn pre-recorded cassettes
+were sold worldwide compared to 1.1bn compact discs, according to the
+London-based International Federation of the Phonographic Industry. This
+year the IFPI is predicting that compact disc sales will overtake cassette
+tape sales.
+Consumer electronics companies believe that with pre-recorded cassette tape
+sales slipping, the market for portable audio equipment built around
+conventional tape players, estimated to be worth nearly Dollars 10bn in the
+leading industrialised nations alone, could be at risk. This helps to
+explain the determined effort which is now underway to define a new digital
+standard for the portable audio market.
+Leading the assault are Philips, the Dutch consumer electronics group, and
+Japan's Matsushita, with the Digital Compact Cassette (DCC), and Sony with
+the rival 2.5-inch MiniDisc (MD) - a scaled-down and re-engineered version
+of the conventional compact disc.
+The two new formats have many similarities and technically are fairly well
+matched. However there are also some significant differences. Both the DCC
+and the MiniDisc promise to deliver crisp, clear CD-quality portable digital
+sound, without annoying 'sound skipping', the jogs and jumps that can occur
+with conventional portable CD players.
+Both formats can also be used to record CD-quality sound, although
+sophisticated electronics have been built into the players to ensure that
+only one copy of digital source, such as a CD, can be made. An extra track
+on a DCC tape holds pages of text in a teletext-style form. This can be used
+to provide a biography of the composer, album title, song title and artist -
+or even display Karaoke-style synchronised lyrics on a TV screen, or on the
+LCD display of a remote control.
+The DCC tape and the MD are both enclosed in protective cases for easier
+portability, and both players achieve miniaturisation by using new
+technology to compress digital data.
+Probably the main advantage of DCC equipment is that it can also play a
+traditional cassette tape, which means the music enthusiast will not have to
+abandon old cassette tapes. Philips sees DCC as eventually replacing the
+conventional cassette tape. However, this also means DCC players will never
+be smaller than the smallest Walkman-style machine.
+Sony's MiniDisc player is smaller, giving it an edge in terms of
+portability, and has the ability to skip from any one track to another very
+rapidly, like an ordinary CD. Sony believe this random access feature is
+something customers want more than backwards compatibility with earlier
+portable formats - the Japanese group points out that standard CDs have
+largely replaced the vinyl LP even though the two formats are wholly
+incompatible.
+Initially prices for equipment capable of playing the new formats are likely
+to be considerably higher than those for conventional audio cassette
+players. But the basic digital technology has been proven and tested in
+earlier CD players and prices should fall quickly as volumes rise.
+Similarly, the new digital tapes and MiniDiscs will retail at prices similar
+to existing CDs - prices which are themselves coming under increasing
+scrutiny in Britain.
+Sir Bryan Carsberg, the new director-general of Fair Trading, has ordered a
+fresh investigation into why CD prices in the UK are so high even though an
+earlier 15-month study undertaken by Sir Bryan's predecessor found no
+evidence that record companies were breaching competition law.
+Some analysts believe the two new digital formats will both be able to
+coexist, but most within the industry believe that, as with most other
+consumer electronic devices such as video, there is likely to be only one
+winner.
+Which of the two formats does emerge as the most successful probably depends
+as much on marketing as anything else. Both DCC and MD offer significant
+technical advantages over earlier formats but, as Sony's Betamax video
+format proved a decade ago, technical superiority does not itself guarantee
+success.
+The early availability of 'software' in the form of pre-recorded music could
+also prove critical in the battle for supremacy, and in theory the DCC camp
+should have had a key advantage because the format was formally launched
+last month, well ahead of Sony's MD players.
+Philips had said there would be about 500 titles ready for the October
+launch in the UK, but in the event delays meant that, as in Japan, the
+hardware went on sale before the tapes. Nevertheless, Philips, which is
+spending Pounds 2m in Britain alone on a pre-Christmas advertising blitz to
+promote DCC, has forecast that despite the initial hiccup, more than 1,000
+titles from most of the big international record companies supporting DCC
+will be on sale by the end of the year.
+For both Philips and Sony, the stakes in the portable digital audio battle
+have been raised even higher by the business difficulties they currently
+face. Philips is in the middle of a group-wide restructuring programme aimed
+at slimming operations and raising efficiency and profitability while
+operating profits from Sony's worldwide consumer electronics business fell
+sharply last year.
+Both companies are therefore in dire need of a new hit product. But while
+the hardware battle between DCC and MC digital formats is likely to dominate
+the portable consumer electronics industry in the immediate future, other
+methods of delivering digital-quality sound could herald an even bigger
+shake-up in the delivery of high-quality digital music by the late 1990s.
+The arrival of digital audio broadcasts (DAB), which is being pioneered in
+Europe, could enable consumers equipped with suitable receiving equipment
+and a digital recording device like DCC or MD equipment to make their own
+CD-quality recordings direct from the airwaves.
+DAB has several key advantages over conventional analogue broadcasting such
+as FM radio. The main benefit is that the high quality sound of DAB, unlike
+conventional FM radio, is effectively free from interference and provides
+excellent reception even when the receiver is mobile. DAB also eliminates
+the problem of having to re-tune car radios because, unlike conventional
+radio, separate transmitters can broadcast on the same frequency.
+A further important advantage of DAB is that it occupies relatively little
+space on the radio spectrum. By packing broadcast information tightly
+together DAB can provide a six-fold improvement in spectrum efficiency over
+FM. That means it is possible to increase the number of radio stations
+without congesting the radio waves. While each FM network needs 2.2
+megahertz of spectrum to provide coverage to 98 per cent of the UK
+population, a DAB service could pack five national stereo channels in 1.75
+MHz.
+To use DAB, consumers will need to buy a new type of programmable digital
+radio built on computer chip technology. Although the cost of these new
+digital radios will initially be higher than conventional receivers, there
+are an estimated 2bn radios currently in use around the world and
+manufacturers could therefore look forward to a huge replacement market, and
+very significant economies of scale.
+In Europe, digital radio systems are being tested in France, Germany and
+Britain where the UK government has signalled its support for DAB and urged
+UK manufacturers to be first into the market. NHK, the Japanese public
+broadcaster, has also hailed the European DAB system. The prospects seem
+less rosy in the US, however, where small regional radio stations are
+resisting the introduction of expensive new technology.
+In Europe it is likely that frequency bands generally used by television
+will be opened up as temporary 'parking' bands for terrestrial DAB services
+to be run in parallel with FM until sufficient receivers have been installed
+to make the full switch from FM to digital services. In the UK, the first
+DAB car radios are expected to be introduced as early as 1995, with other
+sets likely two years later.
+However, as with the fierce debate which preceded the launch of the new
+digital recording formats, the thorny issue of copyright protection for
+music distributed over DAB or cable systems, and then copied on to tape or
+disc by subscribers, has yet to be addressed.
+
+The Financial Times
+
+
+London Page IV
+
+921120
+

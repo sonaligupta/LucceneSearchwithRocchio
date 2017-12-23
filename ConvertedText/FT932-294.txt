@@ -1,0 +1,104 @@
+FT932-294
+
+FT  29 JUN 93 / Survey of Computer Networking (7): The prize groupware
+delivers - The effect is of gathering what everyone in a team knows in one
+room
+
+
+   By MICHAEL DEMPSEY
+
+
+Groupware - software that runs across a network, co-ordinating the work of
+individuals within a team - is the current buzzword in PC-based computing.
+Regardless of distance, each member's files are constantly and
+simultaneously updated. Groupware reproduces electronically the effect of
+putting everyone together in the one room.
+It is impossible to discuss groupware without studying Lotus Notes. With
+500,000 licences sold worldwide, Notes has defined the groupware market. But
+the phenomenal success of Notes has obscured some networking issues. Until
+the very latest release, each sub-set of up to 50 users required a dedicated
+PC server running IBM's OS/2 operating system. This is not the first choice
+of many network developers, who have to wait until later this year for the
+Unix operating system release.
+And while Notes has flown the banner of groupware, the idea of a
+constellation of users hanging off a network but working to a common goal
+has been around for a very long time. Intergraph, a manu- facturer of
+engineering work- stations, has been selling a file-sharing facility called
+Microstation for seven years. At Pounds 3,000 a licence, Micro- station is
+targeted firmly at engineering professionals.
+Microstation allows architects, structural engineers and cabling planners on
+a construction project to view each other's files as the building
+progresses. Running under Unix, Dos and Microsoft Windows operating environ-
+ments, Microstation is more flexible in networking options than Notes.
+The UK arm of international engineering firm Ralph M. Parsons uses
+Microstation to co-ordinate work on designing chemical processing plants. Mr
+Brian Dowling, head of computer integrated eng- ineering at Parsons in
+Brentford, West London, explains that a formidable array of protocols is
+employed in the company local area network.
+With traditional PC Lans such as Ethernet, market standard network software
+from Novell and Unix Lan programs, Parsons can only use groupware that will
+run happily over a multi-protocol network. For the time being, that rules
+out Notes.
+So if groupware was propelled to prominence by Notes, the idea, if not the
+buzzword, already existed. Mr Dowling says he already has 'the ability to
+overlay another design file on top of your desk file, allowing team members
+to see layers of information.' Netware is IT industry jargon to describe
+such products as Microstation.
+With a spectacular sales curve, Notes has attracted keen supporters. What
+Notes has done, say its adherents, is cut out a significant amount of
+unnecessary data duplication on networks.
+Mr Jim Chapman is the managing director of Triangle, a Bournemouth-based
+systems house that specialises in Lans. Installing Notes at Triangle has led
+to significant savings, he says. By pushing files across the network,
+constantly saving and relabelling, conventional Lans absorb huge amounts of
+data storage space, he argues. Notes is far more economical in that it keeps
+the one file running, and does not waste space by applying a number of
+formats to files.
+'Networks encourage file replication, they become data dustbins. Notes
+compresses data, strips out the formating and rubbish that other products
+put onto the file.'
+Triangle needed Pounds 30,000 worth of hardware to function as a network
+engine on its own Lan before Notes arrived. Mr Chapman boasts that the data
+economy of Notes means he can run the network off Pounds 6,000 worth of
+equipment. In a 60-strong company that is a significant saving. Triangle now
+sells Notes licences.
+Notes can cut back on one aspect of network costs. It offers every user the
+chance to write applications. This is a big step in terms of user-
+friendliness and decentralising power. But it can encourage staff to waste
+time and resources.
+Mr Michael Chapman Pincher organises the Lotus Notes User Group and has
+implemented Notes at SMI, his North London marketing services group. He
+warns that user enthusiasm can prove wasteful. 'Most Notes sites are
+graveyards of applications that died because they were found to be
+unusable.'
+However, in the present- ation-orientated world of marketing Notes has
+proved vital. 'For a paper based information organisation like SMI, it has
+become a valuable business asset because it's so easy to lose track as the
+draft of a proposal progresses.'
+Saunders Sobell is a London law firm with a mission to prise paper out of
+the lawyers' hands. The idea is to put every step of casework on a network
+of PCs and tie the work process together. Computer services group ITnet has
+been appointed to handle the introduction of Notes with a Pounds 600,000
+contract. This involves installing a Lan and ensuring that Notes takes over
+the legal paper mountain.
+Mr Jeffrey Tyrrell is IT partner at Saunders and his job is to make sure the
+network's 130 users are steered away from group- ware's profligate tendency.
+All working applications will reside on desktop PCs while a 486-based server
+is dedicated to handling network traffic. 'We're configuring the network so
+it's difficult for people to come out of Notes. We don't want them going
+away and fiddling in other parts of the system.'
+Mr Tyrrell harbours no illusions about a paperless Law firm. 'I think
+lawyers are wedded to paper.' But he sees the potential for a well- planned
+Lan running groupware. 'What's exciting is being able to exchange so much
+information,' he says. 'Law is about selling knowledge, but until now that's
+been locked up in the minds of staff around the building.'
+With groupware at hand, the computer network may be about to deliver a
+powerful prize.
+
+The Financial Times
+
+
+London Page IV
+
+930629
+

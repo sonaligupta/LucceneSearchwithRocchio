@@ -1,0 +1,74 @@
+FT944-11064
+
+FT  08 NOV 94 / Leading Article: Three weddings and a puzzle
+
+
+Joint ventures between electronics companies are proliferating almost as
+fast as the varieties of services and equipment they sell. What is going on?
+Yesterday Siemens of Germany announced that it was teaming up with the
+US-based Scientific Atlanta and Sun Microsystems to develop and market
+technology for distributing telephone and information services. The US
+telecommunications industry is also humming with talk that AT&T and the UK's
+Cable & Wireless will try together to create a national US network for
+mobile telephony.
+Meanwhile, in a further round of the uneasy three-year partnership between
+IBM and Apple Computer, the two companies yesterday at last announced plans
+together with Motorola for a common computer design.
+The impetus for such partnerships comes from the communications and
+computing revolution and the explosion in the range of services offered to
+households and businesses. This has been made possible by telecommunications
+deregulation in many industrialised countries. But it is also driven by
+technological change: the increase in the carrying capacity of channels, and
+the emergence of new computer chips able to process much greater volumes of
+data.
+In this maelstrom, companies are battling to get their products established
+as the standard with consumers and with designers of peripheral equipment.
+The key to making money in the high-volume segments of electronics has
+always been the ownership of intellectual property, whether the design of
+hardware or software, when that configuration is adopted as the industry
+standard.
+Equipment standards
+In Siemens' case, it hopes that its US partnerships will set the standard
+for the equipment now being bought by cable operators and telephone
+companies to deliver the new multi-media services.
+The mooted link-up between AT&T and C&W has its eye on the new federal
+licences to be allocated by the Federal Communications Commission for
+'personal communications services' such as mobile telephony. Such a
+partnership would be able to build a network offering a common brand image
+and 'seamless' communications from region to region out of what would
+otherwise be hundreds of small firms operating with different equipment.
+Such hopes are clearly better pursued through joint ventures than through
+takeovers, even where regulation permits. Speed is essential in securing
+competitive advantage in such conditions, and the products concerned are
+often only part of a company's range, hardly warranting a full corporate
+merger. But such joint ventures need not be anti-competitive. They may
+instead prove the only way through which an existing industry standard can
+be challenged and bettered.
+Industry dominance
+Such is the case with the alliance between IBM, Apple and Motorola, formed
+to reinvent the personal computer and to overthrow the industry dominance of
+Intel and Microsoft. The three have had every incentive to make the
+relationship work: the window for attacking Intel-Microsoft is wider than it
+has been for years, as the Intel chip design faces more competition, and the
+next version of Windows will not be launched until well into 1995.
+But competitive breakthrough has proved elusive so far. Even if the trio
+develops compatible hardware, it has not yet produced common software which
+would let programmes run on computers designed by either IBM or Apple.
+The reasons for the tensions shed light on the difficulties of many such
+alliances in electronics. IBM and Apple have each believed that it has the
+better ideas, both on hardware and software; each has been unwilling to
+surrender independent research and development, let alone marketing. It is
+an uncomfortable portrait of a marriage in which rivalry has triumphed over
+common interest.
+They may regret it. The opportunities available in electronics worldwide to
+secure a competitive lead are unlikely to recur for years. Those companies
+that form well-judged partnerships, and have the cultural flexibility to
+enable them to succeed, are likely to prove the winners.
+
+The Financial Times
+
+
+London Page 17
+
+941108
+

@@ -1,0 +1,116 @@
+FT924-6471
+
+FT  20 NOV 92 / Survey of Home Entertainment (4): Chicken-and-egg problems -
+Television
+
+
+   By MICHIYO NAKAMOTO
+
+
+It has been some time since the invention of colour television created a
+sensation in the consumer electronics world and sent many television
+enthusiasts out to buy new TV sets.
+TV manufacturers are hoping that a new sensation will be created by what is
+the hottest topic today in the market for television sets: wide-screen high
+definition TV.
+Compared with box-shaped conventional TV sets, wide-screen TVs, as the name
+implies, have screens that are wider than they are high. The aspect ratio,
+or the relationship between width and height is 16:9 compared with 4:3 for
+conventional TVs.
+The advantage of the wide-screen format, according to manufacturers, is that
+it is visually more powerful and provides cinema-quality viewing.
+Our field of vision, according to Philips, the Dutch consumer electronics
+group which has been heavily promoting wide-screen TV, actually encompasses
+more horizontal information than vertical information and therefore
+wide-screen is closer to our natural view of things.
+Whether or not this is true, the enthusiasm for wide-screen TV in the
+industry has yet to see equivalent excitement among consumers who have been
+rather muted in their response.
+This is hardly surprising because as yet there are no programmes broadcast
+in the UK in the 16:9 format. Consumers who buy wide-screen sets must be
+content with zooming up conventional TV pictures to fill in the screen or
+make do with pictures with black bands on the sides that make up the extra
+width in the wide-screen format.
+Broadcasters are naturally wary of introducing a new format for which the
+majority of consumers do not have an appropriate receiver.
+The same chicken-and-egg situation faces full High Definition TV (HDTV)
+which has been hailed as the television event of the decade, if not of the
+twenty-first century.
+While HDTV has only been introduced in Japan where NHK, the public
+broadcasting corporation, is transmitting a few hours of high definition
+programming each week, the response has been just as muted as for
+wide-screen TV.
+The problem in the case of the Japanese HDTV project is that the cost of
+HDTV sets, at several thousand dollars each, is still much higher than what
+Japanese consumers are willing to bear in order to enjoy better quality
+pictures.
+Europe, meanwhile, faces an entirely different set of obstacles in
+introducing its HDTV programme, which was somewhat belatedly launched in
+response to the Japanese challenge.
+The first obstacle concerns subsidies for satellite TV broadcasters who will
+presumably be beaming HDTV programmes based on the European D2-MAC and
+HD-MAC standard into viewers's homes. Terrestrial broadcasts will use a
+modified standard called PAL-Plus.
+HDTV is not being introduced in Europe until 1994 at the earliest. However,
+Europe's HDTV programme has been stalled by failure among European nations
+to agree to help broadcasters make the transition from conventional PAL
+broadcasts to the new standard.
+The European Commission, which is leading an EC-wide HDTV effort, has
+recognised that the new standard is unlikely to attract consumers unless
+there is sufficient programming available. It has therefore attempted to
+obtain European Community agreement on an Ecu850m subsidy for satellite
+broadcasters, to solve the chicken-and-egg dilemma. Once the programmes are
+in place, with the help of the subsidy, it reckons demand for HDTV sets
+should surge.
+Not only are broadcasters divided over the merits of the subsidy, but there
+is disagreement among Community members as to the necessary level of
+subsidy, with the UK telling the EC Telecommunications Council this summer
+that it does not see the need for a subsidy at all.
+Mr Edward Leigh, Britain's technology minister, said that while the UK
+supported development of HDTV, 'it totally opposed the EC's proposal' to
+spend Ecu850m on it.
+The second obstacle to HDTV in Europe has to do with the HDTV sets
+themselves.
+The unfortunate thing about Europe's HDTV programme is that in order for
+HD-MAC, the standard agreed within the EC, to provide the better quality
+pictures that it is supposed to, the TV set has to be fairly large.
+The picture quality of a 36-inch HDTV may make it worth the cost to the
+consumer of switching over to a new set but that would not be true of a
+21-inch set, which is the most popular size in the UK, or even the slightly
+larger TVs favoured in continental Europe.
+The problem, however, is that even if the better quality of HDTV managed to
+raise enthusiasm for larger-sized TVs, these would be extremely heavy, due
+to the weight of the glass used on the screen. What's more, full enjoyment
+of HDTV quality depends on sitting a certain distance away from the TV set,
+and the larger the set the further away viewers should be seated.
+While HDTV has been hailed as bringing cinema-like viewing to the living
+room, it is evident that not very many living rooms could accommodate such a
+massive piece of equipment as well as provide the required distance between
+viewer and TV.
+To add to Japan and Europe's HDTV woes, the US has opted to adopt a digital
+advanced television system which would be fundamentally different from
+either Japan's or Europe's analogue HDTV standards.
+The US initiative affects the two other regions in that it has led to cries,
+particularly in Europe, that they should abandon their somewhat outdated
+HDTV standards and follow the US lead in going digital.
+Digital HDTV would, in addition to providing enhanced picture quality,
+enable viewers to receive many more programmes than would be available on an
+analogue system. It would also allow viewers to manipulate programmes and
+other information they receive via the television and could even allow
+interaction between viewer and broadcaster by creating a two-way information
+flow.
+The US digital television initiative also provides an important opportunity
+to form a worldwide television standard that has eluded consumers as a
+result of reluctance on the part of one region or another to adopt a
+standard that was developed elsewhere.
+If Japan and Europe adopted the digital standard that the US eventually opts
+for, that would at least be one way in which electronics could bring a large
+number of people in the world a little closer together.
+
+The Financial Times
+
+
+London Page II
+
+921120
+

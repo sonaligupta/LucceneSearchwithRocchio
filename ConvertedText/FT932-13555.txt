@@ -1,0 +1,111 @@
+FT932-13555
+
+FT  22 APR 93 / Survey of Pharmaceuticals, Research and Development (2):
+Programmed to make medicines - How scientists are using computers to design
+drugs
+
+
+   By CLIVE COOKSON
+
+
+PATIENTS in Newcastle-upon-Tyne in northern England, who started therapy
+with the experimental cancer medicine AG-337 last October, are taking part
+in what is believed to be the first clinical trial of a drug designed
+entirely by computer, from first conception to final molecular structure.
+AG-337 is being tested by the UK Cancer Research Campaign on behalf of
+Agouron Pharmaceuticals, based in California - one of a small group of young
+companies whose main aim is to design drugs by computer. Others include
+Vertex Pharmaceuticals of Massachusetts, BioNumerik Pharmaceuticals of
+Minnesota and Proteus International, based in the north of England.
+All pharmaceutical groups use computers in drug discovery. The principle, in
+brief, is to produce a model of a particular target - say, a receptor on a
+cell surface - and then design a molecule to fit it as well as possible,
+without causing side-effects by interacting with other sites elsewhere in
+the body.
+But the established companies use molecular modelling as an adjunct to more
+traditional methods of screening and chemical synthesis. Their researchers
+usually know roughly what sort of molecule they are looking for; they use
+the computer to perfect its structure.
+'The hardest step in molecular design is the first one: getting an initial
+compound to work on,' says Mr Peter Johnson, chief executive of Agouron.
+'AG-337 was designed out of the heads of chemists trying out ideas on the
+computer, with no prior starting points.'
+In its anti-cancer programme, Agouron is concentrating on what its
+researchers knew was a viable target: an enzyme, thymidylate synthase (TS),
+that is required for rapid cell proliferation. An existing cancer drug,
+5-fluorouracil, works by inhibiting TS but its use is limited by toxic
+side-effects.
+As a prelude to molecular modelling, Agouron researchers used an expensive
+and painstaking physical process called X-ray crystallography to obtain
+three-dimensional images of TS. Then they began to design new molecules
+capable of jamming the enzyme's activity by inserting themselves into a
+crevice in its structure.
+The first exercise was to re-engineer an existing TS inhibitor whose kidney
+toxicity had ruled out its clinical application. After the Agouron
+researchers had removed the portion of the molecule responsible for its
+toxicity, the cut-down compound was 1,000 times less potent at binding TS.
+But through repeated cycles of design, synthesis, analysis and redesign -
+driven by crystallographic snapshots of drug candidates interacting with TS
+ -the researchers succeeded in restoring the original drug's binding power,
+without its toxicity. This compound (AG-85) is in clinical trials in
+California.
+Then the Agouron team took the more radical step of designing from first
+principles two TS inhibitors with no chemical precedents. Through a series
+of design cycles, the scientists were again able to improve the potency of
+the initial prototypes a thousandfold. Both drugs (AG-337 and AG-331) are
+now beginning clinical trials.
+Agouron's 16-strong protein crystallography group plays a crucial role in
+the molecular design process. 'It's not a static system; both the drug
+molecule and the protein undergo conformational changes,' says Mr Johnson.
+'You have to re-solve the structure every time with a new molecule attached
+to it. We have re-solved the structure of TS about 100 times'.
+Indeed, the cost and time required to obtain high-resolution X-ray images is
+a serious constraint for all molecular design teams. And, as Professor Barry
+Robson, science director of Proteus, points out, 'X-ray pictures can be
+seriously misleading. If you are working with a very mobile molecule such as
+LHRH (a hormone involved in controlling fertility and in fighting cancer)
+you have to be very careful to match its movements with your drug.'
+For large biological molecules such as antibodies, X-ray crystallography is
+even more difficult and time-consuming. Indeed, Professor Tony Rees of Bath
+University says the world's crystallographers publish only two or three
+antibody structures a year and 'there are only 14 structures in the (public)
+database, compared to the 1bn structures possible in the immune system.'
+To get round the problem, Prof Rees has worked with Oxford Molecular to
+produce a modelling program for antibodies of unknown structure. Starting
+with the primary (amino acid) sequence, the AbM program predicts the 3D
+structure with an accuracy that Prof Rees says is at least as good as a
+'moderate resolution X-ray structure'. This is good enough for a
+pharmaceutical company that needs to design a 'humanised antibody' from a
+mouse antibody.
+Although what really matters in molecular design is the computational
+software and hardware behind the computer screens, 'visualisation is
+extremely important,' says Mr Johnson of Agouron. 'I've been in the field
+long enough to remember what it was like without any graphics, when you just
+had wire models of a protein. The visual image gives you real insight.'
+Agouron has a molecular auditorium at its San Diego headquarters, in which
+30 to 40 people can see 3D molecular images on a big screen.
+Soon, drug designers will be able to use virtual reality technology to work
+from inside those 3D images. VR helmets will give the illusion of walking
+through the screen of a graphics computer and being surrounded by molecules.
+It will be possible to pick up images of atoms and rearrange them in new
+chemical patterns by moving the head and manipulating a hand-held device.
+A prototype system - the result of a joint project by York University,
+Glaxo, IBM and specialist VR developer Division - was unveiled last year.
+'The sheer quality of change that you experience as you move into three
+dimensions is difficult to describe,' said project director Dr Rod Hubbard
+of York University. 'Even though the image you see in VR is still crude
+compared with the high-resolution computer graphics we normally use, this is
+in many ways compensated by being able both to move easily around the image
+and to interact directly with the molecular model through natural head and
+arm movements.'
+Eventually, said Dr Peter Murray-Rust of Glaxo, scientists might be able to
+'experience' biological molecules such as proteins instead of having to
+'learn' them from two-dimensional books.
+
+The Financial Times
+
+
+London Page 38
+
+930422
+

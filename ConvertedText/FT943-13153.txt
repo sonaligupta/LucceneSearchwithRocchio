@@ -1,0 +1,61 @@
+FT943-13153
+
+FT  21 JUL 94 / International Capital Markets: CBoT and Liffe consider
+linking after-hours trade - Derivatives
+
+
+   By TRACY CORRIGAN
+
+
+The pattern of alliances between the world's futures exchanges shifted once
+again yesterday. The Chicago Board of Trade and the London International
+Financial Futures & Options Exchange, largest and third-largest exchanges,
+said they would explore the feasibility of linking their after-hours
+electronic trading systems.
+The two exchanges were known to be looking at ways to join forces, after
+both turned their backs on Globex, the electronic trading system developed
+by Reuters.
+Although Globex has achieved disappointing volume, relying mainly on
+after-hours trading the Matif French futures exchange, it does command an
+impressive grouping of bond contracts.
+Since Liffe decided not to join the system, mainly because of concerns about
+restrictions on other commercial links, and the CBoT, one of the original
+backers of the project, pulled out earlier this year, Globex has attracted
+Germany's Deutsche Terminborse to join the Matif and the Chicago Mercantile
+Exchange. The Matif and the DTB have agreed to link their day-time trading.
+The CBoT has an agreement in principle with Bloomberg which would give users
+with Bloomberg terminals access to its products.
+The growing number of strategic alliances between futures exchanges has
+raised the stakes for Liffe and the CBoT - both have a number of failed
+efforts behind them. But the technical feasibility still has to be explored.
+It involves linking two after-hours systems, Liffe's APT and the CBoT's
+Project A, which have certain similarities - both are open workstation-based
+systems - but some important differences.
+Users would have to be trained on both systems, which could be accessed on
+the same workstation, but through different windows. The APT system
+replicates trading in the futures pits, while Project A is a trade-matching
+system.
+'We are optimistic that it can be done,' said Mr Phil Bruce, director of
+strategic business development at Liffe. He hopes the technical study will
+be concluded by the end of this year, and a live system would be implemented
+in 1995.
+Unlike Globex, the agreement would allow each exchange to retain 'complete
+control of its own contracts', according to the CBoT. Clearing would be
+provided by the Board of Trade Clearing Corporation for CBoT contracts and
+the London Clearing House for Liffe products.
+While the Liffe/CBoT link and Globex are part of the same trend, the
+potential rivalry between the two systems should not be exaggerated. For the
+most part, they will trade different products. The only direct competition
+would be for business in bund futures, and perhaps short-term German
+interest rate futures, listed on both the DTB and Liffe.
+Nevertheless, the move is not good news for Globex, which is left with a
+smaller array of products than it might have hoped for, in a market which is
+cynical about the scope for global trading.
+
+The Financial Times
+
+
+London Page 30
+
+940721
+

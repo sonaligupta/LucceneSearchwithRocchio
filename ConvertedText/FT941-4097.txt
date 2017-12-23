@@ -1,0 +1,90 @@
+FT941-4097
+
+FT  12 MAR 94 / Markets: Investors who live on borrowed time - Serious Money
+
+
+   By GILLIAN O'CONNOR, Personal Finance Editor
+
+
+Investing with borrowed money is the kind of activity you associate with
+hedge funds run by professional traders such as George Soros. No prudent
+private investor would do it - would he?
+Individual investors, however, are soon to be actively encouraged to trade
+on borrowed money. And the people doing the encouraging are the governor of
+the Bank of England and the chairman of the London Stock Exchange. Not, of
+course, that these guardians of financial rectitude are setting out
+deliberately to turn Britain into a nation of speculators. It is just a
+by-product of their plans for a re-vamped stock market settlement system.
+The Bank's proposals for an electronic system, known as Crest, have the
+needs of large institutional investors in mind. Private investors are an
+afterthought, at best. And the new system - whatever its overall merits -
+will be generally bad for individuals. Their biggest gripe has been that
+Crest virtually forces them to put their shares into 'nominee accounts'
+which deprive them of some of their traditional shareholders' rights - such
+as getting company documents and going to meetings.
+Far less attention has been paid to the imminent introduction of margin
+trading - investing in the stock market using borrowed money. This has long
+been common practice in the US and in futures markets worldwide but, until
+now, the UK stock market has worked on a peculiar system. All deals done by
+an individual investor within a certain account period, usually a fortnight,
+are netted out and settled six working days after the end of that period.
+In July, the account system will be replaced by something called rolling
+settlement under which each deal will be settled a certain number of days
+after the actual bargain is struck - initially 10 but, eventually, five or
+even three. There will not be time for investors to settle up within the
+deadline. They will have two choices: either they keep substantial funds
+with their broker or they open a margin account.
+This means either that you put up a certain proportion of the cash you will
+need for a share purchase and borrow the rest from your broker, or that you
+pledge some of your existing shares to your broker as security against new
+purchases - and borrow the rest of the purchase costs.
+If, for example, you had a portfolio worth Pounds 50,000, you might be able
+to borrow Pounds 25,000 for new purchases. But if the price of your shares
+fell, your margin could fall below the agreed level and you would find your
+broker making a margin call - in other words, asking you to top up your
+deposit.
+Here is a lucid exposition of how margin trading can oil the wheels of the
+stock market mechanism. 'In the stock market, the buyer of securities on
+margin gets full title to his property in an unconditional sale. But he rids
+himself of the most grievous burden of ownership - that of putting up the
+purchase price - by leaving his securities with his broker as collateral for
+the loan that paid for them. The buyer . . . gets the full benefit of any
+increase in value - the price of the securities goes up, but the loan that
+bought them does not . . .
+'The machinery by which Wall Street separates the opportunity to speculate
+from the unwanted returns and burdens of ownership is ingenious, precise and
+almost beautiful. Banks supply funds to brokers, brokers to customers, and
+the collateral goes back to banks in a smooth and all but automatic flow . .
+. Margins are effortlessly calculated and watched.'
+It all sounds very efficient. But what is a touch worrying is that the
+quotation comes from Professor JK Galbraith's classic book, The Great Crash
+1929*. It describes in pitiless detail how margin trading eased the wheels
+of the Wall Street boom and prepared the way for the bust.
+When share prices started to fall, margin calls volleyed forth but, all too
+often, went unanswered - because the investors, quite rapidly, ran out of
+real money. Wall Street encountered the problem of 'negative equity' long
+before British home-owners.
+Of course, margin trading does not always have such tragic consequences. The
+system flourishes in New York today without spreading routine financial
+devastation. But, in the United States, margin requirements are controlled
+tightly by the central bank. As yet, both the Bank of England and the London
+Stock Exchange seem to be shrugging off all responsibility for margins.
+Let us not exaggerate. Reckless trading on margins is likely to be a
+minority problem. But it is ironic that the Bank is partly responsible for
+introducing a potentially explosive system into this country.
+Tax collectors have long ranked with pharisees and sinners as legitimate
+popular hate objects. And avoiding paying unnecessary tax is almost a sport
+among the investing classes. Early spring is the peak season for this.
+Taxation phobia can become dangerous, however, if investors start choosing
+investments purely because they are tax-effective. For example, many people
+who went into business expansion schemes to enjoy the 40 per cent tax relief
+ended up with a worthless investment. Be warned.
+*The Great Crash 1929, by John Kenneth Galbraith (Penguin).
+
+The Financial Times
+
+
+London Page II
+
+940312
+

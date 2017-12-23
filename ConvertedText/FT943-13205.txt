@@ -1,0 +1,35 @@
+FT943-13205
+
+FT  21 JUL 94 / The Lex Column: Futures trading
+
+
+The battle lines in global futures trading are being drawn. In one camp are
+the Chicago Board of Trade and London's Liffe. Yesterday they agreed to
+explore linking their electronic out-of-hours trading systems. In the other
+camp is Globex - an alliance embracing the Chicago Mercantile Exchange,
+Germany's DTB and France's Matif as well as Reuters, the financial
+information group. The two groups have rather different visions. CBOT and
+Liffe, reflecting their positions as the largest exchanges in their
+respective time zones, understandably do not wish to lose control of their
+futures contracts to rival exchanges. As a result, they favour loose
+bilateral alliances. Both are also committed to the system of open outcry.
+So electronic trading is envisaged mainly as a way of extending their
+services outside normal opening hours.
+Globex is a tighter alliance, requiring a greater degree of commitment from
+its members. That is one of the reasons CBOT left it earlier in the year and
+Liffe refused to join. Electronic trading also plays a more central role,
+with Globex ultimately envisaged as a round-the-clock system.
+In the medium term, both approaches can coexist. The only contract over
+which there is serious competition is the bund future. Moreover, Globex's
+slow start shows that global futures trading will not develop quickly. But a
+fully screen-based trading system looks like the more cost-effective option
+in the long run. If so, open outcry could find itself consigned to history
+in the way face-to-face share trading was in the 1980s.
+
+The Financial Times
+
+
+London Page 22
+
+940721
+

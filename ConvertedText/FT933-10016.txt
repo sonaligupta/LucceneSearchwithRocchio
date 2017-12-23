@@ -1,0 +1,107 @@
+FT933-10016
+
+FT  06 AUG 93 / Technology: A new breed looms large - Waterjet weaving is
+bringing greater speed and efficiency to the textile industry
+
+
+   By DANIEL GREEN
+
+
+A new breed of weaving machine is sweeping the world of synthetic textiles
+manufacturing. It runs at four times the speed of a traditional power loom,
+reduces vibration and power consumption and increases safety and
+reliability.
+The waterjet loom, a combination of precision engineering and a great deal
+of water, is helping textile industries in developed countries keep ahead of
+low labour cost rivals which still use older technologies.
+What waterjet loom designers have done is to abandon the device that dragged
+weaving from craft to industry at the start of the industrial revolution.
+In 1733, as generations of British schoolchildren learn, John Kay invented
+the flying shuttle. Its principle is simple. To make cloth, a weaver pulls a
+horizontal yarn (the weft) across vertical yarns (the warp). Kay's invention
+was to wind the weft around a bobbin, the shuttle, and fire it like a
+slingshot to and fro across the warp. Many of the improvements in weaving
+technology since Kay's day have been in finding better ways of powering the
+bobbin across the warp.
+But the flying shuttle is based on the inelegant principle of accelerating
+and decelerating a mass of up to 400g when all that is really needed is to
+move the much lighter yarn.
+It is also ugly in practice: shuttle looms have to be built like tanks to
+cope with the stresses of firing a weight a metre or more across the weft
+and stopping it a fraction of a second later. The noise made by a shuttle
+loom and the energy that can be released if it breaks down also make it a
+health hazard.
+The idea of a shuttleless loom has been in the minds of engineers for almost
+a century. In the early days, they experimented with, among other things,
+commercial vacuum cleaners to try to push the yarn across the warp with a
+jet of air.
+An airjet loom was patented as early as 1914 and modern versions are now
+widely used, especially for weaving natural fibres.
+But air jet looms move the yarn at only one-tenth of the speed of the puff
+of air that pushes it. This limits the speed of the loom and the width of
+the cloth that can be made.
+Nor are they good at weaving wet or synthetic fibres, which are denser than
+natural fibres and resist the push of air.
+The solution is to use a jet of water instead of air. Today's waterjet looms
+are much more efficient than their airjet rivals. The yarn picks up most of
+the energy in the water and moves at about three-quarters of the speed of
+the jet of water. They can also be used with wet yarn, sometimes important
+if the yarn has just been chemically treated. Computer control and precision
+engineering allow the weft to shoot across the warp at more than 10 times a
+second.
+Such unequivocal improvements have, not surprisingly, led to a sales boom
+for the Japanese companies that developed the technology. Global sales of
+waterjet looms rose by 135 per cent between 1988 and 1992, overtaking both
+airjet and conventional shuttle looms, according to the International
+Textile Manufacturers Federation. Sales of waterjet looms now account for 30
+per cent of the world market.
+Asia is the biggest market, buying almost 95 per cent of production. This is
+partly because of relatively heavy capital investment in textiles generally
+in the region and because consumers in the US prefer natural fibre fabrics,
+which can be made by airjet looms. Sales in Europe are growing as consumers
+learn to like the latest synthetic fabrics such as microfibres, which use
+filaments as fine as silk.
+Japanese manufacturer Tsudakoma dominates the market. Brisk sales of
+waterjet looms last year allowed the company to increase profits at a time
+when many companies saw profits fall. Other suppliers are the textiles arm
+of motor manufacturer Nissan and Zbrojovka of the Czech Republic, which also
+manufactures machine guns.
+The technology has its drawbacks. When Toray, Japan's biggest textiles
+manufacturer, was looking for a site for its just-opened UK plant, it needed
+huge amounts of water to supply a mill of 265 waterjet looms. It chose
+Mansfield in Nottinghamshire, partly because it could obtain a contract with
+the National Rivers Authority to allow it to draw more than 1m tonnes of
+water a year through four boreholes beneath the Pounds 50m factory.
+For Toray, the level of automation that can be achieved with the latest
+computer-controlled waterjet looms makes the effort worthwhile. It intends
+to run the weaving section of its plant entirely unstaffed and it hopes to
+be able to switch off the lights in its weaving mill later this year.
+The performance of both airjet and waterjet looms is being improved by
+booster nozzles that guide and impel the yarn as it shoots across the warp.
+Airjet looms have been singled out in the drive to cut the time taken to
+change yarns and patterns. This is because expensive garments with short
+production runs and more complicated patterns are more likely to be made
+from natural fibre fabrics.
+The latest airjet machines from Picanol, a Belgian manufacturer, can be
+split in two so that prepared modules set up from a different design can be
+slotted quickly into place. Similar machines are made by Lindauer Dornier of
+Germany and Sulzer Brothers of Switzerland.
+Waterjet looms will not replace all their rivals. While they are best for
+rapid manufacture of synthetic fibre cloth, airjet looms and other
+shuttleless designs remain the first choice for natural fibres.
+Even shuttle looms that Kay might have recognised have a place in weaving
+traditional cloth and carpets in short runs for luxury markets. Sales of
+shuttle looms now account for less than 10 per cent of the market, although
+they still account for the majority of working looms around the world.
+Textile manufacturing technology moves slowly and inventions more than two
+centuries old are still in widespread use. The waterjet loom shows that
+technology still has a powerful role to play in what is often regarded as a
+traditional industry fit only for low labour-cost countries.
+
+The Financial Times
+
+
+London Page 8
+
+930806
+

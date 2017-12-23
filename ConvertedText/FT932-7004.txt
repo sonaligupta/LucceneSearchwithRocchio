@@ -1,0 +1,137 @@
+FT932-7004
+
+FT  26 MAY 93 / Business and the Environment: The high cost of cleaning up -
+Drax has ambitious plans to reduce its emissions, but they may be a red
+herring
+
+
+   By DAVID LASCELLES
+
+
+Next September, engineers at Drax in North Yorkshire, Europe's largest
+coal-fired power station, will commission one of the most ambitious
+environmental clean-up projects in the UK.
+The exhaust gases from the first of the station's six 660MW generators will
+be diverted from the chimney stack into a cavernous rubber-lined steel
+chamber where they will be sprayed with a mixture of water and limestone.
+That slurry will absorb 90 per cent of the sulphur dioxide from the gases
+before they are passed back to the stack and emitted to the atmosphere.
+During the following three years, the station's other five units will
+receive flue gas desulphurisation (FGD) plants of their own, so that by 1996
+Drax should be able to shrug off its notoriety as Europe's dirtiest power
+station - though at a considerable price. The clean-up will cost National
+Power, Drax's owner, more than Pounds 700m.
+The start-up of Drax's FGD plant will doubtless be hailed by the government
+as an important advance in its efforts to clean up Britain's power stations
+ -and meet its international commitments on acid rain. But while the scale
+of the project is impressive, it could turn out to be something of an
+environmental red herring.
+For one thing, only one of Britain's other 30-odd coal-fired power stations
+is having FGD fitted (Ratcliffe in Nottinghamshire owned by PowerGen). And
+for another, it looks increasingly as if other means than FGD will be used
+to achieve the bulk of the intended reduction in harmful emissions. Changes
+in fuel use, rationalisation of the bloated power station network and
+advances in fuel-burning technology are likely to play a much larger role.
+At the international level, the EC's Large Combustion Plant Directive of
+1988 sets targets for reduction of sulphur dioxide and nitrous oxide
+emissions (known in the business as sox and nox).
+The UK successfully negotiated more lenient targets than continental
+countries because of the exceptionally large size of its power stations and
+the high sulphur content of British coal. From a 1980 baseline, it has to
+cut sox by 60 per cent by 2003 and nox by 30 per cent by 1998.
+In both cases, reduction targets for other leading EC members are 10
+percentage points higher.
+In addition, the UK's Environmental Protection Act requires power stations
+to control pollution using the best available technology, not entailing
+excessive cost (BATNEEC). Just before Easter, Her Majesty's Inspectorate of
+Pollution issued a set of EPA authorisations for power plants intended to
+achieve a steady reduction in sox and nox by the year 2001 and meeting the
+EC targets.
+Unlike previous controls, which gave each generating company a 'bubble' of
+emissions which it could share out among its power stations as it wanted,
+the HMIP's new authorisations will impose limits on individual stations as
+well. That is mainly to bring emissions down faster at stations which are
+sensitively placed, such as those in the Thames Valley or close to the Welsh
+hills or the Pennines. Drax, located near Humberside, where the prevailing
+winds carry its emissions out to the North Sea, gets more lenient limits.
+But the overall effect of this will be to reduce the generators'
+flexibility, so the new rules effectively represent a tightening of
+standards.
+The generating companies have a year to come up with plans to meet the new
+requirements, but it is already clear that an acceleration of FGD
+installation is most unlikely. Roger Witcomb, the director of corporate
+planning at National Power, says generators have the alternatives of running
+a power station less intensively, or simply closing it down and switching to
+cleaner fuels.
+The choice will depend on many factors, one of the main ones being the large
+cost of FGD. Apart from the expense of the installation itself, FGD actually
+reduces the efficiency of a power station as it needs a lot of electricity
+to run.
+Drax's FGD will add 0.6p to the cost of a kilowatt hour of electricity,
+nearly 25 per cent of the price that electricity fetches in the wholesale
+pool.
+(There are cheaper methods. ScottishPower may clean up its Longannet station
+on the Firth of Forth with sea water, but this is not an option available to
+inland stations.)
+FGD also carries an environmental cost. By adding to power demand, it pushes
+up emissions of carbon dioxide. It also increases the quarrying of
+limestone, and produces waste material which has to be disposed of (it will
+be buried at Drax).
+In fact, the economic and environmental case against FGD is becoming much
+stronger. What may tip the balance decisively is the growing availability of
+natural gas as an alternative to coal.
+For the price of its Drax FGD plant, National Power could have built two
+1000MW gas stations which were not only thermally much more efficient but
+whose emissions were minimal.
+Michael Reidy, corporate affairs director of PowerGen, describes FGD as a
+'negative investment' compared with the 'positive' opportunities available
+for investing in new environmentally friendly plant.
+PowerGen has not turned its back on FGD, he stresses (it has plans pending
+for an installation at its Ferrybridge station in West Yorkshire), but 'we
+will address negative investments when we have to.'
+Ian Preston, chief executive of ScottishPower, is more blunt about it. 'We
+will not invest in FGD if we can avoid it, ' he says.
+He would far rather see alternatives, such as tradeable pollution permits,
+recently introduced in the US, which would allow him to take advantage of
+the fact that Scottish coal has a lower sulphur content than English. He
+would 'sell' his pollution rights to English generators who needed them
+more.
+All the generating companies are playing their cards close to their chests
+as they digest the implications of the new HMIP authorisations. But the
+broad message is clear. Only a few large power stations with long, active
+lives ahead of them will justify the cost of FGD. Old, inefficient stations
+face closure and the rest will be managed in a variety of ways, such as
+burning cleaner coal or operating fewer hours.
+'There's a huge overhang of capacity in the market,' Witcomb says. 'Only big
+plant will be left by the year 2001.'
+The effect of this on the structure of UK power generation is becoming
+evident. The economics greatly favour gas over coal, and are encouraging a
+surge in gas-fired capacity which could replace as much as half the present
+coal-fired plant by the end of this decade.
+That may be bad news for the miners, but it will lead to marked reductions
+in sox and nox - and also of carbon gases for which there is, at the moment,
+no commercially viable method of extraction.
+The new economics is even giving encouragement to the nuclear power industry
+which produces no gaseous emissions. The government will be embarking on a
+review of the nuclear industry later this year.
+Whether all this activity actually produces a sufficient cut in sox and nox
+to restore the environment, rather than merely to meet legal targets, will
+continue to be a matter for debate. Fiona Weir, a clean air campaigner at
+Friends of the Earth, says that HMIP's new authorisations were a 'missed
+opportunity' to accelerate the drive to reduce acid rain. Britain is only
+doing the minimum necessary to meet standards which are generous anyway, and
+HMIP is not enforcing the introduction of the best clean-up technology.
+The power industry, which still disputes the link between its emissions and
+the damage allegedly caused to lakes and plant life, says it is doing more
+than required.
+Whatever the case, the EC is expected to tighten up the emission reduction
+targets when it meets to review the LCPD next year, and so the pressures
+will increase.
+
+The Financial Times
+
+
+London Page 16
+
+930526
+

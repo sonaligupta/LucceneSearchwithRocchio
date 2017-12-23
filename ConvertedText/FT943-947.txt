@@ -1,0 +1,101 @@
+FT943-947
+
+FT  27 SEP 94 / Technology: X-ray vision of the future - A new
+'super-microscope' facility for probing the structure of molecules
+
+
+   By CLIVE COOKSON
+
+
+The world's biggest and brightest X-ray source, the Pounds 300m European
+Synchrotron Radiation Facility, begins operating this week.
+Twelve European nations have clubbed together to build the ESRF in Grenoble,
+at the foot of the French Alps. It will give academic and industrial
+researchers a super-microscope for probing the atomic and molecular
+structure of materials.
+Several thousand scientists are expected to use the ESRF over the next few
+years from many fields, including physics, chemistry, biology, materials
+science, geology, environmental studies and medicine. Applications range
+from examining surface corrosion of metals to identifying the structure of
+enzymes as potential targets in pharmaceutical research.
+The ESRF has 11 X-ray beams in operation, generating radiation one billion
+times brighter than a typical hospital X-ray machine. By 1998, 40 beams will
+be available.
+X-rays are well suited for probing molecular structures because their
+wavelengths - less than a millionth of a millimetre - are similar to the
+distances between atoms in molecules.
+The main technique for discovering the structure of an unknown compound,
+X-ray crystallography, has been known for 80 years. Its best known success
+was in enabling James Watson and Francis Crick to propose a double helix
+structure for DNA.
+But deducing a structure from an X-ray diffraction pattern is still a very
+tricky and time-consuming job; the brilliant, narrowly focused beams from
+the ESRF will give clearer patterns than conventional sources.
+Synchrotron radiation is given off whenever charged particles are
+accelerated close to the speed of light. When scientists first observed the
+phenomenon in the primitive particle accelerators of the 1940s, they found
+it a nuisance because it diverted energy from the particles.
+But by the 1960s they realised that synchrotron radiation was a useful
+research tool in its own right and they started to tap the X-rays emitted by
+accelerators that had been designed for fundamental physics research.
+During the 1970s and 1980s, about 40 accelerators were built around the
+world as dedicated synchrotron radiation sources.
+The ESRF is the first of a new generation of ultra-bright synchrotron
+machines. It will be followed by the US Advanced Proton Source, due to begin
+operations at the Argonne National Laboratory near Chicago in 1996, and
+Japan's SpRing-8 at Tsukuba science city in about 2000.
+In the ESRF an intense beam of electrons, as thin as a human hair,
+accelerates around a giant ring 844 metres in circumference. An array of
+magnets keeps the beam in shape and controls the radiation. There are 64
+'bending magnets' to direct the electrons around the ring, and special
+'wigglers' and 'undulators' to make the beam twist and turn in a way that
+gives off particularly intense X-rays.
+Industrial researchers will have two routes to using ESRF. If they want to
+keep their work secret, they will be able to buy time on the machine at a
+rate of Pounds 3,300 per eight-hour shift.
+Alternatively, if a company intends to publish its experimental results, it
+can submit a proposal to the ESRF 'peer review' panels which divide up the
+machine's 'public time' between competing research groups according to their
+scientific merit.
+Richard Oldman, a chemist at ICI, the UK chemicals group, has been allocated
+beam time during the first round of experiments this autumn, for a
+collaborative experiment with Keele University to investigate the structure
+of polyester, a common polymer (plastic). He and his colleagues will be
+making molecular movies, to see how the long polyester chains behave during
+industrial processing.
+'Polyester is widely used in industry, for example to make plastic bottles
+for soft drinks,' Oldman says. 'We hope to learn more about the way the
+polyester chains relate to the mechanical properties of the bottle, so that
+we can sharpen up our processing and make stronger plastics.'
+ESRF will also have a medical beam. This will be perfectly suited to
+angiography, for example, enabling researchers to take detailed pictures of
+the fine blood vessels around the heart, whose narrowing is a sign of
+cardiovascular disease.
+As well as the main public beamlines, which will be used for a great variety
+of short-term studies, the ESRF has reserved several slots for long-term
+projects. For example, the UK Engineering and Physical Sciences Research
+Council has given Malcolm Cooper of Warwick University and William Stirling
+of Keele University a Pounds 2.3m grant to build an X-ray facility for
+British scientists to study the structure of magnetic materials.
+Cooper says there are several reasons why the ESRF will enable them to do
+research that would not be possible with less powerful national X-ray
+machines such as the UK Synchrotron Radiation Source at the Daresbury
+Laboratory in Cheshire. One is that ESRF beams 'can be focused down to small
+focal spot sizes (less than 0.2mm by 0.3mm) so that small samples and thin
+films can be studied'.
+Even when the ESRF is fully operational, the demand for intense X-rays will
+be great enough to require new national synchrotron sources too, Cooper and
+Oldman say.
+In the UK, government-funded research councils are considering spending
+about Pounds 100m on a Medium Energy X-ray Source as a successor to the
+Synchrotron Radiation Source at Daresbury. If MEXS goes ahead, it will start
+operating in 2001 or soon afterwards.
+There is no doubt that X-rays have a brilliant future in materials research.
+
+The Financial Times
+
+
+London Page 16
+
+940927
+

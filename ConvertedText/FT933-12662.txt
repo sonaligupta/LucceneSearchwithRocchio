@@ -1,0 +1,42 @@
+FT933-12662
+
+FT  23 JUL 93 / World Trade News: Hitachi in deal to sell Apple PCs
+
+
+   By MICHIYO NAKAMOTO
+
+
+   TOKYO
+
+
+HITACHI will sell Macintosh personal computers made by Apple of the US as
+part of its client-server systems, the Japanese electronics group said
+yesterday.
+The deal reflects the growing interdependence of companies in the computer
+industry as well as a move towards more open systems in which computer users
+are able to use a combination of machines from different companies.
+Hitachi will buy the PCs from Canon Sales, a subsidiary of the camera and
+office equipment maker which is one of Apple's main distributors in Japan.
+Canon Sales for its part will sell Hitachi's workstations and servers. A
+server is the master computer in a PC network which stores and provides
+access to programmes and network facilities. The deal - the first tie-up
+between the two companies - also calls for Hitachi and Canon Sales to
+develop software jointly for the new systems.
+The Macintosh PCs to be sold by Hitachi will be part of its client-server
+systems which will use Hitachi's workstations for the central database and
+Apple's PCs as the client.
+Apple has been making substantial inroads into the Japanese computer market
+and, according to Dataquest, the high technology consultancy, it is in third
+place in market share, with 8.3 per cent of the market.
+Hitachi currently sells systems using its own PCs but the company felt the
+growing interest among Japanese users for more open systems, and the
+popularity of the Macintosh in Japan, called for offering Apple's PCs in its
+systems.
+
+The Financial Times
+
+
+London Page 6
+
+930723
+

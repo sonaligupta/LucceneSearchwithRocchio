@@ -1,0 +1,123 @@
+FT941-13071
+
+FT  27 JAN 94 / Technology: Biography of a book - The printing industry
+presents unusual challenges to computerised manufacturing systems. Claire
+Gooding continues a series on getting the most out of software / Software at
+Work
+
+
+   By CLAIRE GOODING
+
+
+Pick up a copy of Jung Chang's bestselling novel Wild Swans and the last
+thing you are likely to consider is the effort that went into printing it.
+But books, like motor accessories and widgets, have to be manufactured, and
+they present unusual challenges to computerised manufacturing systems.
+Left-over pages from one book cannot be used elsewhere: each book comprises
+components that are useless in any other product. Prints are likely to be
+repeated, possibly in short runs, for which machines must be geared up.
+HarperCollins Manufacturing produces books from raw material to finished
+product, using various grades of paper. Owen Mitchell, HarperCollins's
+business development director, considers book-printing a manufacturing
+process much like any other, equally subject to current thinking on
+just-in-time methods and low inventories.
+On the shelf in Mitchell's office stand fat, glossy-covered hardbacks
+including Wild Swans and the memoirs of Lady Thatcher and Sir David Frost,
+reminders of the end-product of his 400,000 sq ft factory. 'Our customers
+are the publishers, not the public. We make reprints or new titles to order
+for HarperCollins, our main customer, but also for Headline and Simon &
+Schuster (outside the US market), among others,' Mitchell says.
+A full remainder basket is bad news for author and publisher alike, and
+producing to demand ('make to order') introduces a delicate balancing act
+between resources. Getting it wrong means keeping the customer waiting,
+perhaps losing sales as interest in a book fades, while machines and staff
+work overtime, only to lie idle the next day.
+To avoid this, HarperCollins now runs a computer integrated manufacturing
+(Cim) system called Mac-Pac, which includes a complex 'expert system' that
+helps make decisions about scheduling.
+'This division operates as a high-volume, make-to-order environment. One of
+the business reasons for moving in the Cim direction was the pressure for
+just-in-time manufacturing, small batches, and short lead times,' says
+Mitchell.
+In the early 1980s, most packaged software solutions were for make-to-stock
+and assemble-to-order processes - which are inappropriate for books. Other
+solutions came from low-volume 'make-to-order' suppliers. 'Getting behind
+this distinction was important, because every book is make-to-order, but we
+deal with more than 100 different titles every week.'
+On average, the factory copes with 1,250 component orders a week (about 10
+per book). Components in a book include the bundles of printed pages
+(signatures - see Buzzwords), illustrations, covers, dustjacket, and perhaps
+also a ribbon-marker for diaries and bibles.
+The paper for the paperbacks is stored four hours away. 'We work as a
+manufacturing business, so in manufacturing terms, a routine diary is just
+as important as Sir David Frost's autobiography,' comments Mitchell.
+'Our experience in the past has been with batch computer systems, updated
+overnight and accessed for inquiries. What we have now is a system in which
+participants dictate the programme. Their actions make a difference. There
+are very few people who don't have a terminal - 450 users out of 480
+employees,' he adds.
+The new system has developed gradually. Outside consultants have
+contributed, but it largely evolved from a painful process of
+self-examination that started in 1989.
+'We challenged and changed the way we do business as part of the preparation
+for automation. The first question was whether we were ready for change, and
+the answer was no. We faced the fact that customers were not well served by
+the buffer times which were exposed. Inventories were no longer assets, but
+earned a black mark,' recalls Mitchell.
+'One of the first things to go was the shop-floor bonus which encouraged
+over-production of components unique to one order.
+'We used Computer Integrated Business - our version of Cim - as a catalyst
+for change. From day one, I was concerned to get the message across that
+there would be more people problems than technology constraints,' Mitchell
+says.
+'IBM's industrial design team gave us a vision and experience beyond our
+own, and helped us develop a strategy that has held good to this day -
+develop people, simplify processes, then automate.'
+Initial inquiries involved 25 vendors, and a 70-page proposal synopsis was
+sent out to a shortlist of eight.
+Andersen Consulting's Mac-Pac software was fully integrated in its design,
+and came closest to fitting the HarperCollins 'no modifications' policy.
+Another attraction was the Expert Configurator, an 'intelligent' module that
+works like many expert systems, to define the rules which govern a process.
+A trip to the US to see Expert Configurator in action (there were no UK
+users at the time) confirmed the choice.
+Mac-Pac follows the business flow from start to finish. It can treat every
+order and every title as an individual product. Each book is planned and
+tracked through every process. Every component - printing plate, signature,
+cover - is tied to its book and traceable through Mac-Pac.
+'Setting the rules is an interactive 'conversational' process to create the
+code. The two years it took to evolve was a combination of analysis,
+simplification, and representation of what we do. No one individual has the
+command of detail of the entire process. We did not pick the brains of the
+existing mainframe system, we did it from scratch,' adds David Thomson,
+manufacturing systems manager.
+The process of preparation and training was also an eye-opener. 'We had
+shop-floor personnel training the managing director - people found talents
+they never knew they had,' says Mitchell.
+In November 1992, HarperCollins announced 211 redundancies in manufacturing
+which took effect just six weeks before implementation. The first Mac-Pac
+product off the presses was a high-profile title, Jeffrey Archer's Honour
+Among Thieves in May 1993. 'All this put a strain on the organisation. We
+found that even 1,000 days of training was not nearly enough,' says
+Mitchell.
+The Andersen consultants insisted that HarperCollins should develop its own
+rules and procedures, which was time consuming but worthwhile.
+Users are enthusiastic. One claims to have learned as much in training as he
+had in 20 years in the business. According to Irene Thomson, customer
+services manager for paperbacks, previous manual systems were difficult to
+control. 'Now we are more reactive, and customer satisfaction has improved.'
+Fred Buchanan, the paperback planner, had previously worked with a small PC.
+'We did not know if we could fulfil to order or not, now we can say yes and
+mean it.'
+Steve Melvin is a lead operator on one of the print machines, which has
+produced 25,000 copies of Wild Swans every week for the last three months.
+'The lead time for a paperback used to be four or five weeks. Now it is 10
+days or less,' he says.
+
+The Financial Times
+
+
+London Page 20
+
+940127
+

@@ -1,0 +1,49 @@
+FT921-386
+
+FT  30 MAR 92 / Intel files patent suit to block Cyrix challenge
+
+
+   By LOUISE KEHOE
+
+
+   SAN FRANCISCO
+
+
+INTEL, the largest US semiconductor maker, has pre-empted another challenge
+to its dominance of the market for personal computer microprocessors. It has
+filed a patent infringement suit against Cyrix, a small Texas company, that
+is today announcing its own version of one of Intel's widely-used
+microprocessors.
+Anticipation of the Cyrix announcement fuelled a sharp decline in Intel's
+stock price last week.
+Even before seeing the Cyrix chip, Intel filed a suit charging Cyrix with
+infringing four patents that protect Intel's microprocessor technology.
+Intel said that its claims were based on information gleaned from financial
+analysts' comments.
+'We do not believe that it is possible to produce a chip that is compatible
+with our 386 microprocessor without infringing our patents,' said Mr Thomas
+Dunlap, Intel general counsel. Intel is seeking a preliminary injunction to
+prevent Cyrix from selling its microprocessor chip.
+Until last year, Intel held a virtual monopoly in the market for the
+microprocessors that form the brains of IBM-compatible personal computers.
+Then Advanced Micro Devices (AMD) and Chips & Technologies, two Silicon
+Valley competitors, entered the field with their own versions of the Intel
+386.
+Intel has filed suit against all of its would-be competitors, but has yet to
+win an injunction to prevent them from selling the look-alike chips.
+AMD, the first to enter the microprocessor clone market, is now estimated to
+hold a 30 per cent market share.
+Intel is also already involved in a legal dispute with Cyrix over the Texas
+company's earlier product, a version of Intel's 387 co-processor, a device
+that works alongside the 386 to speed mathematical calculations.
+On Saturday, Mr Jerry Rogers, president of Cyrix, when informed of the new
+Intel suit, said that the action represented a 'frivolous lawsuit that
+amounts to legal harassment'.
+
+The Financial Times
+
+
+London Page 2
+
+920330
+

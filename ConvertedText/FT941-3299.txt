@@ -1,0 +1,37 @@
+FT941-3299
+
+FT  16 MAR 94 / Survey of Information and Communications Technology (32):
+Pioneering with the cordless office
+
+
+   By MICHAEL WILTSHIRE
+
+
+While most office workers are still 'tied to their desks' by fixed
+telephones, a new generation of cordless telephone systems is set to open up
+a market worth up to Dollars 5bn a year by 1998, according to Ericsson, a
+pioneering company in this sector.
+Ericsson began developing business cordless phone systems in the mid-1980s
+andclaims to be the first company to launch a DECT-based system, last year.
+This Freeset system works as an 'add-on' to a company's existing phone
+network. Low-powered radio base-stations are installed throughout the
+premises, and controlled from a radio exchange, which connect directly to
+the host telephone system. The main groups of users are organisations with a
+large number of mobile staff - such as hospitals, factories and exhibition
+centres - where instant communication is important.
+The second main group of users are companies which are trying to redefine
+the nature of office work, applying the 'hot desk' principle. Digital
+Equipment Corporation, using the Freeset system, has been successfully
+experimenting with a similar concept which it calls 'the natural office' at
+its Swedish offices in Stockholm.
+'Once people start using a cordless phone at work, it's impossible to take
+it away from them,' comments Ericsson's Hans van der Hoek. In five years'
+time, he expects one-third of all business phones sold will be cordless.
+
+The Financial Times
+
+
+London Page XIX
+
+940316
+

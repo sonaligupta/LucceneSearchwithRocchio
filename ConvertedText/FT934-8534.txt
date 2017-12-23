@@ -1,0 +1,122 @@
+FT934-8534
+
+FT  15 NOV 93 / European telecoms lay down lines of defence: Project
+Atlantic
+
+
+   By ANDREW ADONIS, JOHN RIDDING and ARIANE GENILLARD
+
+
+The international telecommunications industry is buzzing over Project
+Atlantic, the putative alliance between France Telecom, Deutsche Telekom and
+American Telephone and Telegraph, the world's three largest operators.
+If it comes to fruition, a draft agreement to merge all but the domestic
+voice businesses of the French and German state carriers and bring them into
+AT&T's international 'Worldsource' venture would constitute potentially the
+biggest telecoms deal in history. This summer's Dollars 5.3bn (Pounds 3.5bn)
+partnership between British Telecommunications and MCI, the second largest
+US carrier, is Lilliputian by comparison.
+The deal would have a long haul through the European Commission. BT's will
+not be the only voice crying foul on competition grounds - though some in
+the Commission's telecommunications directorate, as petrified as France
+Telecom and Deutsche Telekom at the long-term threat posed by AT&T, might
+see a defensive case for the arrangement.
+However, Project Atlantic is simply the most graphic illustration yet of
+three trends sweeping Europe's public telecommunications operators (PTOs):
+the discarding of utility traditions; the search for alliances; and the
+passion to crown them with an American partnership.
+The UK is the most advanced on all three fronts. Privatised in 1984, BT has
+been shedding staff, acting abroad in an aggressively entrepreneurial
+fashion, and engaging in foreign acquisitions. Its alliance with MCI is the
+latest and biggest such venture.
+Europe's smaller PTOs are following suit. A number - led by the Danish and
+Netherlands PTOs - are on the privatisation trail. Telecom Netherlands last
+week announced a strategic partnership with Telkom Indonesia, extending the
+Dutch operator's base in the fast-growing Asia-Pacific region.
+Meanwhile, the Swiss, Swedish and Dutch PTOs have formed their own
+outsourcing company - 'Unisource' - which has an alliance with Sprint, the
+third-largest US long-distance carrier. Telefonica, the Spanish
+semi-state-owned operator, is in talks about joining.
+Although they follow the same trends, the activities of the French and
+German PTOs are not motivated by identical pressures. While Deutsche Telekom
+is set for privatisation in 1996, France Telecom is not on the Balladur
+government's sell-off list of 21 publicly owned groups.
+The French PTO is flush with cash, operating arguably Europe's most advanced
+network. Its German counterpart is weighed down by the investment demands of
+eastern Germany, and is anxious for private capital.
+Nonetheless, both are acting more entrepreneurially and are concerned at the
+threat of foreign competition. Both are making aggressive moves abroad -
+ironically they are heading rival consortia bidding for stakes in Matav, the
+Hungarian state operator to be privatised this autumn. For offensive and
+defensive reasons, both are keen to strengthen their existing outsourcing
+venture Eunetcom.
+Deutsche Telekom has been in the limelight this year because of its
+privatisation plans and a succession of ventures in the former Soviet bloc.
+It has signed a memorandum of understanding with Intertelekom, the Russian
+state-owned long-distance operator, to modernise crumbling telecoms
+infrastructure. In the Ukraine, DT has formed a joint venture called Utel
+with AT&T, PTT Netherlands and the national operator to build a basic
+telecoms network, and it has teamed up with PTT Netherlands and the Danish
+PTO to develop a mobile phone network.
+France Telecom has been less visible abroad, but it would be wrong to
+consign it to the back seat of any tripartite venture. With annual sales in
+excess of FFr120bn (Pounds 14bn) and a monopoly in most markets, it has a
+stronger domestic base than BT.
+More than 80 per cent of France Telecom's network is now digitalised, and
+neither the UK nor Germany has anything to match its Minitel screen-based
+information service.
+France Telecom, too, has been stepping abroad. In the past month it has
+signed a series of agreements including an accord with Rostelecom, the
+Russian telecommunications operator, to develop a range of telephone
+services.
+The French operator and its political masters have made no secret of their
+desire for an alliance with Deutsche Telekom. Mr Gerard Longuet, the French
+industry, post and telecommunications minister, describes DT as 'a natural
+partner'.
+To give the operator a sharper competitive edge, Mr Longuet is preparing to
+change its status from an 'autonomous operator under public law' into a
+joint stock company able to form cross-shareholdings with other telecoms
+groups.
+If Project Atlantic has its entrepreneurial side, it is at least as much a
+defensive ploy. Both the French and the German operators fear an assault on
+their lucrative international businesses. Far better, say senior executives,
+to work in partnership with AT&T before the 1998 Brussels deadline for
+competition in voice services, particularly if the BT/MCI alliance makes
+inroads.
+Furthermore, both groups are sensitive to their weaknesses in facing head-on
+competition. DT has the more obvious problems, given its staffing levels and
+the protected civil service status of most of its employees. France Telecom
+has an uneasy relationship with its unions. A strike last month demonstrated
+the depth of concerns and the scale of the obstacles to reform.
+AT&T's motivation in Project Atlantic is obvious. It needs a credible
+European partner for its Worldsource venture, and it cannot gain direct
+access to the European market until 1998.
+ -----------------------------------------------------------------------
+TOP TEN INTERNATIONAL TELECOMS CARRIERS
+ -----------------------------------------------------------------------
+Rank                     1991        1992      Per cent     Country
+and carrier          outgoing    outgoing   growth MiTT
+                     MiTT (m)    MiTT (m)     1991-1992
+ -----------------------------------------------------------------------
+AT&T                    6,557       6,984           6.5     US
+Deutsche Telekom        3,557       4,087          15.3     Germany
+France Telecom          2,295       2,449           6.7     France
+BT                      2,105       2,188           3.9     UK
+MCI                     1,600       2,083          30.2     US
+Swiss PTT               1,429       1,551           8.5     Switzerland
+Stentor                 1,425       1,520           6.7     Canada
+Hong Kong Telecom         913       1,137          24.5     Hong Kong
+Netherlands PTT         1,018       1,134          11.4     Netherlands
+Iritel                    980       1,116          13.9     Italy
+ -----------------------------------------------------------------------
+MiTT is the minutes of telecoms traffic
+Source: TeleGeography Inc., Washington, 1993
+ -----------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page 21
+
+931115
+

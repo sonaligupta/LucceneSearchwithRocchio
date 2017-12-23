@@ -1,0 +1,39 @@
+FT941-16806
+
+FT  07 JAN 94 / International Company News: Hewlett-Packard to take stake in
+software venture
+
+
+   By ALAN CANE
+
+
+Hewlett-Packard, a leading US electronics manufacturer, is to take a 15 per
+cent equity stake in Taligent, a joint venture between International
+Business Machines and Apple Computer. The value of the deal will not be
+revealed.
+Taligent, formed in March 1992, is developing advanced computer software
+which IBM and Apple hope will be used to operate the next generation of
+personal computers and workstations.
+More than 90 per cent of personal computers use operating systems developed
+by Microsoft of the US, the world's largest software house.
+The involvement of HP, which unlike IBM has successfully maintained
+profitability throughout the recession, gives fresh weight and credibility
+to the Taligent venture.
+Mr Bernard Guidon, HP's computer systems director for Europe, said yesterday
+the company would work with Taligent to develop its 'object-oriented'
+technology.
+Object technology - in which programs are constructed from re-usable
+software components - is seen as an important solution for companies
+developing new software and replacing obsolete programs.
+Mr Guidon said HP would run Taligent's software on its own computers and
+would supply Taligent with its distributed computing technology. Distributed
+computing expertise is essential for companies attempting to build
+enterprise-wide networks.
+
+The Financial Times
+
+
+London Page 18
+
+940107
+

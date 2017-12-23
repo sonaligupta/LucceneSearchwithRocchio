@@ -1,0 +1,60 @@
+FT921-15221
+
+FT  11 JAN 92 / Finance & The Family (Briefcase): When do share offers
+warrant a tax charge?
+
+
+THE Williams offer (three for 20 plus 10 per share cash) for my Racal
+Electronic Ordinary states:
+'a holder of Racal Elect Ord will, to the extent that he receives cash
+consideration, be treated as making a disposal for the purposes of UK tax on
+capital gains and may be liable to tax as a result'.
+I presume therefore that the share exchange part of the offer is not liable
+for CGT.
+The Hanson offer (90p cash plus warrants to the value of Pounds 33.5p) for
+my Beazer ordinary states:
+'The receipt of cash or warrants will constitute a disposal for the purposes
+of UK taxation of capital gains and may give rise to a gain or loss for the
+purposes of such taxation. Such a gain or loss would arise where the cash
+(together with the market value of the warrants) differ from the cost of
+their Beazer Ordinary and any under allowance on such cost.'
+Why in the Williams offer is only the cash element liable for CGT but in the
+Hanson offer the whole value, cash and warrants is liable?
+Where warrants are issued on a takeover, they sometimes rank like shares for
+rollover and sometimes they do not. It all depends upon what else was
+offered at the time. An offer of simply warrants, or simply cash and
+warrants, will produce a deemed disposal for a consideration equal to the
+quarter-up market value of the warrants (or, in the second case, that market
+value plus the cash). On the other hand, if there is a loan-note alternative
+to the cash, for example, the warrants will generally be eligible for
+rollover like shares, because section 139 of the Capital Gains Tax Act 1979
+says:
+'(1) if a quoted option to subscribe for shares in a company is dealt in (on
+the stock exchange where it is quoted) within three months after the taking
+effect, with respect to the company granting the option, of any
+reorganisation, reduction, conversion or amalgamation to which Chapter II of
+Part IV above applies, or within such longer period as the Board may by
+notice in writing allow - (a) the option shall, for the purposes of the said
+Chapter II (under which a holding prior to the reorganisation or reduction
+of capital, conversion or amalgamation is to be treated as the same as the
+resulting new holding) be regarded as the shares which could be acquired by
+exercising the option . . .'
+So far as we are aware, nobody has ever produced a convincing explanation
+for this arbitrary distinction. As the rule has remained unchanged since
+1971, however, it clearly has the support of MPs in all parts of the House.
+Before asking your MP for clarification of the purpose behind this odd piece
+of tax law, you may like to ask your tax office for the free pamphlets CGT13
+(The indexation allowance for quoted shares) and CGT14 (Capital Gains Tax:
+an introduction).
+The House of Commons postcode is SW1A 0AA.
+No legal responsibility can be accepted by the Financial Times for the
+answers given in these columns. All inquiries will be answered by post as
+soon as possible.
+
+The Financial Times
+
+
+London Page VI
+
+920111
+

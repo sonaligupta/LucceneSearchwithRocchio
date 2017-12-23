@@ -1,0 +1,79 @@
+FT944-5813
+
+FT  01 DEC 94 / Survey of Software at Work - Winter 1994 (3): Users demand
+more - The choice of accounting packages is widening as various needs emerge
+
+
+   By CLAIRE GOODING
+
+
+People want more from their accounting systems than ever before. Finance
+directors want better reporting facilities, packages that run on different
+sorts of hardware and, increasingly, systems that can be implemented
+globally. Indeed, several users suggested that accounting packages used only
+as statutory reporting tools were of little relevance to the activities
+which produce the data.
+The number of packages available continues to mushroom in response to
+different needs. Dennis Keeling, director of the Business and Accounting
+Software Developers Association, Basda, keeps data sheets on more than 200
+products, for the guidance of buyers. Mr Keeling's research, among 7,000
+users, identifies a shift towards 'Open Systems', Unix-based and
+client-server solutions, and an increasing preoccupation with 'global'
+implementations.
+Accounting research specialist Tate Bramald Consultancy's annual review of
+accountancy software packages for 1994 found about 250 solutions being used
+among its 1,000 interviewees. John Tate, founding partner at Tate Bramald
+says there is a clear division in the various competitors for accounting,
+amounting to a sort of 'league table'. His analysis puts Oracle, SAP, QSP
+and the Dun and Bradstreet packages, (previously separate offerings, MSA and
+M&D Millenium) into the top stream, as corporate heavyweights, mostly
+running on mainframes.
+Into the next category come those catering for companies likely to have
+multiple sites, complex requirements and a fair degree of tailoring. Tate
+typifies these as JBA, Coda, JD Edwards, Walker, Ross Systems, Lawson and
+Dodge Group.
+Tetra Chameleon, Systems Union SunAccounts, Multisoft Premier Plus, and
+Strategix are typical of packages that have grown with their users, probably
+old hands now on their second or third accounting system. Companies in the
+Pounds 5m to Pounds 50m turnover bracket would probably look in this group
+first. Those a little smaller, with a turnover between 500,000 and Pounds
+5m, would probably look first at Pegasus Senior (or its Opera successor),
+Multisoft Prestige, Sage Sovereign, and the newcomer, SBS Exchequer, which
+has won praise for its reporting facilities.
+The choice widens as the size of the company comes down, with small
+businesses picking from packages such as Sage Sterling and Tas Books from
+Megatech. Home users also have an increasingly wide choice of systems, with
+sophisticated functions - Sage Moneywise, Quickens/Quickbooks from Intuit,
+Microsoft Money.
+Global accounting still presents a challenge. 'With accounting standards as
+they are, there is no reason why you can't have one core product for
+virtually every country in the world,' Mr Tate says. 'But, if you are
+starting with a product that has not been designed with international
+operation in mind, it's virtually impossible to make it into international
+product. It is a huge problem for any software house to develop and release
+a product internationally. Too many still use their clients for quality
+control.'
+European products competing in the UK such as Scala (from Sweden) and Exact
+(originating in Holland) have to win success on home ground before spreading
+elsewhere. And the secret of any local success, suggests Peter Quinn of
+fast-expanding UK software supplier, JBA, lies in providing reliable user
+support.
+'Ventures elsewhere are doomed unless you can provide the same level of
+support locally that you can on your home ground and that means training,
+and assimilating people into the company culture,' Mr Quinn says.
+International accounting, and particularly consolidation, is the niche in
+which Dillon Technology International of Maidenhead has become well
+established outside the UK with its Falcon package. Richard Dillon, who
+founded the company in 1983, emphasises that the knowledge-base of the
+vendors matters far more to multinational corporations than 'functionality
+checks' on the package.
+'Purchasers expect us to know about regulations such as SSAP20 and FASB52.
+We sell knowledge, not software.'
+
+The Financial Times
+
+
+London Page III
+
+941201
+

@@ -1,0 +1,56 @@
+FT942-15310
+
+FT  15 APR 94 / International Company News: IBM to produce Intel chip clones
+
+
+   By LOUISE KEHOE
+
+
+   SAN FRANCISCO
+
+
+International Business Machines has agreed to manufacture clones of Intel's
+microprocessor chips designed by Cyrix, a Texas semiconductor company. The
+agreement poses a significant challenge to Intel, the dominant supplier of
+microprocessors to the personal computer industry.
+IBM will manufacture Cyrix's equivalent of Intel's 486 and Pentium
+microprocessors in 'non-trivial quantities', the companies said. As well as
+supplying these chips to Cyrix, under the five-year deal IBM will also sell
+about half of the chips, either to its own personal computer operations or
+to outside customers.
+'IBM is committed to becoming a major supplier of semiconductor products,'
+said Mr Michael Attardo, IBM senior vice-president and general manager of
+IBM's micro-electronics division. IBM's semiconductor sales were about
+Dollars 700m last year, up from just Dollars 5m a few years ago.
+However, Intel, which has vigorously defended its intellectual property
+rights in the courts, said its legal department was examining the IBM-Cyrix
+announcement.
+IBM and Intel have been technology partners since the introduction 13 years
+ago of IBM's first PC. This relationship, the foundation of Intel's growth
+into the world's largest semiconductor manufacturer, is expected to be
+strained by the Cyrix accord.
+Intel seems, however, to be reluctant to engage in a legal battle with IBM,
+its largest customer. All IBM PCs contain microprocessors designed by Intel,
+and either purchased from Intel or manufactured by IBM under a long-standing
+arrangement.
+Intel holds at least an 80 per cent share of the market for PC
+microprocessors, according to market analysts, while Cyrix has a share of
+less than 3 per cent. The agreement with IBM will significantly expand
+Cyrix's opportunity to participate in the market, said Mr Jerry Rogers,
+president and chief executive of Cyrix.
+IBM and Cyrix declined to comment on the possibility of legal disputes with
+Intel. However, Intel and Cyrix are already involved in litigation over
+patent rights. A decision in that case, which could affect Cyrix's and IBM's
+plans, is expected in a few months.
+Intel yesterday disputed whether the patent licences it had granted to IBM
+could be applied to the Cyrix-designed chips. 'We do not believe that IBM
+can provide patent protection to Cyrix, and we are still examining the
+question of whether IBM has rights to market the chips,' Intel said.
+
+The Financial Times
+
+
+London Page 28
+
+940415
+

@@ -1,0 +1,55 @@
+FT921-3662
+
+FT  13 MAR 92 / Letter: 'Catch-all' concept of fraud is recipe for long
+trials
+
+
+   From Mr DAVID SELLAR
+
+
+Sir, In his article 'Catch-all crime to be avoided' (Justinian, March 9), Mr
+Blom-Cooper QC made a very valuable contribution to the debate on the
+difficulties of prosecuting allegations of complicated financial fraud. In
+particular, he warned of the dangers of the introduction into English Law of
+a general and therefore imprecise offence of fraud. Might I make certain
+comments on his article, as I have practical experience of Company Law in
+Scotland and the City and some experience of Scottish Criminal Law.
+The fact that there is a general concept of fraud in Scots criminal law has
+not avoided some very long trials and, if a trial involving sophisticated
+financial practices occurred in a Scottish Court, that court would face the
+same difficulties which the English courts have faced. A further point is
+that Section 47(2) of the Financial Services 1986 Act, which applies to both
+Scotland and England, already creates a general offence of fraud in relation
+to 'investments'.
+That provision is potentially wider than the English common law concept of
+conspiracy to defraud, which was the basis of the Blue Arrow prosecution.
+The provision is particularly unfortunate as it provides an offence of
+strict liability (punishable by a maximum of seven years' imprisonment)
+where a person engages 'in any course of conduct which creates a false or
+misleading impression as to the market in, or price or value of, any
+investments'.
+Section 47(3) provides that it is for the accused to establish not merely
+that he was honest, which would be a defence to a common law charge under
+either Scots or English Law, but also that he reasonably believed that his
+conduct would not create an impression which was false or misleading. The
+use of a concept as vague as that of 'value' to create potentially strict
+criminal liability seems in principle quite inappropriate and causes
+considerable difficulties to practitioners of Company Law in advising
+clients as to what conduct is outside Section 47(2).
+It is therefore to be hoped that the appropriate criminal authorities in
+both jurisdictions, and in particular the Serious Fraud Office in England,
+would in applying Section 47(2) show the discretion to which the Court of
+Appeal in Jersey referred in the case discussed by Mr Blom-Cooper.
+David Sellar,
+Dorman Jeffrey & Co,
+Madeleine Smith House,
+6/7 Blythswood Square,
+Glasgow G2 4AD
+
+The Financial Times
+
+
+London Page 17
+
+920313
+

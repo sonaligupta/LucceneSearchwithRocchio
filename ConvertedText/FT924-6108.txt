@@ -1,0 +1,116 @@
+FT924-6108
+
+FT  23 NOV 92 / Survey of World Commercial Vehicles (14): Quieter and
+cleaner roads ahead - A look at tougher regulations on emissions and noise
+
+
+   By JOHN GRIFFITHS
+
+
+BELATEDLY, Europe has begun to follow North America along the road to a
+quieter and less polluting truck and bus population for the 1990s.
+It is doing so because of an EC directive issued last year reducing the
+amounts of gaseous and particulate pollutants commercial vehicles over 3.5
+tonnes may emit.
+Because noise is also regarded as an environmental pollutant, further
+legislation means that heavy commercial vehicles are destined to become
+quieter as well.
+New models of trucks produced since July 1 this year have had to emit fewer
+exhaust pollutants than their predecessors.
+From October 1 next year all new trucks produced, even those designed and
+developed before the legislation was drawn up, will have to comply with the
+tighter rules.
+These changes, however, represent only stage one of a two-stage process and
+can be complied with relatively easily by truck makers because they are
+based on Brussels's assessments of short-term environmental gains achievable
+from readily available technology.
+A much bigger problem is stage two, which will apply to all new models of
+diesel trucks from October 1, 1995, and to all production one year later.
+The emissions limits, in terms of grammes of pollutants per test, to be
+introduced in the second stage, will see Europe's standards for truck
+exhaust emissions brought into line with those due to become applicable to
+trucks in North America for the 1994 model year. These will be the strictest
+rules in the world. The standards will also bring the EC into line with
+Switzerland and Austria.
+They are unlikely to be quite so effective in EC countries, however, because
+EC ministers have not yet agreed to revise the driving test cycle on which
+exhaust emissions limits are based.
+The US 'transient' test cycle is more stringent than the low-speed test
+cycle used to set EC standards and more accurately reflects modern day
+driving conditions.
+The UK, often in the past seen as a laggard on vehicle exhaust emissions,
+pressed unsuccessfully for a revised cycle to be incorporated in the
+upcoming EC standards. But at least a proposal to introduce the transient
+test is now on the agenda for discussion of yet tighter EC emissions
+standards intended to be introduced for trucks in 1999.
+The 1995/96 standards aim roughly to halve pollution caused by large diesel
+trucks and buses by reducing emissions of carbon monoxide, nitrogen oxides,
+gaseous or 'unburnt' hydrocarbons and solid particles of burned fuel.
+The main targets of the legislation are acid rain-causing oxides of nitrogen
+and the particulates, which some research indicates are carcinogenic.
+As part of the 1991 EC directive, there are also new lower limits on
+particulate emissions specifically due to be applied to new trucks from
+January 1 next year; however, the limits are not regarded as sufficiently
+tough to require particulate traps.
+The 1995/6 standards are likely to require substantial changes to truck
+diesel engine technology if they are to be met.
+According to Ricardo Group, the UK-based engineering consultancy which works
+on engine projects for most vehicle makers world-wide, the US 1994 standards
+continue to represent 'one of the greatest challenges facing the truck
+industry'.
+To meet them, truck manufacturers and the leading independent engine
+producers such as Cummins Engine are having to resort to advanced technology
+such as multi-valve cylinder heads, a variety of electronic control systems,
+exhaust catalysts and 'traps' to capture and subsequently burn off
+particulates. Of necessity, the 1996 legislation will also lead directly to
+the introduction of improved quality diesel fuels, which under another draft
+EC directive must have its sulphur content reduced to meet the lower limits
+on particulate emissions. Sulphur is the main culprit in the generation of
+particulates.
+But the US itself is not standing still.
+The US industry has already achieved a strong research and development
+momentum from a tightening of US standards which took effect in 1991 and
+which cut the permissible NOx level to the present 5 grammes from 6. They
+were able to meet the tighter standard by redesigning engine combustion
+chambers and pistons.
+Federal legislators now envisage reducing permitted pollutant levels further
+from May 1998.
+California, always the first to tighten the environmental screw, plans to
+demand such a cut four years earlier.
+Trucks with a gross weight of up to 26,000lb are targeted to reduce
+emissions by 50 per cent from a 1994 baseline, and by 30 to 50 per cent if
+it can be shown that a higher reduction is not technically achievable,
+according to the Motor Vehicle Manufacturers' Association. Part of the
+solution may lie in the use of alternative fuels such as methanol, which are
+already undergoing fleet test programmes.
+The US industry, in conjunction with the Southwest Research Institute, has
+now launched an international co-operative industry research programme aimed
+at meeting likely end-of-century standards.
+The Clean Heavy-Duty Diesel Engine programme aims for a 2-gramme NOx limit,
+0.1 grammes of particulates and 0.5 grammes of hydrocarbons per brake
+horsepower hour.
+Leading engine manufacturers taking part include Caterpillar and Navistar of
+the US, Hino, Isuzu, Mitsubishi and Nissan Diesel of Japan, and Volvo of
+Sweden, and the programme will run until 1995.
+ ----------------------------------------------------------------------
+US EMISSION LIMITS FOR HEAVY DUTY VEHICLES*
+ ----------------------------------------------------------------------
+                   1987     1988     1991     1994
+ ----------------------------------------------------------------------
+Carbon monoxide    15.5     15.5     15.5     15.5
+Hydrocarbons        1.3      1.3      1.3      1.3
+Nitrogen oxides    10.7      6.0      5.0      5.0
+Particulates        -        0.6     0.25      0.1
+ ----------------------------------------------------------------------
+* All figures grammes/brake horsepower hour
+ ----------------------------------------------------------------------
+Source: Motor Vehicle Manufacturers Association
+ ----------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page VI
+
+921123
+

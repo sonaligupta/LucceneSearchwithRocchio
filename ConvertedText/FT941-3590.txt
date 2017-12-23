@@ -1,0 +1,90 @@
+FT941-3590
+
+FT  15 MAR 94 / FT Review of Business Books (12): Looser rules to encourage
+new players - Andrew Adonis weighs the case, now being debated in the US,
+for more competition in local telephony and an overhaul of the (woefully
+inadequate) regulatory structure / US communications
+
+
+   By ANDREW ADONIS
+
+
+Toward Competition in Local Telephony
+by William J Baumol and J Gregory
+Sidak MIT Press, Dollars 27.50
+169 pages
+William Baumol and Gregory Sidak are in that happy league of advocates of
+radical reform: they are on the winning side. At any rate, they are so for
+more than half of their reform agenda, which is as much as one can hope for
+in this life.
+For the non-economist, their book is a tough read in parts, and much of the
+regulatory and industry detail is less than vital to non-US readers. But
+their essential argument consists of two propositions: that there is room
+for more competition in local telephony; and that the current US regulatory
+structure is woefully inadequate as a mechanism for promoting efficient
+competition.
+The first proposition is gaining increasing international acceptance. In the
+US, competitive access providers have been growing fast, competing against
+the local Bell companies to provide businesses with access to the
+long-distance carriers. The regulatory structure looks set to loosen
+further, with cable companies allowed to offer telephony services and vice
+versa.
+The speed of the change is remarkable, given America's history of
+legislative sclerosis. Bills currently before Congress, and likely to pass
+in some form, would repeal cable-telephone cross-ownership rules, although
+they would still prohibit telephone companies from buying cable systems in
+their own service areas. A separate bill would permit the local Bell
+companies to compete with AT&T and the other long-distance carriers.
+To an extent, the US is following the UK's lead. Three years ago, the
+government decided to break the pre-existing BT/Mercury duopoly and allow
+new operators to build local cable telephone and television networks, while
+banning BT from offering entertainment services over its own network for a
+decade. Cable companies - mostly US-owned - are currently investing nearly
+Pounds 5bn in building networks in conurbations which, by the end of the
+century, will cover about half the country.
+The Baby Bells are keen to take the lessons back home. However, it would be
+rash to presume that the US telecoms map is going to be rewritten overnight,
+even if the draft legislation is enacted.
+The recent decision of Bell Atlantic to call off its Dollars 21.4bn merger
+with Tele-Communications, the largest US cable television service company,
+citing the 'unsettled regulatory climate', is a sign of the continuing
+difficulties.
+A particularly thorny issue is that of 'universal access' - or, as Al Gore
+puts it, the imperative that there should not be 'information haves and have
+nots'. As yet, there is no such concern in Britain, where the cable
+companies are regarded as providing an additional, non-essential service to
+their customers.
+What does universal access mean? Special 'universal access' payments by
+competitors offering new broadband services? Vouchers for the poor and/or
+rural dwellers? If the latter, paid to whom and by whom? These are key
+questions, which will need to be answered if the inter-active super-highways
+are intended to provide 'universal service'.
+Baumol and Sidak concentrate on a revised regulatory system to promote
+competition. Essentially, for the (former) monopoly carriers, they want to
+move away from rigid, service-by-service rate-of-return regulation to a
+price cap applying to the average price of services in a basket - much as
+does Oftel, the UK telecommunications regulator.
+For new entrants competing against an existing operator whose network they
+have to use to deliver their service, the authors want to see access prices
+which include the 'opportunity cost' involved in the existing operator
+losing market share to the new entrant.
+They call this approach 'efficient component pricing'. It has the advantage,
+they argue, of only admitting competition that is truly efficient, providing
+real service improvements and/or price benefits to consumers. Furthermore,
+they suggest, it reduces concerns about new entrants simply 'cream skimming'
+the more lucrative parts of an operator's business.
+The question, of course, is how to set the 'efficient component prices'. But
+then, setting access charges under current regimes is a tough business -
+witness the acrimonious disputes between telecoms competitors currently
+taking place across the world. The principle is attractive. It deserves a
+serious reception from the regulatory community, which more than anyone will
+determine the shape of telecoms markets country by country over the next
+decade.
+
+The Financial Times
+
+
+London Page VIII
+
+940315
+

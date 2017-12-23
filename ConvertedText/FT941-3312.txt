@@ -1,0 +1,112 @@
+FT941-3312
+
+FT  16 MAR 94 / Survey of Information and Communications Technology (19): An
+expensive option for the foreseeable future - Systems integration / The
+perceived demand for systems integration has attracted a growing number of
+supplier and services companies
+
+
+Like many computer terms, systems integration is hard to define. At one
+level, any computer-based information system must be integrated or it will
+not work. But the term has come to refer to a particular class of computer
+system - that is, one which is assembled from a set of components in a way
+which hides the technology from the customer.
+The importance of systems integration as a discipline has grown steadily
+since companies began the move towards open systems. A system does not, of
+course, need to be 'open' to require integration - but this is where the
+largest demand is.
+Proprietary systems are also 'integrated' - but most of the integration is
+performed by the manufacturer and the system is sold as a complete solution.
+Open systems bring the advantages of user choice and flexibility - but there
+is a price to pay. They are constructed from hardware and software
+'components' which are usually sourced from several different manufacturers.
+They will almost certainly involve the use of a technological design
+framework which separates systems functions into users and services. This
+approach is usually referred to nowadays as client-server computing.
+Advanced skills are a pre-requisite to bring these components together to
+create coherent and useful applications. Systems integrators must have a
+wide knowledge of 'componentry' and how it may be brought together
+successfully.
+They must also have strong software development skills because integrated
+systems invariably require some 'custom-built' components to meet the
+application need.
+The perceived demand for systems integration has attracted a growing number
+of supplier and services companies in the past two or three years.
+Established hardware manufacturers in particular have seen systems
+integration as a growth area as margins on hardware have fallen. IBM, DEC,
+Groupe Bull, ICL and Unisys have emphasised their systems integration
+talents in recent years and their service revenues have grown accordingly.
+They are not the only contenders. Large consultancy companies such as EDS,
+Andersen Consulting and KPMG have also made a large dent in the market as
+indeed have traditional custom software developers such as Logica, SEMA and
+CGS.
+Successful systems integration depends on a broad foundation of standards
+for both hardware connections and software compatibility.
+Some standards are drawn from formal efforts by international standards
+bodies such as the International Standards Organisation (ISO) and the
+American National Standards Institute (ANSI).
+But many of the standards which make integrated systems possible have
+evolved from proprietary industry standards such as IBM's SQL database
+standard, which is used to link desktop data tools to database servers.
+Given the importance of open systems standards, it is no surprise that the
+lead in systems integration has come from the public sector.
+The procurement policies of government departments have pushed the cause of
+open systems and put many of them in the front line.
+'The UK government's decision to force open systems by legislation has been
+good for the systems integration market,' says Mr Philip Crawford, UK
+managing director of Groupe Bull.
+He goes on to say that there are other reasons why the demand for systems
+integration has grown faster in the government sector than in the commercial
+sector:
+'For the last two years companies have been holding off making large
+investment decisions because of the recession - and obviously the recession
+hits commercial world much more than it hits the government sector.'
+Mr Crawford adds that this has depressed the market - but that there are
+signs that this is starting to change:
+'The market has probably grown at around 15 per cent - when two years ago we
+expected it to be more like 40 per cent. But it is now being driven by the
+user. The demand for systems integration is coming from the user because
+they are crying out for usable power.'
+This demand is manifested in the demand to integrate desktop PCs into
+existing systems. The PC is obviously the best way to deliver usable power
+to the desktop.
+Mr Crawford warns, however, that there are dangers:
+'The PC is two different tools. If you think of it like a car - it is
+excellent for driving around town but it is also pretty good on the
+motorway. Good systems integration makes sure that the corporate strategy -
+the motorway - does not overwhelm the desktop,' he explains.
+Groupe Bull's systems integration strategy, like many others, is based on
+developing the right combination of technical skills and relating these to
+business problems.
+It also sees the wisdom of securing alliances with other important players
+in the market and recently signed an agreement with software developer
+Microsoft to integrate PC software with its own larger systems.
+'This is more than a marketing agreement. We have had to work hard to prove
+to Microsoft that we have the integration skills and the support services to
+do the job,' says Mr Crawford.
+The deal will give Groupe Bull advanced access to important Microsoft
+developments such as the Windows NT operating system, which looks set to be
+a leading component in future client-server systems.
+This level of software is increasingly important to the success of systems
+integration as indeed is the move to object-oriented computing, which will
+help to enforce standards for software components.
+Despite this, systems integration will never be easy - especially as the
+number of choices open to users increases.
+'Users have developed an attitude which means that they expect information
+technology to support them - whereas a few years ago they had to put up with
+what they were given. But because of openness, there are far more decisions
+to make now and it is certainly is not getting any the less complex,'
+observes Mr Crawford.
+Systems integrators are, therefore, in the unenviable position of having to
+keep up with every new technology development at the same time as meeting
+the growing demands of increasingly educated users.
+For this reason, systems integration is likely to remain an expensive option
+for the foreseeable future.
+
+The Financial Times
+
+
+London Page XV
+
+940316
+

@@ -1,0 +1,34 @@
+FT941-3296
+
+FT  16 MAR 94 / Survey of Information and Communications Technology (35):
+New paging system for Dutch prisons
+
+
+   By MICHAEL WILTSHIRE
+
+
+The Dutch group Teletechnicom and the Swindon-based company Blick Telefusion
+have won a contract to upgrade potentially life-saving radio-paging systems
+installed in Dutch prisons.
+Since 1986, the two companies have held the contract to supply radio-paging
+systems to 30 of the 45 prisons in Holland. But an unprecedented series of
+attacks on prison guards forced the Dutch ministry of justice to put out a
+tender for a more sophisticated system to be developed.
+Hostage situations have resulted in serious injury and even loss of life.
+The new paging system is marketed abroad under the title, Bodyguard.
+Location signals can be sent out by the pagers each time a guard passes one
+the many location code transmitters installed in prisons buildings.
+The pagers also register the last two loctions of the user in case of
+emergency and loss of contact. This data is relayed to a computer terminal
+programmed to show the location of all guards, using a schematic display of
+the prison.
+Others features include a 'man down' alarm, triggered by a floating mercury
+switch, a silent hostage alert button.
+
+The Financial Times
+
+
+London Page XIX
+
+940316
+

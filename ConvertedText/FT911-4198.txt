@@ -1,0 +1,90 @@
+FT911-4198
+
+FT  20 APR 91 / Minding Your Own Business: Always remember the human factor
+ -Computing
+
+
+   By DAVID CARTER
+
+
+THE THEORETICAL benefits of putting your sales and purchase ledgers on to
+computer are great. All the number-crunching is done automatically and with
+total accuracy. Statements can be printed at the touch of a button. You can
+produce an up-to-date printout of a supplier's or customer's account at any
+time.
+Cash is the lifeblood of any business and many small businesses are badly
+short of it. The cash position must be monitored weekly, even daily, so as
+not to exceed your overdraft limit. The trio of cashbook, sales ledger and
+purchase ledger work together in giving you control of the daily flow of
+cash into and out of the business. The cashbook tells you how much you have
+in the bank. The purchase ledger tells you how much is due to go out to your
+supplier, and when. The sales ledger tells you how much is due in from your
+customers and when.
+But in practice these benefits may not fully be realised. The introduction
+of a computer can show up cruelly the lack of financial skills in a small
+business. Businesses buy a computer to do their accounts, then hand it over
+to the office junior to run. Sadly this breaks a fundamental rule - the
+person who does the accounts needs to understand accounting.
+As time passes, errors will creep into any record-keeping system. Invoices
+are omitted or put on twice. A cheque for Pounds 115.20 is copied wrongly
+into the books as Pounds 112.50. Invoices are posted to the wrong customer
+account. These errors must constantly be searched for, detected and weeded
+out.
+Over the years the accounting profession has devised ways of 'reconciling'
+one account book with another in order to eliminate errors. At the end of
+each month the bookkeeper goes through this series of reconciliations. If
+the totals of two books disagree it signals an error. He works his way back
+through all the month's postings until ultimately he finds the source of the
+error. Then he reverses it out, enters the transaction correctly and
+recalculates the totals. When the totals of the various books finally agree
+it signals that errors have been eliminated. Only now are the account books
+proven accurate; only now can the bookkeeper start to write up the accounts
+for next month.
+With a computer the same end of month reconciliations must be done. In some
+ways computerised accounts are more exacting than manual. Suppose you have a
+customer who is also a supplier. He owes you Pounds 1,000 but you owe him
+Pounds 600, so he sends you a cheque for Pounds 400. The account postings
+for this are quite complicated. With a manual system you can record the
+Pounds 400 receipt in the cashbook, scrawl a note beside it explaining what
+happened, and let the accountant sort it out at year-end. But a computer is
+rigid and inflexible and you do not have this let-out. You have to get those
+account postings on to the computer properly, and you have to get them on
+NOW.
+So before buying an accounts package you must take a hard look at yourself
+and the way you keep your current financial records. Do you employ an
+experienced bookkeeper - either part-time or full-time? If not, how
+financially literate are you and your staff? (As a rough test, is there
+anyone on board who understands the difference between a sales ledger and a
+sales daybook?)
+What is the state of your current manual system? Are you running a cashbook?
+Is it up to date? Is it reconciled to the bank statement each month? Do you
+run sales and purchase daybooks? Are they up to date? Do you run sales or
+purchase ledgers? Is the purchase ledger reconciled each month to supplier
+statements? Do you run control accounts reconciling the ledgers to the
+daybook and cash book?
+The more often you answer 'No' to these questions, the more of a mess your
+books are likely to be in. You will have to get someone in to clean them up
+before you can even start to run them on a computer. But even this is not
+enough. Part of my own education as a consultant was to sort out a company's
+manual books, post them on to the computer, train the staff in operating it
+ -and then watch helplessly over the next six months as the computer system
+slowly drifted back into a mess similar to that before it arrived.
+It is pointless to buy accounting packages to run on your computer if your
+staff cannot do the end-of-month reconciliations.
+An unreconciled ledger will run to seed and the figures will become
+untrustworthy. People then lose confidence in the computer and start blaming
+it for being 'wrong'. But what else can you expect if the person running the
+accounts does not understand accounting? Bookkeeping is a precise, skilled
+and intensely practical craft. So before you buy an accounts package make
+sure you have an experienced bookkeeper in place to run it properly, and buy
+the package (Pegasus, Sage, or whatever) which he knows and wants to use.
+David Carter is a consultant in information systems for small companies.
+Tel: 0727-55996.
+
+The Financial Times
+
+
+London Page VI
+
+910420
+

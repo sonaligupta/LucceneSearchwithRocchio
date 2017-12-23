@@ -1,0 +1,140 @@
+FT922-7183
+
+FT  20 MAY 92 / FT Law Report: Bank rescue is tax deductible
+
+
+   By RACHEL DAVIES, Barrister
+
+
+LAWSON (HM Inspector of Taxes) v JOHNSON MATTHEY PLC
+House of Lords (Lord Keith of Kinkel, Lord Emslie, Lord Templeman, Lord Goff
+of Chieveley, Lord Jauncey of Tullichettle): May 14 1992
+MONEY contributed to the resources of an insolvent subsidiary by its parent
+company as a term of the sale of all its shares to the Bank of England to
+remove the threat posed by the insolvency to the parent's business, is a
+payment to preserve the parent from collapse, not to procure the transfer of
+shares, and is therefore a revenue, not capital, expense deductible from
+profits for corporation tax purposes.
+The House of Lords so held when allowing an appeal by the taxpayer, Johnson
+Matthey plc, from a Court of Appeal decision that its Pounds 50m injection
+into an insolvent subsidiary was a capital expenditure.
+LORD TEMPLEMAN said Johnson Matthey traded in platinum.
+In 1984, it owned all the shares in Johnson Matthey Bankers (JMB), a banking
+company which assisted the financing of its trade.
+On September 30 1984, JMB and Johnson Matthey realised JMB was unable to pay
+its debts and that without further capital it could not open for business
+the following day.
+Johnson Matthey also realised that if JMB ceased business as a result of
+being unable to meet its debts, creditors of Johnson Matthey, particularly
+those who were also creditors of JMB, would demand immediate repayment and
+withdraw credit facilities.
+If JMB could not open for business the following day, Johnson Matthey could
+not continue to trade.
+In those circumstances, Johnson Matthey agreed to sell the JMB shares to the
+Bank of England for Pounds 1 and to contribute Pounds 50m to JMB's
+resources.
+The Bank of England agreed to buy the shares on those terms.
+The Pounds 50m repayment was necessary and was made to enable Johnson
+Matthey to continue to trade. The objects were achieved and Johnson Matthey
+continued to trade.
+Section 74 of the Income and Corporation Taxes Act 1988 provided that in
+computing profits of a trade, no sum should be deducted for expenses 'not
+being money wholly and exclusively laid out or expended for the purposes of
+the trade'.
+The General Commissioners found, and it was not disputed, that the Pounds
+50m was wholly and exclusively laid out for the purposes of Johnson
+Matthey's trade. It was made for the purpose of preserving that trade and
+for no other purpose.
+But that finding did not automatically enable Johnson Matthey to deduct
+Pounds 50m in the computation of its profits. The deduction could only be
+made if the Pounds 50m was a revenue, and not a capital expenditure.
+The General Commissioners held that as a payment to preserve an existing
+business, the Pounds 50m was of a revenue nature.
+Mr Justice Vinelott and the Court of Appeal concluded the Pounds 50m was
+paid to get rid of the shares. They held it was a capital expenditure.
+In British Insulated and Helsby Cables v Atherton (1926) AC 205, Viscount
+Cave said 'where an expenditure is made, not only once and for all, but with
+a view to bringing into existence an asset or an advantage for the enduring
+benefit of the trade . . . there is very good reason . . . for treating such
+an expenditure as properly attributable not to revenue but to capital'.
+In the present case the Pounds 50m payment did not bring an asset into
+existence, and did not procure an advantage for the enduring benefit of the
+trade.
+So unless the payment was made for the transfer of an existing asset, namely
+the shares in JMB, the Pounds 50m was not capital expenditure.
+In Mitchell v Noble (1927) 1 KB 719, 737 Lord Hanworth MR, holding the
+relevant payment to be an income expense, said 'a payment made in the course
+of business with reference to a particular difficulty . . . was made not to
+secure an actual asset to the company, but to enable the company to continue
+to carry on'.
+In the present case, the Pounds 50m was made in the course of business,
+dealing with the particular difficulty which arose on September 30 1984 as a
+result of JMB's insolvency; and it was made to enable Johnson Matthey to
+continue to carry on business unimperilled by its association with JMB.
+In Anglo-Persian Oil (1932) 1 KB 124, Lord Justice Romer pointed out that in
+applying the test in Atherton 'enduring' meant 'enduring in the way that
+fixed capital endures'. The advantage did not need to be positive, but might
+consist in getting rid of fixed capital of an onerous character.
+The item of fixed capital which was got rid of, the JMB shares, were not
+themselves of an onerous character. The Pounds 50m payment had no enduring
+effect on Johnson Matthey's capital. It prevented the whole of Johnson
+Matthey's business from being brought to a grinding halt.
+In Southern v Borax (1941) 1 KB 111, Mr Justice Lawrence, holding that
+payments were revenue, said 'if no alteration is made in the fixed capital
+asset by the payment, then it is properly attributable to revenue, being in
+substance a matter of maintenance'.
+By 'maintenance' he was taken to mean 'preservation'. In the present case
+the expenditure preserved the whole business, though it did not preserve any
+particular asset.
+In Associated Portland Cement (1946) 1 ALL ER 68, a payment was held to be a
+capital asset because the company had thereby improved the value of its
+goodwill and brought into existence an advantage for the enduring benefit of
+the trade.
+In the present case, goodwill was not improved, but saved from extinction.
+In CIR v Carron (1967) 45 TC 18 the expense of a new charter which
+facilitated administration and management of the company was held to be a
+revenue expense because the object was to remove obstacles to profitable
+trading.
+The Johnson Matthey/JMB association was a formidable obstacle to trading at
+all.
+In Tucker (1979) 1 WLR 683, Lord Wilberforce said it was logical to start
+with the assumption that money spent on acquisition of an asset was capital
+expenditure. He said: 'Extensions from this are first, to regard money spent
+on getting rid of a disadvantageous asset as capital expenditure and,
+secondly, to regard money spent on improving the asset, or making it more
+advantageous, as capital expenditure.'
+In the light of the authorities, it seemed that if the Pounds 50m was paid
+to procure the transfer of shares it was attributable to capital. If paid to
+remove the threat posed by JMB's insolvency to Johnson Matthey's
+continuation in business, it was attributable to revenue.
+The Pounds 50m was paid solely to enable Johnson Matthey to be able to
+continue in business. The shares were fully paid and worthless. They did not
+constitute a threat to anybody.
+JMB's insolvency was a threat to Johnson Matthey, and the Pounds 50m was
+paid to remove that threat.
+The Pounds 50m was not paid to persuade the Bank to take the shares. It was
+paid to persuade the bank to rescue JMB.
+The appeal was allowed.
+LORD GOFF agreeing, said the payment did not become a revenue payment simply
+because Johnson Matthey paid with the purpose of preserving its trade from
+collapse.
+The question was rather, whether on a true analysis of the transaction, the
+payment was to be characterised as a payment of a capital nature.
+That characterisation did not depend on motive or purpose.
+It depended on whether the sum was paid for the disposal of a capital asset.
+On a true analysis, the sum was not paid for the shares. It was paid as a
+contribution towards the rescue of JMB.
+It was a revenue payment.
+Their Lordships agreed with both judgments.
+For the Crown: Alan Moses QC and Launcelot Henderson (Inland Revenue
+solicitor).
+For Johnson Matthey: Andrew Park QC and Thomas Ivory (Taylor Joynson
+Garrett).
+
+The Financial Times
+
+
+London Page 16
+
+920520
+

@@ -1,0 +1,124 @@
+FT932-273
+
+FT  29 JUN 93 / FT Exporter (21): Lubricating the cash flow - A
+cost-effective and efficient mechanism for expediting payments by cheque in
+Europe, Britain and the US / Lock boxes
+
+
+   By MARK RUNIEWICZ
+
+
+THERE are times when it is not good news to hear that 'the cheque is in the
+post'. Not when it may take four weeks to clear. When cash flow is critical,
+every day lost before the cheque is cleared can be costly. But a 'lock box'
+can change all that.
+Even though there are quicker ways of getting paid - like electronic
+transfer (though even this can be delayed if you fail to provide the buyer
+with full and accurate details, including a bank identification code) -
+still a large share of trade around Europe is settled by cheque.
+Some buyers prefer cheques as a deliberate ploy to delay payment: after it
+arrives, the cheque must be presented to a local bank branch, which will in
+turn forward it to the national headquarters of your company's bank, which
+must in turn present it to the buyer's bank overseas.
+This loop can take 28 days to clear.
+Many companies are also unaware that, when they present cheques drawn on an
+overseas bank to their bank and their account is immediately credited with
+sterling, they are receiving an advance. The bank charges interest for the
+advance, which is built into the exchange rate and is called a negotiation.
+Should the cheque be countermanded or unpaid when presented to the overseas
+bank on which it is drawn, the UK bank will reclaim the advance converting
+sterling into the currency of the cheque at the prevailing exchange rate.
+One (typical) UK company receives cheques from its German buyer drawn on a
+bank in Frankfurt. The UK company pays the cheques into its UK bank account
+and immediately receives sterling. A recent cheque was received for
+DM250,000 and was converted at the cheque buying rate of DM2.4875 to the
+pound, providing Pounds 100,502 less bank charges of Pounds 60. The company
+also had this advance marked against its banking facilities.
+Had the German buyer remitted the funds electronically the UK supplier would
+have received a further Pounds 874 at an exchange rate of DM2.4675 to the
+pound. The UK company receives 20 cheques a year from this source but was
+not aware of the hidden costs in excess of Pounds 17,000 per annum accruing
+by transacting business using this method. The company was selling to other
+markets in a similar manner and costs in excess of Pounds 65,000 were
+identified.
+So exporters should remember that the buyer extends the credit period at
+their expense.
+If you have no choice but to accept payment by cheque, the 'lock box'
+arrangement can also be used to cut the payment loop back to five days. It
+works like this: if the buyer is a German company you set up a 'lock box'
+bank account with a reputable German bank.
+You then ask the German buyer to present the cheque to the German bank,
+giving full account details of the 'lock box'.
+This clears at the same speed of a domestic cheque, and once deposited can
+be notified to your main banker in France, the UK or elsewhere in Europe.
+The cheque will not only be cleared quickly, but the funds can be remitted
+electronically to the exporter's UK bank account.
+The lock box is available in Europe, north America and the UK and provides a
+cost-effective and efficient solution for companies receiving cheques drawn
+overseas and helps exporters avoid one of the tripwires in trading overseas.
+The author is trade finance consultant, the Bank Relationship Consultancy,
+2/8 Victoria Avenue, Bishopsgate, London EC2M 4NS. Tel: (071) 283 5454.
+ -----------------------------------------------------------------------
+EXPORT CREDIT AND COLLECTION SURVEY
+ -----------------------------------------------------------------------
+Main non-European markets
+Country           Exchange         Collection       Most liberal
+                    delays         experience          suggested
+                  (months)                                 terms
+ -----------------------------------------------------------------------
+Australia               2           Good-fair                 OA
+Brazil                  5                Fair                ULC
+Canada                  2           Good-fair                 OA
+Chile                   2           Good-fair              30/SD
+Egypt                   3                Fair                ULC
+Ghana                   3                Fair                ULC
+Hong Kong               2           Good-fair                 SD
+India                   3           Fair-good                 SD
+Indonesia               3           Fair-good                 SD
+Israel                  3                Fair                 SD
+Jamaica                 4                Fair                ULC
+Japan                   1                Good              90/SD
+Kenya                   4           Fair-poor                ULC
+Korea S                 3           Fair-good                 SD
+Kuwait                  3                Fair                ULC
+Malaysia                2           Good-fair                 SD
+Mexico                  2           Fair-good              30/SD
+New Zealand             2           Good-fair              30/SD
+Nigeria                 4           Fair-good                ULC
+Oman                    2                Good                 SD
+Pakistan                3           Fair-good                ULC
+Philippines             3           Poor-fair                ULC
+Saudi Arabia            2           Fair-good                 SD
+Singapore               2           Good-fair              30/SD
+South Africa            3           Good-fair                 SD
+Thailand                3           Good-fair                 SD
+Trinidad and Tobago     3           Fair-poor                ULC
+Turkey                  3           Fair-good                 SD
+UAE                     3           Fair-good                 SD
+US                      2           Fair-good                 SD
+Venezuela               3                Fair                 SD
+Vietnam                 5           Fair-poor                CLC
+ -----------------------------------------------------------------------
+Notes: 1 OA - Open account, ULC - Unconfirmed letter of credit, CLC -
+Confirmed letter of credit, SD - Sight draft, 30/SD - 30 days' sight
+draft; 2 Exchange delays refer to the time taken from the due date for
+the importers to deposit local currency with the central bank or other
+authorising body and for foreign currency to be deposited with the
+exporter; 3 Collection experience refers to the risk attached to
+exchange delays; 4 The above represent indications of delays and
+experience. Exporters' individual experiences can vary considerably,
+depending on their relationship with their buyers, the type of goods
+involved, etc; 5 All the above countries appear in the UK Department of
+Trade and Industry's List of Target Markets
+ -----------------------------------------------------------------------
+Source: Financial Times International Trade Finance, a newsletter
+published fortnightly by Financial Times Business Enterprises Ltd
+ -----------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page XVIII
+
+930629
+

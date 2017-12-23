@@ -1,0 +1,122 @@
+FT921-400
+
+FT  30 MAR 92 / Survey of Lloyd's of London in World Insurance (18): Light
+fingers on the keys / A look at risks in the age of electronic theft
+
+
+   By TREVOR PETCH
+
+
+IN THE early 1920s, an enterprising underwriter and broker called Harrison
+wrote, on behalf of his five-member syndicate, a number of financial default
+policies guaranteeing hire-purchase agreements for cars and particularly
+taxis.
+Further premium income could be generated, he discovered, by covering unsold
+vehicles still on dealers' stocks, and credit instruments drawn up not to
+fund purchases but for sale in the financial markets. It must have seemed
+but a short step to the logical conclusion of insuring vehicles which were
+also imaginary.
+Not surprisingly, the enterprise ended in tears. Mr Harrison's book-keeping
+was as creative as his underwriting. The syndicate was unable to meet its
+commitments, and its losses were met by a special policy underwritten by
+every single member of Lloyd's at a guaranteed loss.
+The episode was instrumental in the establishment in 1927 of Lloyd's Central
+Reserve Fund. An even more direct result was a ban, which continues to the
+present, on presentation in the Underwriting Room of credit insurance
+covering debts owed to a commercial trader, although this was not
+universally supported.
+Cuthbert Heath, the most influential underwriter of his generation, was a
+strong believer in credit insurance, but despite his protests he was forced
+to continue his interest through CE Heath & Co's shareholding in the Trade
+Indemnity Co (now Trade Indemnity plc).
+Mr Heath and his supporters did gain one concession: reinsurance, rather
+than direct cover, of such credit risks was permitted, and continues to be
+written.
+Furthermore, the restriction applies to commercial risks only. Political
+risks, where the debtor is a governmental entity, may still be written and
+Lloyd's is one of the largest markets for such business.
+The collapse of the command economies of eastern and central Europe has led
+to the decentralisation of international trade away from state organisations
+to individual commercial enterprises, which Lloyd's cannot technically
+underwrite. If nothing else, this has highlighted the artificiality of the
+1923 blanket ban, which sections of the market are lobbying to be modified.
+Lloyd's is also a leading source of cover for financial institutions. At the
+core of this class of business is fidelity and theft cover for banks,
+enabling protection of cash against the threat of appropriation by employees
+as well as expropriation by robbers. Such cover is compulsory by law for US
+banks, and one of Lloyd's early innovations was the Banker's Blanket Bond
+providing comprehensive protection in one package.
+During the 1960s, demand for policies of this kind grew as financial markets
+increased in sophistication and the type of financial institutions became
+more diverse. Simple cover for theft of cash on the premises and in transit
+together with employee fidelity became patently inadequate, according to
+Alec Sharp, underwriter of Castle Underwriting Agents syndicate 839, and a
+leader in the financial institutions market.
+What had once been staid leading banks in the US and the UK, as well as in
+Europe, began to develop their range of activity; merchant banks grew in
+strength; and these were supplemented by an expansion of hire-purchase
+companies, leasing companies, trust funds and other manifestations of what
+became known as the secondary banking sector.
+The new patterns of business led to the reappraisal of insurance
+requirements. 'Insurance can be proactive or reactive,' Mr Sharp comments.
+'In this case, it was reactive to the situation, but proactive in developing
+the covers.'
+By the early 1970s, however, the so-called secondary banking crisis
+evidenced by the collapse of some of the new financial institutions had
+indicated that there were deficiencies in the system. From the institutions'
+point of view, business had grown out of proportion to its underlying
+technical structure, while insurers perceived that the risk element had
+escalated beyond that previously considered.
+One element, for example, was insurers' exposure to losses which were
+primarily commercial in nature but contained an element of infidelity.
+In one well-known case, a foreign exchange dealer employed by a leading UK
+clearing bank in Switzerland began losing money. In an attempt to cover his
+losses, he concealed information from head office and attempted to cover
+them by further overtrading. When it was eventually discovered, the insured
+portion of the loss was paid, but subsequently a joint Lloyd's and London
+company market committee agreed that events of this kind should not be
+covered in future.
+The result was the introduction of the standard wording that actions
+involving the infidelity of employees would be covered only when they
+involved 'improper personal gain'. The analogy with theft was now clear, and
+together with cover of cash on the premises and in transit, forgery,
+counterfeit currency and fraud, the primary purpose of the core policy to
+protect against losses due to criminal activity rather than bad debts or
+trading losses was boosted.
+In a faint echo of the Harrison case, the dangers inherent in covering
+leasing business were further reinforced in 1975-6 by heavy losses suffered
+on policies written to indemnify computer leasing companies against the
+effects of the termination of the contracts. These caused Lloyd's worst
+results of the 1970s, but they were the result not of fraud but of an
+inadequate appreciation by most of the underwriters involved of the effects
+of rapid technological change upon the risk element of the business they
+were writing.
+The development of financial institutions cover is, in Mr Sharp's view,
+Lloyd's major innovation in the last 20 years, and further refinements have
+continued. As the international banking system has come to rely increasingly
+on telecommunications and computer operations, perils covered have been
+extended to include fraudulent manipulation of telex, fax and
+'voice-initiated' transfers.
+The first computer crime policy was developed by David Newman in 1982, but
+market conditions at the time were not conducive to innovation. However, the
+cover has grown in importance over the last few years. As well as electronic
+communications media, these policies also cover external manipulation of
+banks' computers.
+'The exposures are massive, but the controls are good,' Mr Sharp says, since
+the perpetrator faces the problem of converting the electronic balance into
+real cash. Most sums stolen in this way have been subsequently recovered not
+only due to controls against such thefts per se, but because of controls
+introduced to prevent the laundering of profits from drug dealing and other
+crimes.
+Such cover is now an integral part of any financial institution's insurance
+package, and includes protection against damage to electronic data, media
+and transmissions caused by computer viruses.
+Trevor Petch is editor of the FT World Insurance Report.
+
+The Financial Times
+
+
+London Page IX
+
+920330
+

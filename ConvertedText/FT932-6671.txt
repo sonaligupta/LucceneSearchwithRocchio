@@ -1,0 +1,157 @@
+FT932-6671
+
+FT  27 MAY 93 / Economic Viewpoint: What the Budget could look like
+
+
+   By SAMUEL BRITTAN
+
+
+Michael Portillo's celebrated scrutiny of UK public spending is not strictly
+what the Americans would call a zero-based review. In other words, it does
+not ask if there would be a National Health Service or state education if we
+were starting in a new country with a clean sheet. But within roughly the
+framework of existing institutions, it is meant to ask fairly fundamental
+questions about coverage, methods and means of payment.
+Less clear is the period of time meant to be covered. The main impact of any
+radical decisions would be felt after 1995-96, the period covered by present
+medium-term plans. As for the coming two financial years themselves, the
+official attitude seems to be that any savings would be welcome, but no one
+is counting on too much. In fact some unpopular moves may be required to
+enable the government to stay within the ceilings for the present three-year
+period which have supposedly been agreed by the cabinet.
+Meanwhile a lot of work is being done on how best to measure the
+government's deficit. One of the stock subjects of business indignation
+relates to the absence of a proper public sector capital account. The famous
+Public Sector Borrowing Requirement (PSBR) resembles a confusingly combined
+profit and loss and capital account. This seems to many trained in the
+private sector a recipe for confusion.
+The chancellor in fact promised in his Mansion House speech last October
+that the first unified Budget to be presented towards the end of this year
+'will be drawn up in a way that makes a proper distinction between current
+and capital transactions'. He added that this would underpin 'the
+government's commitment to infrastructure investment in the longer run'. It
+will also make the Budget deficit look smaller.
+There are undoubted benefits in presenting the public sector accounts in as
+similar a way to private sector ones as possible and also in having the same
+kinds of accounts for different parts of public sector. Very often however
+this reform is put forward as a panacea by people who do not understand the
+fundamental differences between government and business. Sometimes the
+motive seems to be to find a way of reconciling calls for economies in
+government spending in general with more spending in areas in which the
+critic happens to be interested.
+The best way to see both the value and the limitations of a separate public
+sector capital account is to try to do so oneself on the back of an
+envelope. Such an effort can never hope to anticipate exactly the
+distinctions that Treasury officials will come up with next November, when
+moreover fresh estimates of revenue and expenditure will be available But it
+should reveal the main contours.
+The tables in this article are a simple rearrangement of the last table
+(7.9) in the Red Book accompanying the 1993 Budget. In the Red Book itself
+the items are just classified as receipts or expenditure. Here the spending
+items normally regarded as capital by national income statisticians have
+been segregated from the others. (The expenditure 'reserve' has also been
+divided between capital and current.) There is, however, a reluctance in the
+Treasury to apply the same treatment to Pounds 7bn of so-called capital
+receipts. This is a category covering items such as capital gains tax which
+is indexed and is not really levied on capital.
+If we apply the suggested procedures to the estimates already given at the
+time of the March Budget, the result is to divide up the envisaged Pounds
+50bn PBSR into a current deficit of about Pounds 30bn, a capital spending
+total of nearly Pounds 25bn and an offsetting inflow on financial
+transactions of some Pounds 5bn. (The latter are mainly privatisation
+receipts.)
+The Treasury has in some recent publications shown a higher figure - of
+about Pounds 30bn - for public sector asset creation. This has been reached
+not only by ignoring the revenue side, but also by adding in investment by
+the nationalised industries and other public corporations. This is cheating.
+For, in a reform introduced by a Labour government in the 1970s,
+nationalised industry was excluded from the public spending total, so long
+as it was self-financed and not a charge on the Treasury.
+At between 5 1/2 and 6 per cent of GDP, the UK public sector current deficit
+shown in the table would be substantially lower than the 8 cent of GDP
+represented by the PSBR; and it is more plausible to believe that most of
+the lower figure is due to recession.
+The instinct of the traditional Treasury official is to say that the whole
+PSBR has to be financed irrespective of how one chooses to divide it up.
+Indeed the chancellor next November may well try to have it both ways - to
+emphasise the lower current deficit to the financial markets while telling
+spending departments that the whole PSBR has still to be financed.
+Indeed there are ways in which official estimates of public capital
+expenditure over-estimate the amount of spending for longer-term productive
+purposes. How many of those who clamour for more capital and less current
+spending realise that nearly Pounds 6bn of military spending counts as
+capital? On the other hand the payment of salaries to science teachers
+counts as current expenditure.
+The current-capital distinction is not nearly as illuminating here as it is
+in the private sector. The basic point is that government lacks the simple
+business test of intended future cash return to decide what really is its
+capital spending. So the division between current and capital is much more a
+conventional demarcation between payments for resources which are used up in
+a single year and those which leave buildings, machines or stocks of
+equipment behind.
+There is indeed an almost unlimited number of respectable ways of defining
+the Budget deficit. But to pursue them all is not consistent with continued
+sanity. Here, however, are a few hints.
+You can reduce the deficit further by asking for it to be estimated on an
+inflation-adjusted basis. Even at current relatively low rates of inflation,
+a large proportion of government interest payments can be regarded as
+compensation to debt-holders for the falling value of money. Moreover, the
+government has never seen fit to publish a cyclically adjusted deficit which
+would eliminate that part which is just the reflection of recession.
+If, on the other hand, you think the tentative separation of capital from
+current spending in the tables lets the government off the hook too lightly,
+try insisting on measuring capital spending net of depreciation. If you do
+that, you will be back not far from the original PSBR figure. If you want to
+make deficits look larger still, add on something for the unfunded social
+security liabilities in the next century as the population ages.
+In the most highbrow circles of all the key concept is the primary deficit
+before debt servicing. The point is that a sufficient primary surplus is a
+pre-condition for reducing the level of national debt or its ratio to GDP.
+The primary balance was indeed mentioned by Mr Portillo last week - the
+first time by a British Treasury minister.
+Its application produces bewildering results. The UK has the highest primary
+deficit among the industrial countries. On the other hand, Greece, Italy and
+Belgium - normally regarded as fiscal basket cases - emerge with quite large
+primary surpluses.
+What this means is not that the UK is worse off but that countries such as
+Italy are in a fiscally bad way and gradually getting better, while the UK
+starts off from a pretty sound budgetary position but is gradually getting
+worse. Hence the flap.
+In the end experience shows how large a deficit a government can afford and
+if that is too large no amount of playing with definitions can help.
+ --------------------------------------------------
+PUBLIC SECTOR BALANCE: TOWARDS A NEW PRESENTATION
+ --------------------------------------------------
+1993-94 estimates (pounds bn)
+ --------------------------------------------------
+Current expenditure                     262.4
+Current receipts                        232.0
+Current deficit                          30.4
+Capital spending                         24.8
+Financial deficit                        55.2
+Surplus on financial transaction *        5.1
+Public sector borrowing requirment       50.1
+ --------------------------------------------------
+* Mainly privatisation proceeds
+ --------------------------------------------------
+DRAFT PUBLIC SECTOR CAPITAL BUDGET
+ --------------------------------------------------
+1993-94 estimates (pounds bn)
+ --------------------------------------------------
+Gross domestic fixed capital formation** 18.3
+Increase in stocks                        0.2
+Capital grants to private sector          5.3
+Share of expenditure reserve              1.0
+ --------------------------------------------------
+Total capital spending                   24.8
+ --------------------------------------------------
+** Net of Pounds 0.2 bn of capital transfer
+ --------------------------------------------------
+
+The Financial Times
+
+
+London Page 22
+
+930527
+

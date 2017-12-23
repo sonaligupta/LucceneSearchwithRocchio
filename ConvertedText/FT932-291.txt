@@ -1,0 +1,93 @@
+FT932-291
+
+FT  29 JUN 93 / Survey of Computer Networking (9): Mid-range Unix faces a
+crunch - The prospects for the main operating systems strategies
+
+
+   By PHIL MANCHESTER
+
+
+THIS year may be the turning point for Unix, the computer operating system
+developed more than 20 years ago by the US telecommunications giant AT&T.
+Technical development of Unix will soon fall under the control of PC
+networking specialist Novell following its takeover of Unix System
+Laboratories (USL). There is growing interest in 'downsized' open computer
+systems based on Unix and a renewed sense of unity among Unix suppliers.
+This should mean that Unix will, at last, find a respectable place in
+commercial computing as an open foundation for portable applications which
+can run on many different computers.
+There are still doubts, however, and Unix's future may not be as rosy as
+many of its advocates think. The market it serves - so-called mid-range
+systems - has become a target both for large systems suppliers coming down
+from mainframes and for personal computer suppliers moving up from the
+bottom. It has, therefore, attracted alternatives. Operating systems
+software such as Unix is pivotal because it provides the foundation for
+applications.
+IBM, for example, offers its AS/400 minicomputer with its own operating
+software and its larger PS/2 personal computer systems running the OS/2
+operating system. Needless to say, IBM also supplies AIX, a version of Unix
+for its RS/6000 workstations.
+Last month Unix came under attack from Microsoft with launch of Windows NT,
+yet another potential alternative for mid-range computing.
+Despite these challenges, Unix has a proven record of survival. It was
+ignored by all except academics and researchers until a decade ago, when it
+became closely bound to the cause of open systems. Since then, it has almost
+become synonymous with 'openness'.
+Unix is relatively easy to move to new computers - making it popular with
+the new minicomputer manufacturers which emerged in the 1980s. Sun
+Microsystems, Pyramid, Sequent and others took Unix off the shelf and
+tailored it to their hardware, rather than face the expense of building an
+operating system from scratch.
+There were other factors. To sell their hardware successfully, manufacturers
+must offer appealing software applications. Unix has them by the hundred
+and, theoretically, they can work on any computer which supports Unix. In
+practice, things are not this simple and applications often need 'tweaking'
+to work on a different version of Unix. But this is still much less costly
+than attempting to move, say, an old IBM mainframe application to a Digital
+Equipment or Hewlett-Packard environment.
+Unix has other virtues. Until recently, its technical development was under
+the control of AT&T which, as a telecommunications company, had no axe to
+grind in the computer market. Following an unsuccessful attempt to attack
+IBM in the mid-1980s with its own Unix-based computers, AT&T has posed no
+real threat. This meant that Unix was mainly free of hardware manufacturers'
+influence and was able to develop along 'open' lines.
+Through the 1980s, Unix suffered from fragmentation as manufacturers
+'enhanced' it to suit their own hardware - making it difficult to move
+applications without changing them. This undermined the open principle to
+some extent and led to a succession of agreements and rival alliances aimed
+at producing a single Unix specification.
+At the start of the 1990s, tough market conditions helped force Unix
+suppliers together and, in March, they announced support for the Common Open
+Software Environment, a blueprint for single Unix standard. But this
+new-found unity may owe as much to the imminent threat of Microsoft and
+Windows NT as it does to any new sense of co-operation between rival
+hardware builders.
+Microsoft has recognised that the main market for future mid-range systems
+will come from current MS/DOS PC users. They will be more inclined to
+migrate to Windows NT, which offers them some continuity, than to a version
+of Unix or IBM's OS/2. While this is unlikely to affect Unix's aspirations
+in the market for 'downsized' systems, it will not help it gain the critical
+mass it needs to dominate the mid-range.
+However, Mr Neal Waddington, vice-president in charge of Tandem Computers'
+Unix operations, sees a good future for Unix in the downsizing market: 'The
+functionality gap between Unix and other proprietary systems is closing.
+While Unix is not completely open, from a customer point of view, it's good
+enough,' he says.
+'Customers are looking for the break-up of the vertically-integrated
+proprietary systems so they can buy best-of-breed products at every level,'
+Mr Waddington adds.
+He sees Novell's takeover of USL as 'very positive. It will lead to faster
+convergence of a standard at the binary level. This means we can have a Unix
+standard that we can add value to - rather than trying to add standards to
+our systems,' he says.
+He acknowledges, however, that Windows NT will be attractive to some
+customers - though he sees it making its mark on the desktop 'client' rather
+than in the back-end 'server' systems.
+
+The Financial Times
+
+
+London Page V
+
+930629
+

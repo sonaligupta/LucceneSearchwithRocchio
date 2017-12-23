@@ -1,0 +1,89 @@
+FT941-3310
+
+FT  16 MAR 94 / Survey of Information and Communications Technology (20):
+How automation cuts the invoice paper chase - Document image processing: two
+case studies
+
+
+   By JOHN KAVANAGH
+
+
+Matching invoices to orders and goods-received documents tends not to be a
+favourite job or a high priority for business people, writes John Kavanagh.
+British Gas North Eastern, which has six districts and a Leeds headquarters
+receiving 200,000 invoices a year from 8,000 suppliers, has automated the
+paper chase with document image processing and has reaped considerable
+benefit.
+Paper movement has been drastically reduced, people holding up the process
+have been pinpointed and cash flow has improved.
+The paper chase used to involve an order document going to a supplier and a
+copy being signed off as the goods-received note when the items arrived.
+Invoices were sent to the finance department in Leeds, which passed them to
+the relevant districts to be matched against the goods-received notes. These
+notes and the invoices were then returned to Leeds for the details to be
+keyed into the payments system. The documents were finally recorded on
+microfilm.
+Mrs Christine Kelly, invoice supervisor, recalls: 'There was paper flying
+about everywhere.'
+The invoice unit installed software from Image Systems Europe on its
+existing office network of ICL personal computers and Novell network
+software, which was already used for basic office automation such as word
+processing and spreadsheet processing.
+The PCs were fitted with large screens to display full images of documents
+and two Fujitsu scanners and three Sony optical disc systems were added, all
+supplied by Image Systems Europe. One of the optical disc drives is reserved
+for copying each day's work, for back-up.
+Goods-received notes and invoices are all scanned in as they are received
+from districts and suppliers. The order number is keyed in and stored with
+each document as the main reference point: an order number includes a code
+representing the district which made the order.
+The amounts on the invoice are also keyed in and put through a validation
+program to ensure, for example, that the figures add up and that the VAT has
+been calculated correctly.
+This information has to be keyed in because document scanning systems handle
+complete images and cannot recognise individual parts of different documents
+to capture an address or total figure.
+When the system receives an invoice it uses the order number to search for a
+matching goods-received note. If it does not find one it automatically
+directs a query to the relevant district office where staff can access the
+central optical disc system through their own PCs.
+Matched invoices are passed automatically to the payments system on the
+region's ICL mainframe computer. The mainframe link is also used to retrieve
+information such as supplier details from central files.
+The system has brought significant staff savings and enabled fewer people to
+deal with the same amount of work while providing better service. The paper
+chase has been largely eliminated and keyboard data entry and verification
+have been vastly reduced.
+Cash flow has improved because more suppliers are paid on time. 'We no
+longer pay them late - or early,' says Christine Kelly. 'Suppliers would
+phone to ask for payment and it was difficult to find the right bits of
+paper. We now have easy access to all the documents and can see if payment
+is due.'
+People's reluctance to check goods and sign goods-received notes was the
+biggest problem before but the system has got to grips with this. 'It's
+fantastic in this area,' Mrs Kelly says. 'Before, we knew we had queries but
+couldn't keep track of them. We now know exactly where queries are and can
+gee people up to act on them. We can now be proactive rather than reactive.'
+Software details:
+Product: Image Systems Europe tailors each document image and work flow
+management system to the customer's needs. British Gas uses a version called
+ISE Accounts Payable, which can match order documents to invoices and link
+to accounts payable systems. A fax facility is available. The system was
+launched in 1991. Number of users: six for ISE Accounts Payable: three
+British Gas regions, Tesco, Top Rank and Woking Borough Council. The company
+has 55 document and work flow management systems installed in the UK and
+Europe.
+Supplier: Image Systems Europe, formed as a UK company in Sheffield in 1990.
+Turnover in 1993-94 was up by 48 per cent at Pounds 2.14m.
+Price: Pounds 100,000-Pounds 150,000, including software, scanner and
+optical disc system but excluding PCs and networks.
+Hardware and operating systems: Novell networks, Unix computers and IBM-type
+PCs running OS/2.
+
+The Financial Times
+
+
+London Page XV
+
+940316
+

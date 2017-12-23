@@ -1,0 +1,98 @@
+FT932-13282
+
+FT  23 APR 93 / FT Quarterly Review of Personal Finance (13): Three new ways
+for serious investors to slice up the market - Measurement of UK equities'
+performance has become increasingly complex. But the ordinary saver should
+try to keep life simple / Equities, The UK Indices
+
+
+   By BARRY RILEY
+
+
+YOU STRUGGLE along with the old stock market indices for years, and then
+suddenly three new ones come along almost together.
+That must be how it appears to the average private investor, who has seen
+the FT-SE SmallCap index appear from the beginning of this year to join the
+FT-SE Mid 250 and the FT-SE 350 which first appeared last October.
+The result is that there is now a formidable range of indices published each
+day in the FT, covering just the UK equity market, let alone the markets
+overseas.
+Apart from the three new ones, there are the venerable FT 30-Share (or
+Ordinary Share) Index, the FT-Actuaries All-Share Index and also the UK
+Index published as part of the FT-Actuaries World Index series.
+If that is not enough, the All-Share is divided into more than 40 different
+sector indices, and the FT-SE 350 is split into 35 separate industry baskets
+(although only four of these are regularly published in the Financial
+Times).
+Stock market indices go back a long way. Charles Dow began publishing an
+average of New York-traded railroad stocks back in 1884, and 12 years later
+he devised his Dow Jones Industrial Average which is still the most popular
+measure of the ups and downs of Wall Street.
+In the UK, the London and Cambridge Economic Service also started an
+industrial index at the end of the 19th century, though only monthly; and
+the actuarial profession got into the index business in 1928 with a monthly
+Actuaries Index. But it was 1935 before the Financial Times began publishing
+a daily index.
+It was found that a stock market index was a potent marketing tool, drawing
+attention to the market and enabling investors to grasp a single number
+rather than cope with a confusing jumble of share prices all moving in
+different ways.
+However, for decades there were serious technological limitations. Charles
+Dow used a crude average of stock prices because it was easy to calculate,
+but this was a bit like averaging apples and oranges. The British actuaries
+had a better structure, but could only calculate the numbers once a month.
+The FT-30 used a more sophisticated geometrical model, in which adjusted
+share prices were multiplied together, which could be done fairly quickly
+using log tables. This proved perfectly adequate for day-to-day movements in
+normal circumstances. Eventually it was being calculated hourly by hand.
+However, the 30-Share Index had one or two quirks. If a constituent went
+bust, the whole index would collapse to zero; so weak companies had to be
+whisked out of the index before too much damage was done.
+Moreover, the construction of the index made it inevitable that over the
+long term it would rise more slowly than the total value of shares on the
+stock exchange (that is, the aggregate market capitalisation). It was a good
+tool for measuring short-term movements, but not the long-term performance
+of actual portfolios.
+By the early 1960s, advances in technology made it possible to attempt
+something much more ambitious. The actuaries and the FT joined to launch the
+FT-Actuaries series. This highly sophisticated set of indices, in which the
+constituents are weighted according to their market capitalisation, and
+which therefore behaves like a real portfolio, has set the pattern for
+almost all subsequent indices, both in the UK and internationally.
+More recently information technology has developed at an accelerating pace.
+Share prices no longer have to be individually collected (at one time they
+were chalked on a board by a man touring the jobbers' pitches on the floor
+of the Stock Exchange), but are continually fed into a computer network. So
+the 'real time', or minute-by-minute, index has become practicable. The FT
+30-Share Index is now calculated this way.
+Stock market indices have therefore now moved into a third stage of
+development. Whereas the first was to publicise overall market movements and
+the second was to provide benchmarks for portfolio performance, the third is
+to provide the raw material for so-called derivative products such as
+futures and options, and for the quantitative (or computer-based) techniques
+used by modern professional investment managers.
+The first of these indices, the Financial Times-Stock Exchange 100 Index,
+was launched in 1984 and was the UK's pioneering real-time index. Based on
+the 100 biggest stocks in terms of market valuation (updated each quarter),
+it was designed to be the basis for futures and options contracts.
+The very latest indices reflect the desire of sophisticated investors to
+slice up the stock market in different ways, according to the sizes of the
+companies. It has long been accepted that the chemicals sector, say, might
+move differently from the life insurance sector. Now, investors keep track
+of big companies, as opposed to small companies or even mid-sized companies.
+But it would be ambitious of private investors to attempt to keep up with
+all this. The amateur investor will be much happier with a single index that
+he knows and understands. He or she should be cautious about the complex
+matrix of sector and size indices that provide great scope for the
+computer-based boffin, but may provide no clear message about whether the
+market is going up or down or is just churning in what the buffs call a
+'sector rotation'.
+Probably Charles Dow would have found it all rather hard going, too.
+
+The Financial Times
+
+
+London Page XII
+
+930423
+

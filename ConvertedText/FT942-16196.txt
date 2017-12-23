@@ -1,0 +1,44 @@
+FT942-16196
+
+FT  12 APR 94 / More TV channels planned for Astra
+
+
+   By RAYMOND SNODDY
+
+
+SES, the Luxembourg company that owns the Astra television satellite system,
+said yesterday in London that it planned to have 14 more television channels
+on air by the end of this year.
+The new channels will become available if the launch of the fourth Astra
+satellite - scheduled for September or October this year - is successful.
+This will bring the number of satellite channels available all over Europe
+on the system to 64. Old receiving equipment is not, however, compatible and
+will either need a new LNB (the horn part of the satellite dish) costing
+about Pounds 40 plus fitting or a converter box which will cost about Pounds
+30.
+The main purpose of the fourth Astra satellite is to back up the first three
+in case of malfunction but it also has spare channels.
+The decision to go for 14 conventional satellite channels and only one or
+two experimental digital channels reflects the high demand for conventional
+channels and the fact that digital receiving equipment for consumers is not
+yet on the market.
+Two further Astra satellites, due for launch in 1995 and 1996, will be given
+over mainly to digital rather than existing analogue television channels.
+Television channels converted into digital form can be compressed allowing
+up to 10 channels to be squeezed into the capacity previously needed for
+one.
+There is a trade-off between the number of channels and picture quality, but
+by next year the first 150-channel systems could, in theory, be available
+over Europe.
+Eutelsat, Astra's main satellite television rival, will this week carry out
+Europe's first demonstration of simultaneous high-performance analogue and
+digital broadcasts from a single satellite transponder.
+Until now each channel has needed a dedicated transponder.
+
+The Financial Times
+
+
+London Page 8
+
+940412
+

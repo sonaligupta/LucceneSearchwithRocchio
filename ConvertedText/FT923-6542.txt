@@ -1,0 +1,82 @@
+FT923-6542
+
+FT  24 AUG 92 / 'Heads buried in the sand' over VAT rules: A look at EC
+changes facing importers and exporters
+
+
+   By ALAN CANE
+
+
+TIME IS running out for importers and exporters faced with meeting tough new
+European Community value added tax regulations from January 1.
+With four months to go, revenue authorities across the Community fear that
+many - perhaps most - companies have yet to take steps to change their
+business systems to satisfy the requirements.
+The new regulations will affect every company in the Community that imports
+or exports goods. They comprise a series of interim measures designed to
+bridge the gap between current national arrangements and a harmonised,
+Community-wide VAT system planned for 1997. They are designed to do away
+with the paperwork that causes delays at border crossings.
+They make mandatory a series of new reports, including comprehensive
+statistical records of the movements of goods and lists of sales to
+companies in the Community.
+Customs and Excise said: 'People seem to have been burying their heads in
+the sand, hoping the problem would go away. It will not go away and for some
+companies it may already be too late to make the deadline.'
+Customs and Excise says that about 140,000 UK companies trade with other EC
+countries each year and a further 420,000 believe they will be trading with
+other Community countries within three years. Yet most have not started to
+modify their computer systems to enable them to generate the new reports.
+Software specialists are warning that they may have underestimated the time
+needed to make the changes.
+The UK has moved faster than mainland Europe to create and to comply with
+the legislation. Yet of 30,000 UK companies that will have to submit the
+most detailed statistical returns, only 3,000 have sought clarification of
+what is expected of them. The consequence for companies inadequately
+prepared for the changes will be costly. If they are unable to generate VAT
+data from their computer systems they will have to compile the information
+manually, or employ a clearing agent or accounting consultancy. Failure to
+satisfy the authorities could lead to fines or - in the case of failure to
+provide accurate statistics - criminal charges. Customs and Excise has made
+clear that it will be lenient with companies making errors in the first year
+of the transitional period.
+Some experts believe that compiling the information manually would be
+expensive and time-consuming. They do not think it is a viable option for
+companies with significant cross-border trade. Some companies already use
+clearing agents to prepare the single administrative document which
+accompanies exports and which will be swept away by the changes.
+A few UK companies, among them British Steel, Kingfisher Group, and Marks
+and Spencer, are well advanced with their preparations. British Steel has
+been working on changes to its computer systems since the middle of last
+year. Mr James Whitfield, British Steel's director of financial services,
+said the company had up to 100 people working on the project. 'It cuts
+across all the functions in the company,' he said.
+In spite of the early start, Mr Whitfield cannot guarantee the system will
+be complete by January 1, principally because final details of the
+legislation have yet to be settled: 'To that extent, we are working in the
+dark,' he said.
+A number of UK software companies are developing software to handle the
+changes, but companies will not be able to solve the difficulty simply by
+buying and installing a software package.
+The packages need data to process and that can only be generated
+economically by making changes to a company's basic accounting software.
+Mr Richard Collier-Keyward of accountants Coopers & Lybrand said UK
+companies were aware of the legislation but had failed to warn their
+computer managers of the changes that would be required. 'About 50 per cent
+will get it right in January and the rest will muddle through - at a cost,'
+he said.
+Problems for companies and VAT authorities are compounded by the fact that
+each country is at a different stage in preparing its legislation. By July 1
+this year only Denmark and the Republic of Ireland had passed legislation
+while Italy and Greece had not even produced a draft law.
+The consequences of VAT legislation for business computing will be dealt
+with in the next issue of Software at Work to be published with the FT on
+September 11.
+
+The Financial Times
+
+
+London Page 5
+
+920824
+

@@ -1,0 +1,130 @@
+FT933-12832
+
+FT  22 JUL 93 / Technology: On the road to a slicker operation - The Peugeot
+plant in Coventry has adopted leaner manufacturing, standardisation and a
+just-in-time philosophy / Software at work
+
+
+   By CLAIRE GOODING
+
+
+The assembly line at Peugeot's Ryton plant in Coventry stops and a group of
+men and women converge on one car. There is an urgent, almost wordless, team
+effort, with people pulling, prodding and drilling at parts of the car, an
+embryonic Peugeot 405, before they rush back to their production jobs along
+the line. The delay while the problem is fixed in just 10 seconds. Then the
+line restarts and the vehicle's individual build-chart receives a tick and a
+comment.
+'Quality is something you build in; it can't be inspected into a vehicle'
+says Colin Poynton, materials handling manager at Ryton. Two hours
+previously, the car did not exist. In another 10 hours, it will roll off the
+assembly line, ready to drive away. The people around the assembly line
+appear to be performing a precise, high-pressure formation dance, in an
+endless race with the slow-moving line. The plant produces right and
+left-hand drive 306 and 405 family models for the UK, New Zealand, Cyprus
+and parts of Africa and left-hand drive vehicles for most of Europe.
+The process of building a new car has come a long way since Henry Ford
+decreed 'any colour so long as it's black'. Customers hold the whip hand on
+choice of specification and colour. Each car that comes off the line has
+been specified, with dozens of choices already made, down to the colour of
+the seats, trim and even the fascia. More than 57 per cent of the cars'
+contents originate in the UK.
+Computerisation was introduced to the Ryton plant in 1985. It had to come to
+grips with the immense changes brought about by 'lean manufacturing', but
+now has a smooth kanban operation - a Japanese-derived form of stock control
+ -in which parts are replenished within five, and sometimes only two hours.
+'We're continually aiming to reduce the stock we hold,' explains Poynton. He
+recalls when the cavernous factory was filled almost to the roof with
+racking for components and the metal 'stillage' trays used for large
+sub-assembled parts. Now, the stacks carry only the parts used for the cars
+within view and fork lift trucks pass constantly up the empty aisles
+replenishing the queues, carrying parts that have been assembled and
+delivered in a couple of hours.
+'There was a time when everybody wanted to build up stocks, and make time
+for themselves. There is a different attitude now. What we want is a
+consistent work rate, keeping the stock level right. Now it's second nature,
+but only as a benefit of re-education,' says Poynton. The slick operation
+puts high demands on suppliers to Peugeot Talbot, the UK operation of the
+French group. In common with many manufacturers, Peugeot is developing
+'partnership' deals, aiming for one supplier per part. The suppliers for its
+8,300 components have been reduced from 600 to 380. In the case of the
+fascias, the supplier, Hills Precision Components, is nearby, but most
+communications are done through electronic data interchange (EDI). Poynton
+gives as an example the eight cars being built for New Zealand.
+'Until we have the first four on the line here, we won't even pass the order
+for the fascias and seats to the supplier for the next four.' Twelve times a
+day, faxes arrive on the HPC shop floor, specifying fascia assemblies for
+delivery to Ryton. There is a precise requirement for each one, including
+left or right-hand drive and four colours. The company assembles them from
+its stock, and delivers the completed components within two hours. Seats,
+door casings and steering wheels are on continuous order, in a constant flow
+for individual cars. Part of the job was creating single supplier
+relationships, along the same lines as Peugeot Talbot.
+This meant reducing the supplier base to 250 reliable 'partners' for the
+3,000 or so different components. Even when the system of Bill McGilvray,
+the supply manager, had halved the inventory, he estimated that around
+Pounds 550,000 worth was 'still floating around in the manufacturing
+process'. This is another classic manufacturing conundrum, as people tend to
+squirrel away their own supplies - a 'just in case' mentality that
+undermines 'just-in-time' methodology. 'It was difficult to get across who
+owned that material. People always think there's something else on the way,
+but it doesn't work like that.'
+Peugeot Talbot is a part-owner of HPC, and its largest customer, but by no
+means its only one. From 1987 onwards, HPC's customer base expanded to
+include Jaguar Cars, Rover and Honda. Its product range, once limited to
+soft trim and plastic moulding, was extended to include the entire seat,
+steering wheels and fascias. With a 20-fold increase in turnover between
+1983 and 1993, it became clear that new systems were needed to accommodate
+the variety of work and customers.
+Two years ago, HPC decided to invest in a broader-based manufacturing system
+that would support all aspects of the cycle. The decision came at a time
+when an associated company in HPC's parent group was reviewing and
+standardising software systems. HPC decided to tap into central expertise,
+and took a version of the Data 3 package from its French parent. A steering
+committee, and a constant updating of skills eased the introduction of the
+new system at HPC. Nevertheless, the implementation was not without hiccups,
+mainly because of problems with customisation and associated training
+requirements.
+In 1991, HPC was falling so far behind schedule that it decided to take the
+French version of the system from its parent. This is used throughout France
+and Europe, with new releases verified centrally before implementation. This
+results in group-wide standardisation, well worth the effort of using
+screens in French according to McGilvray. The Data 3 software now provides
+full control over in-process stocks, enabling HPC to pass some of the
+just-in-time philosophy on to its own suppliers.
+McGilvray has been able to introduce some local flexibility. For instance,
+he buys foam from an English supplier and uses a local transport company to
+provide a buffer by storing the foam, a sort of halfway house which saves on
+space at the HPC site.
+'Data 3 has focused us on how we look at the business in a structured way.
+The mentality has changed. At the monthly meetings on sales and operations
+planning, we now look at what's happened, and at the next four months and
+its implications, something we could not have done before.'
+Both Poynton at Peugeot Talbot, and McGilvray at HPC, have had to give up
+individual systems that have served them well, in the cause of
+standardisation. McGilvray misses his trusty Adds Mentor receiving system
+which in some areas provided more tailored functions than Data 3. But both
+managers were enthusiastic about the benefits of standardisation and
+improvement of communication throughout the Peugeot group.
+'More resources going into standardisation means more ideas' says Poynton.
+'We now have the benefit of people throughout Europe feeding good ideas into
+the system and thinking of ways to improve it.'
+BUZZWORDS
+LEAN MANUFACTURING (originated at Toyota), refers to the production of a
+varied product with fewer people, less space, and a smaller inventory,
+underpinned by flexible MRP II (Management Resources Planning) software.
+This also means multi-skilled teams and flexible mechanisation, catering for
+volume and variety.
+JUST-IN-TIME (JIT) systems, refers to the process where each component is
+flagged by a card (kanban). When the rack, bin, or container is empty, the
+return of the card down the line to the shop floor indicates the need to
+replenish the bin. At Peugeot Talbot the kanban is an electronic barcode and
+messages are sent electronically.
+
+The Financial Times
+
+
+London Page 16
+
+930722
+

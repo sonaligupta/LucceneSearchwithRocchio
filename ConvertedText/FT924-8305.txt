@@ -1,0 +1,70 @@
+FT924-8305
+
+FT  12 NOV 92 / International Capital Markets: Stock Exchange tries to
+settle a trading problem - Gilt marketmakers' rules have been eased
+
+
+   By RICHARD WATERS
+
+
+THE London Stock Exchange yesterday relaxed its rules on gilt marketmakers
+in an attempt to relieve the settlement log-jam in the gilts market, in the
+process making it more difficult for private investors to switch between
+gilt issues.
+The continuing settlement problems, which first became acute last Thursday,
+also prompted claims that the infrastructure supporting the gilt market was
+inadequate, and the Bank of England should seek to modernise the settlement
+arrangements. The Bank, said the current problems were caused by unusual
+events and did not indicate any underlying problems in the market.
+The stock exchange announced that marketmakers would no longer have to take
+on 'contingent' trades of less than Pounds 50,000, in which investors sell
+their holding in one gilt issue and move into another. These trades have
+helped to clog the marketmakers' settlement systems, prompting them to
+discourage retail brokers from passing them any more small bargains.
+Contingent trades have become popular in recent days in part because of the
+Bank of England's decision, announced a month ago, to redeem its 9 per cent
+stock due 1992-96. For the Bank, early redemption gives the opportunity to
+refinance the issue at a lower coupon.
+Many of the retail investors who held these gilts have been switching into
+other gilt issues, taking the advantage to move into longer-dated stocks to
+benefit from the steepening UK yield curve.
+The switching has become more active recently as speculation has grown of a
+possible two-point interest rate cut to coincide with today's Autumn
+Statement. Daily trading volume has jumped to an estimated 7,000 bargains,
+from around 2,500 before.
+The problem is said by brokers to have become acute since last Thursday when
+Greenwell, one of the three big marketmakers who handle retails trades,
+experienced a computer failure. Greenwell said yesterday its systems had not
+shut down entirely, and the difficulties it experienced were 'readily
+overcome'.
+All three marketmakers - the others are County NatWest and UBS - were
+reported by brokers to have turned away trades, though the marketmakers
+denied they had imposed minimum size limits to deter small bargains. 'We've
+all had difficulties, but we've done our best,' County said.
+The settlement difficulties have raised the spectre of the far more
+substantial backlog that threatened to overwhelm the equities market in
+1987, and which was one of the main motivators for the development of
+Taurus, a paperless settlement system.
+The Bank's settlement arrangements, introduced five years ago, are
+paper-based and rely on brokers delivering stock certificates within 24
+hours of a trade taking place. Brokers complained yesterday that this
+arrangement is designed to suit institutional investors, rather than private
+clients.
+'The Bank of England has resisted gilts going on to Taurus,' said Mr Paul
+Killik of stockbrokers Killik. Gilts should at least be put onto the
+exchange's Talisman system, which allows paperless settlement between
+marketmakers, he said.
+The Bank said current volumes were unusual, and yesterday afternoon it was
+meeting other marketmakers who only deal with institutions to see if they
+could help relieve the pressure.
+It added that if volumes looked as though they would remain high, it
+expected intermediaries in the market would increase their systems capacity
+to service the extra business.
+
+The Financial Times
+
+
+London Page 31
+
+921112
+

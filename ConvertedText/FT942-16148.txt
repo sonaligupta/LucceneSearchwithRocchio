@@ -1,0 +1,72 @@
+FT942-16148
+
+FT  12 APR 94 / Business and the Law: Dan Air sale evades merger rule's
+scope - European Court
+
+
+The European Court of First Instance has rejected Air France's appeal
+against the European Commission's finding that British Airways' acquisition
+of Dan Air was outside the scope of the European Merger Regulation.
+The CFI said a public announcement by the Commission that an unnotified
+merger did not satisfy the turnover thresholds of the merger regulation was
+a decision reviewable by the Court. But it approved the Commission's
+calculation of the turnover of Dan Air for the purposes of deciding whether
+the merger had a Community dimension.
+On October 23 1992, BA and Davis and Newman, owners of Dan Air, agreed BA
+would purchase Dan Air's scheduled services. Davis and Newman agreed to sell
+or discontinue Dan Air's charter business as a condition of the deal. Before
+completion on November 8, the charter service was discontinued.
+On October 30 1992, the European competition commissioner's press spokesman
+made a public announcement, reported by Agence Europe, that the merger was
+not of Community dimension as one of the quantitative thresholds fixed by
+the merger regulation was not reached.
+In calculating turnover, the Commission had used only the turnover in the
+last available accounts relating to the scheduled services business bought
+by BA, excluding the turnover of the charter business.
+On November 2, the UK's trade and industry secretary decided not to refer
+the deal to the Monopolies and Mergers Commission.
+Air France wrote to the European Commission disputing the turnover
+calculation and the conclusion that the merger regulation did not apply. The
+competition commissioner confirmed the Commission's position.
+Shortly afterwards, Belgium asked the Commission to investigate the impact
+of the merger on the Belgian market in accordance with merger regulation
+rules permiting a member country to make such a request when a merger does
+not have a Community dimension. On February 17 last year the Commission
+ruled the merger did not create or reinforce a dominant position in Belgium.
+Air France challenged the Commission's announcement that the merger did not
+have a Community dimension before the CFI.
+The Commission asked the court to dismiss the appeal as inadmissible on four
+grounds: the announcement was not a decision because it had no legal
+effects; its form was inconsistent with its being a binding decision; there
+were other more appropriate proceedings available to Air France at EC and
+national level; and, even if the announcement was a decision, it was not of
+direct or individual concern to Air France.
+The CFI ruled the appeal admissible, rejecting all the Commission's
+arguments. Two aspects of the Court's decision are particularly significant.
+First, it said it did not matter that the merger had not been notified, nor
+that the announcement was not a formal decision taken under the regulation.
+Second, the court found the decision was of direct and individual concern to
+Air France because it was a competitor in the relevant market.
+The CFI found against Air France on the issues of substance, however. The
+underlying question was whether the Commission had correctly interpreted the
+turnover calculation rules. Air France said it should have included the
+charter business turnover. But the CFI said the Commission had correctly
+interpreted the rules.
+The general rule on turnover calculation required the Commission to take
+into account the turnover of the undertakings concerned by the merger as
+reported in the most recent published accounts. However, an exception
+existed where only part of a business was being sold. In those circumstances
+the Commission may only take into account the turnover of that part of the
+business actually sold. It did not matter that the exception did not
+expressly refer to the cessation of part of a business prior to merger as in
+the BA-Dan Air case.
+T-3/93: Air France v Commission, CFI 2 CH, March 24 1994
+BRICK COURT CHAMBERS, BRUSSELS
+
+The Financial Times
+
+
+London Page 16
+
+940412
+

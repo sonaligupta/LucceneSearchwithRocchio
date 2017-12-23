@@ -1,0 +1,111 @@
+FT932-6864
+
+FT  26 MAY 93 / Survey of Computer Industry - Systems, Software & Services
+(4): Massively parallel challengers - The new supercomputer battleground
+
+
+   By PAUL TAYLOR
+
+
+UNTIL a few years ago the market for supercomputers, the behemoths of data
+processing, was a relatively sedate affair involving just a handful of
+American and Japanese companies led by Cray Research of the US.
+But new approaches to supercomputing using alternative technologies threaten
+to turn it into a fiercely competitive battleground and upset the
+established order.
+Cray still dominates the world market for traditional supercomputers with
+around two-thirds of the installed base, according to Ms Jane Doorly of
+Dataquest, the information technology market research group.
+She believes Cray's Japanese rivals Fujitsu, NEC and Hitachi, have not made
+inroads into the North American or European markets because Cray also
+dominates the software side of traditional supercomputing.
+Cray's most powerful machines, the Y-MP C90s, can cost more than Dollars 30m
+each and are capable of processing up to 16bn calculations in a second.
+They are used in universities for academic research, by government agencies
+for example for weather forecasting, and increasingly by industry for
+design, modelling and other functions which can provide a competitive
+advantage.
+These supercomputers achieve their fast calculation speeds by using one, or
+a small number of high-power data-processors, 16 in the case of the Y-MP
+C90, to work through computer code using a technique known as 'vector
+processing'.
+Because these traditional supercomputers use costly custom-made processors,
+they are expensive and performance improvements are coming more slowly as
+designers try to wring more speed from individual processors.
+By using different techniques and cheaper standard technology about a dozen
+companies including Intel, Kendall Square Research, Thinking Machines,
+nCube, NCR and MasPar Computer in the US, and Britain's Meiko Scientific and
+Parsys, are building machines which promise to be more powerful than
+traditional supercomputers, but cost much less.
+This new generation of supercomputers works by linking hundreds or thousands
+of smaller off-the-shelf processors - often reduced instruction set
+computing (Risc) microprocessors - using a technique known as 'massively
+parallel processing' (MPP).
+Unlike vector processing systems which tackle each part of a job in
+sequence, one at a time, parallel systems divide the problem into small
+parts and share it out among lots of processors which then work
+simultaneously.
+The industry is sharply divided over the technical merits of the two
+systems. The supporters of MPP machines claim they offer greatly improved
+price/performance value and will ultimately replace the monolithic-style
+vector processor.
+Critics argue that they are still largely unproven and that they are much
+more difficult to programme than vector processors. 'Parallel processing is
+not mainstream, it is for niche applications,' says Ms Doorly, 'there are
+still lots of technical problems.'
+The main problem remains the lack of software to run on the machines.
+Currently, only about two dozen applications run on MPP supercomputers and
+only a handful of those have gained widespread acceptance. Software
+developers are reluctant to write applications for a fragmented market of
+competing standards.
+So far, multi-processor based supercomputers have mostly only challenged
+Cray's lower powered machines. But some competitors have begun to combine
+elements of both parallel and vector techniques to challenge Cray's
+top-of-the-range models.
+In particular, Fujitsu's VPP500 supercomputer, unveiled last autumn,
+combines the two approaches in a technology predictably called 'vector
+parallel processing'. The VPP500 has enabled the Japanese company to take a
+spectacular lead in the race to build the world's most powerful computer.
+Fujitsu, in the supercomputer business since 1977, has half of the Japanese
+and 23 per cent of the world market. It claims its supercomputer is capable
+of up to 355bn calculations per second. It comprises from seven to 222
+vector processors, each roughly equivalent to a conventional mid-range
+supercomputer arranged in parallel. Fujitsu believes it can sell 50 units
+over the next three years at between Dollars 10m and Dollars 50m a unit.
+That may well depend on whether the VPP500 fulfils Fujitsu's ambitious
+performance claims - experts warn that Japanese supercomputers have a
+reputation for running faster on paper than when solving real problems.
+However, Cray has acknowledged that it faces new competitive pressures and
+is struggling to cut costs. Last year sales fell by 8 per cent to Dollars
+797.6m. The group reported a Dollars 14.9m loss, after a Dollars 42m
+restructuring charge to cover job cuts, compared to a Dollars 113m profit
+the previous year.
+Cray reckons its restructuring moves will cut costs by Dollars 50m a year
+but has also begun to rethink its product strategy. It has introduced
+cheaper, less powerful, entry-level, models costing around Dollars 300,000
+to compete with the mini-supercomputers made by such companies as Convex
+Computer. At the other end of the scale it has begun to answer the challenge
+of MPP machines by developing its own, codenamed the TD3, based on Digital
+Equipment's Alpha chip which will also combine vector and MPP technology.
+It has also established a joint venture with California's Sun Microsystems
+to build a machine aimed at filling a niche at the top end of the
+workstation market and to create a 'seamless software environment' that will
+allow Sun systems and Cray supercomputers to work together with increased
+efficiency.
+This is important because the supercomputer manufacturers also face a
+potential challenge from a technique known as 'clustering'. This involves
+linking together separate high-end desktop workstations to form what
+Hewlett-Packard calls 'a loosely coupled, parallel supercomputer.'
+To develop these systems HP has formed an alliance with Convex Computer, the
+Texas-based mini-supercomputer manufacturer. Ms Peggy Heppelmann,
+workstation business manager for HP in the UK, says both IBM and
+Hewlett-Packard are already selling 'a reasonable number' of workstation
+clusters.
+
+The Financial Times
+
+
+London Page II
+
+930526
+

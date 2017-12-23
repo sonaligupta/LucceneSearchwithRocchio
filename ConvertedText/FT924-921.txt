@@ -1,0 +1,95 @@
+FT924-921
+
+FT  21 DEC 92 / Risk and Reward: UK insurance groups see a brighter future
+in derivatives
+
+
+   By RICHARD WATERS
+
+
+SOME UK insurance companies are becoming big users of equity futures and
+options. Protecting their solvency margins and making their investment
+operations more efficient are things which derivatives should make easier.
+Also, some of their latest investment products are derivatives-based.
+Expected changes in regulations and a changing attitude on the part of the
+insurers themselves, are likely to speed the process.
+The insurers have a high proportion of their shareholders funds invested in
+equities. This reflects the long-run out-performance of equities, and a
+desire by insurers to protect their capital bases during periods of high
+inflation.
+Many use equity options to protect themselves against the devastation to
+their solvency margin that a market collapse would cause.
+'We do it from time to time to lock in a healthy level in the UK equity
+market,' said Mr Mike Payne, investment director at Legal & General. Royal
+Insurance - whose solvency margin is under greater pressure than many other
+insurers - and Commercial Union are others which follow this policy.
+As the general level of share prices moves up, L&G buys options to keep
+raising the floor under its shareholders funds.
+'There is a ratchet effect here,' says Mr Payne. Buying out-of-the-money
+options (where the exercise price is well below market levels when the
+option is bought) helps to keep down the cost of hedging. 'It's when you
+protect at the money that you really have to pay. You have to self-insure
+the first 100-point drop.'
+Such prudence is not now rewarded under solvency regulations issued by the
+Department of Trade and Industry, the insurers' regulator. The DTI specifies
+which assets insurance companies can count towards their solvency margins,
+and in what proportion. Last produced in 1981, these regulations have not
+kept pace with the sort of financial instruments insurance companies now
+use, and futures and options are not included in the list of recognised
+assets.
+So long as the stock market goes up, this does not present a significant
+problem. If an insurer holds options that are considerably out of the money,
+the market value of these assets is likely to be small in relation to the
+equity holdings they are designed to protect.
+Perhaps for that reason, insurers appear relatively unconcerned by the
+outmoded regulations. However, if share prices fall, the value of the
+options would quickly rise, making them a more significant part of the
+insurers' capital base (this is why they are bought in the first place).
+This anomaly is now the subject of discussion between the DTI and the
+Association of British Insurers, the industry's trade association. Amended
+regulations are expected to recognise the use of derivatives to protect
+solvency margins, so encouraging insurance companies to make greater use of
+such instruments.
+Insurers have become big users of equity derivatives to help them manage
+their portfolios more effectively.
+The Prudential is widely recognised as the company to have used derivatives
+most extensively and for longest, though its approach is highly
+conservative.
+It uses stock index futures for two purposes, says Mr Rodney Dennis, of
+Prudential Portfolio Managers: to make a change in asset allocation, and to
+take a position in the equity market in advance of expected cash receipts.
+The costs of shifting an exposure through futures is far smaller than
+through an investment in the underlying stocks.
+Taking into account commissions, stamp duty and the spread paid to market
+makers, the Prudential reckons the cost of moving into and out of stocks at
+1.9 per cent. A similar round trip in futures, it says, costs 0.054 per cent
+(though futures contracts need to be rolled over every three months).
+Futures are only used to make short-term shifts in asset allocation, though.
+Nor does the Pru - or any other insurer - use futures or options to generate
+better investment returns. It invests on fundamental views about particular
+stocks or asset classes, looking to derivatives only as tools to help make
+those selections.
+Trying to enhance returns through derivative-based trading strategies 'is an
+activity which doesn't appear to be a natural part of our business', Mr
+Dennis says.
+In spite of this, the investment products offered by insurers are likely to
+become increasingly dependent on futures and options.
+Retail futures funds may not have taken off, in spite of new regulations a
+year ago; but many insurers have launched guaranteed equity products this
+year, which give investors a proportion of any gains in the equity market,
+plus their money back.
+This is tantamount to selling investors an equity call option, with the rest
+of their money placed on deposit.
+Some insurers, such as Legal & General, hedge their exposure under such
+products internally through their investment funds. Others, if market talk
+is to be believed, don't hedge at all. As such products become more common,
+insurance companies' ability to price options, and to use the markets to
+hedge, will become an important part of their investment skills.
+
+The Financial Times
+
+
+London Page 19
+
+921221
+

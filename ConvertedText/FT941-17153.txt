@@ -1,0 +1,56 @@
+FT941-17153
+
+FT  06 JAN 94 / Power bidding system drives pool prices down
+
+
+   By MICHAEL SMITH
+
+
+Prices in the electricity trading pool in England and Wales fell yesterday
+by about Pounds 250,000, or 1 per cent of the total, as a mechanism aimed at
+reducing power bills began to take effect.
+The fall will be welcomed by the pool executive and electricity companies
+which introduced the system, known as demand-side bidding, in spite of
+protests from large energy users, including Imperial Chemical Industries,
+which claimed the system was unnecessarily complicated and of limited value
+to the large companies whose participation was necessary to make it work.
+Professor Stephen Littlechild, electricity industry regulator, last month
+rejected their appeal for the scheme to be replaced by one which gave
+greater incentive to take part.
+The pool's system, intended as a three-month experiment, was introduced on
+Christmas eve with five companies taking part.
+The demand-side bidders agree to cut their intake of electricity if the
+price rises above a certain level, which they specify.
+The National Grid treats demand-side participants as if they were generators
+when it works out pool prices for the day ahead. Demand-side bidders have an
+effect if their bid price is the 'most marginal' on the system, that is when
+their bid is the most expensive of the generating units or the equivalent
+needed to keep the system working.
+Yesterday demand-side bidding made an impact in two of the 48 half-hour
+periods for which pool prices are determined daily, the pool said.
+The Pounds 250,000 saving was shared pro rata among all consumers.
+Some large energy users had argued against the system because they thought
+demand-side participants should have been given a larger share of the
+benefit than electricity users that did not bid.
+The system which the pool has introduced provides participants with an
+availability payment if the bid they make does not affect prices. The pool
+said the payment for an average company bidding in each of the 48 half-hours
+yesterday would have been about Pounds 500.
+The participating companies are Allied Steel & Wire and Alphasteel, both
+based in south Wales, Cleveland Potash, Bridgewater Paper, in the Wirrall,
+and Hays Chemical Distribution, in Cheshire.
+The pool said yesterday that ICI and Sheerness Steel had applied to become
+demand-side bidders. Present arrangements allow up to 10 companies to take
+part in the experiment, although the pool hopes to expand this number.
+The price changes will have an immediate effect on large companies which buy
+their electricity directly from the pool. Household consumers will see no
+change in their bills as their supplies are covered by long-term contracts
+protected by hedging arrangements.
+
+The Financial Times
+
+
+London Page 6
+
+940106
+

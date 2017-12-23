@@ -1,0 +1,137 @@
+FT941-3318
+
+FT  16 MAR 94 / Survey of Information and Communications Technology (13): A
+tricky balancing act for leading vendors - Telecom equipment suppliers
+
+
+   By MARK NEWMAN
+
+
+There is substantial uncertainty in the international market for public
+telecommunications 'which is characterised by lower investment and
+intensifying price competition particularly in the major industrialised
+countries' - this was the gloomy prognosis for telecom equipment suppliers,
+given by the Swedish manufacturer Ericsson, during its 1993 results meeting.
+Five years ago this kind of outlook would have been deeply damaging for a
+company like Ericsson. In common with its rivals in Europe - Alcatel and
+Siemens - Ericsson placed a heavy reliance on the sale of switching
+equipment to state-owned telephone companies in western Europe.
+But Ericsson's focus has changed over the last two to three years. Mobile
+communications is now its core business. And while Europe remains an
+important market for sales of switching equipment, Ericsson is increasingly
+tapping emerging markets such as India and China for new sales.
+The telecom equipment market today is undergoing rapid change both in terms
+of the products that are manufactured and the markets where they are sold.
+Big business users are demanding high-speed broadband services to send
+massive volumes of data backwards and forwards between their offices
+scattered across the world. Radio is becoming the cheaper than copper for
+access to long-distance networks. And the term 'multimedia' is causing panic
+among equipment vendors. They will undoubtedly play a role in building
+multimedia networks.
+But software is the key to multimedia and if equipment vendors fail to reach
+alliances with software companies, they may be left behind. The leading
+equipment suppliers such as Alcatel, Siemens, American Telephone and
+Telegraph and Northern Telecom are still making public switches.
+But most state-owned telephone companies in western Europe and North America
+are now reducing their investment levels. They have digitalised their
+long-distance networks and modernisation of local networks for low-spending
+residential customers is proceeding at a slower rate. Recession - first in
+North America and now in Europe - has also taken its toll.
+Increasingly, switch suppliers are targetting the emerging Asian markets.
+China is the biggest prize and its requirements are so immense that there is
+room for all suppliers. Ian Macleod, a telecommunications analyst at Natwest
+Sellier in Paris, calculates that in 1992, total line deliveries (switch
+orders are expressed in terms of the number of lines that can be connected)
+to China came to around four million.
+He estimates that the figure doubled to eight million in 1993, and that by
+1996, orders could be running at 12m lines a year. To raise telephone
+penetration to its planned level of 10 per cent by the end of the decade,
+China will have to buy 100m lines between 1992 and 2000.
+India's expansion programme will require the installation of 18m lines over
+the same period. Major suppliers to Asia such as Alcatel and Ericsson are
+gradually moving manufacturing facilities into local markets. There are
+clear benefits to be had.
+Production costs are lower than in Europe or North America. But this is not
+the prime motivating factor. In many cases, governments insist on local
+manufacture to provide jobs and prepare the way for indigenous production.
+Some governments in eastern Europe make the acquisition of local production
+facilities a pre-condition of contract awards. Otherwise, the local
+manufacturers which supplied the national telephone companies during the
+Cold War would inevitably face closure.
+But it would be a mistake to imagine that western manufacturers are packing
+their bags and heading east. Sales into developing markets are more of an
+expansion than a re-orientation.
+The riches are still in Western Europe and North America, although the
+importance of public switching equipment is inevitably in decline. Alcatel,
+the world's largest telecom equipment manufacturer, still relies on Europe
+for 75 per cent of its sales.
+Driven by a wave of liberalisation, the European telecommunications
+equipment market will undergo radical change over coming years. The cosy
+relationship between state-owned telephone companies and local manufacturers
+will be forced apart as new operators attack the lucrative international and
+business communications markets.
+Closed markets will open as state-owned telephone companies begin to behave
+like proper commercially-run companies. And national champions such as
+Siemens and Alcatel will respond by selling their products to competitors to
+Deutsche Telekom and France Telekom.
+The UK telecommunications market is already the most liberalised in the
+world.
+Equipment manufacturers are widening their vision beyond BT and Mercury
+Communications, and are facing immense pressure from both the new operators
+and the incumbents to develop new technology that gives them a competitive
+edge.
+New international and long-distance telephone networks are being built,
+wireless technology is being trialled for local telephone networks, and
+cable television operators are being allowed to offer telephone services.
+The requirements of big business users are setting the agenda for equipment
+vendors. Coping with massive flows of data between sites has become a
+headache for today's telecommunications manager.
+A surge in demand for the interconnection of local computer-based networks
+has led to the development of a fast packet-switching service for data
+communications called frame relay.
+Equipment vendors are facing stiff competition in frame relay from smaller
+companies in the computer and networking sectors such as Cisco Systems,
+Raycom Systems and StrataCom.
+A bigger battle is being fought for dominance in Asynchronous Transfer Mode
+(ATM), a technique for sharing the capacity of a telecoms channel between
+those wishing to use it. ATM enables telephone operators to offer high
+bandwidth services, such as high-speed data or video-conferencing, with
+improved efficiency and greater flexibility.
+ATM is already being touted as the backbone for multimedia and other
+broadband services, and can be applied to both private and public networks.
+All leading equipment vendors are positioning themselves for a share of the
+ATM market. A group of 16 European operators in 15 countries is to conduct
+an ATM trial this year, and all have awarded ATM contracts.
+Familiar names such as Alcatel, Siemens, American Telephone and Telegraph
+and Ericsson have won contracts along with Netcomm, a UK-based data switch
+manufacturer.
+Ericsson has prospered as a leading telecommunications equipment
+manufacturer in a market which is undergoing rapid technological and where a
+number of its rivals are stumbling. Alcatel, Siemens and Northern Telecom
+all suffered profit setbacks in 1993.
+They were hit by a fall in orders for public telecommunications equipment as
+a result of the recession in North America and Europe. Meanwhile, products
+based on ATM, and Synchronous Digital Hierarchy, its sister transmission
+technology, are only now emerging from the laboratory and operators are
+reluctant to commit themselves to major orders.
+Lars Ramqvist, Ericsson's managing director, puts his company's strong
+financial performance in 1993 down to a strategy which meant spending 15
+times more on R&D than on dividends.
+In a speech at the 1994 Innovation Lecture in London last month, Ramqvist
+said manufacturers needed to forego short-term profit in favour of higher
+R&D spending.
+Ian Macleod at Natwest Sellier is confident that the combination of
+liberalisation and new technologies 'promises a new phase of growth in the
+world telecommunications equipment market.'
+Leading equipment vendors are best-placed to benefit from the growth. But
+they will have to get the balance right between selling old products into
+new markets, and bringing out new products for their older customers in
+Europe and North America.
+
+The Financial Times
+
+
+London Page VIII
+
+940316
+

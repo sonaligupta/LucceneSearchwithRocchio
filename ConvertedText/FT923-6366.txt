@@ -1,0 +1,125 @@
+FT923-6366
+
+FT  25 AUG 92 / Cost constraints prompt a continental shift: LSI's decision
+to close its German plant shows the problems facing high-tech manufacturing
+in Europe
+
+
+   By LOUISE KEHOE
+
+
+The decision by LSI Logic, a US semiconductor maker, to close its
+state-of-the-art plant in Germany, demonstrates the problems faced by
+European manufacturers of high-technology, capital-intensive goods.
+Balancing the superior productivity of Far East factories against the
+advantages of 'local' manufacturing to serve the European market, LSI was
+driven to an inevitable decision. The plant will be phased out over the next
+six months with the loss of more than 250 jobs.
+'We have agonised over this for years, probably much longer than we should
+have,' says Mr Wilfred Corrigan, chairman and chief executive of the
+company, based in Silicon Valley. It specialises in 'application specific
+integrated circuits', chips tailored to meet the needs of individual
+customers.
+But in the end, says Mr Corrigan, 'we came to realise that our strategy of
+local manufacturing, in Europe, the US and Japan to serve our major markets
+was not going to work'.
+LSI's retrenchment reflects rising concerns throughout the electronics
+industry. Several other electronics manufacturers with plants in Europe have
+expressed similar doubts about whether the costs of their operations offset
+the benefits.
+Although LSI's German plant is one of the most advanced semiconductor
+assembly and test facilities in the world, low productivity has made it
+uncompetitive in the global chip market (see chart).
+'The German management is good and the workers are good. It is not their
+fault,' says Mr Corrigan, who blames the decision to close on the relatively
+high cost of operating in Europe. LSI would probably have had to close down
+its European operation in whatever country it had been located, he adds.
+LSI chose Bruanschweig, near Hanover, in 1985 as the site for its first
+European 'assembly and test' plant. At the time, the company was committed
+to a strategy of serving its principal markets with local manufacturing
+plants in the US, Japan and Europe. Like other electronics manufacturers,
+LSI was seeking the advantage of proximity to customers to achieve better
+distribution and service.
+LSI originally chose Germany as the site for its first European plant after
+a lengthy evaluation of several European locations. Ultimately, the company
+was lured to Germany by generous tax incentives and its highly skilled
+workforce.
+But the issue that led to the closure of the plant is common throughout
+Europe. The problem, says Mr Corrigan, is that European labour practices,
+and in several cases legislation, prevent round-the-clock operation of the
+plant. With high capital costs for production equipment, the goal is to run
+the plant non-stop. This is possible in Japan and the Far East, where plants
+typically operate on a three shift system. In the US, LSI achieves non-stop
+operation by having two shifts with workers putting in a 12-hour day.
+In Europe, however, most plants are fully operational less than half of the
+time. 'The net result is that in Europe you get 10 shifts per week versus 21
+in the US, Japan or the Far East,' Mr Corrigan says.
+'The cost of capital equipment is largely the same, wherever you operate,
+but in Europe productivity of the plant is halved. No matter how efficient
+you are, you cannot compete.'
+According to Mr Corrigan, the principal difference is cultural. 'Our workers
+in California like the 12-hour shift system  - they work three days one
+week, four the next. They can avoid commuting in rush hour and it enables
+working mothers, and that is most of our workers, to make regular
+babysitting arrangements.'
+Labour costs are a second factor. Total labour costs in Germany, including
+pension and health contributions, are about Dollars 20 an hour compared with
+less than Dollars 3 an hour in Hong Kong.
+The rising value of the D-Mark against the dollar  - which has increased the
+operating costs to the US company  - was the final factor. When LSI built
+the plant in 1985 the D-Mark was at about Dollars 2.50. Now the German
+currency has fallen to well below Dollars 1.50.
+According to Mr Corrigan, the decision to close the plant does not signal a
+lack of interest in the European market. Of total group sales of Dollars
+698m (Pounds 357.9m) in 1991, 15 per cent came from Europe. LSI is a leading
+supplier of application-specific integrated circuits to European
+telecommunications equipment makers.
+He acknowledges, however, that demand for LSI products in Europe has matched
+expectations. 'The European computer industry has not expanded as we
+anticipated. There is very little personal computer or computer workstation
+manufacturing in Europe.'
+EC trade policies designed to encourage European production of
+semiconductors do little to change the economic equation.
+'The market is not willing to pay (the added cost) for local production,' Mr
+Corrigan observes. Despite 14 per cent EC import tariffs on semiconductor
+devices made outside Europe, it is cheaper to produce them elsewhere, for
+instance South Korea, Hong Kong or Malaysia.
+The Pacific Rim economies, and in particular Japan, also enjoy an advantage
+in the supply of sophisticated machinery for semiconductor production.
+Simultaneous with its announcement that it would close its plant in Germany,
+LSI also said that it would shift the bulk of its wafer fabrication
+operations  - the process of etching circuits onto a silicon wafer  - from
+the US to Japan. This decision demonstrates that in the US, as well as
+Europe, certain, high-technology manufacturing processes may be coming under
+threat.
+Japanese labour rates are similar to those in the US but productivity is
+higher, Mr Corrigan says. 'This is not because Japanese people work harder,
+but because of the greater availability of automated semiconductor
+production equipment,' he explains.
+Output per hour per person at LSI's Japanese plant is twice as high as at
+its US plant, Mr Corrigan says. 'And our new plant, currently under
+construction in Japan in a joint venture with Kawasaki Steel, will be twice
+as productive again.' With a fourfold improvement in productivity at stake,
+the US plant was at too great a disadvantage.
+By the mid-1990s, the cost of building semiconductor plants is expected to
+more than double, to as much as Dollars 1bn, as the complexity of chip
+manufacturing rises. Even the world's largest semiconductor companies will
+not be able to afford many new plants, Mr Corrigan predicts.
+In response, LSI's strategy is to form partnerships with other chip makers
+to share the costs of new facilities. Already, Mr Corrigan says, he has
+found 'no shortage of people willing to talk about the possibility'.
+The output of the next generation of chip plants will be so large that
+companies in the industry expect that only a few will be needed to meet
+international demand for semiconductor chips.
+The location of these plants is likely to be determined more by regional
+productivity rates than by the size of local markets. As a result, LSI may
+be just one of the high-technology manufacturers to give Europe the cold
+shoulder.
+
+The Financial Times
+
+
+London Page 13
+
+920825
+

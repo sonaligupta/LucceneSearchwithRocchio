@@ -1,0 +1,80 @@
+FT942-14948
+
+FT  18 APR 94 / International Company News: Digital Equipment losses raise
+questions of control - A look at the US computer group's shock decline
+
+
+   By LOUISE KEHOE
+
+
+Hopes of a short-term recovery for Digital Equipment, once second only to
+International Business Machines in the computer market, have been dashed
+with the company's report of far larger than expected third-quarter losses.
+Digital stunned investors on Friday by reporting third-quarter losses of
+Dollars 183.3m, or Dollars 1.34 a share, about four times higher than
+analysts' projections. Revenues fell 6 per cent to Dollars 3.26bn.
+Worse, Mr Robert Palmer, president and chief executive of the computer
+company, acknowledged that he too had been taken by surprise by the
+'unacceptable' results, raising serious questions about financial controls.
+Only nine months ago, Digital appeared to be on the road to recovery. After
+three years of heavy losses, the company reported a modest quarterly profit.
+A broad restructuring, initiated by Mr Palmer soon after his appointment in
+1992, was cutting costs, and a new line of computers based on Digital's
+powerful Alpha microprocessors promised revenue growth.
+Optimism began to fade, however, as Digital reported losses for the first
+and second quarters of fiscal 1994 (ending in June). Now the heavy
+third-quarter losses have made it painfully clear that Digital's problems
+are far from being solved.
+Confidence in Mr Palmer has been shaken. 'There are no excuses' for the
+company's disappointing performance, he acknowledged. 'In one critical
+dimension, that of profitability, we are not succeeding.'
+Like IBM, Digital is struggling to adapt to fundamental changes in the
+computer market. The company is in the midst of a product transition from
+its proprietary VAX minicomputers to a new generation of 'open systems'
+products that adhere to industry software standards.
+Digital's new 'Alpha' products have been well received, with sales more than
+doubling from the second to third quarters. It has also made remarkable
+progress in the personal computer market, rising from the ranks of 'also
+ran' to the Top 10 in the past two years.
+It is apparent, however, that these successes have masked a sharp decline in
+gross profit margins on product sales, down almost 10 percentage points in
+the third quarter from the same period last year.
+Gross margins on a new Alpha computer are 6 to 7 per cent lower than on a
+similarly priced VAX minicomputer, Mr Palmer explained.
+Thus, as sales of the new products increase and those of the older VAX
+products decline, Digital's profit margins will continue to erode. Expanding
+PC sales, with even lower margins, are exacerbating the problem.
+Digital's third-quarter results revealed another serious problem in its
+services business, which until now has provided a stable source of revenues
+and profits. Service revenues in the quarter fell 11 per cent to Dollars
+1.5bn. As Digital's customers replace older equipment with more reliable
+products, particularly new data storage systems, demand for high-margin
+maintenance agreements is diminishing, Digital said.
+Gross margins on the service business fell by 1.6 per cent in the third
+quarter, signalling that Digital's cushion against profit declines on
+product sales may be thinning.
+Mr Palmer said that Digital will accelerate its current restructuring plans
+to cut costs, with 7,000 jobs now expected to be cut by the end of the
+fiscal year in June.
+By then, he said, Digital will come up with a new restructuring plan, which
+will probably involve several thousand more job losses.
+Digital's biggest challenge, however, is how to cut costs without slowing
+sales. The company has a far larger salesforce, in proportion to its
+revenues, than competitors, Mr Palmer acknowledged. Yet it cannot afford to
+cut back until alternative 'indirect' sales channels, via third parties,
+have been established.
+'If we move too fast to take out (people from) sales before we have
+developed indirect sales channels, the revenue is going to fall faster than
+the cost. This is not a happy outcome.'
+Yet Mr Palmer was clear that Digital 'needs to move to a competitive cost
+structure as quickly as possible.' He plans to present a new restructuring
+plan in June that 'will not be insubstantial'. Analysts expect Digital to
+cut up to another 20,000 jobs and take a write-off of about Dollars 1bn.
+
+The Financial Times
+
+
+London Page 19
+
+940418
+

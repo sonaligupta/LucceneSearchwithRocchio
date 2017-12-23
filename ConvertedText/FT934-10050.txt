@@ -1,0 +1,71 @@
+FT934-10050
+
+FT  08 NOV 93 / BT calls up a Pounds 2bn-a-year vision of the future: A
+system to supply television via the telephone
+
+
+   By RAYMOND SNODDY
+
+
+MR KEVIN Foster's neat detached house in Suffolk is unique in the UK. It is
+the first home to be able to receive television pictures down an ordinary
+telephone line using British Telecommunication's latest video-on-demand
+technology.
+The subject matter on the screen is not exactly riveting - a succession of
+BT television advertisements. But the transmission of the pictures marks the
+first time that the BT technology has moved outside the laboratory.
+Mr Foster is a senior BT engineer working on the video-on-demand project at
+the company's laboratories at Martlesham Heath near Ipswich. Two things are
+remarkable about the images on the TV set in Mr Foster's living room. The
+pictures, although a little grainy, appear well up to video recorder
+standard. And they have come down an ordinary line from the nearest
+telephone exchange - at Kesgrave three miles away.
+BT believes the success at Mr Foster's house means that it should be able to
+deliver television services into about 90 per cent of the 23m homes linked
+to the BT telephone network.
+'We have definitely proved the technology,' said Mr Nigel Cole, leader of
+the team that worked for more than two years on taking the 'noise' out of
+the system and ensuring that the digital signal could travel more than three
+miles down the line. His colleague, Mr Gordon Hathaway, leads a team which
+has developed the methods of squeezing the digital pictures by factors of
+100 to one to send them down conventional copper telephone wires.
+This week the system moves to the BT boardroom for a decision on its future.
+BT is thought likely to give the go-ahead for a series of trials, probably
+in the Colchester area. To start with the trials would involve about 15 to
+20 homes but could be extended to 5,000 homes towards the end of next year.
+This stage of the development could involve investment of between Pounds 10m
+to Pounds 20m. The next step would be a 250,000 home experiment in 1995
+before taking the system nationally, which would involve investment of
+several billion pounds.
+Mr Steve Maine, BT director of visual and broadcast services, believes a
+wide range of services could be provided apart from the obvious
+video-on-demand feature films.
+BT has already developed elegant ways of displaying and ordering the
+available choices. Using infra-red channel selectors the consumer could
+simply point at icons on the TV screen for everything from movies to comedy,
+documentaries or sport. If movies are chosen the choice continues to broaden
+via screen-based menus. Under the likely regulatory regime live
+transmissions would be forbidden.
+Unlike live television, the video-on-demand, viewers could rewind or scroll
+forward.
+But Mr Maine believes it will be possible to request, for example, Nick
+Faldo's winning shots from the US Open and see them from a number of angles
+seconds after they have happened. Other possibilities would include allowing
+viewers to call up an episode of a serial or soap they have missed for a
+small charge or look at a series of travel videos and actually purchase the
+holiday using the screens.
+BT is talking to a number of potential programme and information providers
+including the BBC, Kingfisher and Pearson, owner of the Financial Times.
+Mr John Tysoe, telecommunications analyst at Societe Generale Equities
+believes BT has high hopes for the system.
+He said: 'Sources inside BT are suggesting that video-on-demand could be
+worth Pounds 2bn in revenue and perhaps Pounds 500m to Pounds 600m in profit
+annually by the end of the century.'
+
+The Financial Times
+
+
+London Page 9
+
+931108
+

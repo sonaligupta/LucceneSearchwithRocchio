@@ -1,0 +1,98 @@
+FT923-6631
+
+FT  22 AUG 92 / Finance & the Family: Nominee accounts, are they entirely
+safe? - The debate over protection for investors
+
+
+   By SCHEHERAZADE DANESHKHU
+
+
+MANY stock market investors are surprised when they discover shares held by
+their stockbroker may not be in their own name but in that of a nominee
+company.
+These companies are formed by brokers or fund managers to hold shares on
+behalf of their clients. Investors with personal equity plans often find
+their shares held in a nominee account.
+Nominee accounts have existed since the 1950s, but their use has grown in
+recent years. In 1957, 12.5 per cent of institutional and private
+shareholdings was in nominee accounts, rising to 26.1 per cent in 1975. In
+the 1980s the proportion rose from 33.4 per cent in 1981 to 61 per cent in
+1989.
+Stockbrokers favour nominee accounts because they ease administration and
+reduces costs. Companies usually have to pay their registrar a fee based on
+the number of shareholder accounts. If private investors are held in one
+nominee the registrar is paid for only one account.
+In the run-up to the introduction of Taurus, the Stock Exchange's paperless
+trading system, stockbrokers are urging clients to switch into nominee
+accounts. This will ease the administrative headache of the transition to
+Taurus for brokers.
+Investors also face less paperwork with a nominee account. They do not have
+to sign transfer deeds to sell shares, and dividends and rights issues are
+handled by the nominee company and the client.
+However, there are disadvantages. The investor does not automatically
+receive the annual report of the company in which he has bought shares. More
+importantly, nominee services fall outside the scope of the Financial
+Services Act and technically are not covered by the Investors Compensation
+Scheme. This pays up to Pounds 48,000 of losses by an investor in a
+FSA-regulated company .
+Instead, the investor's only protection is whatever insurance policy the
+broker may have, though reputable houses should have adequate insurance for
+their clients.
+There are two main types of nominee account: a designated nominee, where the
+broker's name and that of the client appear together on the company
+register; and a pooled nominee account, which groups together shareholders
+with only the nominee company's name appearing on the register.
+Alison Rennison, Taurus project manager at Barclays, says designated nominee
+accounts are preferable, if only because were a stockbroker to go bust,
+sorting out who is owed what in a pooled nominee account is more difficult.
+David Cresswell, of the Securities and Investments Board, the regulatory
+body for the investment industry, says that in practice, if a nominee
+company goes into default, the investor is likely to have a claim against
+the investment company running it. 'You would probably be covered because of
+the close connection between the authorised institution and the nominee
+company,' he says.
+So long as the investment company, or stockbroker, is authorised by Sib or
+one of the self-regulatory bodies such as the Securities and Futures
+Authority (as it is legally bound to be), compensation would be available.
+The investor can claim against the investment company, for example, if it:
+has been negligent in selecting the nominee,
+has breached its regulator's rules regarding safe custody of client assets,
+or;
+has given the investor a guarantee that it stands behind the liabilities of
+the nominee company.
+This was illustrated last year when Diameter, a low cost stockbroker,
+collapsed. Some investors who had instructed shares to be bought for them
+could not find them in the nominee company. The ICS compensated them on the
+grounds that the authorised company, Diameter Stockbrokers, had been engaged
+in wrongdoing because it did not buy stock when it was instructed to do so.
+This provides scant reassurance to those in nominee accounts. With this in
+mind, Mike Jones of Capel Cure Myers has called for level playing fields.
+'We've argued with the SFA that since it is treating nominee clients as part
+of the whole stockbroking operation, we see no reason why it should
+differentiate between a client in a nominee account and one with their name
+on the register.'
+APCIMS (the Association of Private Client Investment Managers and
+Stockbrokers) has also been discussing the issue with SIB.
+This week it secured agreement from Sib that member firms of APCIMS can tell
+clients that a nominee meeting 'certain conditions and criteria will be
+eligible to apply for compensation under the terms of the Investors
+Compensation Scheme in the event of a SFA-regulated firm's default. The
+Scheme Rules treat them in the same way as those with stock registered in
+their own name.'
+These conditions include making sure that the nominee company is well
+managed and accepting liability for losses in the nominee as if they had
+arisen in the company itself.
+Sib announced last month, as a result of the Maxwell affair, that it would
+review the supervision of the custody of investor assets, including the
+'increasing use by investment firms of nominees.'
+The introduction of Taurus also creates opportunities. Details of a
+compensation scheme are under discussion, and that could plug the gaps in
+the ICS.
+
+The Financial Times
+
+
+London Page V
+
+920822
+

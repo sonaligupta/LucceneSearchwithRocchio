@@ -1,0 +1,47 @@
+FT944-2901
+
+FT  15 DEC 94 / International Company News: Pentium PC sales strong despite
+flaw, says Intel
+
+
+   By LOUISE KEHOE
+
+
+   SAN FRANCISCO
+
+
+Sales of personal computers based on Intel's flawed Pentium microprocessor
+chip continued to be robust, in spite of negative publicity and the decision
+by IBM to halt sales, US retailers said.
+Although customers are asking questions about the chip flaw, they continued
+to purchase Pentium PCs in rising numbers, Intel said. 'We have talked to
+the leading retailers and they are reporting no slowdown in sales.'
+In spite of floods of calls to PC manufacturers and Intel's 'hot lines',
+there have been no further reports of PC users being directly hit by the
+flaw.
+'We've sold more Pentium-based PCs than any company in the US market, and .
+. . we had not received one call from a customer complaining of any errors
+related to a flaw,' said Mr Ted Waitt, chairman and chief executive of
+Gateway 2000, a leading mail order PC supplier.
+'If this had been a problem with real world applications, we would have
+heard from our customers.'
+Several leading PC manufacturers said they would continue to sell Pentium
+PCs, in spite of IBM's contention that the flaw can cause frequent errors in
+mathematical calculations used in spreadsheet and similar applications.
+Microsoft and Lotus Development, two of the leading suppliers of spreadsheet
+programs, said they would provide customers with a software 'patch' that
+avoids use of the flawed portion of the Pentium chips.
+Microsoft said it believed customers could continue to use and purchase
+Pentium-based PCs with confidence. 'Microsoft is continuing to purchase new
+Pentium systems for its own use,' it said.
+Other PC manufacturers expressing continued confidence in the Pentium chip
+include Hewlett-Packard, Dell, Packard Bell, Tandy, Advanced Logic Research
+and Acer.
+
+The Financial Times
+
+
+London Page 35
+
+941215
+

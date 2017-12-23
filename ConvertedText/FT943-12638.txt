@@ -1,0 +1,101 @@
+FT943-12638
+
+FT  23 JUL 94 / Finance and the Family: Brokers take the easy path - The
+progress of rolling settlement
+
+
+   By SCHEHERAZADE DANESHKHU and BETHAN HUTTON
+
+
+We are almost a week into rolling settlement, the new stock exchange system
+for paying for shares - yet many brokers have not prepared for some of the
+changes that are taking place. They have concentrated on encouraging clients
+to move into nominee accounts, where the stock is registered in the name of
+the broker's nominee company instead of the client himself. This makes
+administration much easier for the broker, and some clients also prefer
+having less paperwork to cope with.
+Other issues - such as penalties for late payment and facilities for
+allowing margin trading (lending money to clients to buy shares) - are
+apparently being treated on a 'play-it-by-ear' basis. Indeed, one of the
+20-odd brokers to whom we spoke suggested delaying this article for a month
+ -by which time, he said, his firm hoped to have formulated its policy.
+Nominee accounts
+Ten-day settlement - also known as T+10 - is only the first step towards a
+faster settlement process. The stock exchange intends to bring in five-day
+rolling settlement next year. At the moment, a gap of 10 working days still
+allows enough time for certificates to pass back and forth between broker
+and client when the latter decides to deal. It is, however, difficult to see
+how this will be possible under the shorter-time frame of T+5. Nominee
+accounts are then likely to be the only way the majority of private clients
+will be able to deal.
+Nominee accounts are used already for all personal equity plan holdings.
+Most brokers operate both pooled and designated nominee accounts. Pooled
+nominees group together shareholders, and the only name that appears on the
+register is that of the nominee company. In a designated nominee, the
+broker's name and the client's designation - usually a number - appear
+together on the company register and this should ensure that the investor
+retains shareholder benefits.
+Some brokers - including Broadbridge, Butterfield Securities, Dunbar, Boyle
+& Kingsley, Fidelity Brokerage, Fyshe Horton Finney, Killik, Sharemarket and
+Shaw & Co - operate designated nominees only (other than for Peps, which are
+in pooled nominees).
+Surprisingly, ShareLink, the execution-only dealing service, has not yet put
+in place a nominee account for its dealing customers, although it says plans
+are under way. It operates a pooled nominee for Pep and new issues
+customers.
+Penalties for late payment
+Understandably, brokers are stressing the need for prompt payment. If, after
+10 days, a client's cheque does not clear, the broker is left holding the
+shares. Some brokers say they will charge the client interest - the figure
+mentioned most often is 3 to 4 percentage points above the present base rate
+of 5.25 per cent.
+Others may also charge a fee. Shaw & Co. says it reserves the right to
+charge a late-delivery penalty of Pounds 5 a day on top of an interest rate
+of 4 percentage points above the base rate. It warns that if stock remains
+undelivered for 10 days, all costs and charges incurred will be debited to
+the client's account.
+Others have no penalties for late payment at the moment. James Capel said:
+'We wait to see how the market deals with late payment and what recompense
+we shall be seeking.'
+Brewin Dolphin Bell Lawrie is waiting until September before bringing in
+late-payment penalties; this will allow clients to get used to rolling
+settlement. But it could charge up to 5 percentage points over the base rate
+after that.
+In general, execution-only brokers will charge higher penalties than
+advisory brokers. Fidelity says it will charge 10 percentage points above
+base rates while ShareLink could charge interest at 15 per cent APR and make
+an administrative charge of up to Pounds 40, as well as selling the shares
+involved and using the money raised to settle the amount owed.
+The Tring-based Share Centre will not buy stock unless the client already
+has enough money in his account to pay for it.
+Is extended settlement possible?
+Yes, although it is up to market-makers - dealers who set the price for
+stocks - to accommodate brokers. Clients most likely to want extended
+settlement are speculators.
+Earlier this month Smith New Court, the securities house, said it would
+accommodate brokers requesting special settlement after T+10. (Settlement is
+the process by which shares are delivered to a buyer in exchange for
+delivery of payment).
+In other words, a client who wants to settle on T+11 might be able to do so
+if he tells his broker when he places the order.
+Brewin Dolphin Bell Lawrie says: 'Clients can request to deal for special
+settlement. Any price differential will be a matter for the market-maker -
+we will not charge extra for such a bargain.' Williams de Broe says it
+expects to be able to improve on terms offered by others.
+Sharemarket, the Manchester-based execution-only broker, is making extended
+settlement a feature of its service. It will allow clients (at its
+discretion) to roll over each 10-day settlement transaction for another 10
+days, subject to certain terms. But other brokers such as Dunbar, Boyle &
+Kingsley and Albert E. Sharp say they will not allow extended settlement.
+Margin trading
+Most brokers say they are thinking about this, but few have come up with
+concrete plans. Williams de Broe, Shaw & Co., Butterfield and the Share
+Centre are among those offering margin trading to selected clients.
+
+The Financial Times
+
+
+London Page III
+
+940723
+

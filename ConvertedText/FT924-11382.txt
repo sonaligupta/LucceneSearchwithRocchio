@@ -1,0 +1,93 @@
+FT924-11382
+
+FT  26 OCT 92 / Survey of International Fund Management (9): Market is still
+untapped - European fund managers lag behind the US in the use of
+derivatives
+
+
+   By TRACY CORRIGAN
+
+
+THE benefits of derivative products are being aggressively marketed to
+international fund managers by banks and futures and options exchanges keen
+to corner a potentially vast, and still largely untapped, market.
+There is a growing interest in the applications of derivatives for hedging
+exposure (protecting one position by taking the opposite position in a
+derivatives market) and for asset allocation (shifting exposure from one
+market to another, without changing cash holdings).
+A future obliges the holder to buy or sell at a set price at a future date,
+while an option gives the holder the right, but not the obligation, to buy
+or sell. Futures are of particular use in asset allocation, while options
+can be used for stock selection.
+Not surprisingly, given the growth of index-tracking and the increasing
+emphasis on asset-allocation, the largest single growth area has been index
+products.
+Volume in the FT-SE 100 future, traded on the London International Financial
+Futures & Options Exchange (Liffe) has exceeded 2bn contracts so far this
+year, up 67 per cent on the same period last year, while FT-SE options
+volume has increased 46 per cent.
+Many fund managers are still resistant to over-the-counter products offered
+by banks, partly because of the credit implications, and also because they
+fear such products will lack liquidity. In addition, some of the exotic
+options developed by banks are considered too complex.
+'The banks are often too far ahead of their customers,' one investment
+banker admitted.
+But European fund managers still lag behind their US counterparts in the use
+of derivatives.
+For example, the equity swaps market, which has now gained a foothold in the
+US, has yet to catch on in Europe, in spite of being widely marketed by
+banks.
+Possibly, certain aspects of the concept hold particular appeal for US fund
+managers. An equity swap allows fund managers to invest in a foreign market
+without assuming currency risk, which is often separated from other
+investment decisions.
+Further, the ability to transfer expertise in one class of asset to another
+is often seen as a positive factor by US investment managers.
+But the most important difference is that US investors are now geared to
+indexation, and the equity swap, which simulates the performance of a stock
+index, is most attractive to fund managers whose target is to outperform an
+index.
+In an equity swap, one counterparty receives a stream of payments which
+replicate the return of a direct investment in an equity index, and in
+exchange makes a stream of payments to the other counterparty based on,
+usually, the London interbank offered rate.
+In France, the spread of equity derivatives may have received something of a
+setback. French institutional investors have in recent years been active
+buyers of bonds with embedded put and call options.
+The use of bonds with embedded options allows some investors to circumvent
+regulations on derivatives. But some of the index-linked bonds were priced
+expensively and have performed poorly.
+In the UK, the spread of derivatives has reached a new stage, as the early
+barriers, in particular resistance from trustees, have largely been
+surmounted. The clarification of fund managers' tax position in the 1990
+budget proved a turning point, and, more recently, guidelines on performance
+measurement have boosted confidence in fund managers' ability to manage
+derivative positions.
+Although there have been some negative experiences, the availability of
+liquid futures and options contracts during recent periods of extreme market
+volatility has won some hearts. The availability of such products 'has made
+life a lot easier for fund managers,' said Mr Tony Whalley, investment
+director at Scottish Widows Fund and Life Assurance. 'When fund managers
+felt the (stock) market had gone too far (down), they were able to buy
+futures, rather than having to worry about stock selection,' he said.
+Liquidity has become increasingly concentrated in the exchange-traded
+futures and options markets, and has become a crucial incentive for using
+exchange-traded products.
+'Futures enable you to do what you would have done anyway more cost
+effectively and more quickly, without disturbing the underlying portfolio,'
+according to Mr Tim Breedon, associate director, investments, at Legal &
+General, the UK insurance company.
+The UK is expected to be the largest growth area for derivative products
+within Europe. Partly, this is because the use of derivative products based
+on fixed-interest bonds is already quite well established. The more recent
+expansion of the equity derivatives market will have the greatest impact on
+UK fund managers, because of their concentration on stock rather than bond
+markets.
+
+The Financial Times
+
+
+London Page IV
+
+921026
+

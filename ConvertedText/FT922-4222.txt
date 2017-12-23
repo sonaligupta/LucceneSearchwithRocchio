@@ -1,0 +1,53 @@
+FT922-4222
+
+FT  06 JUN 92 / Briefcase, Q&A: Mixed mortgages
+
+
+I HAVE moved home as a result of changing my job and am renting out my main
+residence. I am considering purchasing a second property for investment
+purposes and renting that out as well.
+1. Can the excess interest on the loan for the second property, over and
+above rental income, be used to offset tax on the income from letting my
+original home?
+2. Does it matter, for tax purposes, on which house the loan for the second
+property is secured?
+3. Can qualifying expenses incurred in the tax year immediately prior to
+letting these properties, and solely related to preparation for letting, be
+used as an allowance for tax purposes against rental income in the current
+tax year?
+4. Can you recommend a thorough text which covers residential lettings in
+detail?
+The solicitors who act for you in the purchase will, of course, be able to
+guide you through the income tax and capital gains tax maze. (Before
+formally appointing a firm to act for you, however, it would be prudent to
+check that it has someone who is competent in the tax aspects of domestic
+property transactions.)
+1. Yes; subject to the conditions set out in section 355(l) (b) of the
+Income and Corporation Taxes Act 1988 by virtue of section 355(4).
+2. No; it is the use of the borrowed money which matters - not the security
+for the loan by virtue of section 354(l).
+3. No. However, such expenditure may be deductible in calculating the
+chargeable gain when the house is sold, by virtue of Inland Revenue
+statement of practice D24:
+'Expenditure on initial repairs to a property (including expenditure on
+decorations) undertaken in order to put it into a fit state for letting, and
+not allowable for the purposes of Schedule A, is regarded as allowable
+expenditure for capital gains tax purposes under section 38(1) of the
+Taxation of Chargeable Gains Act 1992.'
+4. You are probably better off talking to your chosen solicitor.
+The following free pamphlets from your tax office may be helpful, but they
+tend to oversimplify the intricate and arbitrary rules laid down by
+Parliament:
+CGT4 - Capital gains tax: owner-occupied houses
+IR87 - Rooms to let
+No legal responsibility can be accepted by the Financial Times for the
+answers given in these columns. All inquiries will be answered by post as
+soon as possible.
+
+The Financial Times
+
+
+London Page VI
+
+920606
+

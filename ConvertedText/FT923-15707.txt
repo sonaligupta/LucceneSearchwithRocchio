@@ -1,0 +1,138 @@
+FT923-15707
+
+FT  01 JUL 92 / FT Law Report: Mareva extension for fresh claim
+
+
+   By RACHEL DAVIES, Barrister
+
+
+AIGLON LTD AND ANOTHER v GAU SHAN & CO LTD
+GAU SHAN & CO LTD v AIGLON LTD AND OTHERS
+Queen's Bench Division (Commercial Court): Mr Justice Hirst: June 23 1992
+A MAREVA injunction which would have been discharged as against one of two
+associated companies on grounds of non-arguability of the claim on which it
+was based may be extended as a result of a post-argument amendment to the
+claim of the party in whose favour it was made, if the amendment raises a
+fresh claim which is arguable, and which is so inextricably interlinked with
+the original case against the other company that in the interests of justice
+it should be heard.
+Mr Justice Hirst so held when granting an application by Gau Shan Ltd to
+extend a Mareva injunction and ancillary order obtained by it against
+L'Aiglon SA ('SA') in respect of an arbitration award against SA and its
+associated company, Aiglon Ltd ('Ltd').
+HIS LORDSHIP said the litigation comprised two actions arising out of an
+award by the Technical Appeal Committee of the Liverpool Cotton Association
+in favour of Gau Shan against Ltd and SA, a Swiss company.
+On May 1 1992 Mr Justice Gatehouse granted applications against Ltd and SA
+for worldwide Mareva injunctions and orders for disclosure of worldwide
+assets.
+At that stage the sole substantive claim on which the injunction against SA
+was based was Gau Shan's counterclaim for leave under section 26 of the
+Arbitration Act 1950 to enforce the award in the same manner as a judgment.
+On a previous application to the present court SA applied to set aside the
+Mareva and disclosure orders as against it.
+Judgment was given on June 10 (FT, June 26 1992). The conclusion was that
+Gau Shan had no good arguable case against SA for an order under section 26.
+On that footing the court was prepared to discharge the Mareva and ancillary
+orders against SA.
+One of the grounds on which that conclusion was based was that the evidence
+then before the court failed to substantiate a good arguable case that SA
+was party to the contract of sale on which the arbitrators' jurisdiction was
+founded.
+Gau Shan now applied to extend the Mareva and ancillary order on entirely
+fresh grounds, including a claim against SA under section 423 of the
+Insolvency Act 1986 first put forward in an amendment to the counterclaim on
+June 1, and a possible claim under section 238 by liquidators of Ltd.
+Mr Colman for SA made it clear that he was not able, at present, to dispute
+that there was a good arguable case on the merits of those two contentions.
+However, he counter-applied to strike out the amendment.
+Section 423(2) of the 1986 Act provided that where a person entered into a
+transaction at an undervalue, the court might make an order 'restoring the
+position to what it would have been if the transaction had not been entered
+into'.
+By 423(3) the court should only make such an order if satisfied that the
+transaction was entered into for the purpose '(a) of putting assets beyond
+the reach of a person who is making, or may at some time make, a claim
+against him'.
+Evidence sworn on behalf of SA was directed to showing that as part of an
+allegedly legitimate tax avoidance scheme, Ltd had stripped itself of its
+assets, partly by transfers to an Irish company of the same name, and partly
+by payments of management fees and commission to SA.
+Mr Falconer for Gau Shan submitted that the evidence demonstrated a strong
+case showing Ltd had entered into a transaction with SA offending against
+section 423, in that assets were put out of Gau Shan's reach, apparently at
+an undervalue, by transfers to SA at a time when the arbitration award had
+been made. He said that ground alone substantiated continuation of the
+Mareva and the order, there being no contest from SA to Gau Shan's case on
+the risk of dissipation of assets.
+Those submissions were accepted. Even if SA's explanation of the
+asset-stripping exercise was sound, it by no means followed that the purpose
+of the transaction was not the section 423 purpose.
+Section 238 of the Act provided that the liquidator of a company might apply
+to the court to restore the position where the company had entered into a
+transaction at an undervalue.
+Mr Falconer submitted that since Ltd was now a shell company, it would be
+insolvent if Gau Shan were entitled to enforce the award against it. As a
+result a liquidator could apply for an order under section 238. He submitted
+the court had jurisdiction to grant a Mareva injunction against a third
+party such as SA, as ancillary to the relief sought against Ltd under
+section 238 (TSB v Chabra (1992) 1 WLR 231, 242).
+A good arguable case was established, on the footing that there was credible
+evidence that SA's assets might in part be the assets of Ltd which had, as a
+result of the asset-stripping operation, put it out of its power to meet the
+arbitration award - so that an injunction against Ltd alone was likely to be
+inadequate to protect Gau Shan.
+Those conclusions provided a firm basis for continuing the Mareva, subject
+to the court's overriding discretion - and subject to Mr Colman's striking
+out application.
+Mr Colman submitted first that the amendment was an abuse of process in that
+it was made between time of argument in May, and time of judgment; and that
+it fundamentally altered the position to the unfair detriment of SA, since
+it had no relationship to SA's attack on the award as having been made
+without jurisdiction.
+The flaw in that argument was that it ignored the original case against Ltd,
+which included a section 423 claim. Irrespective of the failure of the
+original section 26 application, Gau Shan would have had a cast iron case
+for joining SA as an additional defendant under RSC Order 11 rule 1(1)(c),
+on the ground that it was a necessary and proper party. The court would
+inevitably have had regard to the fact that the section 423 claims against
+Ltd and SA were inextricably interlinked and in the interests of justice
+should be heard together.
+The amendment did not involve abuse of process.
+Second, Mr Colman submitted that the amendment should be struck out under
+Order 28 rule 7, in that 'the subject matter of a counterclaim ought to be
+disposed of by separate action'.
+There was a significant connection between the amendment and SA's original
+claim, seeing that Gau Shan's subsequent efforts to enforce the award were
+directly connected with the arbitration. The amendment ought not to be
+disposed of by separate action.
+Third, Mr Colman submitted that having regard to the Lugano Convention 1988
+the proceedings against SA on the amended counterclaim should be brought in
+the Swiss courts as the forum conveniens.
+Switzerland and the UK were contracting states to the Convention, which was
+implemented by the Civil Jurisdiction and Judgments Act 1991. Article 6(1)
+provided that a person domiciled in a contracting state might be sued '(1)
+where he is one of a number of defendants, in the courts for the place where
+any one of them is domiciled'.
+Article 6(1) gave the plaintiff an unfettered right of choice.
+It followed it was not open to Mr Colman to invoke the forum non conveniens
+doctrine. Even if the court had reached a contrary conclusion on principle,
+it would not have accepted his submission as to appropriate forum.
+There were no grounds for striking out the amendment.
+The worldwide injunction against SA was fully justified. Part of the
+asset-stripping operation was the allegedly improper payment of excessive
+management fees and commissions to SA in Geneva. The case for a worldwide
+Mareva against SA was every bit as strong as that against Ltd.
+The worldwide Mareva injunction and associated order would be continued
+against SA.
+For SA: Anthony Colman QC and Graham Dunning (Weightman Rutherfords,
+Liverpool).
+For Gau Shan: Charles Falconer QC and Alastair MacGregor (Middleton Potts).
+
+The Financial Times
+
+
+London Page 18
+
+920701
+

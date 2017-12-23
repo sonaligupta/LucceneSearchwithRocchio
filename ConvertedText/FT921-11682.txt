@@ -1,0 +1,31 @@
+FT921-11682
+
+FT  30 JAN 92 / Computer security breaches cost Pounds 1.1bn
+
+
+   By ALAN CANE
+
+
+BREACHES OF computer security cost business at least Pounds 1.1bn per year,
+according to a survey published yesterday.
+More than half the 900 companies surveyed said they had suffered a
+significant security breach, either through accident or malice, in the past
+five years.
+The most serious incident reported involved a fire and flood in a finance
+company that destroyed all its computers. The immediate cost was Pounds 8m
+and the long-term total Pounds 24m.
+The survey was conducted by the National Computing Centre with support from
+ICL, the computer manufacturer, the Department of Trade and Industry and
+Elsevier Publications, the Dutch publishing group.
+Companies are still reluctant to inform the police about losses. The average
+cost to a company of a hacking incident was Pounds 23,000; the largest
+reported cost recorded in the survey from hacking was Pounds 50,000.
+Security Breaches Survey, NCC, Oxford Rd, Manchester M1 7ED.
+
+The Financial Times
+
+
+London Page 8
+
+920130
+

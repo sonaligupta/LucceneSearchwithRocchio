@@ -1,0 +1,67 @@
+FT922-4525
+
+FT  05 JUN 92 / Technology: The number crunchers crack
+
+
+   By ALAN CANE
+
+
+The data processing department, principal conduit for management information
+in large organisations, is in jeopardy. It seems unlikely to survive in its
+present form much beyond the end of the century; unless DP specialists learn
+to build new and more effective partnerships with their management
+'customers' it may not survive at all.
+This is the chief conclusion of a new study* from Pagoda Associates, a
+London-based consultancy specialising in the training and motivation of
+information technology staff. The decline of centralised data processing
+will be accelerated, it says, by:
+Shrinking computing budgets. A Pagoda survey in the UK revealed that two
+thirds of big companies are reducing their IT budgets for the first time.
+Decreasing staff numbers. The survey showed that more than half the
+companies canvassed have cut the number of staff they employ while some
+central IT functions have disappeared completely.
+Declining influence. A trend in the past two years has been 'outsourcing',
+passing over all or part of the organisation's data processing requirements
+to an outside computing services company.
+Among the reasons for the decline are a reluctance on the part of large
+organisations to spend more on IT before reaping the benefit of heavy
+investment over the past few years, coupled with disappointment over
+attempts to secure a competitive edge through technology.
+Pagoda says that in order to ward off the threat of their departments being
+disbanded or devolved, IT managers are trying to establish a new partnership
+with their 'customers' - business managers who request and make use of data
+supplied by the DP centre. DP managers have been forced to come down from
+the remote and isolated computing ivory tower to try to help the business
+gain real benefits from IT.
+The new partnership should ideally have three components:
+IT management must take a wider role in business planning, helping to shape
+and develop corporate strategy.
+IT management should be increasingly concerned with overseeing the orderly
+devolution of computing technology through the business, giving leadership
+and guidance.
+There may still be some data services which can be provided most
+economically by the data centre and IT management should ensure the
+efficiency of their operation.
+The role of the IT director will change significantly, Pagoda says. There
+are several possibilities; the IT director could become the computer
+strategist, responsible for ensuring value for money in IT investments but
+without service management responsibilities.
+IT directors could become service managers providing commercial
+cost-effective IT services to the business without responsibility for
+identifying IT solutions to business problems. Finally, the IT director's
+role could expand into a board-level position encompassing office services
+and change management as well as IT services.
+Whichever path a particular organisation follows, however, the numbers of IT
+staff are likely to decline and the skills they will need will change
+profoundly. Some argue that only 30 per cent of today's staff numbers will
+be needed in 2000.
+*Building Partnerships with the Business, Pagoda Associates, 55 Neal Street,
+London WC2. Pounds 240 plus VAT.
+
+The Financial Times
+
+
+London Page 15
+
+920605
+

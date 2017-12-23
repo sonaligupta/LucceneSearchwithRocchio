@@ -1,0 +1,40 @@
+FT942-16066
+
+FT  12 APR 94 / International Company News: Digital goes for lead in
+'server' market
+
+
+   By LOUISE KEHOE
+
+
+   SAN FRANCISCO
+
+
+Digital Equipment will today launch an aggressive bid to take the lead in
+the fast growing market for computer network 'servers,' computers that boost
+the performance of networks linking desktop computers.
+Digital said that its new 2100 servers, based on its Alpha Reduced
+Instruction Set Computing (Risc) microprocessors, would offer higher
+performance at half the price of equivalent products from Sun Microsystems
+and International Business Machines and one-third the price of
+Hewlett-Packard's comparable server product.
+'Digital is breaking several performance and cost barriers,' said Mr William
+Strecker, vice-president of engineering. 'We are bridging the worlds of
+large system features and small-system advantages to put the power to manage
+complex tasks within the reach of enterprise departments and small
+companies.'
+The Digital 2100 server is the first in a family of Alpha Risc-based
+departmental servers, the company said. Prices start at Dollars 18,900 for a
+single processor unit, up to Dollars 36,900 for a four processor unit.
+The new servers make use of low cost personal computer technology combined
+with high performance Risc microprocessors, Digital said.
+The company will target commercial customers as well as those using
+technical applications.
+
+The Financial Times
+
+
+London Page 28
+
+940412
+

@@ -1,0 +1,137 @@
+FT921-15461
+
+FT  10 JAN 92 / FT Law Report: Digest of cases reported in Michaelmas Term
+
+
+   By AVIVA GOLDEN
+
+
+R v MONOPOLIES AND MERGERS COMMISSION, EX PARTE SOUTH YORKSHIRE TRANSPORT
+LTD AND SOUTH YORKSHIRE TRANSPORT AUTHORITY
+(FT, December 6)
+The South Yorkshire Passenger Transport Authority owned the entire share
+capital of South Yorkshire Ltd which was a public transport company
+providing local services in South Yorkshire, West Yorkshire, Derbyshire,
+Nottinghamshire and Humberside. Although acquisitions of other transport led
+to a reference to the Monopolies and Mergers Commission, at first instance,
+it was held that there had been no merger situation qualifying for
+investigation on the ground that the reference area was not a 'substantial
+part' of the UK. Upholding that decision by a majority, the Court of Appeal
+stated that, in context, 'substantial part' had quantitative and qualitative
+connotations, used in a comparative sense, the comparator being the whole of
+the UK, Great Britain and Northern Ireland. 'Important', 'special' and
+'significant' though the reference area might be, especially for those who
+lived and worked there, there were many other such areas in the UK and the
+reference area did not qualify for the description of 'a substantial part of
+the UK'.
+ATTORNEY GENERAL BY THE RELATION OF YORKSHIRE DERWENT TRUST LTD AND OTHERS v
+BROTHERTON AND OTHERS
+(FT, December 10)
+The action was between the owners of land in Yorkshire through which the
+River Derwent flowed and the defendants concerned to protect any public
+navigation rights on the river. On a preliminary issue in the action, the
+question was whether section 1 of the Rights of Way Act 1932 applied to
+public rights of navigation. Mr Justice Vinelott had answered in the
+negative but his decision was reversed by the Court of Appeal. Allowing the
+landowners' appeal, the House of Lords stated that section 1(1) referred to
+'user' by the public and of the way being 'actually enjoyed' and 'dedicated'
+as a highway. It was clear that what was being referred to in 'a way . . .
+upon or over land' was the physical site on which the feature described as
+'the way' ran. An ordinary English reader would not consider that 'a way
+upon or over land' was apt to refer to the permanent feature of a lake or
+river running through land, or would think of 'land' as referring to the
+surface of the water.
+THE MOTOR VESSEL P
+(FT, December 11 1991)
+The buyers had agreed to buy the P from the sellers by a sale contract in a
+memorandum of agreement (MOA) form but, by the completion date, the parties
+were at loggerheads over the ship's condition. The buyers obtained an
+injunction to give the sellers notice 'forthwith' but that the order should
+not take effect until payment of the purchase price and/or delivery of the
+vessel. When the injunction was obtained it was believed the court had
+jurisdiction to make a Mareva order when the buyers, under an MOA were about
+to pay and take delivery, but they also wanted to make sure that a
+sufficient part of the price would remain in London. The Court of Appeal had
+since held that no such jurisdiction existed (see Veracruz 1, FT, November
+19 1991). Further, the buyers were not justified in making the application
+ex parte because they had nothing to lose by giving advance notice.
+DEUTSCHE BANK AG v IBRAHIM AND OTHERS
+(FT, December 13)
+In order to secure a loan, the defendant offered the plaintiffs' bank the
+title deeds to two flats in London. Neither of the leases was granted to or
+registered in the name of Mr Ibrahim. The tenants and registered leasehold
+proprietors of the flats were his two daughters. In the present proceedings
+the bank claimed a declaration that it had valid equitable mortgages of the
+two leases while the daughters counterclaimed for delivery up of the leases.
+Dismissing the bank's claim, Mr Newberger QC, sitting as a deputy Chancery
+judge, held that where a father provided purchase money for property for his
+children, there was a presumption of advancement that the property was not
+held in trust for him but beneficially vested in the children in whose names
+they had been acquired. However, even though the evidence showed that the
+daughters had authorised the deposit of the title deeds with the bank, they
+could defeat the bank's claim because they could rely on the absence of any
+written memorandum by them sufficient to satisfy section 4 of the Statute of
+Frauds 1677 so as to answer for the debt of another.
+UNION TRANSPORT plc v CONTINENTAL LINES SA AND OTHERS
+(FT, December 17)
+between the defendant shipowners, domiciled in Belgium, and the charterers
+who commenced proceedings in the Commercial Court claiming damages because
+the shipowners had failed to nominate the vessel to lift the cargo. The
+charterers contended that 'the place for performance of the obligation in
+question', namely the shipowners' contractual duty to nominate a vessel, was
+in London. Therefore under Article 5(1) of the Brussels Convention the
+shipowners could be sued in the UK. The shipowners argued that since the
+obligation to provide a vessel was not to be performed in England, the
+charterers could not found jurisdiction under article 5(1). They therefore
+applied to set aside the writ and service but their application was
+dismissed. The Court of Appeal dismissed the shipowners' appeal, who now
+appealed from that decision. Dismissing their appeal, the House of Lords
+stated that the obligation in question was the obligation to nominate a
+vessel, and that the place for performance of that obligation was in London.
+Accordingly the English courts had jurisdiction under article 5(1).
+BP OIL DEVELOPMENT LTD v INLAND REVENUE COMMISSIONERS
+(FT, December 18)
+In 1985, BP agreed to transport and process pipeline liquids from a field
+owned by the Marathon Oil group by pipeline that was owned by Marathon and
+then connected to the BP's pipeline in Scotland. Section 6(1) of the Oil
+Taxation Act 1983 provided that in computing assessable profit or allowable
+loss the positive amounts (price received for oil won) included 'tariff
+receipts' attributable to that field. By subsection (2) the tariff receipts
+were the aggregate of the amount of consideration received by the
+participator in respect of '(a) the use of a qualifying asset; or (b) the
+provision of services or other business facilities'. BP appealed to the
+special commissioner against the assessment to PRT, claiming it was entitled
+to separate tariff receipts allowance in respect of each of the qualifying
+assets which it made available for use by the Brae Field. Dismissing BP's
+appeal, the House of Lords stated that the amount of qualifying tariff
+receipts to be reduced under section 9(1) was the whole of the qualifying
+tariff receipts - not particular discrete amounts of qualifying tariff
+receipts derived from the use of particular assets.
+ITALIA EXPRESS
+(FT, December 20)
+Mr Ventouris claimed Dollars 4m against Mr Mountain as a representative of
+Lloyd's underwriters under a war risks insurance policy for the vessel,
+Italia Express. The underwriters contended that the loss was caused by Mr
+Ventouris's alleged wilful misconduct, and the mainstay of their case was
+the evidence of Mr Georgis Dimitrios Ventouris (GDV), his first cousin. The
+court was asked to rule on the admissibility of a large number of tape
+recordings under the Civil Evidence Act 1968 made by GDV in conversation
+with divers and others alleged to have arranged for the sinking of the
+vessel. The underwriters submitted that the statements on the tapes were
+statements made in a document 'admissible as evidence of the facts stated
+therein, of which direct oral evidence by them would be admissible' under
+the Act. Refusing the application, Mr Justice Hirst stated that the
+principle objects of Part I of the Act (sections 1 to 10) were to ensure
+that all first-hand hearsay statements were admissible provided certain
+conditions were fulfilled, and to allow second-hand hearsay to be received
+if contained in a record. It would be highly anomalous if the principle,
+clearly enshrined in section 2(3), that oral statements should be first-hand
+did not also apply to documentary statements.
+
+The Financial Times
+
+
+London Page 8
+
+920110
+

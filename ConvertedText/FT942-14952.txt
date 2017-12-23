@@ -1,0 +1,64 @@
+FT942-14952
+
+FT  18 APR 94 / International Capital Markets: World futures dream hits
+reality - Laurie Morse considers Globex's options following the loss of CBoT
+
+
+   By LAURIE MORSE
+
+
+Friday's defection by the Chicago Board of Trade was a widely expected blow
+for Globex, the electronic futures trading system. Just how serious, though,
+remains uncertain.
+While the CBoT's bond futures and options contracts are the largest in the
+world, they generated the least volume of any contract listed on Globex.
+Conceived in 1987 but not launched until mid-1992, Globex was meant to be a
+worldwide, round-the-clock trading system that would list the all world's
+main futures contracts. Instead it has attracted only meagre volume. Only
+France's Matif has found a way to use the system profitably.
+Globex was developed and is operated by Reuters, the financial information
+and news group. With the departure of the CBoT from the end of this month,
+only Matif and the Chicago Mercantile Exchange remain as Reuters' Globex
+partners.
+Executives at Reuters and the CME say the CBoT's loss will be more than
+compensated for by Globex's expansion in Asia.
+After long regulatory battles, Globex terminals are being installed in Hong
+Kong, Japan, and Singapore, which places Globex in the time zone that was
+its original target. Mr Jack Sandner, CME chairman and the chief executive
+of Globex, says he is optimistic he will persuade either Germany's DTB or
+London's Liffe to list contracts on Globex within the next 30 to 45 days.
+Recently announced computer enhancements may also broaden the system's
+appeal.
+However, the race to secure Globex's future will be short. Under the new
+governance agreement with Reuters, if the CME fails to trade 25,000
+contracts per day on the system within a year, Reuters can terminate the
+deal and close Globex. In March, Globex's busiest month ever, the CME's
+average daily volume on the system was just 4,500 contracts.
+Meanwhile Globex faces several challenges. Liffe is talking with the Tokyo
+International Financial Futures Exchange about offsetting trading
+arrangements for Euroyen futures, and has not completely closed the door to
+sharing trading rights to interest rate contracts with the CBoT.
+The CBoT is also negotiating an alliance with New York-based Bloomberg
+Financial Markets to trade CBoT financial contracts on Bloomberg terminals
+after hours. Bloomberg, with a reputation for innovation and 37,000
+subscribers worldwide, including 4,000 in Asia and 11,000 in Europe, would
+be a significant challenge to both Reuters and Globex.
+Mr Michael Bloomberg, Bloomberg's president, said the arrangement would
+require additional software development, but that his system was
+'technically capable' of handling CBoT trades. However, the CBoT must gain
+regulatory approvals for the project in the US and all overseas trading
+locations, a process that could take years to complete.
+The CBoT plans to list its financial products for after-hours trading on a
+local computer network sometime in July. Until then, the exchange's bond
+futures will be shut for a large portion of the Asian and European business
+day, increasing risk to CBoT customers during a period of interest rate
+volatility.
+See Lex
+
+The Financial Times
+
+
+London Page 18
+
+940418
+

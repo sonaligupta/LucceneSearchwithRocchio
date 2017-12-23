@@ -1,0 +1,128 @@
+FT931-4094
+
+FT  12 MAR 93 / The plan that fell to earth: City confidence has been shaken
+by the decision to abandon the Taurus project
+
+
+   By RICHARD WATERS
+
+
+The City yesterday turned its back on a complicated and expensive stock
+market settlement system in favour of a 'quick fix'. Hundreds of millions of
+pounds of development costs, incurred by more than 150 financial
+institutions in the City and many more listed companies, were formally
+abandoned at 3pm, when news of the decision was announced.
+The London Stock Exchange board's decision to drop its blighted Taurus
+project has shaken the confidence of the City establishment. It was planned
+by a wide range of institutions with interests in the securities industry to
+be an electronic system of ownership and transfer of shareholdings.
+City leaders had always stressed that it was an essential part of the
+infrastructure needed to underpin London's stock market and re-inforce its
+claim to being Europe's leading financial centre. In the event, it proved
+only that the City establishment is incapable of overcoming the conflicting
+self-interests of its members to put London as a financial centre first.
+Mr Peter Rawlins, chief executive of the Stock Exchange, yesterday resigned,
+to take responsibility for the failure of the project. But Sir Andrew Hugh
+Smith, exchange chairman and chief executive for the moment, pinned the
+blame largely on the fact that the early design for Taurus, developed by the
+exchange, was rejected in 1989. Service registrars, who maintain share
+registers for listed companies, voted down the idea because it could have
+put them out of business. 'It wasn't surprising - after all, turkeys don't
+vote for Christmas.'
+Yesterday's move also raises serious questions about the future of the Stock
+Exchange, which has been traumatised by its failure to complete Taurus.
+Settlement is one of the exchange's core services, providing Pounds 47.5m of
+its Pounds 194m of income last year.
+Yesterday, it was effectively shunted aside by the Bank of England, which
+stepped forward to take over responsibility for overhauling stock market
+settlement in London. The exchange will continue to run the current system,
+and may eventually have a role in whatever new arrangements the Bank
+proposes - though Sir Andrew said he had urged the Bank to consider an
+independent clearing house to run whatever system it comes up with. 'If
+you're providing an industry-wide service, it should be done by an
+industry-wide utility,' he said.
+City-wide projects such as Taurus have been tried and failed before. They
+have also relied on leadership from the Bank of England to pull them
+through. In the early 1980s, the Bank and the Stock Exchange spent three
+years trying to build an automated settlement system for the gilts market
+before the Bank took over sole responsibility in 1985. The Central Gilts
+Office is now an effective and widely admired part of the gilts market.
+Also in the mid-1980s, the Bank was forced to step in when a City-wide
+grouping of banks and discount houses failed to complete London Clear, a
+project to automate settlement of transactions in the money markets. The
+result was the Central Money Markets Office, which is also now run by the
+Bank.
+The Bank has no plans to take stock market settlement under its wing in this
+way - but it believes it knows enough about clearing and settlement to take
+a lead. Inevitably, the banking industry will be asked to play a stronger
+role.
+The Stock Exchange itself toyed with the idea of hiving off settlement to
+the banking industry in the late 1980s. A committee under the chairmanship
+of Sir Geoffrey Littler, a former Treasury official, was set up to plan an
+independent clearing house. It was never formally closed, but ceased to meet
+more than two years ago as the banks and the exchange lost interest.
+For at least two reasons, the UK clearing banks are now likely to find
+themselves thrust into a central role, whether or not they want it. First,
+they play a central role in the securities markets.
+Barclays, for instance, operates the UK's largest share registration
+service, maintaining share registers for listed companies. It is a
+custodian, providing administrative services to institutional shareholders,
+and runs a retail stockbroking service through its branches. In Barclays de
+Zoete Wedd, its securities subsidiary, it also owns one of the country's
+largest institutional stockbrokers and an investment management company.
+Second, the banks are likely to be forced into a central role because they
+control the cash clearing system, Apacs. Cash and securities settlement will
+need to be meshed together under whatever system is developed - and would
+have been necessary under Taurus - to achieve 'delivery versus payment', the
+automatic exchange of shares for cash after a stock market transaction has
+taken place. This was one of the objectives laid down by the Group of 30,
+the Washington-based think-tank whose initiative on the subject four years
+ago helped to stimulate the modernisation of settlement systems in most
+leading financial centres.
+Also, banks will play an important role in any move away from the current
+'account' arrangements on the stock market, under which all the share
+transactions which take place over a two-week period are settled on a single
+day, a week later. This will be replaced by rolling settlements - another
+G30 initiative - under which bargains are settled a set number of days after
+they take place.
+A stock market based on such a short settlement cycle can only function when
+control of shares and cash is centralised. Germany has achieved this partly
+because the securities business has always been the domain of the banks.
+The London Stock Exchange, meanwhile, has been left to pick up the pieces
+from the unfortunate episode. Mr Rawlins had been brought in three years ago
+ -with the Bank of England's backing - to give a new direction to a
+venerable City institution which had lost its way.
+Costs were rising at a time when profits in the securities industry were
+being squeezed as never before. The exchange's technology base, pulled
+together piecemeal over a number of years, needed replacing. The exchange
+had lost one of its central roles - regulation - to the Securities and
+Futures Authority, set up under the Financial Services Act of 1986. Mr
+Rawlins was to bring it a new sense of purpose.
+Three years later, costs have fallen but the technology base remains the
+same. Of two grand technology plans, one - Taurus - has now been scrapped.
+The other could now prove to be still-born.
+This is the proposed new electronic trading system, viewed in some parts of
+the City as a white elephant on a par with Taurus. Under review ever since
+Mr Rawlins arrived at the exchange, it was meant to replace the system put
+together hastily in the run-up to the Big Bang reforms of 1986.
+The exchange has never publicly divulged its plans. However, brokers in the
+City say that the proposed system is too complex and expensive. Eighteen
+months ago, the estimated cost of building the system was Pounds 40m. Recent
+indications of the cost given to securities houses put it at more than
+Pounds 70m.
+'Clearly, we will have to go over it with the board and assure them that
+this is not another can of worms,' Sir Andrew said. 'I'm convinced we can do
+that.'
+In the stock market's current straitened circumstances, such projects look
+too expensive. That was certainly the mood yesterday, with the new emphasis
+on reducing the cost and time it takes to bring in a new settlement system.
+The exchange's existing technology base, discounted by Mr Rawlins, may yet
+be pressed into service for a little longer.
+
+The Financial Times
+
+
+London Page 19
+
+930312
+

@@ -1,0 +1,71 @@
+FT942-15643
+
+FT  14 APR 94 / Technology: When chips get too close for comfort
+
+
+   By ROB CAUSEY
+
+
+In the 30 years since the invention of the silicon chip, researchers have
+concentrated on squeezing more and more circuitry on to the chip's surface.
+For the first time, they are now also beginning to worry about what happens
+underneath these circuits, inside the silicon.
+The goal of silicon research has been to make the transistors in the
+circuits smaller. The more transistors on one chip and the faster each
+works, the more each chip can do for the user.
+But the transistor is basically a switch. Like a light switch, the moment it
+is flicked a great deal of current starts flowing. Although the effect is
+invisible inside a chip, the sparks can be big enough to affect other
+transistors nearby, making them switch when they should not and possibly
+causing the computer to malfunction.
+This effect is called leakage and is similar to a crossed telephone line
+when the electrical signals from one circuit pass on to another. As
+transistors become rapidly smaller, so do the signals switched. But for
+reasons to do with the physics of silicon, the sparks are not reduced at the
+same rate, making leakage more and more of a problem.
+In the past, leakage was cut out by building walls, called isolation, around
+each transistor. But as the transistors get smaller, the part of the chip
+taken up by isolation becomes excessive, so a new solution had to be found.
+A number of companies now believe the answer is to put a layer of insulator
+under the transistors. This is because computer models of silicon chips
+suggest the leakage current goes down into the silicon before affecting
+other transistors. The most common such technology is called Silicon on
+Insulator or SOI.
+Researchers at NTT, the Japanese telephone company, have built a number of
+SOI chips. Mitsubishi engineers have used the same techniques to make
+circuits for a 256Mbit memory chip. This is two generations of technology
+beyond the most advanced memories used in PCs today, or about five years
+ahead of the market.
+European chipmakers such as SGS-Thomson and the French operation of IBM are
+also developing chips based on the technique, as are Japan's Toshiba and
+Motorola of the US. IBM in the US has helped set up a company called SiBond
+to supply the right kind of silicon. Chenming Hu, a professor at the
+University of California at Berkeley, says the technique would be vital for
+chips used in battery powered systems such as personal digital assistants
+like Apple's Newton.
+The SOI technique does not require drastic manufacturing changes. The
+difference is in the silicon wafer which the chips are made on. Instead of
+pure silicon, a layer of insulator is injected below the surface of the
+silicon using high energy beams. These make it relatively easy to control
+the depth and thickness of the layer of insulator.
+Not all chipmakers agree that SOI is the right answer, however. Researchers
+at AT&T's Bell Labs in the US have developed their own technique and are
+sceptical about SOI's long-term usefulness. They point to damage to the
+wafer which can be caused by the process of injecting the insulator as a big
+drawback of SOI.
+The Bell Labs technique creates two tiny areas of insulator under each
+transistor rather than a layer under the surface of the whole wafer. One of
+these areas has to be implanted using the same technique as SOI, but the
+team believes that because it is much smaller, it will cause less damage to
+the wafer. The second layer can be created using ordinary chipmaking
+techniques.
+As computers become more portable, what goes on inside the silicon will
+matter as much as the ever-shrinking transistor on its surface.
+
+The Financial Times
+
+
+London Page 20
+
+940414
+

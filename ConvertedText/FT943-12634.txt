@@ -1,0 +1,84 @@
+FT943-12634
+
+FT  23 JUL 94 / Finance and the Family: The options option - Some advice for
+stock market speculators
+
+
+   By PETER JOHN
+
+
+Speculators face a potential blow under rolling settlement, the new stock
+exchange method of paying for shares (see page III). Under the old system of
+account trading - which covered 10 to 15 per cent of stock market deals -
+they could buy and sell shares for a quick profit without having to put up
+any money or take physical possession of them. Now, each deal will have to
+be settled - either in cash or share certificates delivered - 10 business
+days later.
+What, then, should the speculative investor do? He has two natural choices.
+One is to engage in margin trading, borrowing money to buy shares. The other
+ -to which Liffe, the London derivatives exchange, hopes investors will turn
+ -is traded options. Like margin trading, buying traded options is a geared
+investment: you make more money than you would in the underlying shares if
+the share price moves in your favour - but you can lose everything if it
+moves against you.
+A buyer of a traded option has the right, but not the obligation, to buy or
+sell particular shares at a fixed price at any time up to a specific expiry
+date. Calls (the right to buy shares) and puts (the right to sell them) are
+available in 70 different companies, with a range of different prices and
+periods available for each.
+Traded options relate mainly to FT-SE 100 companies and most are traded only
+in blocks representing 1,000 shares. There are also traded options in the
+FT-SE index itself. At the moment you can, for instance, buy Glaxo options
+which expire this month (July), or in October or next January. The share
+price is around 580p; available options give you the right to buy at, for
+example, 550p or 600p.
+Not unnaturally, you pay for this right. An option lasting until October,
+and which gives you the right to buy at 600p, will cost 26 1/2 p - but one
+for the same period, giving the right to buy at 550p, will cost 54p. If the
+Glaxo price remains unchanged during that period, the 600p option will
+expire worthless while the 550p one has intrinsic value of around 30p. But
+if the share price slips to, say, 560p, that intrinsic value will be cut to
+10p.
+The point about traded options, however, is that you can buy and sell the
+option itself - you do not need to use it to buy the underlying shares. So,
+if the Glaxo price were to move up smartly, the options probably would rise
+even more sharply and you could take your profits by selling the options.
+Here is a real example of what might have happened. Say, earlier this
+summer, an investor noticed that pharmaceuticals had underperformed the
+broad London market and that Glaxo had done particularly badly. Indeed, on
+June 27, Glaxo shares had underperformed the falling market by 13 percentage
+points over the previous six months and stood at 533p.
+One response could have been to buy 1,000 shares. In that case, Pounds
+5,333, which could be earning interest in the building society, would have
+been tied up. Alternatively, a January 500 call - that is, the right to buy
+the shares up until January 1995 at 500p each - would have cost 63 1/2 p a
+share, or about Pounds 635 (plus costs) for a contract.
+The 63 1/2 p option price (known as a premium) is made up of two elements:
+intrinsic value and time value. Intrinsic value is the amount by which the
+option is below the underlying share price. (Not all options have intrinsic
+value). Time value is the difference between the intrinsic value and the
+actual cost of the option. Working it out involves a complex mathematical
+formula but, essentially, the longer the option's period, the greater the
+time value - because the chances of it acquiring intrinsic value in the
+interim are greater.
+The intrinsic value rises or falls with the value of the shares. But it
+exaggerates the movements in the underlying share price. The time value does
+not decrease in a straight line in proportion to the time involved. Often,
+it remains relatively high until shortly before expiry, especially when the
+market swings the way it has done recently. In fact, by Wednesday this week,
+Glaxo shares had reached 584p and the price of Glaxo January 500 calls was
+96p. An investor could have sold the Pounds 635 contract for Pounds 960.
+The two main advantages of calls over shares is that (a) they are a geared
+play offering the potential for much greater gains, and (b) the amount that
+can be lost is limited to the cost of the option. Puts operate in the same
+way as calls except that they allow investors to SELL shares at a fixed
+price up until the expiry date. They allow investors to insure or hedge
+against falls in the market.
+
+The Financial Times
+
+
+London Page IV
+
+940723
+

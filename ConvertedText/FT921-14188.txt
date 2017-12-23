@@ -1,0 +1,147 @@
+FT921-14188
+
+FT  17 JAN 92 / FT Law Report: DTI questions must be answered
+
+
+   By RACHEL DAVIES, Barrister
+
+
+IN RE LONDON UNITED INVESTMENTS PLC
+Court of Appeal (Lord Justice Dillon, Lord Justice Mustill and Lord Justice
+Stuart-Smith): December 19 1991
+THE Department of Trade and Industry has power to appoint inspectors to
+investigate company matters which are the subject of allegations of fraud,
+irrespective of whether they may also be subject to enquiry by the Serious
+Fraud Office or the police; and an officer of a company questioned by the
+inspectors for the purpose of the investigation cannot refuse to answer on
+the ground only that to do so might incriminate him.
+The Court of Appeal so held when dismissing an appeal by Mr Peter Stringer
+Wilson, former chief executive of London United Investments plc (LUI), from
+Mr Justice Scott's decision on an application by Department of Trade and
+Industry inspectors, that his refusal to answer questions put to him by the
+inspectors was unjustified.
+LORD JUSTICE DILLON said that from January 1 1976 to October 4 1990 Mr
+Wilson was a director of LUI.
+LUI carried on business primarily as a holding company in the insurance
+field, with two relevant wholly-owned subsidiaries, Walbrook Insurance and
+HS Weavers (Underwriting) Agencies (HSW).
+Mr Wilson was a director of Walbrook from December 3 1974 until August 2
+1990. He was managing director of HSW from January 1 1976 until September
+1989, when he became chief executive of LUI.
+LUI ran into difficulties in 1989. On March 26 1990, following directions
+from the DTI, LUI and its subsidiaries stopped writing new insurance
+business. On May 22 an administration order was made in respect of LUI.
+In October/November 1990 the secretary of state, in exercise of his powers
+under section 432(2) of the Companies Act 1985, appointed inspectors to
+investigate the affairs of LUI.
+The inspectors were particularly asked to look at the circumstances
+surrounding payments of commission on reinsurance contracts relating to HSW.
+That raised questions with regard to arrangements made between HSW and a
+German reinsurance company, Munich Re.
+In an affidavit sworn on May 10 1991, the inspectors said it was apparent
+from their investigations that between 1976 and 1989 HSW had entered into
+reinsurance quota share treaties with Munich Re; and that during that period
+deductions of 5 to 6.5 per cent, totalling Dollars 46m, were made from
+reinsurance premiums and paid to various companies based in Germany or
+Liechtenstein, referred to as the 'Smith companies'.
+The inspectors said they regarded it as essential to their investigation to
+determine why those deductions were made, what was the true nature of the
+role performed by the Smith companies, and for whom they were acting.
+They pointed out in their affidavit that Mr Wilson was the person who
+carried out the negotiations with Munich Re and operated the Munich Re
+facility throughout the whole period. They said he had told them he intended
+the deductions should go to the Smith companies.
+It seemed that the Smith companies took their name from Mr Graham Smith, an
+English chartered accountant resident in Liechtenstein, and his wife Isolde,
+a Liechtenstein citizen.
+On October 30 1990 HSW started an action for fraud, against Mr Wilson and
+others including Mr and Mrs Smith and the Smith companies, in respect of
+diversion to the Smith companies of commissions payable by Munich Re.
+It was not surprising that the inspectors wanted to question Mr Wilson about
+the Munich Re commission and the Smith companies.
+Mr Wilson had refused to answer.
+Mr Brodie for Mr Wilson submitted that, as a matter of law, it was improper
+for the secretary of state to appoint inspectors to investigate matters
+which were the subject of allegations of fraud, because it was more
+appropriate that suspected crimes should be investigated by the Serious
+Fraud Office or the police.
+That was an impossible contention in the face of the wording of Part XIV of
+the 1985 Act.
+Section 432(2) provided that the secretary of state might make an
+appointment if circumstances suggested a company's affairs were being
+conducted 'with intent to defraud'.
+Where matters which came to light in the course of investigation had been
+referred to a prosecuting authority, the secretary of state was not bound to
+direct the inspectors to take no further steps. He just had power to do so
+(section 437).
+Moreover, he had power under the combined effect of sections 449 and 451A to
+disclose information obtained by inspectors under section 434, to the
+Director of Public Prosecutions.
+Against that background it was impossible to conclude that there was any
+basis in law which precluded the secretary of state from appointing
+inspectors in the present case.
+The first major question on the appeal was whether Mr Wilson was entitled to
+rely on the Common Law privilege against self-incrimination as entitling him
+to refuse to answer the inspectors' questions.
+The privilege was deep-rooted in the Common Law. However, since R v Scott
+(1856) 169 ER 909, it had been accepted law that parliament might take away
+the privilege.
+In Scott, where statute compelled a bankrupt to answer questions which might
+show he had been guilty of felonies or misdemeanors, Lord Campbell CJ said
+'the maxim of the Common Law has therefore been overruled by the
+legislature'.
+There was no express provision precluding officers of a company from relying
+on the privilege against self-incrimination when questioned by inspectors,
+either in the 1985 Act, or in the Insolvency Act 1986.
+The court had to consider whether it was clear that parliament intended,
+when enacting Part XIV, to take away the privilege.
+Lord Campbell's judgment in R v Scott was an example of the sort of
+reasoning which might justify the court in holding that the privilege had
+implicitly been taken away.
+Section 434(2) of the 1985 Act as amended by the Companies Act 1989 provided
+that if inspectors considered an officer of the company might be in
+possession of information relevant to their investigation they might require
+him to '(b) attend before them, and (c) otherwise to give them all
+assistance . . . which he is reasonably able to give'.
+Section 436 provided that if he refused to answer, the inspectors might
+certify that fact to the court, and '(3)the court may thereupon enquire into
+the case and . . . punish the offender in like manner as if he had been
+guilty of contempt of the court'.
+On those provisions,the conclusion was that as (i) inspectors would in very
+many cases have been appointed where the circumstances suggested fraud, (ii)
+persons questioned were bound to answer their questions, and (iii) the
+inspectors' report might lead the secretary of state to petition for
+winding-up or to proceed in the company's name in the public interest, the
+privilege against self-incrimination was impliedly excluded.
+The second major question was whether it was fair for the inspectors to seek
+answers, given that they admittedly would be self-incriminating.
+It had long been held that the court was concerned to ensure that the
+procedure of private examination was not exercised in a manner oppressive to
+the person to be examined.
+It might be that the court had power under section 463(2) to refuse to
+compel a person to answer or to punish him for refusing to answer, if it
+felt that the questioning was oppressive and therefore unfair.
+But that was not this case.
+If it was right that the privilege against self-incrimination was not
+available to Mr Wilson, the mere fact that the answers might incriminate him
+could not be enough by itself to make it unfair that he should be required
+to answer.
+In considering, in the absence of privilege, whether it was fair that
+questions should be put to him, it was highly relevant that Mr Wilson's
+position in the three companies made it likely that he knew the answers to
+the questions the inspectors wanted to ask him, and highly relevant also
+that because of that position he owed the fiduciary duty to the companies.
+The appeal was dismissed.
+Their Lordships agreed.
+For Mr Wilson: Stanley Brodie QC, Stephen Nathan and Robert Howe (Tarlo
+Lyons).
+For the inspectors: Andrew Collins QC and Arthur Charles (Treasury
+Solicitor).
+
+The Financial Times
+
+
+London Page 13
+
+920117
+

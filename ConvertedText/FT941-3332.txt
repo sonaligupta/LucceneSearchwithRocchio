@@ -1,0 +1,124 @@
+FT941-3332
+
+FT  16 MAR 94 / Survey of Information and Communications Technology (5):
+Computers which appeal to the senses - The multimedia market is still in its
+infancy
+
+
+   By JOIA SHILLINGFORD
+
+
+Multimedia brings sound and video to the personal computer. Like sex, it
+promises to appeal to the senses. Unlike sex, multimedia has yet to appeal
+to a wide audience.
+However, one application which seems likely to increase the take-up rate of
+multimedia is desktop video-conferencing. The technology is also suitable
+for point-of-sale promotions, interactive educational/training software and
+ -in very skilled hands - designing multimedia presentations.
+Here and on the following page we look at two areas with most potential:
+desktop video-conferencing and multimedia at the point of sale.
+Desktop video-conferencing: Some computers now come fully equipped for
+videoconferencing, allowing users to transmit live video images of
+themselves to other, similarly-equipped users, and to see on their PC the
+person they are talking to.
+For example, Sun Microsystems, the US workstation company, says its new
+SPARCclassic Unix workstation, which costs Pounds 4,340 (Dollars 6,510), is
+the industry's lowest cost, fully-configured multimedia workstation. This
+includes camera, real-time video-capture and compression and a storage disk.
+But most users will have to buy a multimedia kit if they want to carry out a
+video-conference in a window on their personal computer.
+In April BT and Olivetti will begin selling multimedia kits which allow pc
+users to do this. The BT-Olivetti kits will cost Pounds 3,595; they include
+a small video camera which sits on top of the PC, a card which slots into
+the PC, and software.
+In addition, the kit makes it possible for users to transmit still video
+images, photographs or sound. BT says the kit will send video at 15-frames a
+second when it goes on sale.
+At this speed, video images will be rather jerky (it may look as if the
+person you are talking to has just come back from a boozy lunch). So
+'meeting' someone for the first time via a desktop video-conference is not
+ideal if you want to make a good impression. It is more suitable for
+follow-up 'meetings,' where being able to see the person you are talking to
+may give a better idea of their reactions.
+Will this form of communication catch on?
+Yes - according to Judith Jeffcoate, of the research consultancy Ovum. She
+believes that between 1996 and the end of 1998, revenues from pcs equipped
+for video will exceed those from conventional videoconferencing equipment.
+Suppliers are also upbeat about the potential market. An increasing number
+have developed desktop video-conferencing products. They include
+Canada-based Northern Telecom (with the Visit system distributed by UK
+computer dealers P&P); Intel, the US semiconductor company; AT&T; BT and IBM
+(with Coco); Apple (in the US); and Olivetti.
+Many of these products allow people engaged in a video-conference to point
+to or edit information they can both see on their screens. Intel says that
+with its system, users at far-flung sites can edit a report together, both
+looking at the same version on their screens.
+The system is modular and it is possible for US users to buy the ProShare
+shared editing software for Dollars 99 without the full videoconferencing
+kit (which costs Dollars 1,200 to Dollars 2,500). Intel is spending Dollars
+100m (Pounds 67m) a year on what it calls personal conferencing technology.
+Its multimedia kits will go on sale in Europe this year.
+To use one of its kits, the user must have a pc based on a powerful
+microprocessor (486DX or Pentium) and must install an ISDN (Integrated
+Services Digital Network) telephone line. Most other desktop
+videoconferencing systems are also designed to work with ISDN, a high-speed
+digital dial-up service.
+Simon Goodwin, of AT&T Global Information Solutions, expects the multimedia
+market to be worth Dollars 900m by the end of 1995. He believes that growth
+will be fuelled by three factors: falling prices for multimedia components;
+the acceptance and roll-out of Euro-ISDN, replacing proprietary national
+ISDN communication; and the combined efforts of important European
+industrial participators in exploring new opportunities and requirements for
+videoconferencing products.
+Point-of-sale promotions: Another potential growth area for multimedia is in
+point-of-sale (POS) devices. These can be used not only to promote products
+but also to collect information about customer preferences.
+Many POS devices developed so far are linked into ISDN, so that they can
+relay customer orders back to head office or be updated with the latest
+product and price information.
+Examples include:
+An interactive point-of-sales terminal which Ford plans to use in its car
+showrooms to enable customers to see the car of their choice in the colour
+and configuration they want - for example, four doors, spoilers.
+A system which helps a customer to choose a hairstyle from a database of
+4,000 styles. Hairstyles can be superimposed on to a video image of the
+customer's face to see how he/she would look. (Although the system is used
+by only 18 Belgian hairdressers, Comsys of Belgium, its developers, is
+undeterred, and has crossed the channel in search of UK business.)
+A point-of sale terminal for a big music retailer. This system, developed by
+Applied Interactive Marketing (AIM) of Piccadilly Circus, London, allows
+customers to sample albums which are to be released in the next few months
+(by selecting a track and a seeing a video clip of the singer). Customers
+can operate the terminal using touch-screen commands, and indicate which
+releases they are interested in buying.
+AIM says that developing a multimedia POS system can take as little as three
+to four months or up to a year and a half. Costs of developing a system
+range from Pounds 15,000 to Pounds 200,000.
+Multimedia at the point of sale has a lot to offer. However, 24 multimedia
+POS kiosks based in London's Heathrow airport illustrate the main problem
+with the technology: most people are unfamiliar with multimedia
+terminals/kiosks and are hesitant to try them out.
+The colourful Galleria 21 Heathrow kiosks, designed by the John Herbert
+Partnership (which was involved in the interior design of Terminal 4), use
+AT&T's multimedia technology. At first, people spotted the kiosks and
+wondered what they were for. Most people did not know - so they did not use
+them. Now the kiosks have been clearly labelled 'Tax free shopping' and AT&T
+says usage has increased. They allow travellers to use a touch-sensitive
+screen to order goods via credit card.
+The terminal works out how much the goods will cost, based on factors such
+as which currency is being used in payment, delivery charge, and whether any
+duty is payable. The goods thus ordered can be delivered to any destination
+in the world within seven working days.
+The tale of the 24 kiosks shows that a multimedia screen has only limited
+powers of attraction. In order to reach a wider audience, multimedia
+products must demonstrate clear benefits.
+Joia Shillingford is associate editor of the Financial Times newsletter,
+Business Computing Brief
+
+The Financial Times
+
+
+London Page III
+
+940316
+

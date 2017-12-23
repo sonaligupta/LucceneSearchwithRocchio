@@ -1,0 +1,31 @@
+FT942-12170
+
+FT  30 APR 94 / Briefcase, Q&A: Warrants and CGT
+
+
+I understand that warrants, if exercised, are not subject to CGT even if
+they are bought for cash on the market. But what if warrants are bought and
+sold on the market? Do I have to pay tax on any gain?
+Listed warrants sold on the market are treated just like listed shares, for
+CGT purposes. A cash profit is eligible for indexation relief; a cash loss
+is allowable* without being increased by indexation unless the transitional
+Pounds 10,000 relief applies.
+Exercising a warrant does not produce any immediate CGT consequences, as you
+say. When the shares are sold, they are deemed to have cost you the total of
+(a) the cost of the warrant and (b) the amount paid on exercise; the cost of
+the warrant (a) is indexed from the month of purchase to the month of
+exercise, and then the total of that indexed figure and the amount paid on
+exercise (b) is indexed from the month of exercise to the month of sale.
+*If you buy warrants which eventually expire worthless, the cost is
+allowable as a loss which is deemed to arise on the day of expiry.
+No legal responsibility can be accepted by the Financial Times for the
+answers given in these columns. All enquiries will be answered by post as
+soon as possible.
+
+The Financial Times
+
+
+London Page IX
+
+940430
+

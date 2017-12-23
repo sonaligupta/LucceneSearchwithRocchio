@@ -1,0 +1,123 @@
+FT941-3313
+
+FT  16 MAR 94 / Survey of Information and Communications Technology (18):
+History often repeats itself - The UK's computing industry / The development
+of the UK's computer manufacturing industry ran into problems from the
+start.  Genius was let down by poor marketing and lack of government funding
+
+
+   By JOHN KAVANAGH
+
+
+Fujitsu's takeover of ICL in 1990 brought an end to a UK-owned computer
+manufacturing industry which dated back almost 40 years.
+Yet according to some of its early leaders, who met at London's Science
+Museum at the end of last month to discuss why the early UK promise was not
+fulfilled, the fact that the industry had survived even beyond the 1960s was
+quite remarkable.
+The packed meeting, organised by the Computer Conservation Society,
+highlighted the UK's disadvantages from the very early days.
+'The UK's contribution was out of all proportion to its population and
+industrial capacity,' said Mr George Davis, who worked at the National
+Physical Laboratory on the ACE (Automatic Computing Engine).
+'This was true at all stages: the creation of basic concepts, the research
+and development leading to the first computers and the emergence of a
+computer industry with competing suppliers.'
+But Mr Davis argued that the breadth of this contribution meant that the UK
+industry was too diverse from the start.
+By the mid-1950s there were eight computer manufacturers. They included
+Ferranti, English Electric, ICT (International Computers and Tabulators),
+Elliott Brothers and Leo Computers - this last was the product of J. Lyons'
+extraordinary expansion from tea shops into building computers.
+Lyons is credited with being the first organisation to run commercial
+applications. Notable among these were bakery production monitoring in 1951
+and payroll in 1954. These landmarks inspired The Economist to publish a
+feature article in 1954 which asked: 'Is this the first step in an
+accounting revolution or merely an interesting and expensive experiment?'
+The trouble was that the US, with a similar number of manufacturers, had a
+far bigger home market on which to build the foundations for its industry -
+and more government support.
+'While the US government was supporting research and development in the late
+1940s and early 1950s, with guaranteed orders at the end, the computer
+industry was not seen as significant in the UK and was not supported,'
+George Davis told the Computer Conservation Society.
+This was underlined by the practical experiences of Mr Cecil Marks, who
+recalled being seconded by Royal Ordnance, where he worked on administration
+and accounting, using punched card equipment, to a study carried out by
+government departments into the potential uses of computers. Scientists and
+users from several departments, including the Treasury, worked for 18
+months, culminating in the production of a hefty report and a meeting with
+'a very senior civil servant.'
+'At the end of the meeting he suggested that this was not the time to be
+getting into computers,' Mr Marks said. 'That led to the ordnance factories,
+at least, losing ground for more than 10 years.'
+Other factors were brought to light by Mr Hugh Ross, who set up Ferranti's
+London computer centre in the mid-1950s. He pointed to a dispute between
+Ferranti and the National Research Development Corporation, over
+manufacturing costs underwritten by the publicly-funded corporation, which
+led to a nine-month ban on sales. As Mr Ross said, this had a 'crippling'
+impact on UK success in the emerging market, as well as hitting Ferranti's
+cash flow.
+But Mr Ross also blamed an absence of financial management for Ferranti's
+failure to fulfil its early promise. Even when he set up the London computer
+centre, he said, he never had to account for any money he spent - indeed, he
+had never had a budget in the first place.
+Later, when he was responsible for Ferranti's pioneering documentation
+service, one of the biggest spending units, Mr Ross again had no budget.
+Moreover, he had never had to produce a business plan and was never called
+to account. 'There was no financial management at all,' he said.
+'I later joined STC and came in contact with management training provided by
+its owner, the US ITT group,' Mr Ross added. 'This was terrific - and a
+profound shock, after Ferranti. We had to produce business plans, prepare
+budgets and report our monthly results against those budgets.'
+Such personal reminiscences add flesh to historians' reports on UK genius
+being let down by everything from poor marketing to lack of government
+funding, compared with the US, France and Germany.
+Whatever the combination of factors, George Davis showed how US
+manufacturers took firm control within a dozen years of J. Lyons running
+that first payroll system.
+By 1967, IBM had installed over 21,500 computers of various sizes; UK market
+leader ICT (soon to become ICL) had sold 844. These included 399 of the new
+1900 range (which was to be the company's mainstay until the middle of the
+1970s); meanwhile, IBM's System 360, launched the same year, was already up
+to 5,730 installations.
+In 1968, ICL was formed as the great white hope: the culmination of merging
+the computing activities of all the early manufacturers. Yet it was still
+dwarfed by IBM: George Davis showed that in 1969 ICL had a Pounds 115m
+turnover and spent Pounds 13m on research and development, while IBM had a
+turnover of Pounds 3,000m and a research budget of almost Pounds 170m.
+However, a retired ICL executive director, Mr Peter Hall, stoutly defended
+ICL's record. ICL and its ICT forerunner had been profitable for 35 years -
+apart from in 1965, just after taking over Ferranti's ailing computing
+operation; and in 1981, when the visionary Dr Robb Wilmot was transforming
+the company for the emerging office computing revolution.
+Mr Hall said Fujitsu allowed ICL to run itself, and that the company
+generated all its own cash for takeovers and other investment, and did all
+its own design work.
+Whether that makes ICL any more British than IBM UK (or Rover Group in the
+car industry, for that matter) is debatable. But Mr Hall argued that these
+points suggest that the early promise of the UK computer manufacturing
+industry, which had mostly merged into ICL by 1969, was fulfilled after all.
+It is simply that a generation later the industry is all in foreign hands.
+As today's tight margins on hardware increasingly cause computer
+manufacturers to look to software and services for their profits, it is
+equally debatable whether the virtual disappearance of a UK computer
+manufacturing industry need be a cause for concern.
+That concern is now focused more on the software industry, where some big
+names have fallen into foreign ownership. Takeovers of Cap, Hoskyns, Istel,
+Scicon and others have given substantial footholds in the UK market to, for
+example, the telecoms giant AT&T, General Motors' EDS subsidiary and the
+French company CGS, Europe's biggest computing services group.
+History, as they say, has a habit of repeating itself.
+The Computer Conservation Society has regular meetings and works on
+restoring ancient computers. It is also opening Bletchley Park (which
+cracked German codes in the Second World War) for public visits. The
+secretary is Tony Sale, (0234) 822788.
+
+The Financial Times
+
+
+London Page XIII
+
+940316
+

@@ -1,0 +1,139 @@
+FT941-3440
+
+FT  16 MAR 94 / More flexible, and less arrogant friend: The outlook for a
+UK-based computer company in a cut-throat marketplace
+
+
+   By ALAN CANE
+
+
+International Computers, the UK-based computer company, used to epitomise
+arrogance and insularity. Even 'International' in the company's name begged
+an invidious comparison with International Business Machines, the world's
+largest computer company.
+Stories of its conceit abounded. The chief salesman for a region, it was
+said, would put up in the best hotel and announce he would be available that
+evening in the parlour to take customers' orders for computers.
+Since its acquisition, first by the UK telecommunications company STC in
+1984 and then by Fujitsu, Japan's leading computer maker, in 1990, that
+arrogance has evaporated. 'Today we are humbler and nimbler,' says Mr Peter
+Bonfield, ICL chairman and chief executive.
+Mr Koshiro 'Kit' Kitazato, Fujitsu's man in ICL's headquarters in Putney,
+west London, is charged with co-ordination between the Japanese computer
+giant and its UK-based subsidiary. He says ICL has learnt reliability from
+Fujitsu, while Fujitsu has learnt flexibility from ICL.
+Fujitsu set several strategic objectives at the time of the takeover. ICL
+would be autonomous, operating at arm's length from its parent. It would
+retain its European base, seek maximum commercial co-operation with Fujitsu
+and, eventually, float on the London Stock Exchange.
+The first few conditions have been fulfilled; the recession has delayed the
+flotation. Both companies agree they should work more closely together to
+share research and development, and marketing costs.
+There have been some positive developments: ICL's new mid-range computers
+are the first to be sold under the two companies' names; a pioneering
+trainee exchange scheme is under way; the two groups are collaborating on
+check-out systems for supermarkets; ICL's office software has been rewritten
+to be marketed in Japan.
+Despite these achievements, ICL's 1993 results, scheduled for release today,
+will not be exciting. Turnover will be higher than last year's Pounds 2.5bn,
+but pre-tax profits are expected to be well below the Pounds 38.6m recorded
+for 1992. Profitability has been on the slide since 1989, when ICL made
+Pounds 148.6m before tax. The 1993 figure represents little more than
+break-even, though it is respectable in an industry undergoing global
+restructuring.
+ICL's top management is taking steps to safeguard the group's profitability.
+Earlier this year, the company raised Pounds 100m through a rights issue
+wholly taken up by Fujitsu - the first time the UK company had turned to its
+parent for funds.
+The issue reflects the group's pessimism over short-term prospects in the
+computer marketplace, as the industry moves towards low-cost, low-margin
+operating systems based on common standards.
+Cash is one bulwark against a highly competitive market; an increasingly
+efficient and lean operation is another. Mr Bonfield points to the steady
+decline in the group's overheads. In 1987 operating expenses as a percentage
+of turnover were 26.8 per cent; in 1992 the figure was 22.8 per cent and it
+is expected to have fallen further in 1993. The company employs about 25,000
+and is cutting jobs at about 5 per cent a year.
+The reason for ICL's drive for economies is the relentless decline in gross
+profit margin. Standing at 47 per cent in 1987, it is now less than 35 per
+cent as the shift to lower-cost systems continues.
+Nevertheless, ICL remains the only consistently profitable broad-based
+computer manufacturer headquartered in Europe; worldwide, it is one of the
+few traditional computer companies not floundering in red ink. By
+comparison, Siemens Nixdorf of Germany and Olivetti of Italy are losing
+money; and Groupe Bull of France is dependent on repeated restructuring
+grants from the French government.
+Mr Bonfield's reputation is high, both with Fujitsu and the industry at
+large. He was recently asked by Mr Martin Bangemann, European Union
+commissioner for industry and telecommunications, to join the High Level
+Group on Information Technology, set up to consider the impact of
+information technology on Europe. This is an indication that ICL has
+restored its Euro credentials after being bundled out of high-level European
+policy meetings following the Fujitsu takeover.
+But restoring adequate profitability has proved more difficult. Though it
+still manufactures mainframe computers, more than 50 per cent of ICL's
+revenues come from the services sector. Competitors now include services
+companies, such as Electronic Data Systems (EDS), and personal computer
+makers, such as Compaq, as well as its traditional rivals, IBM, Unisys and
+Digital Equipment.
+According to Input, a US consultancy which tracks the computing services
+business, ICL's improvement in market share in services ranks it fourth in
+Europe behind the US companies Microsoft, Andersen Consulting and EDS.
+The company has been split into 26 semi-autonomous businesses, each with
+profit and loss responsibilities. There are three groups: industry systems,
+including countries such as France and Portugal, under Mr Richard
+Livesey-Haworth;
+services, including Workplace Technologies and Sorbus Europe, the
+maintenance company ICL owns with Bell Atlantic, under Mr Paul Whitwam;
+and technology businesses, exemplified by Design to Distribution, ICL's
+manufacturing consultancy, under Mr Ninian Eadie.
+These changes, made over the past year, are evidence that the company is
+going through a second significant restructuring. The first took place more
+than a decade ago when, under Mr Robb Wilmot, ICL forged a technological
+alliance with Fujitsu and pioneered the shift to standard systems. That was
+when ICL abandoned cherished notions of setting the technological agenda and
+accepted that it would have to buy its technology from the best sources.
+Despite what many saw as the dead hand of STC, ICL prospered during the
+buoyant economy of the late 1980s.
+But both ICL and STC were aware the company needed an owner with deeper
+pockets and greater commitment to the information technology business than
+STC. The solution proved to be Fujitsu. It bought the company just before
+the US and western Europe entered recession. At the same time, the cost of
+computer hardware fell sharply, helped by a fierce price war between
+personal computer manufacturers.
+ICL's survival is a consequence of a flexibility uncommon in large
+companies: 'In storms we are quite quick up the rigging, even if the planks
+are leaking,' Mr Livesey-Haworth says wryly.
+Much of this flexibility comes from a trio of acquisitions: Datachecker, a
+US retail automation company which is the cornerstone of ICL's ambitions as
+a global retail systems company; Nokia Data, the Finnish personal computer
+company, which ICL bought in 1992; and Technology, the UK's largest personal
+computer distributor.
+Datachecker, as ICL's senior managers recall, was a case study in how not to
+manage an acquisition. The company sent in its own manager and accountants
+who ran rough-shod over local management. Sensitivities were bruised, so the
+assimilation took longer and cost more than envisaged.
+When ICL acquired Nokia Data, it was determined not to make the same
+mistake. PC operations were consolidated in Scandinavia. The chief impact,
+however, was cultural, a pattern repeated with the acquisition of
+Technology. 'We needed a shot of the faster-moving PC culture,' Mr Eadie
+says.
+So what is ICL's future? It is likely to remain medium sized; it is unlikely
+to make more money this year than in 1993, as Mr Bonfield sees no
+improvement in the market. He believes, however, that ICL's reorganisation
+will be complete this year. Largely freed from debt through the rights issue
+and from restructuring charges, the company should return to significant
+profitability in 1995, he predicts. This could mean profits eventually
+reaching 5 to 6 per cent of revenues.
+The worry now is not complacency, but battle fatigue: 'We drive this company
+hard, but it's the only way to do it,' Mr Bonfield says. Mr Keith Todd,
+finance director and chief strategist, agrees: 'We have gone through world
+war three, but we cannot relax. The fight goes on.'
+
+The Financial Times
+
+
+London Page 21
+
+940316
+

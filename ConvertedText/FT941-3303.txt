@@ -1,0 +1,123 @@
+FT941-3303
+
+FT  16 MAR 94 / Survey of Information and Communications Technology (28): A
+central link in the chain - Factory of the future / Most of Britain's
+leading manufacturing companies expect to invest heavily in information
+technology in the next five years, reports Andrew Baxter. The most popular
+planned investments are manufacturing management systems
+
+
+   By ANDREW BAXTER
+
+
+After 20 years of dramatic developments in the information technology used
+by manufacturers - from the earliest computer-aided design systems to modern
+relational databases and shopfloor management systems  - there is no let-up
+in the pace of change.
+Information technology (IT) vendors still see plenty of opportunities to
+fulfil the changing needs of manufacturing companies, while the customers
+are reacting to the disappointments of the past by taking steps to ensure
+their IT needs really are met in future.
+It is partly because of past disappointments, and the fact that previous
+investments are no longer compatible with newer technologies, that spending
+on IT by manufacturers remains a high priority.
+According to a MORI survey last month for the ASK Group, developers of
+business software, and the accountants Coopers & Lybrand, 82 per cent of 100
+companies picked at random from the UK's top 1,000 manufacturers expect to
+invest heavily in IT in the next five years - and 60 per cent of managers
+expect to spend more than Pounds 1m.
+The most popular planned investments are manufacturing management systems,
+where 73 per cent plan to spend money, and supply chain systems to improve
+performance, where 62 per cent expect to invest.
+This year's Computers in Manufacturing Show, at the National Exhibition
+Centre, Birmingham, from November 22-24, will demonstrate some of the
+state-of-the-art IT products seen by industry as a priority for their
+broader business needs. Examples are virtual reality and rapid prototyping
+tools to improve and accelerate product development, and just-in-time
+software which allows manufacturers to operate lean production techniques.
+These and other technology developments now becoming available provide some
+clues as to what will be the IT needs of the factories of the future.
+Mr Graham Williams, managing director of AT&T Istel's manufacturing
+division, believes the next five years could be exciting because of the
+products which IT vendors are offering industry in order to help to tackle
+key manufacturing problems.
+The need for manufacturers to get closer to consumers has spawned the
+concept of the extended enterprise in which not only suppliers, but also
+distribution, is included. For example, says Mr Williams, IT can be used by
+brewers as a means of viewing the hop-grower and also the public house as
+part of its enterprise.
+Similarly, the generation of electronic point-of-sales data can produce a
+works order, and in turn create all the orders for materials and
+sub-assemblies. This would aid the lean production process, as manufacturers
+would only be making what their customers were buying.
+All the technology to do this exists, says Mr Williams. Indeed, it is
+already happening to some extent in the food industry, and will start to
+happen very quickly in the process industries.
+Mr Cliff Shuker, managing director of AT&T Istel's Rover division, sees an
+increasing need for IT applications that can be applied horizontally across
+processes rather than simply used to improve the performance of individual
+functions or departments.
+Also, as customers increasingly dictate what happens in factories, they will
+use IT to inject their requirements straight into manufacturers' production
+schedules. Moreover,the development of massive databases provides the basis
+for neural networks which can aid decision-making by tapping into past
+experience.
+IT users in manufacturing, too, have been thinking about the next steps in
+their use of manufacturing technology. The most important initiative among
+users is the AIT project - advanced information technology in design and
+manufacturing - which is headed by Daimler-Benz and stems from users'
+demands for more effective IT and better integration of systems at different
+sites.
+The pilot phase for the project, which comprises 16 aerospace and automotive
+companies from six countries, began last November and the overall aim is to
+strengthen the competitiveness of key European industries by three
+consecutive action in three areas.
+First, the initiative will seek to establish a consensus among European
+industrial users of IT on their most important future requirements for
+design and manufacturing.
+Secondly, it will seek an agreement on these requirements with the IT
+vendors, and, thirdly, an IT research and development initiative will be
+launched to support the commonly-agreed requirements.
+Significantly, the initiative's backers say they want it to become a
+substantial user force recognised by the IT community, to ensure that future
+products meet users' requirements.
+Two other projects, combining users, vendors and universities, underline
+further priorities for the development of IT in the factories of the future.
+Just before Christmas, Crawley-based Reflex Manufacturing Systems, a
+subsidiary of Rolls-Royce Aerospace, won approval from the European Union
+for a project under the Esprit programme known as Discrete Cell Control.
+Over the past five years, the adoption of manufacturing cells has grown
+rapidly in industry because of their contribution to flexible manufacturing,
+reducing work-in-progress and enhancing teamwork and multi-skilling.
+Helped by an Ecu 1.3m Esprit grant, project leader Reflex and its partners
+will, over the next 18 months, develop an open applications framework aimed
+at providing a firm foundation for all cell control systems.
+Reflex, a software house which specialises in manufacturing control and shop
+floor scheduling systems, says the DCC will provide the means to design and
+build systems, and empower autonomous cell operation, while enabling the
+cell to co-operate with other production and engineering teams.
+Mr Terry Jones, managing director of Reflex, says the aim is a standard cell
+control environment which different IT suppliers can plug into efficiently.
+Internal and external customers would also be able to view where their
+products are in the cell.
+The applicability of DCC will be evaluated through pilot projects at two of
+Reflex' partners in the scheme, Intracom, the Greek electronics and telecoms
+equipment company, and the Odense Shipyard in Denmark.
+Odense, which has moved to cell manufacturing to produce super-tankers is
+also involved in a project being carried out under the auspices of the
+five-continent Intelligent Manufacturing Systems Initiative. This aims to
+work out how concurrent engineering - interdisciplinary teamwork to
+accelerate product development - can be carried out in a global
+manufacturing context.
+TransTec, the Birmingham-based specialist engineering group, is leading the
+European side of the project. Like the Reflex project, it aims to design an
+architecture - in this case of a CE system for global, multi-site
+application.
+
+The Financial Times
+
+
+London Page XVIII
+
+940316
+

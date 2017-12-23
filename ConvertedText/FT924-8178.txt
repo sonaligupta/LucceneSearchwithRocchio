@@ -1,0 +1,106 @@
+FT924-8178
+
+FT  12 NOV 92 / Technology: Pigs hold the cure - Transfusions using
+artificial blood may not be far off, write Jennie Lynch and Clive Cookson
+
+
+   By JENNIE LYNCH and CLIVE COOKSON
+
+
+Incredible as it may seem - and no doubt disconcerting to some - animals'
+blood transformed by biotechnology could soon be coursing through human
+veins.
+Spurred by the growing fear of blood-transmitted diseases like Aids and
+hepatitis and by a shortage of donated human blood, research companies are
+in a race to develop blood substitutes. These would carry oxygen around the
+body like the real thing but be free of unwanted contaminants.
+Pigs are a promising non-human source. A US company aims to extract
+haemoglobin, the protein in red blood cells, from herds that have been
+genetically engineered for the purpose. Another firm is developing a
+substitute based on cows' blood.
+These and other efforts are aimed at serving a market which is potentially
+huge. Already, hospitals and health services around the world spend an
+estimated Dollars 5bn a year on blood for transfusions - if safe substitutes
+become widely available, the market could double to Dollars 10bn a year.
+A dozen companies are seeking to develop blood substitutes. Their first
+products are beginning clinical trials, but none is likely to be in
+commercial use before 1995.
+Producing 'artificial blood' is a complex task, not without potential risk.
+So what criteria should it satisfy? First and most obviously, it must be
+safe. It should not be inherently toxic or made from anything liable to be a
+source of disease. Nor should it contain any fragments of cell membranes
+likely to cause reactions due to cross-matching incompatibilities.
+Next, it should be stable - preferably more stable than human blood, which
+has a shelf life of only three weeks and has to be kept chilled.
+Finally, it should easy to make in vast quantities. In the US, 4m people a
+year receive 12m pints of blood. If substitutes are to replace even a small
+fraction of this, they will have to be produced in greater volume than any
+other drugs emerging from the biotech industry.
+Haemoglobin is the key to the problem. It is responsible for transporting
+and delivering oxygen from the lungs to the rest of the body.
+Researchers have followed two main approaches so far: to use purified and
+modified forms of haemoglobin, extracted from various sources; or make an
+inorganic chemical to take on the oxygen-carrying role of haemoglobin.
+Several companies have investigated the use of purified haemoglobin as a
+substitute for red blood cells. Baxter, based in Deerfield, Illinois,
+extracts haemoglobin from human blood which has passed its expiry date; DNX
+of Princeton has developed a genetically engineered pig with the ability to
+make human haemoglobin; and Biopure of Boston is purifying natural
+haemoglobin from slaughtered cows' blood.
+Yet all of these developments suffer from similar drawbacks. When removed
+from the protection of the red blood cell, haemoglobin becomes unstable and
+split in half. The damaged molecules aggregate and block the smallest blood
+vessels, particularly in the kidneys.
+Baxter, Biopure and DNX all modify their haemoglobin products chemically in
+order to stabilise their structures and enhance their release of oxygen. DNX
+uses a cross-linking chemical which simultaneously achieves both aims.
+DNX envisages extracting blood from herds of pigs which would be genetically
+engineered to produce human as well as porcine haemoglobin. The human
+haemoglobin would be separated and modified chemically for use in
+transfusions. Its cost would be comparable with natural blood. 'I am very
+confident that we can produce haemoglobin at Dollars 5 a gram,' said Paul
+Schmitt, DNX's chief executive.
+Somatogen, a biotechnology company based in Boulder, Colorado, has taken a
+different approach, in collaboration with scientists at the MRC Laboratory
+of Molecular Biology in Cambridge, England.
+To stop the haemoglobin from splitting, the scientists used genetic
+engineering to make a protein bridge between the two halves of the molecule.
+Somatogen has copied a natural haemoglobin mutant which binds oxygen less
+strongly than usual, potentially boosting oxygen release into the tissues
+30-fold. And the protein is produced by bacteria, allowing large quantities
+to be made in a fermenter with no recourse to natural blood products and
+their associated contaminants.
+Somatogen started human tests, giving patients up to a pint of the
+engineered 'blood', last February under the guidance of the US Food and Drug
+Administration. Although there have been slight flu-like reactions, no toxic
+side-effects have been seen so far, said Charles Scoggin, president of
+Somatogen.
+He envisages the product being used primarily to replace blood lost in
+surgery. Somatogen is building a Dollars 40m production plant in Boulder,
+with two 3,000-litre fermenters.
+The alternative to haemoglobin is to use inert chemicals to carry oxygen.
+Perfluorocarbons (PFCs) have such properties and they first reached the
+headlines in 1966, alongside photographs of submerged mice breathing oxygen
+from PFC solutions.
+Although PFCs have been in development for longer than engineered
+haemoglobins, they still have several hurdles to overcome before they can
+replace human blood. Like oil and water, PFCs and blood do not mix;
+therefore, they have to be emulsified with the help of chemicals called
+surfactants. These, in turn, cause the PFC to become unstable, requiring the
+addition of another fluorinated compound to stabilise the first.
+The pioneering PFC is Fluosol, sold by Alpha Therapeutics, a subsidiary of
+Green Cross of Japan. It is licensed in the US and UK for use to prevent
+severe oxygen deprivation when treating patients with blocked coronary
+arteries. But no PFC has been approved as a general blood substitute.
+Researchers expect eventually to find new applications for artificial blood
+in several fields of medicine. In cancer treatment, for example, carrying
+more oxygen to the tumour would make radio-therapy more effective and reduce
+the doses of radiation required.
+
+The Financial Times
+
+
+London Page 18
+
+921112
+

@@ -1,0 +1,66 @@
+FT942-15711
+
+FT  14 APR 94 / Cost of IT failures rises to Pounds 1.2bn a year
+
+
+   By ANDREW ADONIS
+
+
+Four in five organisations in the UK have suffered a breakdown in their
+information technology systems during the past two years, according to a
+government-sponsored survey published yesterday.
+The survey of 850 organisations estimates that the annual cost of such
+incidents exceeds Pounds 1.2bn, a 12 percentage point increase on the last
+survey two years ago.
+Fire is the threat most feared, but viruses, power failure and computer
+failure are the most common problems.
+The estimated average immediate cost of an incident was Pounds 9,000. A
+quarter of incidents led to serious losses.
+Mr Patrick McLoughlin, technology minister, said: 'Information technology
+security is becoming a serious issue for almost all organisations and every
+organisation using computers is at risk.'
+The report, co-sponsored by the IT company ICL and the National Computing
+Centre, an information systems consultancy, highlights contingency planning,
+staff training and risk assessment as strategies to reduce the risk of
+breakdown and breaches of security.
+Virus attacks and theft were found to have risen sharply since the last
+survey in 1992, with twice as many organisations reporting such incidents.
+Half of all breaches were found to be covered by a contingency plan and
+almost half of respondents said that contingency planning - including
+back-up systems - had proved effective in dealing with incidents.
+But fewer than half of respondents had tested their plans regularly.
+'In almost all cases where a contingency plan existed, it was felt to have
+been at least moderately effective in minimising the effects of the breach
+and facilitating recovery,' the report concludes.
+The most costly incident was a Pounds 1.2m fraud which was reported by an
+insurance company. The worst cases of flood, power failure and computer
+failure cost Pounds 200,000 or more. The most expensive virus outbreak,
+which infected three large local area networks and more than 200 personal
+computers, led to a bill of Pounds 100,000 in immediate costs.
+The 1990 Computer Misuse Act has had a significant impact in encouraging
+companies to tighten their security measures. One third of companies claimed
+to have reviewed their disciplinary measures in light of the legislation, up
+from 23 per cent in 1992, with a further 22 per cent indicating their
+intention to do so.
+Larger organisations have proved more willing to carry out such reviews than
+smaller organisations. More than half of those employing 1,000 staff or more
+had done so.
+Organisations using specialised IT security staff or risk analysis were in a
+minority, the report says.
+Barely one-in-seven was found to have a specialist security function, and
+only 43 per cent had used formal risk analysis.
+A code of practice on information security management was published by the
+Department of Trade and Industry last year after consultation with leading
+UK companies.
+Procedures for systematic checking for viruses, and immediate back-up
+facilities for computers and power in the event of breakdowns, are the most
+important measures recommended. Employee training and high corporate
+standards are also highlighted as important precautions.
+
+The Financial Times
+
+
+London Page 8
+
+940414
+

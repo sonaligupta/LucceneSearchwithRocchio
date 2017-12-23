@@ -1,0 +1,103 @@
+FT911-4212
+
+FT  20 APR 91 / Finance & The Family: Volumes that speak value - A different
+method of share price analysis
+
+
+   By PHILIP COGGAN
+
+
+'MORE BUYERS than sellers' is the standard response of one veteran FT
+reporter when anyone asks him why a particular share price has risen.
+It is spoken in jest, but it is also a truism. The balance of supply and
+demand determines prices. So studying the volume of trade in a company's
+shares is often just as important as noting the short term price movement.
+In the US, share trading has been studied in this way for quite a long time
+and has been granted the portentous title of 'volume analysis'.
+Why not simply look at whether a price moves up or down? One main reason is
+that market makers, faced either with a shortage or surplus of stock on
+their own books, have a tendency to mark prices higher or lower accordingly.
+Such a movement is unlikely to be sustained because it is not a product of
+'real' demand from actual customers, institutional or private.
+Similarly it is not much use looking at volume in isolation. Common sense
+tells us that every share that is bought is also sold and vice versa. But if
+an increase in volume results in a higher price that is a bullish sign,
+since buyers have been forced to raise their bids to persuade existing
+holders to sell. Similarly, an increase in volume accompanied by a fall in
+price is bearish.
+Charles Wyatt, of research group Volume Analysis, uses a measure called
+cumulative volume to study market trends. The weekly volume figure is added,
+if accompanied by a rise in price, but subtracted if accompanied by a fall.
+The cumulative volume (cum vol) line will roughly track the share price.
+However, if the volume line starts to move ahead, that could be a sign of
+strong demand and a forthcoming surge in price.
+The top graph shows the GEC price between October and February. In early
+January, the cum vol reached a low, but then started to climb ahead of the
+share price. That increase preceded a jump in GEC's shares, which rose from
+184p to 235p in February.
+The bottom graph shows that Hawker Siddeley's share price has steadily risen
+this year, helped by rumours of a bid. But the cum vol line has placidly
+tracked the share price. Wyatt argues that this shows no sign of the
+increased activity that would normally predate a bid.
+In a recent article in Investor magazine, Wyatt cited the combination of
+rising prices and higher trading volumes that preceded the bids for Ranks
+Hovis McDougall in 1988 and for BAT Industries in 1989.
+These higher volumes need not necessarily be a sign of insider dealing,
+although that does occur. Just as often, the increased trading volume is a
+sign that the would-be predator is building up a stake.
+Small investors can easily be stocks on bid rumours. Watching the volume
+figures can thus prove a useful, although by no means infallible, check. If
+there has been little volume, talk of a bid is more likely to be based on
+rumour than fact.
+The largest shares will naturally enjoy the largest volumes. What counts is
+unusually high volume levels. Jerry Evans, an analyst for County NatWest
+WoodMac, cites two significant measures.
+One is the percentage of a group's shares that have been traded. For
+example, the most actively traded share by this measure in the trading week
+April 8 to 12 was Frogmore Estates, which was subject to a bid from Southend
+Properties and saw 10.3 per cent of its share capital change hands.
+The other measure is the value of shares traded. On this measure, the most
+active stock in the same period was Pearson, owner of the Financial Times,
+due to the placement of Dutch group Elsevier's 8.8 per cent stake.
+The interpretations applied to volume analysis can bring it close to
+chartism, the study of patterns in share price movements. As an example,
+Wyatt cites two key 'rules'.
+The first is that 'a sudden increase of volume in a stock is bullish when it
+follows a significant downward trend in share price.' The pattern to look
+for, he says, is a trickle down in price on steady volume, followed by a
+sudden increase in volume with a static price. That can be a sign of the
+reappearance of buyers.
+The second rule is really the obverse of the first. The pattern is a drift
+upward in price on steady volume, followed by a significant increase in
+volume but a static price. That, Wyatt argues, is a bearish sign, since it
+shows that sellers are on the prowl again.
+The important thing for the small investor is not to get too carried away,
+but to look at volume as an adjunct to more fundamental analysis. Profits
+and dividends are factors investors should never ignore.
+Volume analysis is not confined to single shares. Jerry Evans regularly
+looks at share trading volume across the whole market. When the FT-SE 100
+Index fell, during last year, from 2,150 to 2,000, there was relatively low
+volume. This was a sign, he says, that the market was becoming undervalued,
+as there was no real selling pressure. However, he argues that the recent
+rise in the market is sustainable because it has been accompanied by heavier
+volumes.
+So how can the private investor track volume movements in shares? The answer
+is, only with some difficulty. The FT prints trading volumes in major stocks
+every day on its markets page.
+However, these figures, which come from SEAQ, lump together customer and
+intra-market business and often contain inaccuracies. At least they indicate
+the trend and can be used as a guide to changes in volume levels. We also
+publish the total customer trades for the market; a rough guide is that over
+Pounds 1bn is a heavy day and below Pounds 900m is light.
+From now on, Finance and the Family will be looking at major stocks on a
+monthly basis and highlighting those where volume patterns are significant.
+Readers will thus have a chance to keep up with what is becoming an
+increasing popular way of analysing the stock market.
+
+The Financial Times
+
+
+London Page III Graph (Omitted). Graph (Omitted). Illustration (Omitted).
+
+910420
+

@@ -1,0 +1,31 @@
+FT921-14183
+
+FT  17 JAN 92 / Technology (Worth Watching): Untouchables on the virus trail
+
+
+   By DELLA BRADSHAW
+
+
+COMPUTER viruses are never far from the headlines, but as new ones are
+identified and confounded, more pernicious ones are already worming their
+way into corporate PCs.
+To thwart the virus creator, Fifth Generation Systems, of Baton Rouge,
+Louisiana, has developed a piece of software which enables the PC user to
+stay one step ahead of viruses, rather than running one pace behind.
+When the Untouchable anti-virus software is loaded on to the PC it
+identifies and eradicates any existing viruses. Then the software copies a
+signature of all the files that are held on the PC. If a new virus enters
+the system - even those that have not previously been identified - the
+characteristics of this signature will change in a number of ways. This will
+enable Untouchable to identify the presence of a virus before it can do any
+damage. The software can be used with any PC running under the Dos operating
+system.
+Contacts:  Fifth Generation Systems: US, 504 291 7221; UK, 0494 442224.
+
+The Financial Times
+
+
+London Page 14
+
+920117
+

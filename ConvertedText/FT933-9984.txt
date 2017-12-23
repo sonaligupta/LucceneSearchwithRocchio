@@ -1,0 +1,36 @@
+FT933-9984
+
+FT  06 AUG 93 / Letter: Root problems and infighting facing IBM
+
+
+   From Mr DUNCAN WHITE
+
+
+Sir, Your reporting of July 28 and article of July 29 ('When surgery will
+not prove the whole cure') fail to disclose the very real root problems
+facing IBM. ln basically four different computer product lines  - mainframe,
+personal computer, open system (Unix, RS6000) and mid-range (ASA400) -
+almost no new 'mainframe' sites are being started because the new 'open
+systems' offer four times the price performance. The AS400 seems to be at
+the end of its product life cycle, with no certain upgradeable path. PCs
+have no unique IBM ability as IBM did not design its own chip. The only
+product with a future is the RS6000 series, but it is falling behind its
+competitors which are introducing faster parallel processors.
+Finally, all big decisions regarding R&D, marketing and strategy seem to be
+made by the old time 'mainframers'. Can Mr Gerstner overcome the infighting
+of these four groups?
+Duncan White,
+president,
+Duncan White Search,
+825 Center Street,
+Suite J-252,
+Costa Mesa,
+California 92627, US
+
+The Financial Times
+
+
+London Page 12
+
+930806
+

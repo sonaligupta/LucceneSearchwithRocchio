@@ -1,0 +1,34 @@
+FT944-2894
+
+FT  15 DEC 94 / International Company News: NEC, Fujitsu to replace faulty
+Pentium chips
+
+
+   By ALAN CANE
+
+
+   LONDON
+
+
+NEC, Japan's dominant personal computer supplier, and Fujitsu, its largest
+computer manufacturer, have agreed to replace faulty Intel Pentium
+microprocessors free of charge, writes Alan Cane in London. Some 150,000
+Pentium-based machines have been sold in Japan to date.
+Their decision comes as Intel, the world's largest semiconductor
+manufacturer, and International Business Machines (IBM), argue over who
+should bear the cost of replacing the faulty part which can cause
+mathematical errors in certain conditions. NEC said it believed it had a
+social responsibility to replace the flawed microprocessor.
+IBM has already stopped shipping Pentium-based computers and has said it
+will replace the faulty chip in the 100,000 Pentium machines it has shipped
+so far. It will not, however, pay for labour costs involved.
+NEC said its research showed the probability of the error in calculations
+was very low.
+
+The Financial Times
+
+
+London Page 36
+
+941215
+

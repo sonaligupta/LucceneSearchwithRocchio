@@ -1,0 +1,57 @@
+FT932-3161
+
+FT  15 JUN 93 / Survey of Retail Chain Management (5): Food stores keep
+their cool / Profile of Lo-Cost
+
+
+   By PHILIP HASTINGS
+
+
+LOW-COST distribution of chilled and other temperature-controlled products
+has become an increasingly important feature of retail chain logistics.
+A series of food safety scares during the late 1980s and the subsequent UK
+Food Safety Act of 1991 helped to highlight the importance of establishing
+and adhering to strict operational standards for the distribution and
+storage of temperature-sensitive food.
+Faced with those pressures and the ever-present need to achieve greater
+efficiency and cost-savings, retailers have increasingly turned to third
+party specialists to run their so-called 'cool chains'. One such agreement
+is the award of a five-year contract by the Argyll Group's Lo-Cost retail
+chain to Wincanton Distribution.
+The agreement covers the warehousing and distribution of 300-400 different
+ranges of chilled foods - typically cheese, butter, other dairy products and
+meat - and fresh produce to 300 stores throughout the UK. A purpose-designed
+156,000 square foot dedicated warehouse at Solihull, West Midlands, was
+acquired by Wincanton specifically to service the Lo-Cost contract. Around
+one-third of the warehouse is being used for chilled storage and those
+facilities now handle all Lo-Cost's centralised distribution of chilled
+products.
+Supporting the centralised distribution centre are three outbase centres in
+the south-west, south-east and north-west of England, a fleet of 16
+vehicles, and a workforce of around 100 people. Before the agreement,
+Lo-Cost had primarily relied on chilled product manufacturers to deliver
+directly to its branches around the UK. It also used one small contracted
+operation.
+Now, most manufacturers deliver goods into the Solihull centralised
+distribution centre, although some products are collected from the
+manufacturers by Wincanton using vehicles returning from delivery runs to
+the Lo-Cost stores.
+'That backhaul operation is still fairly limited but it is growing. The
+advantage is it enables us to maximise the use of the distribution fleet,'
+says Mr Mike Burbage, managing director of Wincanton Distribution.
+Communication between Lo-Cost, its suppliers and Wincanton is now
+increasingly an EDI (electronic data interchange) function. Individual
+stores relay their orders to the Solihull distribution centre via handheld
+terminals.
+Goods held at the centre are called up from stock while details of goods not
+held at the distribution centre are passed on to the relevant manufacturers
+who deliver to Solihull. Wincanton then consolidates the products into
+individual store orders and organises the distribution of consignments.
+
+The Financial Times
+
+
+London Page 32
+
+930615
+

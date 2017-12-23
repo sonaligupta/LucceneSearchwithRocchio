@@ -1,0 +1,139 @@
+FT942-14381
+
+FT  20 APR 94 / Business Air Travel (3): Office in the sky spreads its wings
+ -Paul Taylor discusses the widening use of passengers' air-ground telephone
+links
+
+
+   By PAUL TAYLOR
+
+
+The sight of an business traveller using the latest in slimline colour
+notebook computers no longer attracts much attention from airline cabin crew
+or fellow passengers.
+Some of them will probably also be carrying a shoulder bag or briefcase
+containing a portable computer, fax-modem, cellular telephone and the
+associated paraphernalia that makes up the 'mobile office'.
+Advances in technology over the past decade have removed most of the
+restrictions imposed in the past by heavy hardware and fixed communications
+links. Today it is possible to make a voice telephone call, send a facsimile
+message or exchange computer data with the office local area network from
+virtually anywhere in the world by using cellular radio or satellite
+telecommunications services.
+Soon a second generation of pocket-sized personal digital assistants (PDAs)
+will be available, adding another dimension to the concept of the mobile
+office by combining the functions of a pen-based computer and a hand-held
+telecommunications device.
+Meanwhile, the data and voice telecommunications services available to the
+globe-trotting business traveller are also expanding rapidly and becoming
+more international. For example, the introduction of digital cellular
+telephone services across Europe based on the pan-European GSM standard
+means that travellers will soon be able to use their mobile phone or even
+more conveniently, their GSM smart card, anywhere in Europe.
+Similarly, on both sides of the Atlantic a new breed of dedicated mobile
+digital packet-switched data networks is springing up to provide portable
+computer users with high speed, high quality wireless data links.
+These terrestrial telecommunications developments are being mirrored in the
+sky with the introduction of new digital aeronautical telecommunications
+services in the US and now in Europe and elsewhere.
+For the first time they are providing airline passengers with a wide range
+of high-quality telecommunications and other services such as in-seat
+shopping, forward bookings, flight information and business news. Credit
+cards are used to pay for all the services.
+The original air-to-ground public telephone services - dubbed 'pay phones in
+the sky' - were introduced by US carriers on their domestic flights in the
+mid-1980s and were based on analogue VHF radio links. Although call quality
+often left much to be desired, their growth was nevertheless impressive.
+For example, more than 41m calls, including 10.5m in 1993 alone, have been
+made using GTE's original Airfone system, which was introduced in late 1984,
+and its more recent digital successor, GTE GenStar. GTE currently has air
+telephones installed in 2,049 US jets.
+The new GenStar system is built around 109 terrestrial base stations which
+provide a telephone service over the US at Dollars 2 a minute.
+In addition to enabling passengers to connect their portable computers to
+send facsimile messages or data, GenStar - which is already in operation in
+34 shuttle aircraft - will eventually also provide access to multi-language
+video, video games, entertainment channels and flight information delivered
+via seat-back screens or liquid crystal displays.
+GenStar's customers include the USAir and Delta shuttles, United Airlines,
+TWA and Air Canada. GTE plans to have the new service installed on more than
+1,400 aircraft by the end of this year.
+However, GTE faces fierce competition in the US and elsewhere from Claircom
+Communications, a joint venture between McCaw Cellular Communications and
+General Motor's Hughes Network Systems, which holds a 19 per cent stake.
+Claircom's AirOne system, launched in 1992 with orders from Alaska,
+Southwest and Northwest, has also won contracts from American Airlines and
+from Air France which plans to install the system in up to 80
+transcontinental jets. Altogether, Claircom claims that more than 1,500
+aircraft are due to be fitted with its AirOne system.
+The third competitor in the US digital air telecommunications market is
+In-Flight Phone, a privately-controlled Illinois-based company. Its
+FlightLink system has won orders from USAir, America West and Carnival
+Airlines in the US and with Kuwait and Saudi Arabian Airlines in the Middle
+East.
+Some industry estimates suggest that revenues from digital US terrestrial
+flight telephone system (TFTS) networks and services will be running at
+Dollars 450m a year by the end of 1995.
+All three US digital network operators are linking up their systems with
+emerging satellite-based telecommunications systems to provide worldwide
+access.
+Satellite-based telephone services have been available on many private jets
+and on a limited number of long-haul flights for a number of years. However,
+outside North America public access aircraft telecommunications services
+have been much slower to develop.
+The development of a European terrestrial flight telephone system capable of
+supporting low cost, high quality telecommunications services in the skies
+above the region has been delayed by years of debate and wrangling between
+rival national telephone organisations.
+Unlike the competing US systems which all use proprietary technology, the
+West European TFTS is being built by individual telecommunications
+organisations but will be based on a common standard.
+The telecommunications organisations in the UK and France have already
+completed their segments of the TFTS network infrastructure and the first
+ground stations in Sweden and Italy are also operational. The remainder of
+Europe, including Scandinavia and Germany, will go live by the end of this
+year.
+Two TFTS service providers, Jetphone, a Pounds 10m BT-France Telecom joint
+venture, and Mercury FlightLink, a subsidiary of Mercury Communications set
+up in partnership with In-Flight Phone of the US, have already been
+established to resell services on the trans-European network and provide the
+aircraft equipment.
+Like their transatlantic counterparts, both European service providers also
+plan eventually to offer their customers a wide range of services in
+addition to basic voice telecommunications.
+Jetphone marked its official launch in January by announcing an agreement
+with Air France to equip the French national carrier's entire short and
+medium-haul fleet of 110 aircraft. British Airways is also installing
+Jetphone equipment on 11 Super Shuttle airliners.
+Jetphone has set a price of Ecu4.20 (Dollars 5.80) a minute for all calls
+regardless of time of day or destination. Airlines will set prices in their
+own currencies. Air France has tentatively set its price at FFr30 a minute
+while British Airways will charge Pounds 3.30 a minute.
+Meanwhile, Mercury FlightLink, which plans a two-tier call tariff structure
+ -Pounds 2 for calls within Europe and Pounds 4 for calls to destinations
+outside the region - is understood to have already signed two service
+contracts which will be announced shortly and to be negotiating a third.
+Although the company is likely to concentrate on being a TFTS service
+provider, it is also considering building and operating its own network
+segments in the UK and other countries where competition is being
+encouraged. Mercury is also bidding for the German TFTS contract.
+Mr David Stone, managing director of Jetphone, is predicting that the first
+commercial calls will be made over the European TFTS 'in the next couple of
+months'. Over the next five years he believes 1,000 aircraft in Europe will
+be fitted with equipment for TFTS services, and that these aircraft will be
+generating call revenues of Pounds 80m a year.
+Mr Stone does not expect the TFTS services to compete directly with
+expensive satellite-based airborne communications services.
+For example, calls on Skyphone, the satellite system in which BT is also a
+shareholder along with Singapore Telecom and Norwegian Telecom, are charged
+at Dollars 9.95 a minute. Instead, he suggests that TFTS-based systems will
+primarily serve local and regional markets while satellite-based systems
+will service long-haul flights.
+
+The Financial Times
+
+
+London Page II
+
+940420
+

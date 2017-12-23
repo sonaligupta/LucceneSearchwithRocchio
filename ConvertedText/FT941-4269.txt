@@ -1,0 +1,63 @@
+FT941-4269
+
+FT  11 MAR 94 / International Company News: AMD wins round in Intel fight
+
+
+   By LOUISE KEHOE
+
+
+   SAN FRANCISCO
+
+
+A US court has reaffirmed Advanced Micro Devices' rights to use Intel
+technology to compete in the lucrative microprocessor market. The jury
+verdict, reached yesterday, represents a serious blow to Intel, the world's
+largest chip maker.
+AMD can use Intel's 'microcode', the internal software in a microprocessor
+chip, the jury determined. It found that a 1976 licensing agreement between
+the two companies granted the company the right to use the copyrighted
+programs. During the trial, Intel argued that the agreement did not extend
+to microcode.
+The verdict ended a long-standing dispute between the two Silicon Valley
+chip makers. In 1992, Intel won the first trial of the same case, but the
+verdict was subsequently set aside when Intel was alleged to have withheld
+relevant documents.
+For AMD, the new verdict removes a serious threat that could, at least
+temporarily, have forced the company to withdraw from the microprocessor
+market.
+'We feel that this verdict is a major, major victory,' said Mr W. J. Sanders
+III, chairman and chief executive officer of AMD. 'For nearly a decade,
+AMD's growth, profitability and indeed very existence have been threatened
+by Intel's unwillingness to live up to its agreements with AMD, preferring
+to compete in the courtroom instead of the marketplace. We are deeply
+gratified that our rights have now been confirmed by the unanimous verdict
+of a federal jury.'
+Mr Sanders said that he was asking Intel 'to accept this verdict, recognise
+that competition can be beneficial even to Intel, and end the harassment of
+AMD in the courts'. However, Intel said that it would appeal against the
+verdict and continue to pursue outstanding issues in two related disputes
+between the companies.
+'We now have two distinctly different jury verdicts,' said Mr Thomas Dunlap,
+Intel general counsel. 'Therefore, the Court of Appeals must now decide
+which verdict stands.
+'AMD has always had the option of competing fairly in the market place by
+writing its own microcode. If they chose to do that these disputes will be
+resolved.'
+Intel dominates the market with close to 90 per cent market share. 'Intel
+made more profits in 1993 than the next nine semiconductor manufacturers
+together,' noted Mr Sanders.
+AMD said that it plans to ship over 900,000 Intel-style 486 microprocessors
+in the current quarter, up from 350,000 in the last quarter, and is aiming
+for a 25 per cent share of the world market for PC microprocessors. By
+removing the legal cloud over AMD the verdict could boost demand for its
+microprocessors, the company said.
+Intel shares closed at Dollars 70 1/8 , down from yesterday's close of
+Dollars 71 5/8 , while AMD shares rose from Dollars 22 3/4 to Dollars 29.
+
+The Financial Times
+
+
+London Page 28
+
+940311
+

@@ -1,0 +1,163 @@
+FT921-411
+
+FT  30 MAR 92 / Survey of Lloyd's of London in World Insurance (7): Echoes
+of the City's Big Bang - Electronic dealing has revolutionised the business
+
+
+   By SIMON REYNOLDS
+
+
+TODAY sees the live launch of the first phase of the electronic placing
+support system for the London insurance market. The system will allow
+brokers and underwriters to transmit and receive, over the LIMNET network,
+structured messages which contain the information needed to support the
+placing of insurance.
+Translation software converts those messages to and from a format
+understandable by the brokers' and underwriters' in-house computer systems.
+The system is being implemented under the title Joint Market Initiative
+(JMI), and it represents a significant development in the methods of
+insurance trading in London and especially at Lloyd's.
+It is arguably Lloyd's most important step to date regarding new technology
+and electronic data interchange initiatives (edi).
+It is called the joint initiative because it involves the whole of the
+London insurance market, embracing insurance company members of the
+Institute of London Underwriters (ILU) who transact marine, aviation and
+transport insurance; members of the London Insurance and Re-insurance Market
+Association (LIRMA) who transact non-marine business; Lloyd's syndicates;
+and brokers in the Lloyd's Insurance Brokers Committee (LIBC).
+Important as it is, the JMI should not be seen in isolation from other
+networking initiatives in the London market, particularly those involving
+claims handling, launched since LIMNET was set up in 1987. Developments
+include:
+more than 850 brokers and underwriters have access to LIMNET, utilising more
+than 30,000 computer terminals;
+28 per cent of all non-marine, property and casualty insurance claims have
+been settled over the network by members of LIRMA using ELASS (Electronic
+Loss Advice and Settlement System) since the system was introduced in
+November 1988. In 1991 the figure averaged 36 per cent, and it has reached
+55 per cent in recent months. In 1991, 81,000 claims advices were notified
+on ELASS;
+20 per cent of all marine, aviation and transport insurance claims have been
+settled over the network by ILU members using CLAMS (Claims Management
+System) since the system was introduced in July 1990. In 1991, the figure
+averaged 22 per cent and current usage rates are in excess of 25 per cent.
+In 1991, 20,169 claims advices were notified on CLAMS;
+both LIRMA and ILU are looking to 100 per cent use of ELASS and CLAMS using
+a standard claims message system by the start of next year. Lloyd's has
+streamlined its claims procedures and the whole market is moving towards a
+unified electronic claims system;
+regarding signing, accounting and settlement information, around 20,000
+transactions per day are being received by LIRMA and ILU members; more than
+half of Lloyd's syndicates receive the underwriters' signing message (USM)
+amounting to 6,000 advices per day; 65 broking organisations are receiving
+daily signings and settlement information from Lloyd's, LIRMA and the ILU.
+An estimated 80 per cent of daily signing information is now transacted via
+LIMNET.
+Other initiatives allow: outward reinsurance debit and credit transactions
+to be processed over LIMNET (saving ultimately up to 800,000 pieces of paper
+per year at Lloyds alone); processing of year-end excess of loss
+adjustments; electronic mail with links between London market participants
+and abroad.
+The first phase of the Joint Market Initiative will involve all members of
+the ILU and LIRMA, syndicates from 19 Lloyd's managing agents (around 65
+syndicates in all), and some of the larger members of the LIBC.
+More participants will join in progressively during 1992 and by the end of
+the year 19 brokers accounting for 85 per cent of London market business
+will be on board.
+The placing support system will allow the preparation on screen by the
+broker of a risk package or proposal; the obtaining of quotes from leading
+and supporting underwriters (the creation by the broker, and confirmation by
+underwriters, of a Firm Order package); the transmission of a Signed Line
+message to underwriters confirming the insurance package (a facility for
+processing Endorsements to a risk package held on the system); the ability
+to notify and process individual declarations off Line Slips where the
+leading underwriter has the authority to accept a risk on behalf of other
+underwriters.
+The system allows several tiers of participation. At the lowest level, the
+placing of a risk will involve face to face contact between broker and
+underwriter, with the traditional paper 'slip' containing details of the
+risk complemented by electronic provision of a 'common core record'
+(comprising the main details of the risk in a structured format), and other
+electronic support information.
+The paper slip will remain the basis of the contract at this level. At a
+higher level, face to face contact will utilise an electronic version of the
+slip, along with electronic supporting information. The underwriter will
+'write' the line on the system and the electronic information will form the
+basis of the contract. At the highest level there will be no face to face
+contact between broker and underwriter, all contact being made remotely over
+the network. Again the electronic information will form the basis of the
+contract.
+Dennis Purkiss, Chief Executive of the underwriting division of Merrett
+Holdings, a managing agent of Lloyd's syndicates, argues that the JMI
+electronic placing support initiative is 'the key to the future of the
+market'.
+Terry Hayday, chief executive, insurance services, at Sturge Holdings,
+another managing agent, and chairman of the Lloyd's network steering group
+(NSG), argues that 'this is the way forward, the way to enable the London
+insurance market to compete in the next century'.
+Similar sentiments were expressed in the Rowland task force which argued
+that developments such as the JMI will 'strengthen London's collective
+appeal as a market and reduce the costs to brokers of bringing business to
+Lloyd's and the London market companies'.
+Max Taylor, managing director of reinsurance brokers Willis Faber & Dumas
+(part of the Willis Corroon group) and chairman of the London network
+management committee, says that the electronic placing system will support
+the brokers' job which is primarily 'the negotiation of business and premium
+for our clients'.
+According to Mr Taylor, a considerable amount of face to face business will
+be underlined by being able to put the information on the screen. However,
+there is a 'whole range of the business that occurs even in a complicated
+risk that will be made massively easier by the electronic system, for
+example endorsements', he says.
+Brokers would benefit in two ways - first, higher efficiency enabling
+increased responsiveness to clients' needs; second, the commercial
+opportunities to be grasped by individual participants to 'utilise the
+network in ways that will enhance and increase their business'.
+Terry Hayday says that there have been objections from 'Luddite' sections of
+the market but that enthusiasm is now increasing. 'Support for technology in
+general has been given a great big affirmation by the Rowland task force.'
+Dennis Purkiss also notices growing support: 'in the last six months people
+have seen the system working (at demonstrations) and there are now more open
+minds', he says. This enthusiasm has been built up gradually throughout the
+market since it became obvious that if the ILU, LIRMA, and Lloyd's all took
+different paths chaos would ensue.
+The launch of the JMI should not be seen as rerun of the 1986 'big bang' in
+the London Stock Exchange. An insurance transaction is generally much more
+complicated than, say, a share transaction, and the London insurance market
+offers a bespoke service to clients. It is not possible to force everyone
+down the same route on the same day.
+Comparisons with the 'big bang' are also wide of the mark in another
+respect. The City 'big bang' obviated the need for face to face contact
+between jobber and broker. But direct contact between insurance brokers and
+underwriters will still be vital in the London insurance market following
+the JMI launch, although it will not always be ideal in every situation.
+Initially, there will be benefits from a reduction in the time required to
+place risks. For standard risks and simple tasks, such as agreeing an
+endorsement, underwriters can be presented with the relevant information
+speedily over the network. Time saved can be spent developing new business,
+while increased efficiency may allow London to gain business that was
+previously uneconomic to place there, particularly at the high volume, low
+risk end of the market.
+Underwriters will gain access to important information on risk exposure as
+soon as the lines are written, rather than having to wait for closing. Also,
+because the risk information is entered once, there is less scope for
+mistakes.
+Further ahead lies the prospect of integration of electronic placing,
+claims, and accounting systems thereby providing even greater back office
+efficiency.
+Dennis Purkiss says that electronic placing will 'help produce business that
+we wouldn't otherwise see in Lloyd's via link ups with other networks,' such
+as RINET in Europe and the Brokers and Reinsurers Market Association (BRMA)
+and the Reinsurers Association of America (RAA) in the US.
+Terry Hayday concludes that the market 'has got the people, got the talent,
+and has now got the systems' to support those attributes in the most
+efficient manner.
+Simon Reynolds is a specialist writer on insurance and finance
+
+The Financial Times
+
+
+London Page IV
+
+920330
+

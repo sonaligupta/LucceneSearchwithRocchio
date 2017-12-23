@@ -1,0 +1,105 @@
+FT934-8508
+
+FT  15 NOV 93 / International Bonds: Solution found to Bank of Scotland tax
+poser
+
+
+   By ANTONIA SHARPE
+
+
+EVERYTHING was going swimmingly in the undated sterling Eurobond market
+until a couple of weeks ago, when someone decided to kick up a fuss about
+tax.
+This sector of the international bond market had been growing steadily over
+the past two years because it provided UK financial institutions with a
+cost-effective way to improve their capital ratios.
+At the same time, pension funds and insurance companies were keen to buy
+these high-yielding and long-dated assets because they could write their
+business against them. They were also popular with retail investors seeking
+to preserve their income as interest rates fell.
+Last year, a new structure was devised to cut the cost of issuing these
+securities further, but at the same time safeguarding their eligibility to
+classify as tier-two capital.
+Under the new structure, a call option, usually 10 or 20 years after issue,
+and a simultaneous increase or 'step-up' in the coupon have been
+incorporated into the bonds.
+For example, if the issue came at a spread of 150 basis point over the yield
+on the 20-year UK government bond (gilt) and the issuer does not call the
+bonds, the coupon is re-set for a further five years at the higher of either
+the existing coupon or the yield on the then five-year gilt plus 250 basis
+points.
+Investors have been willing to pay a little more for these so-called
+'stepped-coupon' bonds because, although the bonds are undated, they are
+perceived to have a finite maturity. This is because the nature of the call
+option makes it highly likely that the issuer will exercise the option, with
+the prior consent of the Bank of England.
+Since these bonds offered benefits to the issuers and the investors, they
+performed well in the secondary market and their yield spreads over gilts
+tightened considerably.
+From June last year to August this year, just over Pounds 1.3bn worth of the
+bonds were issued by a range of UK financial institutions, mainly
+high-street banks and building societies. However, even Bupa, the private
+medical insurer, hopped on the bandwagon with a Pounds 100m issue in April
+this year.
+Despite all the benefits which the new structure offered, it also created a
+fiscal problem for taxable investors because the potential rise in the
+coupon on the bonds meant that the bonds were caught by a UK tax law
+designed to prevent 'coupon-washing'.
+This is a form of tax avoidance whereby taxable investors sell their bonds
+just before the coupon is paid to a non-taxable investor and buy them back
+afterwards.
+Coupon-washing was outlawed in the UK in 1988, when the Income and
+Corporation Taxes Act was passed. Section 717 (2) of the Act states which
+bonds are taxed neutrally under the Accrued Income Scheme (AIS) and which
+are not.
+Those which are permitted neutral tax treatment under the AIS are bonds
+either with a fixed rate of coupon, or with a coupon fixed over a published
+base rate or a published price index. All other bonds are 'variable-rate'
+instruments.
+Under the AIS, both the buyer and the seller of bonds which are eligible for
+neutral tax treatment are taxed on the interest that has accrued during
+their respective period of ownership of the bonds.
+By contrast, if variable-rate bonds are traded between interest payment
+dates, both the buyer and the seller pay tax on the interest accrued on the
+date of sale. As a result, accrued interest on these bonds is taxed twice.
+Since the interest rate paid on 'stepped-coupon' bonds can change during the
+life of the bonds, they are classified as 'variable-rate' bonds and are
+therefore subject to penal tax treatment.
+The tax position, which was included in the prospectuses of the issues
+launched since June 1992, did not put off investors from buying the bonds
+because they assumed that the Inland Revenue would tax them on a 'just and
+reasonable' basis.
+Therefore, Hoare Govett and Salomon Brothers had a nasty shock during the
+launch last month of a Pounds 200m offering for the Bank of Scotland when a
+handful of banks and institutions expressed their fears about the tax
+implications.
+The sudden anxiety attack prompted a sharp fall in prices of similar bonds
+in the secondary market and threatened to derail the new issue for the Bank
+of Scotland.
+However, with the help of the best tax lawyers in the country, within 24
+hours the lead managers came up with a solution which was acceptable to the
+issuer and to investors.
+The Bank of Scotland's issue is made up of a series of fixed-rate notes for
+tax purposes while maintaining the perpetual nature of the security for
+regulatory purposes. If the issuer does not call the first note, it will be
+exchanged for another note with a new fixed-rate coupon.
+Although the incident now seems like a storm in a teacup, the Bank of
+Scotland's issue has helped the market regain its composure because it
+provides a blueprint for future bond issues.
+It also offers a way out for the outstanding bonds which have been caught by
+the legislation. However, since changing the terms of the bonds would be
+time-consuming and expensive, the issuers would rather the Inland Revenue
+took the bonds out of the variable-rate category.
+The Inland Revenue is understandably reluctant to tinker with such a
+clearly-worded piece of anti-tax avoidance legislation. 'It would be
+difficult to draw and hold the line between securities which should be taken
+out of the provision and those which should be in the provision,' says an
+official at the Inland Revenue.
+
+The Financial Times
+
+
+London Page 24
+
+931115
+

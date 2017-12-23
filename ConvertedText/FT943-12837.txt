@@ -1,0 +1,48 @@
+FT943-12837
+
+FT  22 JUL 94 / British & Commonwealth Collapse: The DTI Report - Leasing
+liabilities that led to downfall / Flawed leases
+
+
+   By SIMON DAVIES
+
+
+John Gunn built British & Commonwealth Holdings into a company worth Pounds
+2.5bn in a few furiously busy years in the 1980s. But his purchase of
+Atlantic Computers, a deeply flawed company, proved his undoing. B&C crashed
+in 1990 with Pounds 1bn in liabilities. Suits and counter-suits against
+advisers are seeking some Pounds 3.5bn in compensation
+The heart of Atlantic Computer's dramatic rise and fall was the Flexlease,
+which provided the basis for almost all of the group's computer leasing
+business.
+Flexlease was designed to give a company the benefits of taking a long-term
+lease over a computer system, together with the flexibility to break that
+lease at what appeared to be a minimal extra cost.
+The basic lease had an average life of six years, and comprised an agreement
+between a bank or other funder, and the party acquiring the system.
+However, there was a separate management agreement, whereby Atlantic
+provided an opt-out for the lessor. Under some agreements, the system could
+either be returned to Atlantic in exchange for the replacement equipment (a
+flex), and in others it could be terminated (a walk).
+The Flex was generally triggered after three years, and the Walk after five
+years. An increasing number of leases included both options.
+Atlantic's sole means of mitigating losses from this area was by selling the
+machinery, and generating a profitable replacement lease on a Flex.
+Since the fall in the value of second-hand computer equipment was more rapid
+than the outstanding lease obligations, this was a dangerous tie-up.
+Atlantic had a hidden weapon: the Flex agreement was worded so as to be, in
+the judgment of the investigators, legally unenforceable by the customer.
+While it enabled an early break 'at no penalty', it also allowed for the
+interpretation that subsequent losses could be recovered through the terms
+of the new lease.
+Ultimately, the only way Flexlease could remain profitable was by ensuring
+sufficient new sales to cover its ballooning liabilities. The collapse of
+the company that devised it was all but inevitable.
+
+The Financial Times
+
+
+London Page 18
+
+940722
+

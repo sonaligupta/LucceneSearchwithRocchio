@@ -1,0 +1,42 @@
+FT934-11490
+
+FT  30 OCT 93 / The Financial Times Guide To Secondary Education (2): How to
+read the tables
+
+
+POINTS/ENTRY = average number of UCCA points per subject entry.
+A-levels are awarded UCCA points on the scale A = 10, B = 8, C = 6, D =
+4, E = 2; AS-levels were counted as half an A-level (ie A = 5 UCCA
+points).
+POINTS/PUPIL = average number of UCCA points per pupil.
+PASSES/PUPIL = average number of A-level passes per pupil.
+FT SCORE = a weighting of the average PPE (the quantity of grades
+attained) and the average PPE (the quality of grades attained). An FT
+score of 1.00 denotes the average score achieved by the FT-1000 schools.
+An FT score of more than 1.00 denotes above average results, less than
+1.00 below average.
+TYPE OF SCHOOL
+I = independent
+G = local authority grammar
+GO = opted-out grammar
+C = local authority comprehensive
+CO = opted-out comprehensive
+CHG = church grammar
+CHC = church comprehensive
+f = member of a sixth form consortium
+RELIGION
+I = Interdenominational/ecumenical
+N = Non-denominational
+CE = Church of England/Wales
+RC = Roman Catholic
+NC = Non-conformist (Protestant)
+J = Jewish
+GO = Greek Orthodox
+
+The Financial Times
+
+
+London Page III
+
+931030
+

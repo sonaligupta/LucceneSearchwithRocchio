@@ -1,0 +1,134 @@
+FT941-3316
+
+FT  16 MAR 94 / Survey of Information and Communications Technology (15): A
+make-or-break factor - Facilities management / In the term 'computer
+services,' emphasis is shifting away from computers and towards services.
+That is one reason why companies once dedicated to hardware or software are
+moving into facilities management
+
+
+   By CLAIRE GOODING
+
+
+The ability of a company to operate - or not - may depend on the management
+of its computer system. This can be the 'make-or-break' factor, especially
+as computers move close to the centre of business in areas such as
+manufacturing, customer service and sales, as well as the traditional
+accounting functions.
+On this premise both factions on facilities management (FM) base their
+arguments. The faction 'against' believes the computer system is so vital to
+the competitive strength of core activities that it would be madness to
+contract it out. Inside knowledge - expertise about computing, and the
+business - should stay that way.
+The argument about being in the centre of things hands equal ammunition to
+those who promote FM. In a culture where compulsory competitive tendering
+(CCT) is the norm, there are economies of scale in an outside (or
+'outsourced') supplier providing the hardware, the software, and the
+expertise to support it.
+CCT demands that every contract decision must involve those classic
+elements, 'measure and deliver' - dear to the heart of IT professionals. You
+can't deliver what you can't measure. Furthermore, FM proponents argue that
+they are much better at knowing how much things should cost, where economies
+can be made, and delivering them, undistracted by the fluctuating concerns
+of core operations.
+Coding, programming and the support of end users are the central activities
+of an IT department. The argument runs thus: how much better for individuals
+to be at the profit making centre of a company whose business is supplying
+IT services, than to be at the periphery of a company whose real raison
+d'etre is baking biscuits, making cars, or exploring for oil.
+It has to be said, on both sides, that the margins in supplying computer
+hardware and even packaged software have dwindled. However, the
+long-accepted figure of '80 per cent of IT spending is on support and
+maintenance' stays constant. The tedium of arguing about who owns a problem
+(software, hardware, network?) has driven many a user-company into
+single-source-supplier agreements, and the idea of contracting out an entire
+IT department is simply a logical step further in cost control.
+The result is a burgeoning market in 'systems integration' and 'facilities
+management' - new names for bundling activities, familiar since the earliest
+days of computer services.
+Systems integration is a broad church. It covers anything to do with
+development - including every sort of alliance of software and hardware
+involved in setting up new systems. FM is the contracting out of an entire
+task and its maintenance - the contractors take over the assets and the
+manpower necessary to the service.
+The research company Dataquest estimates the value of the FM marketplace at
+more than Dollars 2,500m in Europe, growing by 20 per cent a year. This
+explains why some of the best-known names in the computer industry are now
+turning to FM as a core activity.
+They include the big, traditional firms of accountants such as Andersen
+Consulting and Ernst and Young, and names once identified with
+manufacturing, rather than merely supporting computers. Unisys and Olivetti,
+for example, are among the companies which, once known for their proprietary
+hardware, have turned to supplying services and support for almost any sort
+of hardware and software, particularly the workstations and PCs termed
+'desktop services'.
+Nearly 1,000 of Olivetti UK's 1,400 employees are in the Customer Support
+Group, working for a customer base largely in the financial and retail
+sector. Unisys has recently signed up Bass Taverns, the UK's largest public
+house retailer, for an FM contract worth over Pounds 3.9m over three years.
+Its job is to support 2,500 pubs, developing and supporting Bass's Central
+Retail System.
+In the UK, other users of Unisys' outsourcing services include McDonald's
+Restaurants. US users include the federal government, the Ford Motor
+Company, and Nasa.
+Hoskyns is an active FM company, one of the UK's largest computer services
+companies, worth Pounds 200m, part of the French-owned Cap Gemeni Sogeti
+Group. UK customers include Woolworths, Bristol Water, and Hoover -
+'outsourcing is still the fastest-growing sector of the IT services market.
+Analysts estimate that the European market will double by 1998 to a value of
+Pounds 4bn,' says Peter Falconer, Hoskyns' associate director.
+Falconer is looking to the European market to expand. Five recent contracts
+for Hoskyns' Scandinavian sister company, adding up to Pounds 17m worth in
+all, underline the ambition. 'The pace at which FM is adopted will differ
+country by country,' he says. 'CGS is well placed to benefit from this
+expansion, because it is committed to regional as well as global service
+delivery.'
+He argues that in-house IT departments find it difficult to keep pace with
+the growing demands of the organisations they serve, and the increasing
+complexity of PCs and LANs is putting more strain on them.
+According to a 1993 survey by Romtec, desktop services (PCs, their
+procurement, installation, configuration and support) is the fastest-growing
+part of FM - worth over Pounds 1bn by 1995. Asset management, network
+design, installation and administration, and the end-user helpdesk, all come
+under the 'desktop' label. The desktop is one of the prime areas targeted by
+Bull Information Systems, the newest arrival in the FM market, which
+launched its Athesa FM division this February (see below).
+Sharing the benefits of cost-saving is a convincing argument for FM, but
+there is always concern about staff who have to change allegiance to the
+'outsourced' supplier. (See panel on Andersen's BP contract for an example).
+There are regulations to protect them: the Transfer of Undertakings
+Protection of Employment Regulations 1981 retains current terms and
+conditions for staff being transferred.
+The government is anxious to remove obstacles to free market testing.
+According to the William Waldegrave, the minister for public service and
+science, speaking at a recent Financial Times conference on resource
+management, 'The relevant provisions of the Deregulation and Contracting-Out
+Bill, now before Parliament, are designed to extend the scope for market
+testing activities in central and local government by removing obstacles to
+the contracting-out of statutory functions.' This is good news for Athesa
+and others - but staff affected might not be so pleased.
+Unison, the UK's biggest trade union, and CMS, a division of British Steel,
+claimed to have broken new ground when they recently signed a trade union
+agreement which outlined practices and procedures to be followed when staff
+transferred from Cambridge City Council to CMS, a division of British Steel,
+which won the multi-million pound contract in late 1993. According to Mark
+Pope, CMS sales and marketing manager, this was an important 'industry
+first'.
+'We believe it is important that our new staff have confidence in us, and we
+in them.' The Unison office at Cambridge City Council stressed the
+importance of contractors recognising unions. 'If we are to be subject to
+the contracting out of services from local authorities, then it is important
+that any successful contractor recognises unions: CMS was the only candidate
+that had any track record of successful relationships with Unions.'
+This is a hint that the change of culture associated with working for one
+organisation rather than another might bring new patterns to the computer
+industry. 'Partnership' - the key word emphasised by all FM suppliers -
+means both partners making allowances if the marriage is to last.
+
+The Financial Times
+
+
+London Page XII
+
+940316
+

@@ -1,0 +1,89 @@
+FT924-6333
+
+FT  21 NOV 92 / Markets: New rules bring companies to account - The Bottom
+Line
+
+
+   By ANDREW JACK
+
+
+THE EFFECT of changing British accounting standards became starkly apparent
+to investors last week with preliminary results from BOC, the UK industrial
+gases and healthcare group. BOC reported pre-tax profits down 31 per cent to
+Pounds 215m in the 12 months to September 30, well below market
+expectations. Without accounting changes, this year's figure would instead
+have been up by 10 per cent to Pounds 341.9m.
+The company is one of the first among many likely to be altering their
+figures substantially as a result of the new regime for financial reporting
+being introduced by the Accounting Standards Board (ASB). BOC said the
+culprit was FRS 3, the new financial reporting standard on the profit and
+loss account launched by the ASB at the end of last month, which becomes
+mandatory for year-ends after June 22 next year.
+A number of other companies are beginning to change already. In the past few
+days, Courtaulds and De La Rue both have published interim results in
+compliance with FRS 3. It alters the shape of the accounts radically,
+particularly for those companies with active acquisition and disposal
+programmes. Among the principal changes are:
+The virtual abolition of the extraordinary item. Only extremely rare and
+unpredictable events outside the normal course of business activities will
+be allowed. That might include expropriation of a company's assets following
+a political revolution in the UK, but not in Iraq.
+Calculation of earnings per share will include any remaining extraordinary
+items. This will make earnings far more 'lumpy' year by year and will
+discourage readers of accounts from relying so exclusively on this single
+published figure - and the price/earnings ratio based on it - which has been
+subject to considerable manipulation in the past.
+Gains or losses on the disposal of revalued assets must be shown in the
+profit and loss account at their carrying value given in the balance sheet,
+not at historical cost.
+The treatment of goodwill - the difference between the net assets and
+purchase price of a business - is changed. Previously, goodwill could be
+written off to reserves and companies could make a 'profit' on the sale of a
+business without taking account of the goodwill. Now, any stated profit or
+loss on resale must reflect the original purchase price. Any goodwill
+written off must be written back.
+For BOC, most of the impact on profits came from this final item. Its
+disposal of subsidiaries during the year - principally Glasrock, its
+domestic medical gases business - resulted in a loss of Pounds 117.1m which
+it had written off previously as goodwill.
+Readers of future accounts will also find other revelations required by FRS
+3. Companies must continue to disclose separately three types of exceptional
+item: profits or losses on the disposal of fixed assets or businesses, and
+the costs of fundamental restructuring. In BOC's case, these items include
+the Pounds 117.1m goodwill write-off and a Pounds 25.4m provision for
+reorganising its health care division. As the table shows, FRS 3 would not
+have had a significant impact for BOC in the past five years except in 1988,
+when there was a loss on disposals of businesses of Pounds 17m and Pounds
+24.5m written off as goodwill.
+Companies must also show turnover and profit, divided for the first time
+between continuing and discontinued operations and those acquired during the
+year. That should help those trying to make estimates of underlying and
+future maintainable performance.
+The danger of creating these 'pigeon-holes' for profits and losses is that
+numbers shown previously in a single extraordinary or exceptional item may
+now be concealed in a variety of figures.
+The ASB hopes to force investors to sift through more information and make
+their own calculations and judgments rather than relying on published
+earnings alone. Its rationale for FRS 3 has been to make accounts more
+transparent, allowing in sunshine by providing additional financial
+information.
+But the effect might be more like a prism, scattering considerable
+information over a wide area. That could prove confusing and intimidating
+initially for many readers of accounts.
+ ----------------------------------------------------
+      BOC PRE-TAX PROFITS: BEFORE AND AFTER
+ ----------------------------------------------------
+               1988   1989    1990    1991   1992
+Before        287.1  324.8   350.2  310.13   41.9
+After           254  324.8   350.2  310.12     15
+ ----------------------------------------------------
+Source: BOC annual reports
+ ----------------------------------------------------
+
+The Financial Times
+
+
+London Page II
+
+921121
+

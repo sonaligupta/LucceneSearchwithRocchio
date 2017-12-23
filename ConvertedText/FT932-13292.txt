@@ -1,0 +1,139 @@
+FT932-13292
+
+FT  23 APR 93 / FT Quarterly Review of Personal Finance (4): A tax blow to
+equity investors - Change in ACT is likely to boost bonds / The Budget
+
+
+THE CHANCELLOR's alteration to advance corporation tax (ACT) and the
+taxation of dividends was one of the more significant, and more complex,
+measures in the Budget.
+Private investors who are higher-rate taxpayers may suffer particularly. But
+the details of the change are difficult to grasp.
+The key factor to understand is that companies do not pay gross dividends at
+all. They pay shareholders a net dividend and send a sum to the Inland
+Revenue, which is regarded as meeting the tax liability of investors. This
+sum is an advance payment against the company's corporation tax liability -
+hence the name 'advance corporation tax'.
+The Budget change reduces the amount that companies must pay in advance.
+This helps their cash flow, although they still have to pay the same
+corporation tax bill in the end.
+But what the chancellor is giving with one hand, he is more than taking away
+with the other. Non-taxpayers are entitled to reclaim the tax paid by the
+company, and this tax credit was previously set at 25 per cent. The budget
+reduced the credit to 20 per cent.
+The effect can be seen in the table. Assume a net dividend of 7.5p. Under
+the old system, this would be grossed up to 10p for tax purposes.
+Non-taxpayers would thus be able to reclaim 2.5p in tax.
+Under the new system the dividend is only grossed up to 9.375p (since
+9.375p, minus 20 per cent, is 7.5p). The effect is to reduce the tax credit
+to 1.875p and to cut the non-taxpayer's dividend income by 6.25 per cent.
+For the vast majority of basic-rate taxpayers, the effect will be neutral,
+since basic rate tax on dividend income has been cut to 20 per cent. They
+will still receive the net dividend of 7.5p.
+Higher-rate taxpayers will face an extra tax charge (the difference between
+20 per cent and 40 per cent). The effect will be to reduce their net
+dividends by 6.25 per cent.
+Holders of personal equity plans (Peps) will also suffer. They count as
+non-taxpayers, so will incur a cut of 6.25 per cent in dividend income. The
+effect is most marked on basic-rate taxpayers, because the change affects
+them inside a Pep but not outside. This may make some of those Peps with
+additional charges unattractive.
+Higher-rate taxpayers are 6.25 per cent worse off, both inside and outside a
+Pep. So the tax advantage of a Pep remains the same; but, since the overall
+dividend return of a Pep has fallen, the attractions of a Pep, relative to
+non-equity investments, is reduced.
+Since, for most Pep investors, it is the income tax saving which represents
+the prime benefit, this change is important.
+Debate in the City has concentrated on whether equities have become less
+attractive overall. Pension funds, which are non-taxpayers, would certainly
+appear to suffer. But some companies may be able to increase their net
+dividends in order to leave their investors no worse off. Other measures
+which the chancellor has taken on ACT will benefit those companies with high
+overseas earnings.
+But overall the measure seems to boost bonds at the expense of equities;
+and, within the field of equities, to favour capital gain at the expense of
+income.
+The BES: investors will still be allowed to borrow
+Non-recourse loans, which allowed BES investors to make a safe exit from
+their investment after only six months, were stamped out. Mr Lamont twisted
+the knife by making the measure retrospective to the midnight before the
+Budget.
+The new legislation disallows tax relief on any BES shares issued after the
+deadline if loans are secured against them. Note that this does not affect
+loans secured on any BES shares issued before the deadline.
+Tax relief will also be allowed to investors who hold on to shares in a BES
+company which originally offered a loan facility, if they maintain their
+investment for the full five years. It is the exercise, rather than the
+offer, of the loan which is disallowed.
+After the Budget, the Inland Revenue clarified this ruling slightly. The
+prohibition on loans will not apply when the lender has recourse against a
+broad range of the borrower's assets and not just the BES shares. However,
+BES shares must not be specified as 'all or part of the security', according
+to the Revenue. This should allow those who have a sudden change for the
+worse in their financial circumstances to borrow.
+Investors will still be allowed to borrow to fund a BES investment. The
+Revenue simply intends to prohibit loans which are tied by the lender to the
+offer of BES shares.
+Once the full statutes are available, it is a fair bet that BES sponsors
+will look for a new way around the rules, and allow investors to exit from
+their investment early. In the meantime, the BES returns to its old ground
+rules. The scheme will now run until the end of 1993, and any investments
+taken out will have to be maintained for at least five years if they are to
+receive tax relief.
+Income tax: value of marriage allowance to fall
+The lower rate tax band of 20 per cent introduced by the Chancellor last
+year has been extended from the first Pounds 2,000 of income to Pounds
+2,500, increasing taxpayers' income by Pounds 25 for the 1993-94 tax year.
+It will be extended to Pounds 3,000 next tax year.
+However, Lamont chose not to implement the traditional measure of increasing
+personal allowances in line with inflation. The Pounds 150,000 threshold for
+inheritance tax and Pounds 5,800 for capital gains tax also remained
+unchanged. The married couple's allowance was also frozen and from April
+1994, the extent of its relief will be curtailed. Tax relief will be
+restricted to 20 per cent instead of at the taxpayer's marginal rate.
+This means that the maximum value of the allowance will be reduced to Pounds
+344 instead of the previous Pounds 430 to a basic-rate taxpayer and Pounds
+688 for someone in the higher-rate band. Married people aged 65 and above
+will see their allowance increased by Pounds 200 in 1994-95, to compensate
+for most of the loss.
+Stamp-duty: a sweetener for first-time buyers
+The announcement that mortgage interest tax relief would be reduced was
+sweetened by the immediate doubling of the threshold for stamp duty from
+Pounds 30,000 to Pounds 60,000.
+The stamp duty measure is intended to help first-time buyers and those at
+the bottom end of the housing market. Someone who buys a house for Pounds
+60,000 or less will therefore save Pounds 600. However, from April 1994, the
+rate at which Miras will be given will be restricted to 20 per cent instead
+of 25 per cent. At mortgage rates of 7.99 per cent, the maximum loss will be
+just under Pounds 120 a year.
+National Savings: holdings limits on certificates raised
+The First Option Bond was reintroduced, to further the Chancellor's
+intention that National Savings should make an 'important contribution' to
+government funding. The new rate of 4.75 per cent net on a Pounds 1,000
+minimum is competitive but not yet high enough to cause panic among the
+building societies. The limit for index-linked National Savings certificates
+was doubled to Pounds 10,000, and holding limits for most other National
+Savings products were also raised.
+Commentary by: Philip Coggan, John Authers and Scheherazade Daneshkhu
+ --------------------------------------------------
+            Dividends: the ACT factor
+ --------------------------------------------------
+                                 Old        New
+                                system     system
+ --------------------------------------------------
+Notional gross dividend            10p     9.375p
+Return to Pep holders              10p     9.375p
+Tax credit                        2.5p     1.875p
+Net dividend                      7.5p       7.5p
+Return to basic-rate taxpayer     7.5p       7.5p
+Higher rate tax                   1.5p     1.875p
+Return to higher-rate taxpayer    6.0p     5.625p
+ --------------------------------------------------
+
+The Financial Times
+
+
+London Page VI
+
+930423
+

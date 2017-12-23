@@ -1,0 +1,85 @@
+FT932-6862
+
+FT  26 MAY 93 / Survey of Computer Industry - Systems, Software & Services
+(5): Not for use by amateurs - The role of the workstation
+
+
+   By MICHAEL DEMPSEY
+
+
+THE computer workstation grew out of the need to juggle daunting figures on
+a desktop and in a realistic timeframe. In the early 1980s the first option
+for vast calculations was a very large mainframe or supercomputer. Their
+processing power is still called upon for resource-hungry design in
+aerospace, for instance. But impressive performance comes with a price tag
+of over Pounds 1m.
+From the outset, the computer workstation was designed to be affordable. The
+software that unlocked the door to cheaper scientific computing was the Unix
+operating system, which has now made the breakthrough into commercial
+respectability. But in 1982 it was the province of the technical fanatics
+who characterised California's Silicon Valley. Initially unfriendly to the
+common user, Unix offered the right environment for engineering
+applications.
+Sun was the start-up company that came to symbolise the rise of the
+workstation. It embodied all the cliches of the West Coast IT entrepreneurs.
+Launched by enthusiastic programming fiends in jeans, it was the antithesis
+of the blue chip hardware manufacturer. The market for powerful workstations
+exploded, taking Sun to a turnover of over Dollars 3bn, with 550,000 units
+shipped in under a decade.
+Mr Bill Passmore, Sun's northern Europe vice-president, pinpoints labour
+savings as a crucial factor in the rise of the workstation. 'Suddenly,
+companies found they could design an aircraft wing by putting a Pounds
+30,000 a year designer in front of a Pounds 30,000 computer.' By displaying
+complicated computer modelling packages on a desktop, the workstation cut
+out the connection to a mainframe. This bypassed the teams of specialist
+programmers needed to keep large systems up and running.
+More powerful chips have diminished the size of the workstation, abolishing
+the storage cabinet under the desktop. But the prospect of greater power led
+some users to apply workstation technology indiscriminately. In the late
+1980s boom banks began to invest heavily in purpose-built dealing rooms.
+Some sites were kitted out with a powerful workstation at every dealing
+position, which proved an expensive error.
+To have sophisticated software running at high speed is only of value if the
+user knows how to bring that power to bear on his job. In many dealing rooms
+90 per cent of staff are quite happy with a conventional PC running a
+commonplace spreadsheet such as Lotus 1-2-3. The workstation makes sense
+only if it is driven by the right user.
+The dramatic expansion in the capabilities of the humble PC has shadowed the
+advance of the workstation. With the arrival of the 486 series chip, and its
+successor Pentium just around the corner, the PC is well and truly in
+workstation territory. Windowing software and graphics have boosted the
+worth of advanced applications running on standard office equipment.
+Mr Chris Sarfas, desktop marketing manager at Digital Equipment in the UK,
+admits that Dec's workstation products have superficial rivals in the PC
+world. 'The key differential has always been high performance, but the PC of
+today outperforms the workstation of three years ago.
+'The primary advantage of the workstation over the PC is for the power user,
+the designer or top-end financial dealer. A PC can take a live video window,
+but it can't do that and run five other screens incorporating a live data
+feed.'
+There is a growing convergence between PCs and workstations, aided by
+software that combines ease of use with first-rate graphics. The workstation
+market starts just beyond the price bracket of top-end PCs, at around Pounds
+5,000 a unit. But top specification systems can cost Pounds 60,000. At this
+level the workstation is intruding on the preserve of mid-range computing
+and killing off the super-minicomputer of the 1980s.
+Not all workstation manufacturers have mirrored Sun's meteoric performance.
+Earlier this year Next Computer abandoned workstation production after two
+years. Shedding half its workforce, Next declared it would concentrate on
+developing software to complement the latest generation of computer chips.
+it seems that Next was squeezed out by the market clout of established
+producers and the blurring of identities between PCs and its workstation
+products.
+The workstation may be harassed by the PC, but it is still upwardly-mobile.
+The key to harnessing workstation technology lies in remembering its roots.
+It came about as a precision tool for professionals with a
+processing-intensive job. They are still the right candidates for a
+workstation's capabilities and price tag.
+
+The Financial Times
+
+
+London Page II
+
+930526
+

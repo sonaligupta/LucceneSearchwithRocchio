@@ -1,0 +1,141 @@
+FT923-9497
+
+FT  05 AUG 92 / FT Law Report: Digest of Trinity term
+
+
+   By AVIVA GOLDEN
+
+
+In re a company No. 0013734 of 1991
+(FT, June 3)
+THE REINSURED was in liquidation, having been ordered to be wound up by the
+Supreme Court of Bermuda, which also approved the manner whereby the
+valuation of the insurance claims against it had been carried out. The
+claims had not been settled but were calculated following an actuarial
+valuation of the underlying contingent claims against the reinsured.
+In the present proceedings, the reinsured claimed Dollars 122,244 against
+the reinsurer company which argued that no liability to pay had arisen and
+that the petition against it should be struck out because the debt on which
+it was based was disputed in good faith and on substantial grounds.
+Were it a simple matter of construction and the only issue was whether
+settled (albeit not actually paid) claims fell within the terms of the
+reinsurance contracts, the present court would have refused to strike out
+the petition. However, in granting the petition, Mr Roger Kaye QC (sitting
+as a deputy judge of the division) stated that it was not the only issue in
+the case.
+There were other factors which might have a bearing on the construction of
+the reinsurance contracts. Those factors raised serious and complex issues
+which were not appropriate to resolve on an interlocutory motion or on the
+hearing of a winding-up petition.
+The Mercers Co v New Hampshire Insurance Co
+(FT, June 4)
+MERCERS CLAIMED against New Hampshire for monies allegedly due under an
+advance payment bond of Pounds 4.5m to Rush & Tompkins Ltd in respect of a
+building contract. Rush & Tompkins had commenced the works although Mercers
+had given possession of the site four weeks late. Thereafter Rush and
+Tompkins had gone into receivership and the contract automatically
+terminated.
+At first instance, Mr Justice Phillips held that New Hampshire was under no
+liability under the bond; dismissed Mercers' claim; and ordered repayment of
+New Hampshire's interim payment of Pounds 1m. Mercers contended that the
+bond was simply a promise to pay a specific sum on a contingency which had
+happened and that the document could not be construed as a performance
+guarantee.
+Accepting that argument, the Court of Appeal stated that the plain purpose
+of the document was to ensure that if Rush & Tompkins did not earn the
+amount of the advance payment, both Rush & Tompkins and New Hampshire should
+be jointly and severally liable to Mercers for the balance. Moreover,
+postponement of the date on which possession of the site had been given by
+Mercers did not affect New Hampshire's liability.
+Regina v Kansal
+(FT, June 5)
+THE COURT of Appeal, in dismissing Mr Kansal's appeal against convictions
+under the Theft Act 1968 and the Insolvency Act 1986, stated that privilege
+from self-incrimination was abrogated in bankruptcy proceedings by Rule
+6.175 of the Insolvency Rules. That rule provided that '(1) The bankrupt
+shall . . . answer all such questions as the court may put . . . (5) The
+written record may in any proceedings (whether under the Act or otherwise)
+be used as evidence against the bankrupt . . .'.
+Mr Kansal made a statement under the Insolvency Rules which was ruled
+admissible in his Crown court trial on the theft charges. Under the Theft
+Act, section 31, a person was not excused on the ground of
+self-incrimination from answering questions in proceedings for the recovery
+of property but that no statement made was then admissible evidence against
+him. Section 433 of the Insolvency Act, on the other hand, made evidence
+given under the Insolvency Rules admissible in any proceedings.
+The appeal court accepted the contention of the Crown that section 433 was
+concerned with admissibility of a special class of document derived from an
+insolvency in 'any proceedings' - whether or not under the Insolvency or the
+Theft acts. Its terms were clear, unambiguous and unequivocal, and were not
+subject to any exceptions, so that section 31 of the Theft Act was not
+capable of protecting the defendant in such a case.
+TOSG Trust Fund Ltd v Girozentrale und Bank der Oesterreichischen Sparkassen
+Aktiengesellschaft and others
+(FT, June 10)
+THE PLAINTIFF sought a declaration that it was not liable to repay to the
+defendant banks a bonded sum which had been applied by TOSG in accordance
+with its powers.
+TOSG was a company set up by the Tour Operators Study Group (an association
+of UK travel and tour operators), the primary purpose of which was to
+administer bonding arrangements made for the protection of customers in the
+event of failure. A bond for Pounds 63.2m had been issued by the banks in
+favour of TOSG, the subject matter of which was the potential failure of ILG
+Travel Ltd, a TOSG member.
+The bonded sum, Mr Justice Hobhouse stated, was not a fund in which the
+banks had reserved any proprietary right or which was impressed with any
+trust. On the facts before the court, TOSG was in a position to show that,
+subject to a small margin, the sum it spent on intra vires functions would
+fully absorb the sum paid by the banks together with accrued interest.
+Although TOSG had also spent money ultra vires there was no automatic
+liability accrued to make an equivalent payment to the banks. That argument
+would depend on an earmarked fund which was not applicable in the present
+case.
+Barclays Bank plc v O'Brien
+(FT, June 11)
+THE ISSUE in the instant case had arisen when a married woman pledged the
+matrimonial home as a second charge to the bank for her husband's debts,
+after having failed to take independent advice and not having the
+transaction fully explained to her.
+Allowing an appeal against an order that the bank could enforce the mortgage
+document, the Court of Appeal stated that in certain cases, equity would
+hold the security given by the surety to be unenforceable by the creditor
+if: (1) the relationship between the debtor and the surety and the
+consequent likelihood of influence and reliance was known to the creditor;
+(2) the surety's consent to the transaction was procured by undue influence
+or material misrepresentation on the debtor's part, and the surety lacked
+adequate understanding of the nature and effect of the transaction; or (3)
+the creditor failed to take reasonable steps to try and ensure that the
+surety entered into the transaction with adequate understanding of its
+nature and effect and that the surety's consent was true and informed. In
+particular, equity was still concerned to protect the position of married
+women and to treat them differently from other third parties who provided
+security for the debts of others.
+MS Fashions Ltd and others v Bank of Credit and Commerce International SA
+(FT, June 12)
+SINCE 1980 the two companies had been customers of BCCI and had borrowing
+and overdraft facilities. Each company had given a debenture to BCCI, and
+cross-guaranteed the other's debt. In addition, security for the companies'
+debts was given by S and his brother by a charge of property, so that the
+effect was to render each of the four parties as included within the
+relationship of 'the principal debtor' so that all were jointly liable.
+On its winding-up BCCI claimed a comprehensive demand of Pounds 600,000
+against each of the potential debtors for the total indebtedness owed by the
+two companies. There was no defence available save under rule 4.90 of the
+Insolvency Rules 1986 which provided that where, before a company went into
+liquidation, there had been mutual debts between it and a creditor claiming
+to prove in the liquidation, 'the sums due from one party shall be set off
+against the sums due from the other'. S had some Pounds 300,000 on deposit
+with BCCI.
+The Court of Appeal stated that rule 4.90 could not properly operate unless
+it operated in reduction of the debt owing to BCCI at date of liquidation.
+All that was left for BCCI, therefore, whether against the principal debtors
+or the sureties, was the balance of the original debt, viz. a sum of Pounds
+300,000.
+
+The Financial Times
+
+
+London Page 10
+
+920805
+

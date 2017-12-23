@@ -1,0 +1,101 @@
+FT932-6847
+
+FT  26 MAY 93 / Survey of Computer Industry - Systems, Software & Services
+(13): Myth of the panacea interface - Human machine interaction
+
+
+   By TONY QUINN
+
+
+EVER since someone connected a television screen to a computer, the search
+has been on for a computer that is easier to use. The major development of
+the past decade has been the launch of the 'user friendly' Apple Macintosh.
+The use of a mouse to control a 'desktop' has since spread to IBM-compatible
+PCs in the form of Microsoft's Windows.
+Each succeeding generation of microprocessor has brought the interface
+between machine and man that much closer. The launch of the latest portable
+computers - personal digital assistants - has introduced a new challenge to
+the desktop, that of the notebook and pen.
+PDAs such as E0's Communicator and Apple's Newton have no keyboard. Instead,
+you write on the screen and the handwriting is translated into neat computer
+text. Mr Hermann Hauser, chairman of EO Europe, describes the Communicator
+as an 'active book'. The philosophy, he explains, 'uses the metaphor of the
+book. The page itself is an effective unit of information; it is numbered
+and grouped into chapters.
+'Using the Communicator is just like using a notepad. It is like a hook
+because it can present a lot of information without your having to input
+anything. The active part comes from being able to edit and reformat the
+information. Also, you can link parts together using a hyper-text system and
+use multimedia with voice annotation and video.'
+The Communicator screen looks like a notepad and has a 'book shelf' along
+the bottom. Pages are 'turned' by touching the screen with the pen to the
+left or right.
+Mr Hauser compares the idea to the Macintosh. 'The Apple desktop metaphor is
+successful and now it is 10 years old. It is good for the work it does, but
+the book opens up to more people and is easier to use. For example, there is
+no loading and saving of files. Instead, you go to part of the book. Saving
+still goes on, but it is hidden from the user.'
+But the pen has its limitations. Mr Charles Brennan, chairman of the British
+Computer Society's interest group on human computer interaction, comments:
+'The use of pens is touted by some as an improvement, but it's really a
+solution to the fact that you can't fit a keyboard on a small portable. It
+introduces as many difficulties as it solves.'
+One problem is how to represent the volumes of data which computers can
+access. One compact disc can store 600 times as much information as a floppy
+disc, enough for a thousand novels. 'The book metaphor doesn't solve that,
+nor does the desktop,' says Mr Brennan. 'You have to go beyond the real
+world. You cannot look at a library and know where to go - you have to use
+the computer as a support system.'
+Researchers are already using virtual reality techniques to represent large
+amounts of information as three-dimensional spaces. For example, the human
+brain can be modelled as a structure for doctors and then 'flown around'
+with heat or light used to highlight areas of inflammation.
+As well as looking for new designs, work is concentrating on methodology and
+standards. There are three major strands to this.
+The first strand is building in 'usability'. Mr Paul Seaton of System
+Concepts in London has worked on this under a project partly funded by the
+DTI. 'At present, a lot of bespoke system development for big corporates is
+done in-house. The development kits are promoted as being able to do the
+whole job, but there's a lot more to it. Psychology and ergonomics are
+concepts which are alien to these people. Companies such as Microsoft and
+Apple recognise this, but in-house developers don't'
+Existing system design methodologies leave the human interface to last, he
+adds. 'You must move away from the technology and support the task, not
+impose extra complications such as codes and jumping between screens to do
+something that can be done on a single sheet of paper.'
+The second strand is finding ways of assessing usability. Mr Martin Maguire
+of the Husat Institute at Loughborough University says researchers there
+have adopted four criteria:
+User performance: usually measured by the time taken to carry out a task;
+User satisfaction: responses to a questionnaire produce scores for
+efficiency, control, learning, helpfulness and satisfaction;
+Cognitive workload: breathing and heart rates are taken to measure stress
+and mental effort. This is particularly important for safety-critical
+systems, such as for air traffic control;
+Analytic: a computer model of the user interface and tasks is built to see
+how well the system performs. This can be done without the need for user
+trials.
+These measures would be applied by software developers, or by companies
+commissioning software as a way of testing performance.
+The third strand is the establishment of formal standards and trying to tie
+in usability to open systems and total quality management. A European
+directive which came into force this year (90/270/EEC) already contains
+requirements relating to usability. Also, a working group is developing an
+international standard (ISO 9241) dealing with software ergonomics and the
+man-machine interface.
+Ultimately, however, software developers have to work harder to understand
+people. 'You can't solve usability by a panacea interface,' says Mr Brennan.
+'You need to approach the big picture; recognise the organisational aspects,
+the way people work and address the tasks that need to be done.'
+* As part of the DTI-run Usability Now scheme which ended last year, an
+information centre was set up on ergonomic issues. Contact Richard Wilson,
+Scottish HCI Centre, Department of Computer Science, University of Glasgow,
+Lillybank Gardens, Glasgow G12 8QQ. 041-339 8855.
+
+The Financial Times
+
+
+London Page V
+
+930526
+

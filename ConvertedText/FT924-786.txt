@@ -1,0 +1,51 @@
+FT924-786
+
+FT  22 DEC 92 / Novell to purchase Unix for Dollars 350m
+
+
+   By LOUISE KEHOE and ALAN CANE
+
+
+   SAN FRANCISCO, LONDON
+
+
+NOVELL, the largest publisher of software that links computers on networks,
+has signed a letter of intent to acquire Unix Systems Laboratories, an AT&T
+unit responsible for the licensing and development of the widely used Unix
+computer operating system.
+The proposed Dollars 350m (Pounds 230m) acquisition will have profound
+implications for vendors and users of 'open systems' computers. It also
+signals an intensifying battle between Novell and Microsoft, the world's
+largest software company, over control of the market for operating systems
+and networking software.
+USL is 77 per cent owned by AT&T, which formed the unit in 1991 in response
+to rising concerns about AT&T's control over development and licensing of
+Unix, which has become the standard operating system for 'open systems' in
+which computers from different manufacturers work together.
+AT&T encouraged other computer companies to acquire minority stakes in USL
+to provide them some control over the development of Unix.
+Novell already owns 5 per cent of USL and 11 other computer-industry
+companies together own 18 per cent. The deal has been approved by the boards
+of Novell and AT&T, but it has not yet been approved by the other Unix
+System Labs owners, which include Amdahl, Fujitsu, ICL, Motorola, NEC, Sun
+Microsystems, Oki Electric, Olivetti and Toshiba. Initial reactions from
+these ranged from 'neutral to positive' said Mr Roel Pieper, president and
+chief executive of USL.
+For AT&T and other USL shareholders, the exchange of shares will be tax
+free. Based on current Novell stock price, AT&T expects to recognise a gain
+in excess of Dollars 100m and will own about 3 per cent of Novell's stock.
+Novell will account for the transaction as a purchase and expects to record
+a write-off of Dollars 250m.
+Mr Peter Stuart, head of midrange marketing strategy for ICL, the UK-based
+computer company which has been a European leader in open systems, said it
+was beneficial that USL's owner should be a software house which understood
+the business and had a long-term view of the market. It would be
+disadvantageous if Novell attempted to focus on the desk-top.
+
+The Financial Times
+
+
+London Page 13
+
+921222
+

@@ -1,0 +1,51 @@
+FT944-11044
+
+FT  08 NOV 94 / IBM agrees hardware standard
+
+
+   By LOUISE KEHOE
+
+
+   SAN FRANCISCO
+
+
+International Business Machines, Apple Computer and Motorola yesterday
+confirmed details of an agreement to develop a common standard specification
+for personal computers.
+Based on PowerPC microprocessor chips, their goal is to establish a new PC
+standard, challenging the domination of Microsoft's Windows and Intel's
+microprocessors which are used in about 85 per cent of PCs sold.
+Industry analysts said, however, that the move may be 'too little, too late'
+because while the PowerPC partners have established a hardware standard,
+they have failed to agree on an operating system software standard.
+Instead, the companies said they would build computers that adhere to a new
+'hardware reference platform' specification that will run a broad range of
+software.
+The standard PowerPC design will support several operating systems including
+Apple's Macintosh software, IBM's OS/2 and AIX (a variety of UNIX) and
+Microsoft's Windows NT, the companies said. Novell and Sun Microsystems will
+also develop versions of their operating systems for the new PowerPC
+standard.
+The PowerPC alliance, formed three years ago, has so far been thwarted in
+its efforts to unseat Intel and Microsoft by a lack of support from software
+companies, which have put most of their resources into developing
+application programs for Intel-Microsoft standard PCs.
+By establishing a PowerPC hardware standard, the companies hope to broaden
+the market, drawing software support and encouraging other computer
+companies to build compliant products.
+However, the market for software for PowerPC computers will remain
+fragmented among the various operating systems, analysts pointed out.
+Computers based on the new PowerPC hardware standard will not reach the
+market until 1996. In the meantime, Apple, IBM, Motorola and other computer
+companies that have been developing PowerPC-based PCs will have to redesign
+their products.
+Mr Michael Spindler, Apple president and chief executive, said that the new
+hardware standard will enable Apple to broaden its sales.
+
+The Financial Times
+
+
+London Page 19
+
+941108
+

@@ -1,0 +1,131 @@
+FT924-12149
+
+FT  22 OCT 92 / Technology (Software At Work): Getting closer to the
+customer - Continuing a series on software, Claire Gooding explains how the
+TSB Group is using multimedia to develop and test its managers' financial
+skills
+
+
+   By CLAIRE GOODING
+
+
+An energetic, middle-aged man enters the office and takes a seat on the
+other side of the desk. He is wearing a casual jacket and sweater - unusual
+for an MD seeing the bank manager - and his manner is brisk. 'I haven't much
+time, I've got to get back to the shop,' he says.
+His name is Richard Evans, and students on the TSB Group's management
+courses get to know all about him and his plans to expand his high-street
+pharmacies by diversifying into menswear.
+Using a real company, its accounts, its staff and its dilemmas, TSB staff
+can hone their skills using interactive video. In the same way that a flight
+simulator gives the illusion of real interaction, multimedia techniques
+provide a real 'customer' on the screen.
+Saying yes (or no) to a potential borrower demands a blend of analysis and
+judgment not easy to teach. The TSB Group Management College is using
+multimedia techniques to develop and test its managers' financial skills in
+a situation as close to real life as possible.
+Students converse with Evans through the keyboard. They pose questions by
+typing in certain words - for example, capital, assets, turnover. The
+computer composes questions derived from these words, so avoiding the need
+for keyboard skills.
+The questions are selected from a list of 800 options. The user can comply
+with a suggested question, or search for another. For computer-shy branch
+managers (97 per cent have never used a keyboard before), the Y and N keys
+are labelled clearly. Back comes the appropriate pre-recorded response from
+Evans, complete with mannerisms and body language.
+'It brings a subjective element into the classroom that just can't be
+reproduced on paper,' comments Theresa Barnett, head of business
+development.
+Learning is a holistic experience at the college. The students are typically
+managers of all age groups, resident for up to a week at a time. They are
+encouraged to test and assess themselves, not only in the classroom. A
+swimming pool and a supervised gymnasium lie on one side of the 1990s-style
+cloister.
+Multimedia techniques have brought a breath of real life into what used to
+be largely paper-based exercises. As with studying a foreign language, the
+real learning starts only when the theory is put into practice.
+Real people, according to Barnett, were co-operative when it came to being
+'guinea pigs' for her training courses. But, as she points out, there was a
+limit to the number of times they could be asked to participate.
+'These are busy people with businesses to run, and that's what they should
+be doing. You can't have 12 people interviewing the same person, posing the
+same questions over and again.'
+Her solution, using multimedia techniques, was ingenious and cost-effective.
+It drew on previous experience with video and paper-based exercises. 'We
+researched a real business and put it into an interactive video.'
+Evans is a real person, with genuine plans to take his chain of shops up
+market. The process of researching, devising and scripting the dialectic
+took six weeks. Every possible question had to be researched and its reply
+recorded. Taking no chances, Barnett pressed six experts into service to
+provide a broad spectrum of techniques. The thorniest job was to pare down
+the answers into tight, pithy scripts which became the 'sound bites'
+prompted by students.
+The scripts are interpreted by an actor, who met the real-life protagonist
+so that he could reproduce his mannerisms, turn of phrase and personality
+faithfully.
+Barnett emphasises that multimedia should not be seen as something new and
+frightening, merely an evolution and amalgamation of familiar teaching
+tools, consolidated by the use of the computer.
+'Multimedia is a lot of things we already know about - sound, picture,
+video, computer graphics and printouts - just connected. It's easier to have
+multimedia on your desk rather than lots of different machines. It can go
+with you wherever you are working.'
+The next step came in 1988 when Barnett and her colleagues recognised that
+they could 're-purpose' the interactive video. 'It occurred to us that we
+could create a different program from the same video,' she explains. 'We
+wrote a different piece of software and used the video as a database of
+background information.'
+The new video was fleshed out with CVs of other staff members, balance
+sheets and forecasts in Lotus 123 spreadsheet format, and market research on
+pharmacies, regulation, local competition and other factors.
+Students could then do an open-ended SWOT analysis (Strengths Weaknesses
+Opportunities Threats). The tutor could focus on any aspect: recruitment,
+human resources or capitalisation.
+There were savings on time and and cost in using the same source material,
+but also spin-off benefits outside TSB, in an RBI project to educate
+head-teachers about business principles.
+When the real-life Evans visited the college to watch his impersonator in
+action, everyone was intrigued to hear how his business had fared
+subsequently. A fraud perpetrated by a fellow director had leached thousands
+from the balance sheet, threatening the cashflow and shrinking stocks. The
+result was a sequel video in 1989.
+The exercise takes several hours, and is an entertaining mix of soap opera,
+documentary, detective thriller and interactive Cluedo.
+The student picks a route through evidence, drawing on resources such as
+personnel records, appraisals, company accounts and legal tomes, all
+available through the computer.
+Role-playing as an investigator, the student can call other characters into
+the multimedia office, and practise such tricky human situations as accusing
+an accomplice of theft, firing an old friend and threatening legal action.
+The dialogue is recorded and can then be edited, with the user reviewing his
+own reactions. Unlike real life, the interviewer who feels he has made a
+mess of any part of the dialogue can re-record the skirmish until he is
+satisfied. The whole interview can be kept on compact disk for replay,
+review and discussion.
+The technique has proved popular with users. 'It's a first-class method of
+learning,' comments one. 'It really brings the case studies to life, and it
+allows delegates to trace their steps and actions stage by stage,' says
+Wally Valentine, financial services manager.
+Paul Turner, director of the college, takes a broad view of the benefits of
+multimedia training. 'The organisation needs managers who match the
+opportunity to sustain competitive advantage. We're using proven technology
+to train them, although the application itself is new. Multimedia is an
+exponential leap for us.'
+Barnett believes the multimedia manufacturers have not yet spotted the true
+potential of multimedia software in a tutorial, rather than purely
+one-to-one, instruction.
+BUZZWORDS
+MULTIMEDIA describes a mixture of resources controlled by computer.
+Paper-based sources, computer graphics, video, sound and other choices are
+controlled through screen-based options.
+RE-PURPOSING means the source material, usually video (which is costly to
+film and produce), is adapted for a different purpose by using it with a new
+software harness.
+
+The Financial Times
+
+
+London Page 16
+
+921022
+

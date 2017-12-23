@@ -1,0 +1,44 @@
+FT922-4491
+
+FT  05 JUN 92 / UK Company News: Failure of Topic hits market commissions
+
+
+   By TERRY BYLAND
+
+
+A PROLONGED failure in the London Stock Exchange Topic news and information
+service caused a substantial loss of commission business for market firms
+yesterday. Many institutional investors ceased to deal because of the
+absence of reliable share price information.
+The Topic system was unable to transmit for most of the session, due to a
+software problem. The Stock Exchange Automated Quotations network (Seaq)
+operated normally, but share price quotations were 'indicative' and not
+binding on market makers.
+The FT-SE 100 Index was partly indicative, and the FT-SE Eurotrack indices
+was wholly indicative at the close.
+The problems fell mostly on investment clients, including unit trusts,
+merchant banks, and pension funds. In the absence of screen quotations, fund
+managers had to choose between dealing 'blind' at the share prices quoted by
+marketmakers over the telephone, or to withdraw temporarily from the market.
+'For them, it was rather like stepping up to the crease at baseball with a
+sack over your head and trying to hit the ball,' commented Mr Nigel Little
+of Panmure Gordon, the UK brokerage house. Most managers soon decided to
+quit the field.
+Most of the large securities firms, including the market makers, were able
+to take market information on digital feeds from the Stock Exchange which
+were unaffected. This information is then fed into the firms' own in-house
+computer networks, giving traders access to most of the normal market
+information and data.
+The loss in client business will not be known until this morning.
+Yesterday's Seaq volume total of 505.9m shares compared fairly well with
+Wednesday's 473.6m. But the Seaq total takes in trade from both clients and
+market makers. Market maker business was high yesterday as the London-based
+houses arbitraged between stock index futures and the underlying stocks.
+
+The Financial Times
+
+
+London Page 22
+
+920605
+

@@ -1,0 +1,47 @@
+FT941-16886
+
+FT  07 JAN 94 / Technology: General Magic's genie
+
+
+   By TOM FOREMSKI
+
+
+After more than three years of development, California-based General Magic
+yesterday introduced its new communications software technology based on the
+concept of 'software agents' that will automatically perform set tasks.
+The first products are Magic Cap, a graphical user interface (to simplify
+screen instructions) for palm-sized personal communicator devices, and the
+Telescript programming language. AT&T, a General Magic shareholder, says it
+is the first company to use Telescript as the basis for its PersonaLink
+online service. General Magic's other shareholders include Apple Computer,
+Motorola, Philips, Sony and Matsushita.
+Users of Telescript can create 'software agents', self-contained programs
+that roam communications networks delivering and receiving messages or
+looking for information or services. 'With Telescript, you could create an
+agent to check airline departure times and notify you if your aeroplane is
+late. Or you could use agents to bid on products or services,' says Marc
+Porat, president of General Magic.
+Magic Cap enables users to access information and other services by pressing
+tiny pictures of buildings. It is designed for the small touch-screens in
+personal communicator devices, essentially high-tech versions of the
+portable telephone combining fax, electronic mail and voice features.
+Magic Cap includes Telescript and provides additional functions such as a
+diary, address book and communications software. Motorola and Sony plan to
+introduce Magic Cap-based personal communicator devices soon; the other
+shareholders are expected to announce products based on General Magic's
+technology later.
+The technology may have arrived too late for Apple, which has several
+development efforts that mirror General Magic's technology. Apple's new
+online service, eWorld, does not use Telescript.
+'We're interested in Telescript but it's not for us right now,' says Peter
+Friedman, director of Apple Online Services. 'We'll take another look at
+Telescript later in the year.' Porat says there will be Apple products based
+on Magic Cap and Telescript in 1995.
+
+The Financial Times
+
+
+London Page 10
+
+940107
+

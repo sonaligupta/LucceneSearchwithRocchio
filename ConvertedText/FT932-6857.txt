@@ -1,0 +1,92 @@
+FT932-6857
+
+FT  26 MAY 93 / Survey of Computer Industry - Systems, Software & Services
+(6): An unstoppable march - Mid-range systems
+
+
+   By MICHAEL DEMPSEY
+
+
+THERE was a time when computers fitted neatly into one of three categories.
+If it wasn't a PC or a mainframe, then it had to be a mini. The decline of
+the mainframe and the emergence of the powerful workstation as a serious
+scientific tool have given rise to a new category of system, the mid-range
+computer.
+Mid-range systems have taken the centre stage of business computing. In
+power and price they overlap with both extremes of IT hardware, nudging
+aside some top-end PCs and intruding on the domain of the mainframe. The
+machine that made the mid-range is IBM's AS400. Depending on the
+configuration, it can cost between Pounds 6,000 and Pounds 1m. Since June
+1988 IBM has shipped well over 200,000 systems worldwide.
+Northern Foods owns Express Dairies and supplies quality food to Marks &
+Spencer and other retailers. It has a Pounds 2bn turnover and manages
+production across 65 operating companies using 75 AS400 machines. They have
+replaced a fleet of IBM minis and a mix of mainframes from ICL and Digital
+Equipment.
+Mr Alan Earnshaw is Northern Foods' Hull-based IT director. He says the move
+to mid-range computing has proved highly cost-effective. 'The mid-range idea
+suits Northern Foods' style. We're a highly decentralised organisation. With
+its high ease of use, the AS400 requires very few technical staff.'
+Workstations spread access to the system across the site, running a whole
+raft of stock control applications while Electronic Data Interchange ensures
+rapid and frequent exchange of data with customers and suppliers.
+The change in staffing requirements has been dramatic. Mr Earnshaw
+characterises the standard local system manager as the site accountant. The
+mid-range box is happy in an office. A mainframe operates in a purpose-built
+computer room with dedicated support staff.
+With its diversity of business software, distributed workstations and
+extensive data links to third parties, Northern Foods typifies the mid-range
+user. It also highlights the decline of the mainframe. 'Had there been no
+mid-range option we would be running several mainframes and be faced with a
+different order of IT costs,' says Mr Earnshaw.
+IBM's critics have made much of the declining market for mainframes. The
+largest computer company in the world grew fat on dominance of the mainframe
+market only to see revenues undercut by the latest generation of systems.
+IBM's own success with the AS400 is a measure of the demand for cheaper and
+more practical processing power rather than a case of a manufacturer
+undermining its own market.
+There will always be a place for the mainframe. Processing vast arrays of
+statistics or hosting huge specialist programs such as airline reservation
+systems will continue to require a mainframe processor. But industrial
+management means buying in off-the-shelf software and a continuous
+throughput of factory data. The mid-range computer is designed with this
+function in mind. In particular, its operating system is written to host the
+very programs that business users find most practical.
+The London International Group, the large medical equipment to
+film-processing concern, has followed the downsizing path, dispensing with
+IBM mainframes in favour of AS400s. But taking this plunge was not easy. Mr
+Pratt, in charge of London International's IT, was involved in writing its
+custom-built mainframe software application.
+A mid-range program was installed from an external software house. 'There
+was over 10 years worth of loyalty to that software on the mainframe. We had
+to tell the end-user to change the system he was used to working with.' Mr
+Pratt still says the move was well worth this disruption. Without the
+hideously complicated mainframe operating system to worry about he can shop
+around for business software packages to meet emerging requirements. 'Now we
+don't spend time designing software inhouse we can concentrate on
+implementing the right system, not trying to develop it ourselves.'
+The mid-range threatens more than large hardware. It has also decimated one
+species of employee. Mr Pratt notes the demise of the systems programmers
+who kept mainframe applications functioning. 'They were skilled boffins,
+very peculiar animals.' They may be missed for the colour they added to
+computing, but the cost of finding and retaining their esoteric skills was
+an incentive to change IT purchasing policy.
+The march of the mid-range system seems unstoppable. But while the mainframe
+will always be around to cater for some needs, so the term mini-computer is
+still applied to small business computing. Hewlett-Packard splits its HP9000
+range between minis (Pounds 20-100,000) and mid-range systems (Pounds
+150,000-1m). The contemporary mini delivers much more power than its
+predecessors, but HP finds it useful to preserve the term to define user
+communities.
+If specialist programmers have been a casualty of the mid-range revolution,
+purchasers have felt the benefit. Taking the processing power from an
+air-cooled computer room can only bring it closer to the business customer's
+real needs.
+
+The Financial Times
+
+
+London Page III
+
+930526
+

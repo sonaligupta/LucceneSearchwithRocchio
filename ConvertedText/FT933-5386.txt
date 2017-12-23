@@ -1,0 +1,50 @@
+FT933-5386
+
+FT  03 SEP 93 / There's no place like the virtual reality office
+
+
+   By NUALA MORAN
+
+
+VIRTUAL REALITY technology is being applied to solve the problem of making
+people who work from home feel more closely in touch with their office.
+The government-funded Pounds 3m Virtuosi project, to be launched next month,
+will develop sophisticated computer displays to give remote workers the
+illusion that they are in the office, working alongside other homeworkers
+and interacting as if they are face-to-face.
+The three-year project will be headed by BT and supported by the Department
+of Trade and Industry, Science and Engineering Research Council, GEC and
+Division, a specialist virtual reality company run by Mr Ian Barron,
+inventor of the Transputer, the original computer on a chip.
+The programme - believed to be the first systematic effort to apply virtual
+reality to a business environment - could spell the beginning of the end for
+expensive corporate headquarters, according to Mr Alastair Rogers, a
+researcher with the project at BT's Martlesham Laboratories in Suffolk.
+'Virtual reality offers the most intimate and direct method of interacting
+with a computer, and hence with the users of other computers,' Mr Rogers
+said.
+Computer networks already allow people at different sites to work together
+but they severely limit human interactions. For example, it is not possible
+to have unconstrained conversations or to read between the lines by looking
+at facial expressions or body language.
+Staff who work remotely often become disenchanted because they feel socially
+deprived and isolated. BT's recent experiments in Scotland have resulted in
+home-working directory inquiry operators being equipped with videophones,
+not directly to support their work but to reduce their sense of isolation.
+Users sitting at a virtual reality screen will see themselves in an office
+with colleagues. They will be able to move themselves around the virtual
+space, to interact and talk to people.
+The input device could be a simple as a mouse or it could be 'data suit' - a
+futuristic style of overall which picks up the user's movements and conveys
+the subtleties of body language and facial expression to colleagues.
+With an advanced virtual reality system, the corporation could cease to
+exist as a physical entity. Employees could work entirely from home,
+conducting business in a corporate virtual environment.
+
+The Financial Times
+
+
+London Page 16
+
+930903
+

@@ -1,0 +1,70 @@
+FT933-12566
+
+FT  23 JUL 93 / Technology: Software finds a fashionable friend
+
+
+   By DELLA BRADSHAW
+
+
+First there was Ascot, then Henley. But the British summer season can only
+truly be declared open when high street clothes shops display their end of
+season 'sale' notices.
+As fashion retailers rush to slash the figures on their garment price tags
+they are increasingly having to ensure that those prices correspond to the
+ones held on their computers. For the UK retail outlets of Paul Smith, the
+men's fashion designer, the job has been simplified by work it has been
+doing with its supplier Prologic, which specialises in software for the
+fashion industry.
+'We've been working with Prologic for four to five years,' reports Cuan
+Hanley, co-ordinator at R. Newbold, Paul Smith's forthcoming retail venture.
+'We've been moving in tandem.'
+Initially when it came to sale time, employees at Paul Smith's head office
+in Nottingham had to change the price for each item separately - every item
+had a code denoting style, colour and size. Paul Smith's Covent Garden
+stores stock eveything from toothbrushes to Pounds 600 suits - some 2,500
+items in all.
+The Cims (clothing industry management system) software was altered, says
+Hanley, to ensure that the prices could be changed by product group. And if
+one particular product group in one particular store was selling badly the
+price of that group alone could be reduced. 'We can change all the prices
+now in half a day,' reports Hanley.
+Such speed of reaction is particularly important in the fast-moving fashion
+industry where retailers have a rapid stock turnover - unlike a food chain,
+for example, where the same brand of baked beans can be sold year in, year
+out.
+The reports produced by the Prologic software, points out Ian Bergin, at
+Paul Smith's Covent Garden stores, can look at the stock levels throughout
+the organisation or can track down a single garment. The software can
+produce reports of bestsellers or 'worstsellers'.
+'You can say 'I'm going to run out of this on this day and so I need to
+order more now',' elaborates Bergin. 'You can see problems before they
+occur.' The biggest problem would be if the stores ran out of the most
+expensive items - suits.
+If shortages occur, the individual shops can look up the stock held at the
+warehouse and order items from the terminal which also acts as a till. Or
+they can order from head office in Nottingham.
+If they suspect shortages might ensue, each retail outlet can check to see
+whether there is a similar style or fabric that could be stocked instead but
+which they had hitherto overlooked - a shirt, for example, that was only
+stocked in one of Paul Smith's Japanese shops.
+The Prologic system, which is based round an Oracle database held at head
+office, uses the data collected every time a sale is completed in the shop
+to compile accounts and other management reports. The same data are used to
+verify stock control levels. For the shop managers it means that there is no
+need to back up the data every evening which is collected on disc, a
+drawback which had become evident with the previous system in the Paul Smith
+stores.
+The system also helps eliminate errors. Because the code number for each
+item has to be entered before a sale can be made, it can only be sold for
+the correct list price. Barcode readers can be incorporated to help with
+manual stock controls. And Cims lets retailers build in specialist services
+ -such as automatic discounts for clients lucky enough to hold discount
+cards.
+
+The Financial Times
+
+
+London Page 16
+
+930723
+

@@ -1,0 +1,145 @@
+FT934-11076
+
+FT  02 NOV 93 / Survey of Corporate Treasury Management (1):  Purse strings
+are tightened - Volatility in European currency markets and fear of foreign
+exchange dealing losses have forced companies to strengthen controls and
+re-assess their approach to hedging.  Institutional investors are also
+demanding greater disclosure.
+
+
+   By TRACY CORRIGAN
+
+
+WHILE THE advantages of a strong treasury function have become much more
+widely appreciated by companies in recent years, so too have the potential
+risks associated with a poorly managed treasury operation.
+The loss of Pounds 150m in foreign exchange dealings by the treasury
+department of Allied-Lyons, the UK foods group, in 1991 triggered a wave of
+concern about internal management procedures.
+Since then, as well as tightening up controls, many companies have also
+started to pay more attention to broader policy issues. In particular, the
+unexpected volatility of European currencies over the past year has forced a
+number of companies to reassess their approach to hedging.
+For example, many UK companies had stopped hedging their exposure to
+European currencies, because they thought that they were protected by the
+exchange rate mechanism. When some currencies fell outside the system, they
+were taken by surprise.
+'Many boards have been requiring the treasurer to be much more rigorous in
+deciding the hedging programme,' said Mr Derek Ross, a partner at Touche
+Ross who advises companies on treasury management.
+There is a growing tendency to take shorter-term decisions on currency
+hedging; for example, hedging two to three months ahead, rather than 18
+months, so that if the market turns, the company is not locked in at a
+disadvantageous rate for a long period.
+Company board members are less likely these days to dismiss treasury
+officials as bureaucrats, and more likely to have an idea of what actually
+goes on in their company's treasury operation.
+The other issue which has brought corporate treasury into the limelight has
+been a growing chorus of demands by institutional investors for greater
+disclosure of corporate treasury policies in companies' accounts.
+The Association of Corporate Treasurers (ACT), a grouping of UK company
+treasurers, has produced an exposure draft of guidelines for disclosure. In
+the current climate, in which companies are being bombarded with new
+disclosure requirements, some companies are rather unenthusiastic, while
+others take the view that the guidelines should go further.
+Again, currency volatility has highlighted this issue. Analysts or investors
+looking at, for example, a UK company which has a large US operation could
+expect that company's results to improve as a result of a stronger dollar.
+However, if that exposure to dollar earnings has been hedged, this will not
+be the case. Analysts would like to know not only whether the exposure is
+hedged, but also what rate the company has locked in.
+Only a few UK companies, including RTZ and Courtaulds, describe their
+treasury activities, including interest-rate and currency exposure
+management policies, in any detail.
+Among companies themselves, there has been a renewed focus on cash
+management. 'If you can manage Dollars 10m of liquidity better, that is
+fundamental to the business,' points out one treasury adviser. The stronger
+emphasis on performance management, as well as tough times at many
+companies, has focused attention on an area that was often ignored in the
+1980s.
+But the emphasis on internal controls remains strong. The Allied-Lyons loss
+was incurred by the writing of currency options, creating huge positions
+which were concealed from senior management.
+In the wake of that loss, the ACT issued a set of guidelines urging tighter
+internal controls, regular audits and full disclosure of risk management
+strategies.
+However, companies have continued to report losses stemming from treasury
+operations. Most have been on a much smaller scale, though a few have been
+substantial.
+Most recently, Showa Shell Sekiyu, the Royal Dutch/Shell group's Japanese
+affiliate, revealed in February that traders in its treasury department had
+run up some Dollars 1bn in unrealised foreign exchange losses.
+A Dollars 6.44bn forward exposure to the dollar at the end of last year was
+incurred in secret by a group in Showa Shell's treasury, which had
+erroneously believed the US currency would rise against the yen. Announcing
+its first-half results in August, Showa Shell described progress in
+unravelling the exposure as encouraging, but said there was a 'longish
+tunnel' of two to three years before it would emerge from the episode.
+This latest loss points to a particular area of danger for large
+multi-national companies, which lies in the difficulty in keeping tabs on
+all areas of business. Most large multi-national companies now have
+centralised dealing operations, rather than treasury functions attached to
+each offshoot.
+'Generally, there has been quite a big improvement in the amount of
+attention that top management has given to internal control,' said Mr Ross,
+who is also chairman-elect of ACT. 'But for many groups that is primarily
+exercised in head office. Quite often, problems arise in some far-flung
+branch or associated company.'
+For companies concerned about the efficacy of their internal controls, there
+are a number of important checks to be implemented, such as making sure that
+the company's board agrees with policy, that there is complete segregation
+of duties between dealing, confirmation settlement and reporting functions,
+and that all transactions are marked to market value. These procedures
+should also, of course, apply to financial institutions.
+For example, Sumitomo Finance International incurred a Dollars 2-3m loss on
+its interest-rate options book last autumn, after a desk manager had
+concealed his real trading position from senior management.
+The manager of the interest-rate options desk had to record the value of his
+positions in management reports submitted to his chief executive, but he
+gave falsely inflated values in order to hide his true position. He then
+persuaded an employee with another firm, which he knew was used by
+Sumitomo's accounts department to check those valuations, to quote inflated
+prices that corresponded with those in his own internal management reports.
+'In my experience, there are a lot of banks where a trader, believed to be
+of exceptional quality, reports direct to the top,' said Mr Ross, who
+advises banks and securities firms in this area. 'It's easy to develop a
+culture which allows the trading-room to develop without controls.'
+Since the Allied-Lyons losses were reported, there has also been a general
+move to upgrade computer systems, as technology has advanced and costs have
+fallen. Sophisticated systems are particularly important in certain areas of
+risk containment; for example, in marking to market. 'But the key features
+of internal controls are not systems issues,' Mr Ross said.
+While a collusive fraud may still be hard to detect, controls involving a
+range of different functions in the trading, settlement and reporting
+process at least reduce the opportunities for positions to be hidden.
+'You can't stop somebody doing an unauthorised trade,' admits Mr Ross. 'But
+you can make sure it can be closed out the following day.'
+While there is still a strong emphasis on keeping controls in place in the
+treasury department, the emphasis on managing financial risk is also
+spreading away from the treasury function, according to some management
+consultants.
+Consultants at Coopers & Lybrand point out that many of the notorious losses
+at companies in recent years stem from inadequate management of financial
+risks in other areas of the business - production quality failure in the
+case of Perrier, marketing failure in the case of Hoover, for example.
+What these losses have in common, according to Coopers, is that, like
+Allied-Lyons' Dollars 150m hit, they were not expected by top management and
+they could have been avoided by proper financial risk management.
+'Financial risk is being redefined,' says Mr Howard Lovell, a partner of
+C&L. 'Should companies have a risk management function, over and above the
+Treasury department?' For example, a finance director could be given the
+task of managing the risks facing the company in a broader context.
+For all the importance of interest-rate management, interest-rate risk is
+relatively small, compared with other risks to the company which could wipe
+them out, he argues, adding that some companies have already taken this
+point on board.
+Mr Lovell takes his argument a step further. 'Is treasury going to be called
+treasury in five years time? Or will it be called risk management?'
+
+The Financial Times
+
+
+London Page 35
+
+931102
+

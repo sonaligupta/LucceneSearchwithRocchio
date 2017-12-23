@@ -1,0 +1,153 @@
+FT941-3333
+
+FT  16 MAR 94 / Survey of Information and Communications Technology (2): A
+whirlwind of innovation - Business assumptions will be repeatedly challenged
+in the next few years as technological advances sweep the world of
+communications. Multimedia, mobile computing and groupware are among the hot
+topics, as Alan Cane explains here
+
+
+   By ALAN CANE
+
+
+The key technologies emerging as the catalyst of the next wave of business
+and social change have computing power and communications in common.
+Multimedia, mobile computing and groupware are the most promising business
+opportunities over the next three years. According to a group of computer
+companies canvassed last month by Input, a US-based marketing consultancy,
+client-server computing, networking in its various forms and document image
+processing were all seen as providing continuing business, but there was
+less enthusiasm for last year's fashionable topics including artificial
+intelligence and graphic information systems.
+The computer company's choices are supported by a diversity of evidence.
+Deals like Viacom's Dollars 10bn acquisition last month of Paramount
+Communications, the US information and entertainment group, exemplify the
+excitement multimedia is generating. In January 1993, 150 US newspapers
+published a total of 25 articles about multimedia; in December, the same
+newspapers published 425 pieces on the topic.
+The market for notebook and subnotebook (hand-held) computers is expected to
+grow at 20 per cent or more this year compared with only six per cent or so
+for the industry as a whole. Prices of subnotebooks seem set to follow their
+desktop equivalents downwards especially with the launch of the Compaq
+Contura Aero at under Pounds 1000 and the relaunch later this year of IBM's
+Thinkpad 500. There is continuing interest in personal digital assistants
+(PDAs) combining computing power with communications despite a muted market
+response to the launch of Apple's Newton PDA.
+The market for groupware - software designed to run on personal computer
+networks to support the co-ordination of office activities and exemplified
+by Lotus 'Notes' - looks likely to double in the US and Europe over the next
+five years. According to Ovum, a London-based information technology
+consultancy, the installed base of PC networks has now reached the critical
+mass necessary to provide the incentive for the adoption of groupware.
+Elimination of barriers
+What has changed over the past few months is the speed at which these
+esoteric technologies are becoming realities. Last month, for example, 400
+senior telecommunications executives from companies including AT&T, BT, MCI
+and Mercury, packed a seminar in the US to hear claims that business and
+society would be transformed by multimedia through the elimination of
+barriers of time, space and form.
+Opening the conference, Mr Rudy Puryear, managing partner, strategic change,
+at Andersen Consulting, warned that every business assumption would be
+repeatedly challenged in the next few years: 'The mean time between
+surprises is shortening,' he said.
+Most of the corporations present were already investigating the potential of
+multimedia; most had only developed a serious interest in the topic in the
+past year.
+To a large extent, their enthusiasm is being driven by commercial demands,
+rather than customer-need. Telecommunications companies like AT&T, MCI, BT
+and Mercury need to generate better margins from their networks by moving
+from 'pots' to 'pans' ('plain old telephone services' to 'pretty awesome new
+stuff'). Computer companies need to find new ways to encourage customers to
+buy more computer power as prices fall to commodity levels. Among those
+which have already declared an interest in multimedia are Apple Computer,
+Intel, Silicon Graphics and Microsoft as well as the games market leaders
+Sega and Nintendo.
+Mobile computers and groupware are firmly established in the market place.
+There are, however, question marks remaining over the potential of
+multimedia. It has not been helped by confusion over what the term implies.
+The essential definition is the transformation of information of all kinds -
+textual, graphical, still and moving video pictures - into computer language
+('bits') in which form it can be transmitted down a single communications
+channel - which could be a telephone line or a compact disk - to a modified
+television set or personal computer in the office or home.
+The service is interactive; customers can send back instructions and
+requests through the network. What is important is that different bits of
+information are co-mingled in the transmission stream; the system is
+responsible for sorting out which are text, which are video and so on.
+Dr Nicholas Negroponti, director of the Massachusetts Institute of
+Technology media laboratory, believes that the impact of multimedia on the
+business and social world is inevitable. He points to four trends:
+First, the 'disappearing desk top' as executives become peripatetic, using
+mobile computers on the move or while working from home.
+Second, continuing miniaturisation which will make complex and bulky
+technologies such as speech recognition for pcs simple and easily
+transported.
+Third, increased use of the so-called 'Negroponti switch' - the use of fibre
+to bring multimedia to the office and home leaving precious broadcast
+bandwidth for mobile telephony and computing.
+Fourth, the use of intelligent software 'agents' to roam through electronic
+libraries gathering information of interest to their owners.
+AT&T already has systems which make use of this advanced concept.
+Four elements are required for the profitable development of multimedia
+systems:
+Powerful computers are needed to store, process and keep track of the bits.
+High capacity telecommunications channels are needed to transmit them to
+office or home.
+There has to be a ready supply of information to feed the system.
+The customer must be willing to pay for the new services.
+All the technological elements for full scale multimedia are pretty well in
+place; the computer power, software and networks capable of transporting
+millions of bits a second at reasonable cost. Fibre optic technology is now
+staggeringly powerful, capable of carrying 150,000 times the volume of
+conventional telephone wires. Fibres can be spun from glass so pure that it
+is possible to see through a block 70 miles wide.
+Chip technology is making possible the computing power to sort through all
+those bits. Dr Wei Yen, a senior vice-president at Silicon Graphics, a US
+company which specialises in the manipulation of electronic images, said
+that the necessary computing power would be available through the
+development of microprocessor chips called 'media engines' with the power of
+a supercomputer but cost only Dollars 200 (Pounds 136). His media engine
+would be available next year.
+Given the ability to make one billion calculations a second, he said,
+presenting life-like images on the screen did not present technical
+difficulties - 'reality is all mathematics,' he smiled.
+The chips, which will process bits 64 at a time like a supercomputer, will
+be incorporated first in Nintendo's Reality Immersion Technology, claimed to
+allow players to step inside real-time, three dimensional worlds.
+Nintendo's involvement gives the clue to the principal remaining problem:
+the search for attractive and marketable services to feed the multimedia
+machine. Entertainment is an obvious option.
+New electronic services
+Time Warner Cable, the second largest cable operator in the US, intends to
+launch this autumn one of the largest tests yet of multimedia services. It
+will, in the first instance, allow customers to watch videos delivered via
+their telephone lines. The intention, however, is eventually to offer a
+'full service network.'
+About 4,000 homes around Orlando in Florida are being wired up for the
+trial, which could pave the way for a fuller range of electronic services,
+such as home banking and shopping.
+The Orlando trial uses a combination of fibre optics and coaxial cable for
+transmission; in the UK, BT intends to offer a video-on-demand service
+offering acceptable picture quality over ordinary telephone lines.
+The intention had been to open the service next month; Time Warner announced
+it would be delayed earlier this month to allow - 'additional refinements of
+the underlying system software and the set-top terminal.'
+Coupled with the collapse at about the same time of the proposed merger
+between Bell Atlantic and the cable operator Tele-Communications Inc.,
+observers were noting that the path to the establishment of successful
+multimedia systems will not be that easy.
+Many observers, indeed, believe that multimedia will initially be driven by
+business applications. An option is telecommuting. France Telecom is
+experimenting with a range of technologies including electronic mail and
+groupware which could be combined so employees can work from home or
+electronic telecommuting centres.
+The multimedia race: pages 3 and 4.
+Developments and applications for virtual reality technology, page 17
+
+The Financial Times
+
+
+London Page II
+
+940316
+

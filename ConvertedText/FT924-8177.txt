@@ -1,0 +1,76 @@
+FT924-8177
+
+FT  12 NOV 92 / Technology: Moving pictures on the office PC
+
+
+   By LOUISE KEHOE
+
+
+Microsoft and Intel, the software and semiconductor champions of the
+personal computer industry, aim to bring moving pictures into the mainstream
+of personal computing with technology that enables most PCs to display video
+images.
+'Video for Windows', a Microsoft program launched this week, will allow any
+PC with a 386 or 486 microprocessor 'brain' running the popular Microsoft
+Windows operating system to display digitised video images along with text,
+graphics and still pictures. Apple Computer already offers such 'multimedia'
+capabilities on its Macintosh computers.
+Until now, however, putting moving images on the screen of an IBM-compatible
+PC has been expensive and complicated, requiring add-on circuit boards and
+specialised software that have severely limited its use.
+'For years, the necessary ingredients for digital video computing have been
+coming together like elements in a chemical reaction,' says Andrew Grove,
+Intel president and chief executive. 'Now we have added technology to ignite
+a reaction that will turn a standard PC into a digital video computer. The
+best news about it is that it's available to anyone who already owns a 386-
+or 486-based PC.'
+Intel's 'Indeo' video compression technology, which is incorporated in Video
+for Windows, squeezes the huge amount of data required to record or display
+a video sequence down to a manageable size, allowing users to integrate
+video information in existing applications such as wordprocessors or
+electronic mail.
+Thanks also to Intel technology, Video for Windows will automatically adjust
+the size and quality of video images according to the power of the PC it is
+running on.
+A standard 386 PC, for example, will provide a small image one-tenth the
+size of the PC screen, at a slightly jerky 15 frames per second, whereas a
+486 PC can display a quarter screen-sized image at 24 frames per second.
+With the addition of a video enhancement circuit board, either machine will
+provide full-screen, full-motion video images. 'Multimedia technology will
+become important across a wide range of PC applications,' predicts Bill
+Gates, Microsoft chairman and chief executive.
+Business applications of digital video might include the enhancement of a
+sales presentations or training materials with video clips; incorporating
+video in electronic messages or using the PC as a display for desktop video
+conferencing.
+A sales report, for example, might have built-in video product
+demonstrations or a training manual could incorporate 'how to' video
+sequences. The boss might want to emphasise the importance of his message by
+delivering it in a digitised video, while product development groups may
+need to share pictures of the latest updates of their design work to
+colleagues at a distant manufacturing site.
+The portions of Video for Windows that enable PC users to 'play' video clips
+will be free to current Windows users. The complete program, which includes
+functions needed to create digital video, will sell in the US for Dollars
+199.
+Although the new Microsoft program provides video display capabilities on
+most PCs, it is expected to whet the appetites of many PC users for add-on
+products that improve PC video performance.
+These may include video processing circuit boards and audio enhancement
+devices, as well as memory upgrades and high capacity compact disk
+read-only-memory (CD-Rom) data storage devices.
+Eventually, multimedia display capabilities are expected to create increased
+consumer interest in PCs by spawning new entertainment and educational
+applications.
+For these first-time PC purchasers, video display capabilities may provide
+the first meaningful demonstration of the value of increased processing
+power, tempting some to buy higher-performance PCs rather than the cheapest
+models.
+
+The Financial Times
+
+
+London Page 18
+
+921112
+

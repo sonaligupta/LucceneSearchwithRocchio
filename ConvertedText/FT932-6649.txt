@@ -1,0 +1,100 @@
+FT932-6649
+
+FT  27 MAY 93 / AT&T challenges Europe and steals a march on BT: Worldsource
+launch targets multinationals' needs
+
+
+   By ANDREW ADONIS and MARTIN DICKSON
+
+
+THE RACE is on to become 'global outsourcer' for the telecommunications
+needs of the world's multinationals, write Andrew Adonis and Martin Dickson.
+American Telephone & Telegraph's launch this week of 'Worldsource', a set of
+customised international business telecoms services, marks a determined bid
+for this pitch by the largest US carrier. British Telecom, the privatised UK
+operator, has similar ambitions, and as liberalisation forces the other
+large European telecoms carriers to look outwards, they too could enter the
+field.
+The goal is simple: to become the 'one-stop shop' for the 2,500-odd large
+companies with globally dispersed operations - managing and integrating
+their international networks, offering them the latest in data and voice
+facilities, and providing a single point of contact however dispersed the
+company's outlets.
+Worldsource aims to do virtually that by creating a web of partnerships with
+other operators. This week it announced a link-up with Kokusai Denshin Denwa
+of Japan and Singapore Telecom, and indicated that Unitel of Canada, Telstra
+of Australia and Korea Telecom intend to join soon. It plans to take
+Worldsource into Europe next year.
+With analysts predicting that turnover in international telecoms traffic
+will more than double by the year 2000, the financial stakes are immense. It
+is significant that AT&T launched Worldsource in the Asia-Pacific: the
+region has the world's fastest growing telecoms sector.
+Essentially, Worldsource enhances the existing Global Software Defined
+Network service, by adding features like single billing, full integration of
+international data and voice networks, and improved dialling, circuit
+availability and network management standards. Says one City telecoms
+analyst: 'It's innovative - but international telecoms is increasingly a
+commodity business based on price, and of itself Worldsource does little to
+make it cheaper.'
+Extending the service to Europe is critical to Worldsource. AT&T is
+budgeting to spend Dollars 350m (Pounds 230m) over the next five years
+providing facilities and upgrading equipment in Europe. Mr John Foster,
+director of AT&T's communications services in Europe, said he was keen to
+talk to 'almost any' of Europe's telecoms operators about a link-up.
+Since Worldsource does not give AT&T exclusive rights over its partners,
+most of Europe's state telecoms operators appear to have little to lose from
+participation. Unless, that is, they want to be global outsourcers
+themselves, and are anxious to give no succour to AT&T.
+BT, however, has already signalled its determination to go-it-alone. Nearly
+two years ago BT launched its global outsourcing venture Syncordia, which
+now boasts nine customers and an annual revenue of about Dollars 200m
+(Pounds 130m). Furthermore BT and AT&T are currently locked in a battle with
+US and UK regulatory authorities over access to each other's public fixed
+network.
+So AT&T could have difficulties in the UK. But it is not restricted to BT:
+Mercury is a potential partner, while newly-licensed public telecom
+operators Ionica National Grid's Energis are building their own networks.
+As for BT, Worldsource could encourage the UK operator to link up with MCI.
+There have been rumours for months that this might happen, but the drawback
+from BT's point of view is that it would put itself squarely in AT&T's
+sights, since MCI is AT&T's most important rival in the US.
+AT&T, moreover, has shown itself ruthless in hitting back at global
+competition from MCI. MCI's only big alliance so far, announced last year,
+was with Stentor, a Canadian long-distance consortium, under which MCI
+technology is being used to create a fully integrated international network
+between Canada and the US. AT&T immediately retaliated by taking a minority
+stake in Unitel, Stentor's upstart Canadian rival, and sued MCI for patent
+infringement.
+Just how strong demand will be for Worldsource is not clear. At the launch,
+AT&T put together an impressive group of companies who said they needed the
+service. If the likes of Unisys, Honeywell, Motorola and United Parcel
+Service meant it, the world could truly be AT&T's oyster.
+ ---------------------------------------------------------------------
+         TRAFFIC BASE OF TOP 10 INTERNATIONAL CARRIERS, 1991
+ ---------------------------------------------------------------------
+                         Outgoing     Per cent 1991
+Carrier                  MITT* (m)       growth             Country
+ ---------------------------------------------------------------------
+AT&T                      6,557           7.8                    US
+Deutsche Telecom          3,557          13.1               Germany
+France Telecom            2,295           7.9                France
+BT                        2,213           1.9                    UK
+Cable and Wireless        1,660          28.6                    UK
+ ---------------------------------------------------------------------
+MCI                       1,600          35.1                    US
+Swiss PTT                 1,429           5.4           Switzerland
+Stentor                   1,425           6.0                Canada
+PTT Netherlands           1,018          12.5           Netherlands
+ASST                        980          17.1                 Italy
+ ---------------------------------------------------------------------
+*MITT: minute of international telecommunications traffic
+Source: Lehman Brothers
+ ---------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page 25
+
+930527
+

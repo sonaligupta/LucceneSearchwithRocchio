@@ -1,0 +1,115 @@
+FT943-948
+
+FT  27 SEP 94 / Business and the Law: Liable to exposure - Closer legal
+scrutiny of derivatives losses
+
+
+   By DIANA BENTLEY
+
+
+Recent disclosures by several US public companies that they have suffered
+substantial losses through trading in derivatives has resulted in the
+announcement of tighter controls by US regulators. It has also led to the
+realisation that many of the legal issues which arise from the use of, or
+failure to use, derivatives have yet to be tested in the courts.
+Why do public companies use derivatives - financial instruments, such as
+futures and options? The answer is to manage financial risks associated with
+their business. A company can reduce the risk of a rise in the future cost
+of borrowing by fixing its borrowing costs by the use of interest futures,
+options or swaps. Equally, multinational companies can hedge against foreign
+exchange exposure through foreign currency futures and options.
+But derivatives are not without their risks, as recent large trading losses
+in derivatives in the US illustrate. In May, Air Products and Chemicals, the
+US industrial gases group, was the fourth listed US company to take a charge
+against its earnings this year as a result of losses on derivatives
+contracts bought from Bankers Trust, the New York bank.
+The losses suffered by Air Products and the other three companies - Proctor
+& Gamble, Mead Corporation, the US paper group, and Gibson Greetings, a
+greetings card manufacturer - have raised questions of liability.
+On September 13, Gibson Greetings filed suit in the Ohio Federal District
+Court seeking damages of Dollars 23m, the amount owing on the derivatives
+transactions, and punitive damages of Dollars 50m in respect of transactions
+with Bankers Trust.
+The action, alleging fraud and deceit, claims the bank 'made false
+representations and failed to disclose to Gibson the risk of the extremely
+complicated derivative products' sold to Gibson. Bankers Trust denies the
+claim.
+Depending on the success of the Gibson action, Proctor & Gamble has said it
+may follow with an action over its loss this April of Dollars 157m on two
+highly leveraged interest rate swaps.
+Although the company has not yet started legal proceedings it attributes the
+loss to Bankers Trust, arguing that the transactions, based on complex
+formulae which multiplied the effect of interest rate increases, were not
+usual for the company and were inconsistent with its policies.
+The bank denies liability for these losses, saying the transactions were
+entered into after much discussion, that it formally recommended to Proctor
+& Gamble that the company limit its risk by unwinding all or part of the
+transactions when changes in market rates began to affect its position
+adversely - advice Proctor & Gamble rejected.
+The Bankers Trust action highlights the question of the liability of banks
+in providing derivatives services and the level of advice given.
+Losses arising from derivatives dealing are an emotive issue, according to
+Mr Tim Plews, of City solicitors Clifford Chance. 'Derivatives are somewhat
+intangible and large sums can be lost or gained overnight, making losses
+particularly unpalatable,' he says
+Mr Jonathan Melrose a partner of City lawyers Simmons & Simmons says the
+basic premise of UK derivatives regulation is full and frank disclosure,
+though financial institutions dealing with professional clients are
+permitted to place greater reliance on the client's own judgment.
+But lawyers accept that even compliance with standard disclosure
+requirements to professional clients may not avoid claims.
+Given its sophistication, Proctor & Gamble's assertion that it was relying
+on Bankers Trust's advice has been greeted with derision in the US markets.
+But the company has not ruled out litigation.
+Gibson Greetings alleges it was positively misled. That shows a financial
+institution is never out of the firing line, Mr Melrose says. 'Large losses
+can concentrate the mind on what action may be available. Clients may try to
+argue that they are owed a duty of care or, as with Gibson, allege they were
+actively misled,' he adds.
+With exotic derivatives questions of liability are more complex, Mr Plews
+says. 'There can be a fine line between what it takes to market a product,
+especially a new one, which has to be demystified for a customer, and the
+giving of advice. To what extent is a bank encouraging reliance on its
+explanation before a customer commits to the contract?'
+The possibility of shareholder action against companies using derivatives
+adds another dimension to the problem. Shareholders may be philosophical
+about trading losses in traditional areas of business, says Mr Plews, but
+less forgiving about derivative losses. There is certainly more pressure now
+on directors to ensure they understand the products the company is dealing
+in, says Mr Melrose.
+The point is illustrated by a recent Australian decision in which the chief
+executive and chairman of AWA Ltd, a public company, was found to have been
+negligent in foreign exchange transaction losses because he failed to
+establish adequate internal control systems in the foreign exchange
+department and properly control the activities of the department head.
+The decision by the Commercial Division of the New South Wales Supreme Court
+is under appeal, but Mr David Williamson, London partner of Australian law
+firm Blake Dawson Waldron says: 'The Australian decision should focus the
+minds of directors and professional advisers, such as auditors, on their
+potential exposure in this area.'
+Directors may find themselves in a quandary over derivatives, according to
+Mr Melrose. 'In any company where there is a sophisticated treasury
+operation inadequate use of derivatives to hedge may also be open to
+question.'
+He points to a US case where directors of the LaFontaine Grain Co-operative
+were found by the Indiana Court of Appeals to be negligent for not
+adequately using derivatives to minimise financial risk.
+Directors may in some circumstances be covered by Dirtectors & Officers
+Liability insurance, now common in the US and becoming so in the UK. Trading
+losses from failure of management may be covered by such insurance, but some
+policies exclude failure of investments, in which case losses incurred
+through derivatives may not be insured.
+UK and US lawyers will watch the US litigation with interest. Apart from the
+Hammersmith and Fulham litigation, where the House of Lords ruled local
+authorities did not have the powers to enter into swaps contracts, little
+legal action has been taken on derivatives in the UK.
+Yet, as the recent US action confirms, the use of derivatives is under
+increasing legal scrutiny.
+
+The Financial Times
+
+
+London Page 15
+
+940927
+

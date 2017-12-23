@@ -1,0 +1,41 @@
+FT921-14381
+
+FT  16 JAN 92 / Technology: Mobile information transmission
+
+
+When London & Edinburgh Insurance's engineers visit garages to assess crash
+damage, they send the information back to the computer centre so the repair
+costs can be calculated. At the moment they use either a phone line, with a
+modem, or the Cellnet cellular radio network.
+Soon they could have several other options.
+Audatex, the vehicle damage assessment company, is already talking to
+Huchison Mobile Data, of Hertford, about using its data network for
+transmitting the information. Huchison, which is planning to offer
+commercial services to urban areas and motorways before the middle of the
+year, is one of several companies to have developed such services.
+Others include Cognito, which has developed a two-way paging service, and
+Ram Mobile Data, Paknet, owned by the Vodafone Group and Cable & Wireless,
+is also planning to enter the market - it already has a service for sending
+radio data from fixed terminals, such as credit card verification units.
+Such services will prove less expensive than the cellular radio networks
+because they are designed specifically for data traffic which take up less
+radio spectrum than voice calls.
+Data companies envisage the service engineer as a prime target for their
+services. Other forms include sales and distribution, as well as financial
+services for sending information on share price movements.
+To use the network a separate moden can be attached to the laptop, pen
+computer or electronic diary, although eventually the modems will be built
+into the machines. For Paknet, which launched its service in 1990, products
+with built-in modems are available.
+The biggest customers have proven to be burglar alarm manufacturers. 'When
+burglars come they cut the phone wires,' points out John Smith, Paknet's
+commercial director. 'We've had quite a few cases where the burglars cut the
+wires and the police have come along and caught them.'
+
+The Financial Times
+
+
+London Page 13 Illustration (Omitted).
+
+920116
+

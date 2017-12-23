@@ -1,0 +1,75 @@
+FT943-930
+
+FT  27 SEP 94 / Technology: Ship-shape for the high seas - Robert Corzine
+explains why floating oil production systems may prove increasingly popular
+
+
+   By ROBERT CORZINE
+
+
+Like its mythological namesake, the Gryphon, a tanker-like vessel anchored
+in the North Sea 200 miles northeast of Aberdeen in Scotland, is an unlikely
+combination.
+From a distance it looks like any other large oil tanker. But whereas most
+such vessels measure their lives in millions of miles travelled, over the
+next 15 years or so the Gryphon is unlikely to move more than a few metres
+from its present position.
+Part ship, part crude oil and natural gas processing and storage plant, the
+Gryphon represents the latest thinking on how to exploit remote offshore
+petroleum deposits too small to justify building a large and expensive
+conventional platform fixed to the sea bed.
+Roy Phillips, an executive with Kerr-McGee, the US company that operates the
+Gryphon, says the decision to use a floating production, storage and
+offloading system (FPSO) saved 40 per cent over the cost of a conventional
+platform.
+In addition, the early availability of the ship, which had been built as a
+floating oil storage vessel on a speculative basis in Spain, meant the
+company was able to produce the first oil from the field in October last
+year, about a year after the go-ahead was given. First oil production from a
+conventional platform would not have been possible until early 1996, he
+says.
+Although the Gryphon is the only FPSO operating in the UK sector of the
+North Sea and one of only a dozen or so in the world, industry observers
+expect them to become an increasingly common sight in coming years. Wood
+MacKenzie, the Edinburgh-based oil consultants, earlier this year estimated
+that nine UK North Sea fields being considered for development will use some
+form of floating production system, with two-thirds expected to adopt a
+ship-shape solution similar to the Gryphon.
+The effectiveness of FPSOs have been enhanced by progress in a number of
+technical areas. The method used to keep the Gryphon on station is
+straightforward: a turret at the centre of the vessel is secured to the
+seabed by 10 anchors, each weighing 35 tonnes. The vessel, which has five
+thrusters mounted along its hull, is able to rotate around the turret so
+that it is always lying head to the wind.
+The 'smart' part of the system lies within a sophisticated computer software
+system. It receives precise navigational data from automatic electronic
+identification systems, or 'transponders', on the seabed and satellite
+transmissions. It also receives constant weather data and updates on the
+stresses on each anchor chain, before recommending to the crew that they
+activate one or more of the thrusters.
+The system can also 'learn the weather and react to it', according to the
+Gryphon's crew. Its effectiveness is such that the maximum lateral motion
+experienced by the ship in last winter's Force 10 gales, with winds gusting
+to 120 miles an hour, was 30 feet, although it can move more than three
+times that.
+Other technical advances have also made FPSOs more cost-effective. New metal
+alloys, for example, have helped to reduce the cost of the flexible pipes
+which lead from the wells, located on the sea bed 1,500 metres from the
+ship.
+Kerr-McGee executives expect the operating costs of the Gryphon to be
+relatively low. The vessel is not due to return to port during its planned
+15-year stay in the North Sea. The double-skinned hull allows inspections to
+be made on site, says Roy Phillips, while the hull is protected from
+corrosion by an electrical system, or anode array.
+But the big cost advantage of FPSOs over their fixed counterparts will come
+when the field is depleted. For the Gryphon, with a life expectancy of 40
+years, will be able simply to weigh anchor and steam to a new site anywhere
+in the world.
+
+The Financial Times
+
+
+London Page 16
+
+940927
+

@@ -1,0 +1,284 @@
+FT923-11059
+
+FT  27 JUL 92 / Working women and the rise of the house-husband
+
+
+   By EDWARD BALLS
+
+
+ECONOMISTS tend both to be men and to study the economic activity of men.
+The employment behaviour of women has been highly unstable both over time
+and across countries, so male unemployment rates are more reliable for
+tracking changes in the economy at large. Yet this practice, however
+justified, may be obscuring the sexual revolution that has occurred across
+the developed world over the past decade.
+Changes in male unemployment rates do provide a better guide to the degree
+of tightness or slack in the economy at large. Female unemployment rates,
+compiled by governments, usually contain little information because many
+job-hunting women are not eligible for unemployment benefits and are
+therefore not counted as unemployed. In Britain, the headline female
+unemployment published monthly by the government tends to be three or more
+percentage points lower than that compiled by the OECD from survey evidence.
+Even the survey-based female unemployment rates are misleading. When
+vacancies are low, women without jobs tend to work in the home rather than
+spend time searching for employment. Rather than be counted as unemployed,
+women are more likely to be classified as 'economically inactive',
+especially in recessions.
+Yet these observations merely highlight the deficiencies of unemployment
+rates as measures of joblessness in developed economies. The OECD, in its
+lastest Employment Outlook, has investigated the pattern of non-employment
+rates - the percentage of the population without jobs - in developed
+countries. It confirms that male non-employment rates have grown faster than
+unemployment rates everywhere, especially among 55-64 year olds. Yet this
+rising trend of male inactivity has been more than matched by increased
+employment of women. The left-hand charts compares the percentage of men and
+women that had jobs on average across the 1980s. It covers the 25-54 age
+group only to avoid complications caused by education or early retirement.
+Male employment rates are universally higher than female employment rates.
+But, roughly speaking, those countries with lower male employment rates have
+higher female employment rates. The US, for example, has a male
+non-employment problem at least as serious as in the main European
+countries. But the US also has the highest rate of female employment,
+followed closely by the UK and Canada.
+Women are catching up fast. Female employment rates rose in every country
+between the beginning and the end of the decade, while the male employment
+rate fell everywhere except in the US and Japan. Again, the rise in female
+employment was relatively rapid in those countries where the male employment
+rate was lower: the US, UK and Canada. Female employment also rose rapidly
+in Australia.
+Why, when the fall in male employment has been universal, has the rise in
+female employment occurred more rapidly outside continental Europe? One
+reason is that Anglo-Saxon deregulated labour markets have done better at
+job creation. In these countries, demise of heavy industrial, highly paid,
+'good jobs' has been more than offset by the growth of less well paid, often
+part-time, employment in the service sector. The share of part-time
+employment in total UK employment was 21.8 per cent in 1990, up from 16.4
+per cent in 1979. The US part-time share was 16.9 per cent in 1990, compared
+to 12 per cent in France and 5.7 per cent in Italy.
+Women have proved to be both cheap and flexible relative to men. They take
+the bulk of these part-time jobs - 87 per cent in Britain, 78 per cent in
+Australia, 68 per cent in the US - and often at lower wages than men would
+command. Part-time female workers are more likely to have children; and
+while single women tend to earn at least 90 per cent of the hourly wage paid
+to single men, married women earn much less: 69 per cent in Australia and 59
+per cent in the US and UK. Wage equality between men and women remains a
+distant goal; but an equal sharing of paid and household work is not so far
+away.
+ ----------------------------------------------------------------------
+    INTERNATIONAL ECONOMIC INDICATORS: PRODUCTION AND EMPLOYMENT
+ ----------------------------------------------------------------------
+Yearly data for retail sales volume and industrial production plus all
+data for the vacancy rate indicator are in index form with 1985=100.
+Quarterly and monthly data for retail sales and industrial production
+show the percentage change over the corresponding period in the previous
+year, and are positive unless otherwise stated. The unemployment rate is
+shown as a percentage of the total labour force.  Figures for the
+composite leading indicator are end-period values.
+ ----------------------------------------------------------------------
+                           UNITED STATES
+ ----------------------------------------------------------------------
+                   Retail                Unemp-   Vacancy  Composite
+                   sales    Industrial  loyment     rate    leading
+                   volume   production    rate   indicator indicator
+ ----------------------------------------------------------------------
+1985               100.0      100.0       7.1      100.0     102.9
+1986               105.7      101.0       6.9       98.0     108.1
+1987               108.3      105.9       6.1      105.5     109.9
+1988               112.2      111.6       5.4      106.1     114.2
+1989               114.7      114.5       5.2       99.3     113.2
+1990               114.2      115.7       5.4       84.5     109.1
+1991               112.0      113.5       6.6       61.9     114.4
+3rd qtr. 1991        -1.4       -2.1       6.7       60.9     112.5
+4th qtr. 1991        -0.5       -0.5       6.9       59.1     114.4
+1st qtr. 1992         3.5        1.3       7.1       58.9     116.7
+2nd qtr. 1992                    1.8
+July 1991           -1.2       -2.1       6.7       61.1     112.0
+August              -1.8       -2.3       6.7       60.6     112.1
+September           -1.2       -2.0       6.7       60.9     112.5
+October             -0.8       -1.4       6.8       58.4     112.9
+November            -1.3       -0.2       6.8       59.1     113.6
+December             0.5        0.2       7.0       59.8     114.4
+January 1992         4.9        0.0       7.0       56.3     115.7
+February             3.7        1.4       7.2       59.0     116.6
+March                2.0        2.5       7.2       61.4     116.7
+April                2.5        7.1                 59.3     117.2
+May                             2.1                 60.0     117.7
+June                            0.8
+ ----------------------------------------------------------------------
+                               JAPAN
+ ----------------------------------------------------------------------
+                   Retail                Unemp-   Vacancy  Composite
+                   sales    Industrial  loyment     rate    leading
+                   volume   production    rate   indicator indicator
+ ----------------------------------------------------------------------
+1985               100.0      100.0       2.6      100.0      96.6
+1986               106.5       99.7       2.8       94.3     105.4
+1987               113.8      103.1       2.9      108.3     115.4
+1988               122.8      112.9       2.5      135.9     122.8
+1989               132.8      119.9       2.2      147.0     126.4
+1990               142.0      125.3       2.1      149.7     124.4
+1991               145.0      128.1       2.1      144.1     123.4
+3rd qtr. 1991         1.0        1.2       2.1      141.6     124.5
+4th qtr. 1991         1.9       -1.6       2.1      140.3     123.4
+1st qtr. 1992                   -4.6       2.0      133.8     123.5
+2nd qtr. 1992
+July 1991           -0.3        2.1       2.2      149.8     124.1
+August               4.5        0.2       2.1      137.5     124.2
+September           -1.2        1.3       2.1      137.3     124.5
+October              1.6       -1.8       2.1      143.5     124.2
+November             4.1       -1.2       2.1      139.0     123.9
+December             0.0       -1.8       2.1      138.3     123.4
+January 1992         0.8       -3.6       2.1      136.9     123.2
+February             2.1       -4.6       2.0      133.1     123.1
+March                          -5.6       2.0      131.0     123.5
+April                          -6.0       2.0      130.6     124.1
+May                            -8.8
+June
+ ----------------------------------------------------------------------
+                              GERMANY
+ ----------------------------------------------------------------------
+                   Retail                Unemp-   Vacancy  Composite
+                   sales    Industrial  loyment     rate    leading
+                   volume   production    rate   indicator indicator
+ ----------------------------------------------------------------------
+1985               100.0      100.0       7.1      100.0     104.4
+1986               103.3      102.2       6.4      136.4     104.2
+1987               107.4      102.5       6.2      149.4     105.3
+1988               110.6      106.2       6.2      164.7     111.5
+1989               114.2      111.4       5.6      218.9     114.4
+1990               123.5      117.2       4.9      261.5     115.2
+1991               130.8      120.8       4.3      270.9     112.4
+3rd qtr. 1991         0.5        1.9       4.4      276.6     113.2
+4th qtr. 1991         1.2        0.1       4.3      265.0     112.4
+1st qtr. 1992        -2.9        1.3       4.3      280.6     112.5
+2nd qtr. 1992                                       275.7
+July 1991            3.5        3.6       4.4      278.2     113.3
+August              -1.9        1.3       4.4      279.1     113.5
+September            0.1        0.7       4.4      272.5     113.2
+October              3.3        0.6       4.3      264.8     112.8
+November            -0.2        1.7       4.3      262.4     112.4
+December             0.7       -2.1       4.3      266.5     112.4
+January 1992        -1.3        0.2       4.3      273.8     112.3
+February            -1.7        3.4       4.3      283.6     112.4
+March               -5.8        0.2       4.4      282.8     112.5
+April               -1.8       -0.2       4.5      280.4     112.0
+May                 -3.0        1.2                275.5     111.8
+June                                               271.4
+ ----------------------------------------------------------------------
+                             FRANCE
+ ----------------------------------------------------------------------
+                   Retail                Unemp-   Vacancy  Composite
+                   sales    Industrial  loyment     rate    leading
+                   volume   production    rate   indicator indicator
+ ----------------------------------------------------------------------
+1985               100.0      100.0       10.2      100.0    101.9
+1986               102.4      101.1       10.4      107.2    109.0
+1987               104.5      103.1       10.5      117.6    108.1
+1988               107.9      107.3       10.0      134.9    113.3
+1989               109.6      111.3        9.4      161.1    113.0
+1990               110.1      112.7        8.9      166.0    107.4
+1991               109.7      113.3        9.4      130.0    108.2
+3rd qtr. 1991         0.0       -0.5        9.5      132.1    108.8
+4th qtr. 1991         0.2        1.7        9.7      124.0    108.2
+1st qtr. 1992        -1.2        1.1        9.9      119.2    108.6
+2nd qtr. 1992
+July 1991            3.2       -0.5        9.5      134.6    108.7
+August              -0.8       -0.5        9.5      133.8    108.7
+September           -2.3       -0.4        9.6      127.8    108.8
+October              1.4        0.8        9.7      124.2    108.4
+November             0.7        1.6        9.7      125.5    108.4
+December            -1.5        2.7        9.8      122.6    108.2
+January 1992         0.2        0.4        9.8      121.7    108.5
+February             3.3        0.5        9.9      118.8    108.8
+March                6.9        2.5        9.9      117.2    108.6
+April                2.6        1.2       10.0      104.9    108.1
+May                            -0.4                 102.8    107.8
+June
+ ----------------------------------------------------------------------
+                                 ITALY
+ ----------------------------------------------------------------------
+                   Retail                Unemp-    Composite
+                   sales    Industrial  loyment     leading
+                   volume   production    rate     indicator
+ ----------------------------------------------------------------------
+1985               100.0      100.0       9.6       103.9
+1986               108.0      104.1      10.5       110.8
+1987               113.9      106.8      10.9       113.0
+1988               109.8      114.2      10.9       118.0
+1989               118.4      118.7      10.9       116.3
+1990               115.0      118.0      10.3       112.6
+1991               115.4                  9.8       114.9
+3rd qtr. 1991         0.9       -3.7       9.6       114.4
+4th qtr. 1991                   -0.7       9.9       114.9
+1st qtr. 1992                   -0.3       9.9       114.6
+2nd qtr. 1992         3.7       -2.3       na      114.1
+July 1991            1.6       -6.6       na      114.4
+August              -2.6       -2.2       na      114.4
+September                      -1.5       na      114.4
+October                         1.1       na      114.6
+November                       -1.7       na      114.9
+December                       -1.4       na      114.4
+January 1992                    0.3       na      114.1
+February                        0.3       na      114.6
+March                           0.4       na      114.8
+April                                     na
+May
+June
+ ----------------------------------------------------------------------
+                             UNITED KINGDOM
+ ----------------------------------------------------------------------
+                   Retail                Unemp-   Vacancy  Composite
+                   sales    Industrial  loyment     rate    leading
+                   volume   production    rate   indicator indicator
+ ----------------------------------------------------------------------
+1985               100.0      100.0       11.2     100.0     102.1
+1986               105.2      102.4       11.2     116.1     105.2
+1987               110.7      105.7       10.3     141.2     109.5
+1988               117.7      109.5        8.6     144.3     108.0
+1989               119.8      109.9        7.1     124.7     105.2
+1990               120.4      109.3        6.8      97.9     103.7
+1991               119.5      106.0        8.9      68.7     108.3
+3rd qtr. 1991        -0.5       -2.2        9.4      61.9     108.6
+4th qtr. 1991         0.4       -0.8        9.7      66.4     108.3
+1st qtr. 1992        -0.4       -1.2       10.2      73.6     109.3
+2nd qtr. 1992         1.3                            67.7
+July 1991           -0.6       -2.0        9.2      60.9     107.2
+August              -0.2       -2.6        9.4      62.4     107.9
+September           -0.7       -2.0        9.5      62.3     108.6
+October             -0.1       -1.7        9.6      61.1     108.9
+November             1.6       -0.6        9.7      64.8     108.6
+December            -0.4       -0.3        9.9      73.2     108.3
+January 1992         0.8       -1.0       10.1      72.1     108.1
+February             1.3       -1.0       10.2      73.4     108.8
+March               -3.2       -1.7       10.2      75.3     109.3
+April                1.3        1.2       10.4      70.6     110.3
+May                  2.2        0.5       67.7               111.3
+June                 0.4                  64.7
+ ----------------------------------------------------------------------
+All series seasonally adjusted. Statistics for Germany apply only to
+western Germany. Data supplied by Datastream and WEFA. Retail sales
+volume: data from national government sources except Japan and Italy
+(value series deflated by OECD using CPI). Refers to total retail sales
+except France and Italy (major outlets only) and Japan (department
+stores only). Industrial production: data from national government
+sources. Includes mining, manufacturing, gas, electricity and water
+supply industries except Japan (mining and manufacturing only) and UK
+(also includes construction industries). Unemployment rate: OECD
+standardised rate which adjusts as far as possible for the different
+definitions of unemployment used in official sources. Vacancy rate
+indicator: relevant vacancy measure divided by total civilian
+employment, expressed in index form. Derived from OECD series. US -
+help-wanted advertising, Japan - new vacancies, Germany and France - all
+jobs vacant, Italy - no data available, UK - unfilled vacancies.
+Composite leading indicator: OECD data. Each is a combination of series,
+cyclical fluctuations in which usually precede cyclical fluctuations in
+general economic activity.
+ ----------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page 4
+
+920727
+

@@ -1,0 +1,100 @@
+FT921-15452
+
+FT  10 JAN 92 / Personal View: More power needed in electricity competition
+
+
+   By DAVID NEWBERY
+
+
+The extensive restructuring of the English and Welsh electricity supply
+industry in March 1990 was meant to make the industry more competitive. With
+growing public antipathy to the replacing of public monopolies with private
+ones - as with BT and British Gas - the government was under pressure to
+design a more competitive industry.
+Now, against the wishes of the Central Electricity Generating Board, England
+and Wales have 12 private regional distribution companies, two private
+generating companies and the publicly owned Nuclear Electric. The
+distributors jointly own the National Grid Company (NGC), which in turn owns
+the transmission system and co-ordinates the generators. The regional
+distribution companies are closely regulated by the Office of Electricity
+Regulation, as they are natural monopolies, but the two private generators,
+National Power and PowerGen, are not regulated.
+Together with Nuclear Electric, they submit price bids one day ahead for
+each power station to the NGC controller. The controller computes the
+least-cost combination of stations to meet demand, informs the companies
+which plants to hold ready for despatch and then, on the day, despatches
+power to meet the varying demand. The 'pool' price for each half hour is
+then normally the price of the most expensive plant to be called on to meet
+demand in that period.
+This practice of generators bidding against each other was presumably the
+argument for not regulating them, as they would be induced to undercut one
+another. If they failed to compete aggressively, new suppliers might enter
+the market with combined cycle gas turbine plants. These are cheap, quick to
+build, and more efficient than existing coal and oil-fired generators.
+Upon privatisation, the generators were fitted with a set of contracts for
+the supply of coal to the generators, and for the sale of electricity to the
+distributors. While these contracts remain in force, they have a powerful
+effect on electricity prices; in the first few months of privatisation, pool
+prices were rather lower than expected. Recently, however, as some of these
+contracts have expired, prices have edged up by about 20 per cent since last
+year, although demand and fuel prices are both lower.
+What is likely to happen when the generators come to renew their contracts?
+What should we expect to happen to the price of electricity in 1993, when
+the present price caps are relaxed? Electricity consumers are unlikely to
+sign contracts at prices much above pool prices, and generators would be
+imprudent to sign contracts below the expected pool price, so future
+contract prices are likely to approximate the expected pool price.
+To predict the pool price without contracts, we have built a simple model*
+of the pool to see whether the generators are compelled to behave
+competitively, or whether they can exercise market power.
+At low levels of demand, both generators will bid close to fuel costs to
+ensure that their base-load plant is despatched, but at higher levels of
+demand it becomes profitable to bid a price that leaves a larger margin over
+fuel costs. In periods of very high demand, National Power, the largest
+generator, knows that the demand cannot be satisfied by the remaining
+suppliers, and so it has a monopoly in this residual market. If National
+Power bids in its more costly plant at a very high price, it may not be
+called until demand is high, but then it will be highly profitable.
+PowerGen, observing this, can afford to raise its bids. The pool will be in
+equilibrium if each generator has no wish to change its bids, given the
+schedule of bids of the other. In such an equilibrium, raising bids would
+mean lower supply and profits, while reducing bids would mean higher supply
+but lower prices and profit.
+What about the threat that such high prices would tempt new generators to
+enter? This does reduce the temptation for the generators to raise their
+prices. The best strategy for National Power and PowerGen results in an
+average pool price about 35 per cent above variable costs, but this is still
+sufficiently high to attract some 8GW of entry by 1994. At these prices,
+National Power and PowerGen together have an operating surplus more than
+twice as high as in their last year under public ownership.
+How might the privatisation have been better managed? If the fossil-fuelled
+stations had been divided into five equal-sized companies, each would have
+had a well-balanced set of power stations.
+The effect would have been dramatic. The incentive to raise prices would
+have been almost eliminated and, looking to 1994, competition between the
+five would have kept prices low enough for no extra entry to take place. The
+average price in 1994 would have been 10 per cent lower than with the
+duopoly, but the main saving would have been on the extra investment cost of
+unnecessary new capacity. The country as a whole would be Pounds 250m better
+off each year. The profits of the generators would be slightly lower (by
+about Pounds 100m), but the consumers benefit by Pounds 350m.
+Put starkly, there are two ways to increase competition. The best way would
+have been to create an initially competitive industry. Failing that, entry
+by new companies will achieve similar results, but at the cost of
+unnecessary spare capacity and higher prices. If our predictions are
+correct, consumers have further price rises to look forward to as contracts
+are renegotiated, all because of a failure to get the original structure
+correct.
+*Competition in the British Electricity Spot Market, by Richard Green and
+David Newbery, Centre for Economic Policy Research, 6 Duke of York Street,
+London SW1Y 6LA.
+The author is director of the Department of Applied Economics at Cambridge
+University.
+
+The Financial Times
+
+
+London Page 13 Illustration (Omitted).
+
+920110
+

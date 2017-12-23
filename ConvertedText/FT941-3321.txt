@@ -1,0 +1,136 @@
+FT941-3321
+
+FT  16 MAR 94 / Survey of Information and Communications Technology (11):
+Users pin hopes on ATM - Network capacity / Demand for space on computer
+networks keeps exceeding supply
+
+
+   By GEORGE BLACK
+
+
+The present structures of local area networks of personal computers,
+Ethernet and Token Ring, running at 10 megabits and 16 megabits per second
+respectively, will soon be unable to cope with the growing volume of
+traffic.
+As users compete for communications channels, the actual speed of delivery
+to each of them is often only a tenth of the network's theoretical capacity.
+When more users come on to the network, its performance degrades.
+Network managers have responded to the rising demand by exploiting existing
+systems more efficiently. This is one of the main reasons for the enormous
+growth in sales of devices such as intelligent hubs, bridges and routers in
+the past couple of years. They have helped a lot, but it will not be enough.
+Fibre Distributed Data Interface, running at 100MBps, has been regarded by
+many as the probable solution, but it has so far proved too expensive. FDDI
+and Fast Ethernet, also running at 100MBps, may be overtaken by ATM
+(Asynchronous Transfer Mode).
+Experts now agree that ATM is the only technology that can give the
+necessary transmission speed for communicating image, voice and data
+together in real time at an acceptable price. It can use existing wiring,
+which will help keep down the cost. It may therefore be what is needed to
+start the long- expected spread of multimedia applications.
+Ethernet and Token Ring have suffered from a lack of standards, which has
+meant a large amount of conversion of data from one format to another. The
+move to ATM, which is rapidly becoming standardised, may be equivalent to
+removing official frontier controls.
+Unlike its predecessors, ATM uses a technology known as cell relay, which
+takes advantage of the high speed transmission capacity of fibre optic
+cables. It handles data in fixed length cells rather than variable length
+packets, which is thought to be more efficient. This should push the speed
+of transmission up to a maximum of around 2.4 gigabits per second.
+For backbone systems in office and factory buildings, 155MBps is expected to
+be the usual speed; 45MBps may be typical for combined data, voice and
+video. ATM will not put upper or lower limits on the transmission speed but
+use that which is appropriate to the application.
+Other important advantages of ATM are that it is a much simpler system than
+the older ones and can be used for both local area and wide area networks,
+which should further reduce migration costs and ease the task of network
+management.
+ATM was invented to serve the needs of the public telephone companies, but
+was soon taken over by the pioneering computer companies of California's
+Silicon Valley.
+The ATM Forum, which was set up by the computer companies in 1991 and now
+has over 200 members, comes out with a new standard every couple of months
+and is rapidly completing the set which is needed.
+It is setting a pace which the telephone companies cannot match. Mr Tim
+Ward, strategic marketing director for Network Equipment Technologies (NET),
+a leading company in the forum, admits that there has been a lot of 'hype'
+for ATM but argues that it was necessary.
+'It has turned people's attention to ATM as a local area network
+technology,' he says.
+'ATM-ready' LAN products began to come on to the market in 1992. ATM on LANs
+is forecast to prove a more cost-effective solution than on WANs or on the
+public carriers' services. So it is likely to be adopted for LANs long
+before the telephone companies have worked out the details of their
+offerings.
+The largest corporations will probably be the first to take up the
+technology. Banks want it in their dealing rooms, where video and news
+agency reports may be joined on a single fibre optic feed.
+Users are only experimenting with it at the moment; live applications will
+follow in a year or two. Many of the telephone companies worldwide will
+introduce their first ATM services this year.
+According to Mr Sean Phelan, principal analyst for market research firm
+Yankee Group Europe, pricing presents them with a dilemma. 'If they price it
+too low they risk cannibalising their current revenues, but if they price it
+too high the uptake will be very small,' he says.
+'The arrival of ATM therefore represents a big opportunity for new entrants
+into the telecommunications business.' For most users the big question is
+when they should try to move to ATM.
+A report last year by the Ovum consultancy said that potential users of ATM,
+especially in Europe, were cynical about it, partly because current ATM
+products did not match their expectations. Ovum said that ATM provided far
+more than enough bandwidth but added that this did not translate into the
+functionality required.
+One of the authors of the report, Mr Iain Stevenson, says that their
+cynicism may be dispelled by a number of new products from hub and router
+vendors which will be delivered this year. He notes the telephone companies
+are worried that ATM may leave them 'holding the string' for users who have
+equipment on their premises which is intelligent enough for them to manage
+their own networks.
+'The telephone companies have to get closer to their customers to find out
+what services they really want,' he says.
+One of the technical concerns about ATM has been that receiving devices may
+not be able to cope with the throughput. Data cells could get lost in the
+pipeline and need to be re- sent.
+'With only a small disruption an encyclopedia could have gone by,' notes Mr
+Jim Boyle, vice-president of wide area networking for IBM. IBM has stated
+that ATM is one of its key technology strategies and it is investing heavily
+in research into network congestion. The design of ATM networks will be
+difficult, at least until flow control software matures.
+Users may therefore be wise to hire systems integrators to build these
+networks for them.
+ -----------------------------------------------------------------------
+EUROPEAN CONTRACTS FOR ASYNCHRONOUS TRANSFER MODE-BASED PUBLIC SWITCHES
+ -----------------------------------------------------------------------
+Country                Operator        Domestic      International
+ -----------------------------------------------------------------------
+Belgium                Belgacom         Alcatel            Alcatel
+Denmark            Tele Danmark         Alcatel            Siemens
+Finland         Telecom Finland              ++            Netcomm
+France           France Telecom         Alcatel            Alcatel
+Germany        Deutsche Telekom        Ericsson            Alcatel
+Ireland         Telecom Eireann              ++            Alcatel
+Italy                      Sip+         Alcatel,                 -
+                                       Ericsson
+                        Iritel*             -              Alcatel
+Netherlands         PTT Telecom            AT&T               AT&T
+                    Netherlands
+Norway        Norwegian Telecom              ++            Alcatel
+Portugal                   TPL+         Alcatel                  -
+Spain                Telefonica    AT&T Alcatel           Ericsson
+Sweden                    Telia   AT&T Ericsson               AT&T
+Switzerland   Swiss PTT Telecom         Siemens            Siemens
+UK                           BT            AT&T            Alcatel
+ -----------------------------------------------------------------------
+Footnote: + indicates purely domestic operator; *purely international
+operator; ++ contracts have yet to be awarded; listed international
+contracts all involve switches for the pan-European ATM trial; source:
+Financial Times Telecom Markets newsletter
+ -----------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page VI
+
+940316
+

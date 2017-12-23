@@ -1,0 +1,122 @@
+FT943-12838
+
+FT  22 JUL 94 / British & Commonwealth Collapse: The DTI Report - The
+pyramid structure that got out of control / Atlantic's rise
+
+
+   By SIMON DAVIES
+
+
+John Gunn built British & Commonwealth Holdings into a company worth Pounds
+2.5bn in a few furiously busy years in the 1980s. But his purchase of
+Atlantic Computers, a deeply flawed company, proved his undoing. B&C crashed
+in 1990 with Pounds 1bn in liabilities. Suits and counter-suits against
+advisers are seeking some Pounds 3.5bn in compensation
+The most extraordinary feature of the collapse of Atlantic Computers was
+that it did not happen earlier.
+Founded in 1975 by two computer industry colleagues, it grew into a Pounds
+500m business within 12 years, but the commercial core of the business was
+fundamentally rotten from the start.
+By the time British & Commonwealth bought into Atlantic for Pounds 408m in
+1988, Mr Vernon Davies had long lost interest in the business and the more
+aggressive Mr John Foulston had been killed in a motor racing crash.
+But the pyramid sale structure was out of control and could only be propped
+up by some highly questionable accounting policies, and an obsessive
+emphasis on increasing the level of sales, at any cost.
+One of the more disturbing details to emerge from yesterday's report is the
+extent to which profits were propped up by 'imprudent' accounting between
+1983 and 1988, the inspectors conclude.
+Atlantic reported pre-tax profits of Pounds 127.6m. If prudent policies had
+been followed, it would not have been able to report 'any significant
+profits during that period'.
+Atlantic was formed after Mr Foulston and Mr Davies spotted a niche in what
+was the boom sector of the latter half of the 1970s - computer leasing.
+The two men had worked together at Memorex UK for four years, and initially
+set up a consultancy and peripherals supplier, but then moved into leasing.
+At the time, lessors of substantial computing systems were faced with the
+choice of long-term leases, which provided cheap finance, but offered no
+ability to upgrade during a period of rapid technological change. The
+alternative was a far more expensive short-term lease.
+Atlantic devised the Flexlease. As the report states: 'the raison d'etre of
+Flexlease was the aversion of both lessors and lessees to the risks inherent
+in residual investments in computers, and the apparent success of Flexlease
+lay in the fact that Atlantic was prepared to assume those risks.'
+The flaw to this equation was that, whether or not it was actually aware of
+the level of its risks, it certainly never revealed them, and its
+liabilities snowballed.
+The man in control of the group was undoubtedly Mr Foulston. He was
+nominally in charge of the sales side of the business, but he increasingly
+dominated its entire strategy.
+Mr Len Jagger and Mr Ian Skipper, the businessmen who took a 60 per cent
+stake in Atlantic in June 1982, told the inspectors that their main
+consideration was 'the energy, ambition and determination' of Mr Foulston.
+Mr Davies handled company finances, despite having a sales rather than
+accounting background, but despite being in the shadow of his powerful
+partner, the report concludes that both men kept a tight control over the
+business.
+On the face of it, they were immensely successful. The company made profits
+of Pounds 1.2m, rising to more than Pounds 5m by 1983. The two men cashed in
+Pounds 2m from the share sale to Messrs Jagger and Skipper in 1982, and
+retained extremely valuable stakes in the company.
+In reality, however, the business was profitable only in so far as it
+reported its maximum potential profits without recognising any of its
+substantial liabilities.
+When Atlantic leased out a computer system, it booked a profit on the
+difference between the cost of the system and the sale price to the finance
+company that lent the money.
+There was no acknowledgement of the liabilities inherent in the Flexlease,
+which enabled lessors either to swap the leased computer system for another
+after three years (a flex), or to terminate the lease after five years (a
+walk), or both.
+The report estimates that the company's 'Walk' liabilities amounted to
+Pounds 160m by early 1989.
+The extent of its problems was not entirely hidden at the time. Competitors
+had pointed out the flaws, and a report by Price Waterhouse at the time of
+the 1982 buy-out by Mr Skipper and Mr Jagger raised numerous concerns over
+the nature of the leases.
+One year later, the company was launching a full London flotation valuing it
+at Pounds 55.2m. The offer was 1.9 times subscribed.
+The prospectus was extremely misleading. The inspectors claim that Mr Davies
+and Mr Foulston 'deliberately deceived' the financial advisers as to the
+prevalence of 'Walk' options.
+They claimed these covered about 5 per cent of Atlantic's leases, when the
+actual figure is estimated at between 60 and 90 per cent. The balance sheet
+contained no provisions for any of its break-options.
+In addition, Atlantic had introduced a critical, but highly questionable,
+accounting policy towards these leases.
+At the end of the lease period, Atlantic had an option to take the computer
+equipment for a nominal sum.
+It attached a net present value to that option, based on current estimates,
+and not only wrote that value into its balance sheet at the time the lease
+was signed, but recognised it as a profit.
+The unpredictability of computer resale values should not have surprised
+Atlantic, since it had taken a Pounds 966,000 provision against stock
+write-downs on obsolete IBM models - this was taken in its 1980 results, and
+helped emphasise a trend of rising profits.
+The recognising of the residual value on these leasing deals was of
+fundamental importance to Atlantic's balance sheet. It accounted for 60 per
+cent of 1981 profits and 74 per cent of those in 1982, building an earnings
+base on very uncertain foundations.
+The nature of Atlantic's potential liabilities, from the Flex and Walk
+elements of its leases, put immense pressure on Atlantic to increase sales,
+and encouraged by Mr Foulston, sales staff took increasing risks to secure a
+deal.
+Mr Davies had sold Pounds 3.9m of his shares in the flotation, and he
+eventually sold out of the business in May 1986 for a further Pounds 13m.
+Mr Foulston became increasingly dominant, but in a more competitive market,
+staff were offering deals that were described as suicidal in terms of their
+potential liabilities, but which propped up short-term earnings.
+However, by 1987, Mr Foulston's interest in motor racing was taking up more
+of his time - he owned 70 per cent of Brands Hatch Leisure, which operated
+the racing track.
+When he died in a motor racing accident in September that year, there was no
+management team in place that could replace him. It was only a matter of
+time before the inherent flaw in his Flexlease destroyed the company.
+
+The Financial Times
+
+
+London Page 18
+
+940722
+

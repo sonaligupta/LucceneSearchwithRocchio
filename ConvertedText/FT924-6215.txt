@@ -1,0 +1,153 @@
+FT924-6215
+
+FT  23 NOV 92 / Before making the world's longest commercial flight first
+fire frozen chickens at the aircraft: The Airbus A340 will take passengers
+further in one hop than ever before but what strains will that put on the
+aircraft and travellers?
+
+
+   By PAUL BETTS
+
+
+THE 'jet age' entered a new dimension on Saturday when an Airbus A340
+four-engine widebody airliner in Lufthansa colours flew 12,500 kms non-stop
+from Frankfurt to Honolulu. At 15 1/2 hours, it was the longest non-stop
+passenger flight ever undertaken under scheduled airline conditions from
+Europe and ushered in a new era of long-distance air travel.
+But the journey was only a small, if spectacular, part of one of the most
+exhaustive test programmes ever undertaken for a civil aircraft. And it
+comes in the wake of the long-running controversy that Airbus has faced
+after three A320 crashes, two in France and one in India.
+Against that background, the European aircraft consortium has spent about
+Dollars 1.5bn on testing the safety and performance of the A340. That is two
+fifths of the aircraft's total Dollars 3.5bn development cost, and it has
+taken the group two years to prepare its airliner, which claims the longest
+range of any aircraft in aviation history and will enter commercial service
+next January.
+So what testing efforts have been made by the group, which is still
+struggling to win broad public acceptance for the fly-by-wire system it
+introduced in its A320 narrowbody twin-engine aircraft and is adapting to
+the A340 and its shorter-range sister aircraft, the A330 twin?
+All new commercial aircraft undergo gruelling testing to meet increasingly
+tough airworthiness certification requirements. But Mr Bernard Ziegler, the
+head of Airbus engineering and a test pilot himself, says Airbus has had to
+undertake more extensive development testing than its US competitors, Boeing
+and McDonnell Douglas, not only because it is a relative newcomer to the
+airliner market but because its aircraft have introduced new - and at times
+highly controversial - technology to commercial aviation.
+Such is fly-by-wire, a system of flying an aircraft through computers, but
+which Mr Ziegler insists is a safer and more efficient way of controlling an
+aircraft. Boeing, he notes, is introducing such systems in its 777 widebody
+twin-engine airliner. 'The technology is not at stake and all three A320
+accidents were crew-related,' he says.
+He acknowledges, though, that with the A320 Airbus may not have sufficiently
+understood and addressed the task of training crews to fly using the new
+flight computer system. To test the safety of the fly-by-wire system on the
+A340, the aircraft - like the A320 - has undergone rigorous testing for
+electromagnetic interference. 'The problem is: what happens if an airliner
+flies by mistake over a secret military base equipped with special radars
+which could interfere with the electronics on board?' another Airbus
+executive explains.
+'To study electromagnetic interference to the extreme, we stuck an aircraft
+in a French naval base, where it was bombarded by radio and radar waves of
+various intensity.'
+Lightning strikes can also cause serious electromagnetic interference, so
+the A340 was flown into a storm to seek out lightning. After 17 strikes, all
+systems continued to operate normally. The A340 also flew over the North
+Pole to test its navigational equipment when everything suddenly points from
+north to south. It was the first flight by an Airbus aircraft over the pole.
+At the other end of the sophistication table comes the method used to test
+the A340's resistance to birdstrikes. Here a cannon was loaded with dozens
+of frozen chickens which were fired at the aircraft's windshield and engine
+fan blades.
+The runway at the French military base of Istres had to be lengthened by
+about 120 metres to test aborted take-offs and the aircraft's brakes. Mr
+Robert Alizard, Airbus public-affairs manager, says: 'We needed the
+additional runway length to give ourselves sufficient margin for these tests
+when brakes become red hot and tyres sometimes burst.'
+Structural and fatigue tests have taken place on the ground as well as
+flight tests using six aircraft costing Dollars 100m each. During this
+process, Airbus has made 1,200 modifications to the aircraft, many costing
+millions of dollars.
+In ground tests, the structure of one A340 was stressed to breaking point.
+The wings were bent by 240 hydraulic jacks four metres up before the first
+damage appeared. Another aircraft was used for fatigue tests, when
+vibration, landing impacts and pressure variations are simulated.
+'We test all our aircraft for fatigue up to three times its planned service
+life and for some components up to five times,' Mr Ziegler says.
+One difficulty the A340 ran into in testing was vibration on the wings. 'We
+had to make a slight modification in the wing profile in one local area but
+it still cost Dollars 40m,' Mr Ziegler says. Another snag arose when the
+aircraft's landing gear refused to lock properly.
+While static tests were performed, Airbus ran flight tests. Two prototype
+aircraft loaded with computers studied the behaviour of the airliner at all
+speeds and altitudes, including the worst-case scenario: finding out how the
+aircraft reacted when various systems failed.
+For the first time, Airbus conducted flight tests on the A340 in real time.
+The information from computers in the back of the aircraft monitoring all
+aspects of test flight was directly beamed down by satellite to the Airbus
+Toulouse test centre.
+The aircraft was thus constantly linked in real time to Toulouse, which
+could itself monitor the tests and instruct the pilots to conduct particular
+tests or repeat them immediately. In the past, the data from the test
+computers on board had to be deciphered after the aircraft had landed. That
+can take up to four days.
+Mr Ziegler says about two thirds of the test programme related to safety;
+the rest involved the performance of the aircraft in airline operation.
+'Today all the safety issues are resolved and closed; we are in the final
+route-proving programme to test the aircraft's operational reliability in
+commercial airline conditions,' he says.
+The two launch customers, Lufthansa and Air France, are taking part in the
+three-week route-proving tests involving long-distance and shorter-haul
+flights around the world using two aircraft: a longer-range A340-200 in
+Lufthansa colours and a shorter-range but higher-capacity A340-300 in Air
+France livery. The two aircraft are fitted out for commercial operations but
+also carry flight test instruments to measure not only aircraft performance
+but also cabin systems and passenger comfort.
+'Although less significant for the manufacturer, it is extremely important
+for the airlines to start up operations with as mature an aircraft as
+possible,' Mr Ziegler explains. 'This involves chasing all the snags and
+teething problems you get when you introduce a new airliner. We plan to
+avoid with the A340 about three quarters of the introduction problems we had
+with the A320.'
+The first delay suffered during the present route-proving exercise by the
+Lufthansa A340 was on a short hop between Frankfurt to Madrid. 'The coffee
+machine did not work,' Mr Ziegler said. 'My flight engineers couldn't care
+less - but the airline does . . . '
+ -----------------------------------------------------------------------
+AIRBUS A340 TEST PROGRAMME: THE LONG HAUL SAFETY
+ -----------------------------------------------------------------------
+November 21 flight
+ -----------------------------------------------------------------------
+FRANKFURT
+Local time: 11.40
+Airborne time: 15 hrs 21 min
+Local time: 16.35
+HONOLULU
+ -----------------------------------------------------------------------
+The key test flights
+ -----------------------------------------------------------------------
+  Completed:    Toulouse - Singapore - Mauritius - Toulouse
+  Completed:    Hot and high trials: Toulouse - Abha - Toulouse
+  Completed:    First flight over North Pole: Toulouse - North Pole -
+                Fairbanks - Toulouse
+  Completed:    Longest test flight to date, 16 hours 22 minutes (but
+                without full passenger weight): Toulouse - Perth
+21 November:    Frankfurt - Honolulu - Los Angeles - Atlanta -
+                New York - Frankfurt
+24 November:    Paris - Denver - Houston - Mexico City - Paris
+27 November:    Paris - Johannesburg - Paris
+28 November:    Frankfurt - Caracas - La Paz (altitude tests) -
+                Frankfurt
+29 November:    Paris - Beijing - Singapore - Paris
+ 2 December:    Frankfurt - Buenos Aires - Sao Paulo - Rio de Janeiro -
+                Frankfurt
+ -----------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page 6
+
+921123
+

@@ -1,0 +1,118 @@
+FT932-6852
+
+FT  26 MAY 93 / Survey of Computer Industry - Systems, Software & Services
+(9): The clones feel the heat - Personal computers
+
+
+   By PAUL TAYLOR
+
+
+THE Dollars 50bn-a-year world personal computer market is in ferment. Prices
+are falling again, new and more powerful microprocessors are arriving,
+distribution channels are changing and the long predicted wave of
+consolidation may have finally begun.
+PC prices have been dropping sharply in most markets for the past two years.
+Although the pace is likely to be slower this year, most analysts expect a
+further decline of 10 to 15 per cent in Europe in 1993.
+However, says Mr Chris Fell of Dataquest, 'The amount spent by customers is
+falling much less quickly because people are trading up.' This is because
+many customers are choosing higher specified machines - for example those
+with faster microprocessors, bigger hard disks, larger screens and
+accelerated graphics cards - rather than the budget entry level machines.
+In addition, though some price-sensitive customers will continue to buy from
+the 'ultra-clones' - small companies which build a PC from commodity-style
+components, mostly manufactured in the south-east Asia and sold off the
+pages of computer magazines - many business customers appear willing to pay
+a small premium for an established name - providing they feel they are
+getting value for money.
+Over the past year IBM, Compaq, ICL and Olivetti have hit back at the
+cut-price clone makers with low-price and highly competitive machines of
+their own. Most established PC manufacturers now have two or more distinct
+product lines aimed at different segments of the market.
+'Apple, IBM and Compaq all now have competitive products,' says Mr Fell, who
+believes many customers are now looking at other differences like bundled
+software and after-sales service. 'We are back on the price-performance
+curve,' he says.
+But tumbling prices, slim margins, shortening product cycles and the
+evaporation of customer loyalty are taking their toll, ensuring that only
+the most nimble survive. Each month a steady stream of small, and some
+not-so-small, clone manufacturers on both sides of the Atlantic fail or pull
+out of the PC market.
+Last year's price cuts left a number of clone markers including Everex,
+Tandon and Zeos in financial difficulties. Tiko in the UK went bust. Even
+some big manufacturers such as Olivetti in Europe admit they do not make
+money on their PC business.
+Mr Wyn Griffin, general manager for major accounts at Olivetti UK, says
+corporate buyers 'just buy for the occasion, there are no long-term
+contracts any more.' He adds that Olivetti, which also manufactures PCs for
+sale by Digital Equipment in Europe, makes its money in the UK from
+providing add-on services and applications to its customers.
+Olivetti's agreement with Digital, with the latter taking up to a 10 per
+cent equity stake in the Italian group, is one of a growing number of
+strategic alliances which have become a feature of the global PC industry
+and reinforce the view that the inevitable process of consolidation has
+begun.
+By the middle of the decade some in the industry like Mr Bruce Sinclair,
+vice-president of Northern Europe for Dell Computer, predict that the world
+PC market will be dominated by just a handful of players. Within five years
+nine out of every 10 PCs could be supplied by just three companies and the
+race to decide who will be the survivors has already begun.
+Despite the risks, no company wishing to remain in the forefront of the
+world computer industry can afford to ignore the PC sector. According to
+Dataquest, the information technology consultancy, the PC accounted for 44.5
+per cent of worldwide computer industry revenues last year - nearly as high
+a percentage as mainframe and mini-computers combined.
+IBM is still the world leader in terms of PC sales, with annual PC revenues
+of Dollars 7-10bn and a worldwide market share of about 12.4 per cent. It is
+followed by Apple (11.9 per cent), Compaq (6.6 per cent), NEC (5.1 per cent)
+and Dell (3.5 per cent), according to Dataquest.
+Overall, the PC market grew by a relatively modest 7.1 per cent in value
+terms to Dollars 46.5bn in 1992, says Dataquest, but PC shipments in Europe
+rose by 12 per cent to 9.4m units last year with much of this growth
+occurring in the fourth quarter.
+The falling price of basic PC hardware highlights the increasingly important
+role played in the industry by other companies including Intel, the US
+semiconductor manufacturer which makes the microprocessors used by most PCs
+and by the software companies such as Microsoft with its MS/DOS operating
+system, Windows 'environment' and wide range of business software packages,
+and Novell, which sells the most popular networking software.
+In the office, desktop PCs are increasingly linked by local area networks,
+providing a huge market for the operating system and business software
+companies.
+Outside the office, the advent of lightweight notebook computers has
+delivered fully functional computing power 'on the move'. About one in five
+PC sales today are portables, and the proportion is increasing.
+Portable computing has been made possible in part by advances in silicon
+integration which have also fuelled the steady move towards more powerful
+processors. Intel has cultivated this process as part of its marketing
+strategy, developing a range of upgradeable 'clock-doubled' processors built
+around its top-of-the-line 80486 microprocessor - soon to be displaced by
+the new Pentium processor.
+However, Intel no longer has the PC processor market to itself. New chips
+from its rivals, AMD and Cyrix, have added to the recent proliferation of PC
+processor types and Motorola, the second largest chip manufacturer, has
+recently announced its entry into the field with its first Power PC
+microprocessor, developed in conjunction with IBM and Apple Computer.
+The old PC distribution channels have also come under increasing attack.
+Direct mail order sales have helped some companies to challenge more
+lethargic rivals. Dell, the Texas-based group, more than doubled its sales
+last year to Dollars 2bn.
+Most companies, including Compaq and IBM, now either sell their machines
+directly through the pages of computer magazines or allow other
+'off-the-page' resellers to conduct 'remote sales' on their behalf.
+According to a new report on distribution by Dataquest, direct sales now
+represent more than 20 per cent of total PC sales in all the major European
+countries except Italy. However there are signs, particularly in the US,
+that direct sales may have peaked. The fastest growing distribution channel
+in the US today is the PC superstore.
+By the end of 1995, predicts Mr Steve Brazier of Dataquest, superstores will
+account for 20 per cent of all PC sales in the US. He believes Europe will
+follow suit; in the UK the first PC superstores have already arrived.
+
+The Financial Times
+
+
+London Page IV
+
+930526
+

@@ -1,0 +1,46 @@
+FT933-5257
+
+FT  04 SEP 93 / Theory put on Aids mystery
+
+
+   By CLIVE COOKSON
+
+
+A NEW THEORY to explain one of the great mysteries of Aids was presented to
+the British Association meeting in Keele yesterday.
+Professor Robert May, a well-known mathematical biologist from Oxford
+University, sought to explain why there is such a long and variable interval
+ -often as long as 10 years - between first infection with HIV (the virus
+that causes the disease) and the onset of life-threatening symptoms.
+He based his theory on a combination of computer modelling and clinical
+observations.
+It suggests that HIV eventually overwhelms the immune system by its
+extraordinary mutation rate, which is greater than that of any other known
+virus. Over a period of years dozens of different HIV strains evolve in the
+patient, and the immune cells cannot cope with such diversity.
+'Each new strain requires a largely-specialised immune response. On the
+other hand, any strain of HIV can kill or impair the function of any of the
+immune cells,' Prof May said. 'Mathematical studies of this peculiar system
+show that there can be a 'diversity threshold' beyond which the immune
+system can no longer control the virus.'
+The theory suggests that chance plays an important role in the time taken to
+develop Aids, depending on the rate at which random mutations arise in the
+stages soon after infection.
+Prof May says the theory, which he developed with Dr Martin Nowak, 'puts the
+virus itself centre stage'. In contrast, many others focus on different
+factors for triggering the collapse of the immune system. Although much
+available evidence supports the theory, more experiments will be needed to
+confirm it.
+If Prof May is right, sufferers should in theory take anti-HIV drugs as soon
+as possible after infection to suppress replication of the virus and the
+emergence of new mutants. But he says the drugs currently available, such as
+AZT, have too many toxic side effects for him to give such advice with
+confidence.
+
+The Financial Times
+
+
+London Page 4
+
+930904
+

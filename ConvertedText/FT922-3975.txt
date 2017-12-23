@@ -1,0 +1,68 @@
+FT922-3975
+
+FT  09 JUN 92 / The FT Review of Business Books (13): IBM's humble pie -
+Industry
+
+
+   By ALAN CANE
+
+
+THE SILVERLAKE PROJECT by Roy Bauer et al. Oxford Pounds 20, 236 pages
+SILVERLAKE illustrates how to eat humble pie without suffering indigestion
+in public. The eponymous lake is a lagoon in Rochester, Minnesota, a sleepy
+mid-Western town famous for wheat and the Mayo Clinic. It is also the
+internal code name for a family of computers which International Business
+Machines (IBM) designed there between 1985 and 1988.
+The computers, the mid-range AS/400 family, are now among the most
+successful products that IBM, the world's largest computer manufacturer, has
+developed. Silverlake is not, however, about technology. Rather, it is a
+study of how IBM, the archetypal market-driven company, lost contact with
+customers and markets in the 1980s and the measures it has been forced to
+adopt to retrieve the situation.
+On the way, IBM Rochester was awarded America's prime business quality
+accolade, the Malcolm Baldridge Award. This is no empty honour, but the
+measure of a world class operation. The feat which won Rochester the
+Baldridge was to build a competitive, innovative computer family in two
+years rather than the usual four, turning many of IBM's shibboleths on their
+heads in the process. IBM worshipped technological excellence; Rochester
+asked customers what they wanted and gave it to them. IBM made a religion of
+secrecy; almost everything about Silverlake was known before it was
+launched, through innumerable meetings with customers, the press and
+software developers. IBM was stiffly hierarchical; Rochester gave its people
+authority and the resources to make their decisions count. IBM is now
+attempting to spread these ideas through the rest of the company.
+Silverlake the Computer is a product of endless working groups and
+troubleshooting teams. Silverlake the Book, seems to have been produced the
+same way. Three of the key Rochester executives collaborated in the writing
+as well as Jerry Wind, Lauder Professor at the Wharton Business School, and
+Patrick Houston, a writer seemingly employed to knock the manuscript into
+shape.
+The result, alas, is dry and two dimensional. It fulfils neither the role of
+continuous narrative nor management text, although it aspires to both. (It
+lists, for example, ten principles of general management which contributed
+to Rochester's success and which the authors believe have general
+applicability.)
+It is no Soul of a New Machine, Tracy Kidder's rollicking book about Data
+General in the 1970s. Silverlake's characters are crudely drawn and left
+emaciated on the page. The director of the Rochester development laboratory,
+Tom Furey, for example, is given credit for developing the vision which
+inspired the Silverlake development. Yet little is said to explain the
+motivation or leadership qualities of this pivotal character.
+On the other hand, much is made of the isolation of Rochester, of the
+feelings among executives there that they were staffing an outpost of the
+empire of which not much was expected. One wonders whether it was easier for
+these self-confessed 'hicks . . . as far removed from the power centres of
+corporate America as you could get' to expose the sluggishness, marketing
+ineptitude and technological arrogance which remain at the root of IBM's
+problems, than for those at the centre of the company.
+I visited Rochester once and was duly impressed by its sense of pride in its
+Baldridge Award. The fine lettering commemorating the award on a
+complimentary, US-made ballpoint pen wore off within days.
+
+The Financial Times
+
+
+London Page VII
+
+920609
+

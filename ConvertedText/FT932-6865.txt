@@ -1,0 +1,109 @@
+FT932-6865
+
+FT  26 MAY 93 / Survey of Computer Industry - Systems, Software & Services
+(2): Information technology: time to be bold - The future of the European
+industry
+
+
+   By ALAN CANE
+
+
+EUROPE'S market for information technology, now the world's largest and
+accounting for some 36 per cent of global consumption, is dominated by the
+US and threatened by the Japanese.
+'Will there be a European computer industry in the year 2000?' Mr Gavin
+Kirkpatrick, chief executive of the British Computer Society, the UK
+organisation for data processing professionals, has asked in a series of
+international lectures.
+That is a serious question which many industry observers are pondering.
+Europe's large, indigenous IT suppliers - Siemens Nixdorf of Germany, Groupe
+Bull of France and Olivetti of Italy are losing money and putting in place
+strenuous restructuring measures.
+So serious are the problems that Mr Carlo de Benedetti, Olivetti chairman,
+has questioned publicly whether the Italian computer manufacturer - which
+lost Pounds 276.3m last year - can survive. Naturally enough, he believes
+the company's turnaround strategy will prove successful but it is an anxious
+time, not helped by Italy's political difficulties.
+Siemens Nixdorf (SNIS) is taking far longer to return to profits than its
+managers predicted at the time of the merger of Germany's largest
+electronics manufacturer and its best-known computer company. While Siemens'
+senior executives defend SNIS's position in the group, there is no doubt it
+is a heavy drag on Siemens' resources, raising speculation that the
+electronics giant might welcome a partner or buyer for the computer company.
+Groupe Bull, under Mr Bernard Pache, its new managing director, is
+continuing the transformation started under Mr Francis Lorentz, his
+predecessor, with further rounds of job cuts - 3,000 or 8 per cent of the
+workforce this year alone. The group lost FF4.72bn (Dollars 863m) last year.
+Mr Michel Carpentier, director-general for the IT industries at the European
+Commission, believes the European industry is at a crossroads. Writing in
+the European Information Technology Observatory, a new overview of the
+market, he notes: 'Europe's competitive position has declined from 1985 to
+1991 with its IT trade balance dropping from minus Ecu 9bn to minus Ecu
+27.2bn and with high technology for less than one fifth of European exports
+compared with 31 per cent and 27 per cent in the US and Japan respectively.'
+Mr Carpentier says the key weakness in Europe is its inability to integrate
+research and development and innovation in an overall strategy which both
+exploits and orientates them.
+To which must be added a cautious attitude on the part of its major
+customers. European companies are less likely to spend heavily on IT without
+obvious cost justification. While this protects them from the wasteful use
+of IT seen in many US companies, it can also act as a dampener on
+imaginative projects.
+Europe's strength, on the other hand, is its ability to innovate, albeit in
+a comparatively small number of industry sectors.
+The value of the European market is considerable. In 1992, the IT business
+in the 12 EC countries and the five European Free Trade Association partners
+amounted to some Ecu 225bn, of which Ecu 128bn went on data processing and
+office equipment - the traditional IT areas - and the rest on
+telecommunications.
+Europe's bid to maintain a separate identity in IT may be helped by the
+profound structural changes which are transforming the industry.
+Downsizing, moving from mainframe based operations to data processing based
+on client-server systems, for example, may prove easier in Europe where
+there are perhaps only a fifth as many very large mainframe sites as in the
+US. The technical and managerial choices involved in downsizing are never
+easy; European computing services companies capable of advising and
+supporting a customer through a downsizing decision are equal to the best
+and have the advantage of local knowledge.
+Computers: very large and very small ones will characterise tomorrow's data
+processing business. Europe has skills in building both.
+Advanced Computer Research International, a new company set up in France
+under the guidance of Mr Jacques Stern, former head of Groupe Bull, is
+developing a commercial supercomputer based on Digital Equipment's Alpha
+chip. DEC has agreed to take a stake in the new company.
+Acorn Risk Machines, a joint venture between Acorn Computers (owned by
+Olivetti but based in the UK), Apple Computers and VLSI of the US has
+developed tiny, high-powered microprocessors which consume very little power
+and are well suited to consumer products. Apple will use an ARM
+microprocessor in its 'Newton' personal digital assistant.
+Software: fast, effective and economical production remains a global
+problem. Europe's computer companies are as advanced as any in software
+development. Earlier this year a group of companies including Sema Group and
+Logica of the UK, Groupe Bull and Cap Gemini Sogeti of France and Siemens
+Nixdorf of Germany established a software research institute in Bilboa,
+Spain, to seek better ways of writing computer software. The idea is not to
+compete with packaged software suppliers such as Microsoft or Lotus, but to
+develop better methods of creating very large pieces of bespoke software.
+Mr Kirkpatrick of the BCS has no doubt there will be a European computer
+industry at the end of the century but he questions what kind of an industry
+it will be. Will it be dominated by software and services rather than
+hardware development and manufacture? Will Europe's research initiatives be
+pursued in isolation or in collaboration with with the rest of the world?
+Who will be the majority shareholder in Europe's industry?
+ICL of the UK points to answers to all three questions. Based in Europe, it
+is owned by Fujitsu of Japan and now derives most of its revenues from
+software and services. It collaborates with companies worldwide in research,
+though most of its activities are European-based.
+Mr Kirkpatrick emphasises that the future of the European industry depends
+on a change of attitude rather than technological prowess. 'If we in Europe
+want to be world leaders in this business, we have to be far more ambitious
+for the business opportunities that informatics offers and rather less
+interested in the abstract culture that is one of its endemic distractions.'
+
+The Financial Times
+
+
+London Page II
+
+930526
+

@@ -1,0 +1,27 @@
+FT942-15404
+
+FT  15 APR 94 / Technology (Worth Watching): A better display from liquid
+crystals
+
+
+   By DELLA BRADSHAW
+
+
+Today's portable computers with flat liquid crystal displays need the
+screens to be lit from behind in order for text and graphics to be visible.
+One of the big drawbacks is that this drains the limited battery power.
+Now the Japanese electronics company Sharp has combined several technologies
+to produce a prototype thin film transistor screen which does not require a
+backlight.
+Each of the picture elements, or pixels, which make up the screen is coated
+with an organic dielectric film which is highly reflective. Filters in cyan
+and red are also incorporated in the screen to help make the text clearer.
+Sharp: Japan, 06 625 3007.
+
+The Financial Times
+
+
+London Page 16
+
+940415
+

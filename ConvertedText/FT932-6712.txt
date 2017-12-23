@@ -1,0 +1,121 @@
+FT932-6712
+
+FT  27 MAY 93 / Technology: Making lessons Crystal clear - A school in Devon
+is using knowledge-based software in subjects from geography to English to
+help students think more deeply and objectively / Software at work
+
+
+   By CLAIRE GOODING
+
+
+Next term, some of the youngest consultants in the country will come out of
+their classrooms. Students from Westlands Upper School in Torquay, Devon
+will be talking to businesses in the surrounding Torbay area, armed with a
+computerised expert system called Pharos that gives advice on trading in
+Europe.
+The students seek a first-hand understanding of economics, in which the
+computer system is a useful tool. If the plan works, the dialogue that takes
+place should benefit students and businesses alike.
+Pharos belongs to National Westminster Bank, which has been advertising its
+services on television as an aid to business. For Westlands pupils, the
+knowledge-based technology on which Pharos is based - a software product
+called Crystal - is a familiar classroom tool. The pupils have used it for
+18 months as an integral part of the work and in line with the requirements
+of the National Curriculum.
+Crystal is widely used in commerce and higher education to create expert
+systems, but Westlands is the only school in the country to have licensed a
+copy. Its existence there is largely due to the head of computing, Geoff
+White, whose enthusiasm has led Westlands to set up Cress, the Centre for
+Research into the use of Expert Systems in Schools. White developed an
+interest in expert systems while taking a Dip. Ed and M. Ed in educational
+computing. He has experimented with several generations of systems,
+including the knowledge-based tools Linx and Adex.
+Crystal, he discovered, was the only product with the power to provide
+interactivity beyond the simple yes and no choices usually displayed. A
+powerful 'expert system shell', Crystal allows for measurements,
+calculations and other interactive information on which it bases its
+decisions.
+The verdicts delivered by the system are based on pre-programmed rules, the
+common principle of all expert systems. White programs these rules into
+systems designed as teaching aids for geography, history, science and other
+subjects.
+An early use for Crystal was to help pupils define and find likely sites for
+Anglo-Saxon settlements. 'You don't have to spend as much time as you'd
+expect teaching computing, because they do it intuitively,' White says.
+One of White's Crystal programs, Facsite, is used to combine geography and
+map-reading with information technology.
+Class 10G is the first to use the new, purpose-built computer centre at
+Westlands. The class, a mixed-ability group of 15 fourth formers - year 10
+under the new educational grouping - is using Facsite as a follow-up to a
+more conventional geography lesson. The task is to find a good site for a
+new factory, starting with a map. The one handed out first is of Tamworth,
+West Midlands and district.
+The pupils sit in clusters of two or three at the screens, each group
+sharing an Ordnance Survey map. As well as being a a practical exercise in
+map-reading skills, Facsite deals with questions involving everything from
+geology to local demography which come into play when siting a factory. It
+raises questions about the relief of the land, the nature of its surface and
+drainage, population and transport services, land prices, unemployment
+levels and planning permission. Each screen displays a question and asks for
+some input, such as a measure of the local population, giving an equation
+based on land area. Pupils calculate the answers and feed them into the
+system. Then, unless Facsite's answer rules out the site, it is on to the
+next question. 'The first thing I look for is flat land, but it mustn't be
+marshy,' explains 15-year-old Mark Walker. 'Then we look at the roads. We've
+done this before on paper, but it's much more interesting using the
+computer.'
+Class 10G's teacher, John Birch, is head of humanities and geography at
+Westlands. After 20 minutes going from group to group, he calls the class to
+attention to explain a question of geology in one of the maps. Teaching with
+Facsite is an interactive process and Birch sees the computer system as a
+valuable motivator. 'Anything that's visual helps lower-ability pupils, but
+the classes must be small,' he says.
+Birch has to keep an eye on fulfilling the National Curriculum checklist of
+114 'statements of attainment' (including IT) in his subject. 'This sort of
+lesson takes longer, but they are finding the answers for themselves.'
+That, says White, is what makes Crystal so valuable. 'It's the interactivity
+that punches the message home. In the paper exercise it is easy to write 'it
+must be near a railway station'. But the system makes them quantify and
+question: how near? . . . It makes them think objectively and a lot more
+deeply if they use an expert system, or even better, write their own.'
+Writing an expert system is a matter of developing and defining the rules
+inherent in decision-making. Crystal provides the framework, or 'shell',
+with screen windows and help screens ordering and refining the process.
+White believes this has given pupils an understanding of issues - for
+instance in another Crystal exercise, the crisis a nomadic tribe might face
+if it stays in one area too long.
+'It makes them see the consequences more clearly because they decide on the
+input,' White says. The teaching of computing is currently in flux, with
+current courses being scrapped in September 1993. IT and computer studies
+used to be a GCSE, a largely theoretical course. CLAIT, Computer Literacy
+and Information Technology is a more practical course, embracing database,
+spreadsheets, videotext and desktop publishing.
+The new courses are on IT (resembling CLAIT), and Information Systems, a
+more broadly based course, of which White approves. 'It's much more tuned to
+giving an understanding of IT in business, dealing with the communication
+and handling of information.' The new courses will include modelling with
+spreadsheets, educational games, measurement and control and applications
+and effects of computers in modern society.
+It is the job of David Bowles, senior teacher in charge of the curriculum,
+IT and technology, to oversee the introduction of the National Curriculum
+courses. He has seen the teaching of computing progress from an O-level in
+1980 - which involved five weeks of computing history and a remote link to a
+mainframe - to the new package-based teaching. 'In the big world outside
+people use IT to solve a problem, not for the sake of it. It makes sense to
+teach it the same way.'
+'Children get blase very quickly about new technologies such as videos.
+Computing might go the same way unless we use it wisely, which is to develop
+computing as a cross-curricular subject. They learn their IT in geography,
+history, English, science and mathematics, almost all subjects. Geoff does
+more cross-curricular teaching than anyone else.'
+Taking IT for granted is part of modern education. When the pupils go out
+armed with Pharos, their confidence at the screen might be as important as
+any knowledge about trading in the single market.
+
+The Financial Times
+
+
+London Page 18
+
+930527
+

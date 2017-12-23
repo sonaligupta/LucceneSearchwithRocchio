@@ -1,0 +1,67 @@
+FT944-5804
+
+FT  01 DEC 94 / Survey of Software at Work - Winter 1994 (6): Royal Mail
+delivers replies - Client server systems / As a newly-organised company
+where each section is a business unit, the national postal system needs
+flexible ways of reporting
+
+
+   By CLAIRE GOODING
+
+
+Royal Mail started with a list of a dozen accounting packages when it
+started looking for a client-server system that would reflect the new shape
+of its structure since re-organisation in 1992.
+'The main requirement was good flexible reporting and enquiry facilities,'
+says Royal Mail systems accountant Penny Maguire, whose department acted as
+the internal consultants on the choice of software.
+Although Royal Mail had some out-of-the-ordinary VAT requirements, the main
+need in addition to standard accounting was project management. 'Scala had a
+project management module which managed timesheets and work scheduling, and
+that was a real attraction,' says Ms Maguire.
+Another consideration was that the Royal Mail's structure was not set in
+concrete.
+'The coding structure allowed for forward compatibility in terms of the
+current company structure and future development,' she says.
+The plan was to run under OS/2 and Lan Manager, over a Wide Area Network
+(Wan) linking sites at Swindon and London to the centre at Chesterfield.
+Scala supplied the software and some consultancy in a Pounds 65,000
+contract.
+In July the users came online in a 30-user PC network, and the response has
+been positive, according to Ms Maguire. 'There are better response times to
+our clients, the end users: having one point of contact for queries is real
+benefit to them,' she reports.
+'In turn they can be more responsive to outside clients who ring in with
+queries, because the information is so much more accessible and timely.
+'Timeliness will improve even more as the regular monthly reports become
+available on the Wan.'
+Supplier profile Product: Scala is a multi-lingual multi-currency and
+multi-dimensional integrated business management and accounting system.
+Launched in the UK in 1989, its current release is 3.1.4, with an update
+Release 4.1 scheduled for September this year.
+Suppliers: Scala International is a private limited company, part of the
+Swedish-owned Scala Group, founded in 1978, with a UK office founded in
+1989.
+Turnover: Pounds 1.5m in 1993, with Pounds 760,000 profit, Pounds 1.1m in
+1992, with Pounds 566,000 profit.
+Employees: 30 in the UK.
+Number of users: 10,000 sites worldwide.
+Price: Pounds 1,500 for DOS system comprising General, Sales, Purchase
+ledgers, Sales, Purchase, and some Stock Control.
+Hardware and operating systems: DOS, Unix, various client-server and
+networked versions, Windows release imminent.
+Sales and support/maintenance: direct and through Value Added Resellers and
+large consultancies. Maintenance and help desk service at 20 per cent of
+licence fee.
+Other services available: consultancy, training, implementation, bespoke.
+User views: flexible, good management information, flexible reporting.
+Contact: Rhiannon Prothero, Scala.
+Tel: 081 550 1994.
+
+The Financial Times
+
+
+London Page VI
+
+941201
+

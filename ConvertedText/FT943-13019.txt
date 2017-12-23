@@ -1,0 +1,76 @@
+FT943-13019
+
+FT  21 JUL 94 / Technology: Inventors with time to think - A look at the
+potential of independent projects
+
+
+   By HUGH ALDERSEY-WILLIAMS
+
+
+Corporate research is excellent at bringing incremental improvements to
+technology that is already available, but it is far less good at coming up
+with bright ideas that could lead directly to entirely new products. And
+when it does the final connection may not be made.
+It was, for instance, Xerox Corporation's Palo Alto Research Centre in
+California that did much of the work leading to intuitive interaction with
+computers based on using visual icons on the screen. Seeing itself as a
+copier company, however, Xerox did not reap the benefit of the ideas
+embodied in the prototype 'Star workstation'. Apple Computer's Steve Jobs
+did.
+To overcome this kind of mental block, David Liddle, formerly of Xerox
+Corporation, and Paul Allen, one of the founders of Microsoft, have set up
+Interval Research, which aims to explore new ways that we might interact
+with technology.
+They dislike being labelled a thinktank. 'We are inventors, not writers of
+papers,' says Bill Verplank, a researcher at the company who worked on the
+Star workstation. Interval Research, of Palo Alto, has a foundation
+investment of Dollars 100m (Pounds 67m) to fund it over five years.
+This provides breathing space - the 'interval' - to embark on projects that
+are not beholden to any particular manufacturer or type of product. 'A lot
+of the computer companies are so tied up in doing incremental product
+design, that it is difficult to stand back and say, well, 'what's the next
+great thing to do?',' says research fellow Colin Burns.
+Interval Research aims to profit from its inventions by selling its ideas or
+by spinning off small, start-up companies to pursue them further.
+In London, Liddle has arranged the five-year sponsorship of a research
+design studio at the Royal College of Art. The Pounds 2.5m programme will
+allow Interval researchers to participate in design projects at the college
+and students to work in California. The RCA is the first design school
+Interval has worked with.
+'They are interested in the different take that designers have from
+engineers,' says Gillian Crampton-Smith, professor of computer-related
+design at the RCA. The other aim of the liaison is to encourage involvement
+from British and European companies. The RCA already has links with
+companies such as BT, Logica and Philips, which are likely to take an active
+role.
+The starting point for Interval Research activity is 'interaction design' -
+the shaping of the way people use technology. Disciplines as diverse as
+design, psychology, anthropology and dramatic arts are brought under this
+banner in an attempt to make people's interaction with products more
+natural.
+One topic concerns 'place' in a computer environment. For example, asks
+Crampton-Smith, 'how do you do the equivalent of putting your head round the
+door of the canteen to see if there is anyone there you would like to have a
+chat with?' Designers can use their skill in visualising in three dimensions
+to give this electronic landscape an appearance that is usable in an
+intuitive way. Such understanding is expected to help in the design of
+products that incorporate a computer in such a way that its presence does
+not intimidate ordinary users.
+One putative example is a telephone-answering machine designed by Durrell
+Bishop, a graduate of the RCA and now a research fellow at Interval. This
+would spit out messages in the form of marbles with solid-state memory chips
+embedded in them; to replay the message, the user would simply drop the
+marble into the right slot on the machine.
+Other items on the research agenda include the combinination of forms of
+sensory interaction - sound and a more subtle use of feel as well as sight
+and touch. As Crampton-Smith points out: 'We are stuck with a keyboard and a
+mouse and pathetic feedback, so that you have to concentrate on using a
+computer. You should be able to concentrate on your work.'
+
+The Financial Times
+
+
+London Page 18
+
+940721
+

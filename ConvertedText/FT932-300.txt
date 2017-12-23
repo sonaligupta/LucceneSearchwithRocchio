@@ -1,0 +1,108 @@
+FT932-300
+
+FT  29 JUN 93 / Survey of Computer Networking (2): Radio links may spur
+identity crisis - Local area networks are commonplace. But they are
+challenging and can be costly
+
+
+   By MICHAEL DEMPSEY
+
+
+THE Local Area Network (Lan) is a fact of life in any organisation faced
+with the need to tie PC users together. But while the Lan has become
+commonplace, it still throws up technical and business challenges.
+The very fact that computer networking is now taken for granted contributes
+to the growing cost of keeping Lans up and running.
+One recent study com- missioned by Computervision Services suggests that as
+much as 17 per cent of IT expenditure is now swallowed up in supporting Lans
+after installation. But the same survey found that forward planning of Lans
+has a low priority. Fellow networking contractor 3Com investigated its
+market and concluded that the happy vision of a global computing environment
+with companies linked through a series of seamless networks remains a
+high-tech myth.
+The manufacturing and finance sectors have come to rely heavily on Lans. But
+3Com's research indicates that while some 70 per cent of Lan users in those
+sectors planned to increase data communic- ations, only one quarter of large
+organisations are foll- owing a clear networking strategy.
+Naturally, contractors in the field are keen to highlight the benefits of
+hiring their services. But confusion over the future of networking is due to
+more than inadequate strategic thinking. The fact is that the Lan itself may
+soon face an identity crisis.
+For a decade, a Lan has consisted of physical connections between PCs and
+software governing the exchange of data. With the emergence of multimedia
+technology, the Lan is suddenly required to transmit sound and video images.
+The Lan standards of token-ring and Ethernet are not at their best in this
+environment.
+Of course, IT manufacturers with an investment in multi- media have an
+answer. They propose abolishing the kilo- metres of wiring that charac-
+terise building-wide Lans and introducing radio links. If binding PCs
+together via radio waves seems obvious, the reason it has taken so long to
+arrive is mired in radio frequency regulations. With the liberalisation of
+telecoms, previously restricted frequen- cies are being made available.
+NCR, owned by US telecoms giant AT&T, has pitched in with Wavelan. This is a
+net- working scheme using spread spectrum, a microwave type radio
+transmission favoured by military raiding parties behind enemy lines. The
+attraction is that PCs can be held centrally, dispensed for a particular
+project and used in a Lan without planning out and installing wiring. Mr
+Simon Goodwin, NCR's architecture consultant, calls it 'deliver and drop
+technology'.
+With a Wavelan card fitted into a standard PC, the service costs Pounds 675
+a connection. Mr Goodwin concedes that the delivery rate of data cannot
+compare with Ethernet but says the difference becomes apparent only with
+intensive work by a large user com- munity.
+Olivetti's foray into wireless Lans is termed Net3, a mathematical reference
+to three-dimensional, cubed space. This relies on Digital European Cordless
+Telecom- munications. Radio relay points act as Lan hubs, joining up systems
+over a 50-100m radius. Net3 costs Pounds 1,000 per user.
+Mr Wynne Davies, product marketing manager, agrees that intensive use
+creates problems, but says this can be overcome by installing more external
+radio points. 'The advantage of Dect is that it will support voice. It's
+very much a multimedia protocol.' Mr Goodwin claims this is Net3's weakness.
+'Dect was developed for voice, not data.' Whatever their differences over
+protocols, both companies recognise retail sites and institutions that
+frequently reconfigure office space as potential converts to radio- based
+Lans.
+The European Space Agency has tried out Net3 to back up computers outdoors
+and at temporary sites.
+Mr Adrian Ridley-Jones, a senior consultant at systems house Logica, has
+assessed both systems. He stresses that for intensive processing a
+conventional Lan configured to cope with masses of data is still the best
+route. 'For something like credit card processing you need the equiv- alent
+of a big fat pipe, not the narrow bandwidth of radio.'
+Mr Ridley-Jones identifies the hidden costs of keeping conventional Lans up
+and running as a more immediate issue. Best-selling Lan products from
+suppliers such as market leader Novell can lead to difficulties as the
+system expands to cope with more use and users. 'These networks can be
+incredibly expensive and difficult to manage when you start taking on
+support staff.'
+Mr Peter Steggall is head of IT strategy and planning at NatWest Life.
+Launched on January 4 as a life insurance, pensions and unit trust operation
+within the NatWest group, this organisation has formidable networking
+requirement. NatWest Life has already spent Pounds 40m on com- puter
+systems. A Unisys main- frame is tied via commun- ications processors to a
+central data-processing Lan that can talk in turn to PC workstations
+configured in a series of Lans.
+Network growth is a big issue, Mr Steggall concedes. 'We've got servers all
+over the place and no one is looking after them. We need very sophisticated
+network management software to keep the whole system running.' With the
+decline of the all-powerful data-processing centre and rise of decentralised
+computing, some drawbacks have emerged. 'The environ- ment is not as
+reliable as the old DP centre set-up.'
+NatWest Life has called in consultants Hoskyns to cope with network
+maintenance on a Pounds 500,000 a year contract. The effort of keeping up
+with technical developments was not worth doing inhouse. Hoskyns is under
+strict orders. 'The criterion is not just to deliver the service but to
+improve it over the years as new Lan techniques emerge.'
+Radio-based Lans are a possibility, says Mr Steggall. He forecasts the need
+to incor- porate yet more capacity into Lans to cope with multimedia images.
+But after the furious spread of Lans over the last decade, he is wise to be
+cautious, preferring to learn from other's mistakes. 'We're not going to be
+on the bleeding edge of technology.'
+
+The Financial Times
+
+
+London Page II
+
+930629
+

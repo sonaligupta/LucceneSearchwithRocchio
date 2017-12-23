@@ -1,0 +1,107 @@
+FT942-12179
+
+FT  30 APR 94 / Diary of a Private Investor: Unanswered questions - Kevin
+Goldstein-Jackson examines the Crest share settlement system
+
+
+   By KEVIN GOLDSTEIN-JACKSON
+
+
+The recent Grand National reminded me of Crest, the proposed new share
+settlement system which is expected to begin operations in 1996. The Bank of
+England's Crest project team is galloping towards the finish. But is it like
+a blinkered horse, focused mainly on the requirement to cross the finishing
+line? Will it be brought down by any of the obstacles placed before it? Or
+can it jump over everything, regardless?
+According to the Treasury, charged with the task of creating legal fences,
+the Crest specification is due to be published next month. By the end of
+this year, draft legal rules should be ready for another consultation
+exercise, after which the finished regulations will be presented to
+parliament by the end of 1995 so that Crest can meet its planned 1996
+operational target.
+All sorts of documents have been produced. Very few private investors have
+seen any of them, let alone had a chance to comment. True, both Pro-Share
+and the UK Shareholders' Association have had a say - but their combined
+membership is fewer than 15,000. In the UK, there are well over 10m private
+investors. Does the average private investor know what is likely to happen?
+What weight is being given to those who submit their views to the Bank and
+the Treasury?
+The introduction of 10-day rolling settlement on July 18 this year, with a
+planned five-day settlement system starting early in 1995, means that many
+private investors have received letters from their stockbrokers urging them
+to make use of the broker's nominee services. Such letters have included
+phrases such as: 'Most clients will find it impossible to maintain
+certificates and transfers (if) they are to meet these new time scales for
+settlement, particularly in the light of postal delays.'
+Using a nominee service is put forward as the only way to meet the new
+deadlines. But many brokers are also proposing to charge investors for using
+nominee services. What happens if investors decide, instead, to keep their
+share certificates in their own name and find some other way to settle share
+deals within the new, short time scales?
+According to the Bank, such investors 'and their brokers will, of course,
+have to bear the costs of processing and transporting that paper through the
+system. A dematerialised transaction through Crest will, therefore, be
+cheaper to settle than a paper-based trade; but please note that we believe
+certificated transactions in the Crest world need cost no more than they do
+in the current environment.' Although such transactions need not cost more,
+it seems likely that they will.
+Perhaps private investors should deluge the Bank with copies of their
+brokers' letters? Sorry - the Bank says it 'could not cope' with such a
+large amount of correspondence.
+So, as brokers are likely to continue to urge their clients towards Crest's
+dematerialised trading system, using nominees and without having share
+certificates, what happens if an investor wants to change from broker A to
+broker B?
+Under the present system, an investor with shares registered in his own name
+simply takes his share certificate/s to Broker B and the shares are sold. It
+is quick and easy. But in the dematerialised world with nominees, the
+investor has to contact Broker A (in whose nominee name the shares are
+registered) to get the shares out of that nominee name so that Broker B can
+sell them. It might well be that Broker A charges the investor for doing
+this.
+What, then, happens to competition? If an investor wishes to switch from
+Broker A to Broker B because Broker B's dealing charges are lower, such
+reduced dealing costs may be cancelled out through the charges made by
+Broker A's nominee to give up the shares.
+Can the Crest system cope with the likely volume of transactions? According
+to the Bank, the 'peak daily transaction volume level in Crest is estimated
+at 150,000 transactions' - although this is being 'continuously reviewed'.
+More than 1m people paid their fuel bills early to escape the new VAT
+charges. Suppose those same people, induced to believe that using Crest and
+nominees was likely to be cheaper than keeping share certificates in their
+own name, decided to switch into those nominees within the first few months
+of the Crest operation. Could the system, and the company registrars, cope?
+What regulatory safeguards are being built into the system to insure that,
+in the event of another 1987-size crash, brokers will not handle
+institutional investors' instructions first and private investors last?
+Surely there should be appropriate compensation schemes for investors using
+Crest? Much more reliance is having to be placed on brokers inputting the
+correct information into the system.
+Should there not be automatic compensation for errors, in the same way as
+the gas and electricity companies compensate their customers for such
+shortcomings as delays in keeping appointments?
+Apparently not. According to the Bank, clients are instead 'at liberty to
+negotiate such compensation as part of the terms of business they agree with
+the broker or nominee. If a broker acts in an inefficient manner and does
+not compensate, his clients should consider moving to another broker . . .'
+I can just imagine the response from some brokers to the average Sid seeking
+to negotiate outside their normal terms.
+The position of nominees still needs greater legal clarification. And
+investors need greater protection from such events as LEV Investment
+Management in 1988 and Diameter Stockbrokers in 1991, when brokers got into
+some difficulties and it took considerable time to work out just who owned
+what within a nominee name.
+There are solutions to these (and many other) problems, just as there were
+with Taurus. But will more attention be paid to the views of professionals
+with vested interests to protect, rather than those of private investors?
+If you want to promote and improve business in a shop, you do not rely
+mainly on what other shopkeepers tell you - you have to ask the customers.
+Surely private investors ought to count as customers?
+
+The Financial Times
+
+
+London Page VI
+
+940430
+

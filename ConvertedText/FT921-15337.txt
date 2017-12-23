@@ -1,0 +1,111 @@
+FT921-15337
+
+FT  10 JAN 92 / Technology: Sound and the fury - The way technology has
+changed the nature of live music
+
+
+   By CHRISTOPHER PRICE
+
+
+Several years ago, acoustic consultant Jim Griffiths was watching the rock
+band AC-DC in concert and told the sound engineer that the music was too
+loud, distorted and muffled. 'He said 'brilliant' and thanked me,' says
+Griffiths.
+Not so these days. Quality is at the forefront of concert technology and the
+archetypal modern sound engineer will be an expert technician, have a flair
+for acoustics and be in bed by 9.00.
+'The intelligent engineers are the ones still touring,' says Griffiths. 'The
+physics might be the same, but the technology to tackle the problems has
+changed and with it the role of the engineer. They can't afford to have
+hangovers.'
+The pace of technological change in the concert hall has been dictated by
+developments in digital electronics and other equipment for recording
+studios. There have also been advances in other facets of the sound process
+and, in particular, the attention paid to acoustic technology.
+Despite the engineers' metamorphosis, the actual procedure for staging a
+concert has changed little over the past decade. All instruments are plugged
+into a stage box - an electronic collection point - which contains a
+pre-amplifer to boost the signal. The signal is split, one half going to the
+main 'front of house' mixing desk and the other to a smaller mixing console
+which serves the performers on stage. At the main mixing desk an engineer
+processes the sound through filters, effects and the main amplifier. The
+level of sound is then set and the signal passes to the main PA (public
+address) speakers.
+Concert sound quality of all musical persuasions in the 1960s, 1970s and
+early 1980s was dictated by the size of the amplifiers, small by today's
+standards, which were frequently turned up to full volume and carried
+consequent distortion. Further sound quality was eroded by the use of
+traditional electronic components like copper wires, valve technology and
+the poor siting of speakers.
+But in the early 1980s developments in digital technology began to filter
+their way into the recording studio. Before long, artists had begun to
+demand the same equipment live to reproduce their studio performance.
+Most mixing consoles still use analogue technology, but augmented by an
+increasing amount of digital equipment, particularly in effects units,
+amplifiers and transformers. Technicians have also concentrated their
+development efforts on nearly every other aspect of the production process.
+'While there hasn't really been a great leap forward in any one direction,
+there has been a great amount of fine tuning in most areas,' says Steve
+Spencer, sales manager at Britannia Row, Europe's leading concert equipment
+hiring organisation.
+Speakers, for example, are being made lighter and more responsive by using
+ceramic instead of alloy magnets. Harder kevlar cones are replacing
+traditional paper ones. Many of the developments are being achieved by
+small, independent companies specialising in one or two areas of the
+production cycle.
+Turbosound, for example, a Sussex-based company which has become a leading
+supplier in the world concert market, has developed a bullet-shaped horn and
+phase plug which sits at the face of the speaker cone, concentrating the
+energy from the speaker and producing a crisper sound.
+Other areas have also advanced. The stage box is now a complex centre of
+active electronics, the sound signal boosted by a digital amplifier and
+split electronically rather than simply by a division of the carrying cable.
+The cables themselves are starting to benefit from fibre optics, replacing
+the heavy copper wiring and producing a clearer defined signal.
+Amplifiers have also benefited from development. 'The improvement in
+amplifiers in the last 10 years has been quite considerable,' says Jon
+Lemon, an engineer who has worked most recently with the Pet Shop Boys and
+Level 42. 'They're now producing a sharper, cleaner sound with much greater
+power due to better components.'
+Technological developments are only part of the story. Griffiths, who works
+for Travers Morgan, one of a growing number of acoustic consultancies, says
+there has also been a change in attitude by production staff to the physics
+of concert quality. 'Engineers are looking at acoustics much more. It's not
+enough to have two stacks of speakers at a venue pointing at the audience
+and hope the sound will be alright, because often it won't, even with the
+most advanced system.'
+The concept driving better quality is 'line array', which determines the
+coverage pattern of the speakers and gets the best coverage of sound to a
+particular area. To achieve this, engineers employ an Audio Spectrum
+Analyser (ASA) which measures the depth and level of sound across a given
+area. It divides the concert hall space into octaves in the range of 20Hz to
+20KHz.
+Pink noise - made by a sound generator and reminiscent of the hiss of
+compression brakes - is generated through the speakers. Microphones,
+connected to the ASA at strategic points in the auditorium, measures the
+amount of pink noise. An LCD display then tells the engineer which areas of
+the hall need compensating.
+It is in areas such as sound compensation where the development of digital
+technology, and in particular digital signal processing (DSP), has made
+itself felt. DSP works by converting sound signals into a digital data
+stream which is fed through computers and manipulated by the engineer.
+Spencer reckons that a modern sound system for a major concert tour will
+cost in the region of Pounds 750,000 - twice as much as it did a decade ago.
+But there have been major savings along the way. 'Smaller and lighter
+equipment has meant a considerable saving on transport and labour costs,' he
+says. 'A major tour today will use just one articulated lorry for the sound
+equipment where four would have been needed a decade ago.'
+One effect of the improved quality has been the demands of performers. All
+want the top-of-the-range, state-of-the-art systems at their concerts. 'Iron
+Maiden and Frank Sinatra both used the same system on their last tours,'
+says Spencer. 'Ten years ago one would have approached the problem of their
+sound needs differently, but not any more.'
+
+The Financial Times
+
+
+London Page 8 Photograph Artists from Iron Maiden to Frank Sinatra demand
+state-of-the-art systems at their concerts (Omitted).
+
+920110
+

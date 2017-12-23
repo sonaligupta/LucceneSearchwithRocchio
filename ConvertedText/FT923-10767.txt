@@ -1,0 +1,148 @@
+FT923-10767
+
+FT  29 JUL 92 / FT Law Report: Lloyd's review is set aside
+
+
+   By RACHEL DAVIES, Barrister
+
+
+REGINA v LLOYD'S AND OTHERS, EX PARTE BRIGGS AND OTHERS Queen's Bench
+Division (Divisional Court): Lord Justice Leggatt and Mr Justice Popplewell:
+July 17 1992
+LEAVE TO apply for judicial review will be set aside if the application for
+leave was out of time and counsel failed to apply to extend time, and if
+leave would not in any event have been granted had counsel disclosed that
+the parties and issues overlapped with those of earlier parallel
+proceedings.
+The Divisional Court so held when granting an application by the Corporation
+of Lloyd's and others to set aside leave granted ex parte by Mr Justice
+Potts to six Lloyd's Names, Mr FC Briggs and others, to apply for judicial
+review to quash cash call statements and auditors' reports issued by
+Lloyd's.
+LORD JUSTICE Leggatt said that on May 19 1992 the six Lloyd's Names
+including Mr Briggs obtained ex parte from Mr Justice Potts leave to apply
+for judicial review against Lloyd's, its committee, chairman, deputy
+chairman and a company called GW Run-Off Ltd.
+In earlier parallel proceedings by representatives of 800 Lloyd's Names
+against members' agents, Mr Justice Saville had refused applications for
+interlocutory injunctions to restrain the agents from drawing down on the
+applicants' deposits. He took the view that on the material before him there
+was no legal basis for restraint.
+Lloyd's now applied to set aside the leave granted by Mr Justice Potts.
+Rules of Court required that an application for leave must be made within
+three months.
+The application was to quash cash call statements and auditors' reports, all
+issued more than three months before May 19. The Names were out of time and
+no application was made to extend time.
+The first main ground for applying to set aside was that the Names did not
+make full and frank disclosure of the overlap between the present
+proceedings and those that had been before Mr Justice Saville.
+At the beginning of the hearing Mr Justice Potts asked counsel for the Names
+about the earlier proceedings, of which he had learned from newspaper
+reports.
+Counsel asserted that the applicants were wholly different and that there
+could be no overlap of issues because the proceedings before Mr Justice
+Saville concerned private law rights, whereas the present proceedings
+concerned public law.
+He did not know that any of the present Names were parties to the earlier
+action. Because no hint of overlap was given he took it as implicit that
+there was no overlap.
+He failed sufficiently to comply with his duty to the court.
+With regard to private and public law wrongs, he 'considered that the issues
+raised could not directly overlap'.
+But that proceeded on a superficial comparison between the two actions, and
+a failure to analyse the issues properly.
+Three of the Names were plaintiffs before Mr Justice Saville.
+Counsel made no enquiry to ascertain, as was an obvious possibility, whether
+there was any overlap of parties.
+His assumption that there was no overlap was wholly unjustified.
+On the present application to set aside, Mr Colman for the Names was obliged
+to accept that there was non-disclosure or misrepresentation to Mr Justice
+Potts in three respects: duplication of identity of three plaintiffs in the
+earlier action and three Names in the present proceedings; overlap of
+issues; and participation by Mr Briggs, before the hearing, in the voluntary
+draw-down procedure.
+In relation to each, however, he contended that the misrepresentation was
+immaterial.
+Where an extension of time was necessary in which to apply for judicial
+review there was an obligation on counsel to apply for it. If a judge gave
+leave, he was not to be taken by implication to have extended time.
+The relevance of the fact that three of the Names had been plaintiffs in the
+other action was that if Mr Justice Potts had realised they were common to
+both sets of proceedings he would obviously have considered carefully the
+content of Mr Justice Saville's judgment.
+If he had read the judgment, he would have realised the issues were kindred,
+and that the remedies sought were similar in effect.
+In those circumstances it was unlikely he would have given leave, especially
+when he realised that Mr Briggs had already submitted voluntarily to the
+draw-down system.
+The second main ground for the application to set aside was Mr Colman's
+abandonment of the essential case by which the Names had been successful.
+Before Mr Justice Potts, counsel had argued that the Lloyd's regulators had
+used their discretionary powers contrary to the policy and objects of the
+private Act which vested them with their statutory powers, in particular the
+Lloyd's Act 1871, section 10.
+Mr Colman sought to have the application treated as though founded on a
+wholly new case not hitherto considered.
+He contended that although there was no overriding duty owed by Lloyd's to
+the Names, it owed different duties to different groups - policyholders,
+brokers, agents and names - and that it was its responsibility to strike a
+balance between the duties owed so as to protect the interests of each
+group.
+But it was unclear why and in what respects the cash call system
+demonstrated such failure to look out for the interests of Names as to
+attract judicial review.
+No bad faith was imputed; there had been no failure to exercise statutory
+power fairly; Lloyd's had not paid regard to irrelevant considerations or
+failed to pay regard to relevant considerations; its decision had not been
+made with manifest unreasonableness; and there had been no failure to
+observe proportionality.
+Since the main ground on which leave was obtained had been abandoned, unless
+the court were to exercise its discretion with untoward beneficence, the
+leave thus obtained must be set aside.
+The third ground for applying to set aside was that the names' motion was
+doomed to failure or was not seriously arguable.
+Mr Colman argued that Lloyd's had by its conduct under its 'old system'
+given rise to a legitimate expectation in the minds of Names that the same
+specificity in the sums of money required by cash call statements and the
+same 30-day notice to draw-down, as opposed to the revised practice of
+accelerated draw-down, would continue to be given.
+None of the Names was shown to have conducted himself in consequence of his
+knowledge of the old practice, or on an assumption that it would continue.
+Styling the Names' complaints as 'legitimate expectations' did not so alter
+their character as to permit the invocation of public law remedies by way of
+judicial review.
+The fourth ground for applying to set aside was that, because the rights
+relied on and the remedies invoked were not in truth matters of public law,
+Lloyd's was not in this context amenable to judicial review.
+Even if Lloyd's did perform public functions - for example, for the
+protection of policyholders - the rights relied on in the present
+proceedings related exclusively to the contract governing the relationship
+between Names and their members' agents, and in some instances their
+managing agents.
+That had nothing to do with public law.
+Lloyd's operated within one section of the market. Its powers were derived
+from a private Act which did not extend to any persons in the insurance
+business other than those who wished to operate in the section of the market
+governed by Lloyd's, and who committed themselves by contract.
+Neither the evidence nor the submissions suggested that there was such a
+public element about the relationship between Lloyd's and the Names as to
+place it within the public domain and render it susceptible to judicial
+review.
+Most of the submissions made by Lloyd's in seeking to set aside, led to the
+same conclusion - for a variety of reasons Mr Justice Potts would not have
+granted leave had he been told what he should have been told about the
+earlier proceedings.
+Leave to apply for judicial review was set aside.
+For Lloyd's: Gordon Pollock QC, Mark Havelock-Allan and Alison Foster
+(Lloyd's solicitors)
+For the names: Anthony Colman QC (who did not appear in the court below) and
+Richard Gordon (Bentleys Stokes & Lowless)
+
+The Financial Times
+
+
+London Page 14
+
+920729
+

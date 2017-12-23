@@ -1,0 +1,139 @@
+FT921-14319
+
+FT  16 JAN 92 / Technology: Pen is mightier than the board - Computers
+without keys are proving their worth in business and industry
+
+
+   By DELLA BRADSHAW
+
+
+For many businesses the laptop computer represents the latest in blue-sky
+technology - of a piece with nuclear fusion or rocket research. No so at the
+London & Edinburgh Insurance Group, where the most sophisticated laptops are
+already been edged towards the door.
+They look set to be ousted by pen-based computers, electronic tablets
+reminiscent of a Victorian school slate, complete with a stylus or 'pen'.
+The insurance company is using them for assessing the damage claims made by
+garages for the repair of crashed vehicles. 'We hope generally to save time
+and money,' says Clive Fletcher, claims director at London & Edinburgh.
+At the moment when London & Edinburgh engineers visit the repair centre they
+take a laptop computer and a sheaf of report forms which represent the
+vehicle diagrammatically in an exploded form. The assessor notes the
+sections of the damaged vehicle which need replacing and marks sections on
+the report forms.
+Code numbers referring to each part are then typed into the laptop and the
+data are sent over a communications link to a mainframe computer belonging
+to Audatex, the Watford-based vehicle damage assessment company. The
+mainframe calculates the cost of parts and repairs, even down to items such
+as whether the paintwork is matt or metallic. This repair cost is then sent
+back to the laptop.
+The time-consuming part of the operation is transferring the data from the
+worksheets into the laptop. Geoffrey Sharp, chief staff motor engineer at
+London & Edinburgh, hopes the pen-based machines will do away with that
+duplication. 'We're engineers and although we've taken to keyboard skills
+quite well, we're still not that quick at it.'
+Instead of the worksheets, the trials have put Gridpad pen-based machines,
+from Victor Technologies, part of the Tandy group, into the hands of the
+assessors. Displayed on the screen are the expanded vehicle diagrams. But by
+touching individual components of the car on the screen with the pen, the
+machine automatically records the parts that need replacing. That data can
+then be sent over the communications line directly from the hand-held
+machine.
+Sharp believes that the drawbacks in the system are more with the software
+than the hardware - London & Edinburgh is looking at systems from both Grid
+and the US computer company NCR. In particular, it has proven impractical to
+put diagrammatic descriptions of every car on the market on to the Audatex
+software.
+Each expanded diagram takes up about 700 kilobytes of memory, says Alex
+Leonard, managing director of Audatex. Audatex is now supporting 32 vehicle
+models on the Gridpad, which includes more than 1,100 derivatives and
+accounts for about two thirds of the cars on UK roads.
+But, says Leonard, repairers should choose about 15 of the cars that they
+repair most frequently and keep copies of the appropriate diagram on floppy
+discs. 'For example, a Porsche dealer is unlikely to want to repair a Ford,'
+he says.
+Bill Clough, president of Microslate, the Montreal-based pen computer maker,
+believes the only answer to memory limitation is to use CD-Roms (compact
+disc read only memory). Then when an accident assessor visits, say, a Ford
+garage he or she could insert the Ford disc, and replace that with a Toyota
+disc if visiting a Toyota repair centre.
+In North America Microslate is targeting blue-collar workers with its pen
+computer - delivery men, warehouse overseers, or retail floor staff. 'This
+is because in the US the white-collar market is 95 per cent saturated with
+computer technology,' says Clough. 'The blue-collar workforce is only 11 per
+cent saturated.'
+In Europe manufacturers take a different view, says Alasdair Macgregor, UK
+marketing manager for workstation systems at NCR. 'Initially we're aiming at
+the mobile white-collar worker. That is where most corporations can get the
+best return on their investment.' Included on Macgregor's list of
+professions, which he describes as 'very, very, very varied' are engineers,
+insurance personnel, doctors and even architects.
+One software developer working with NCR to produce a package for architects
+and surveyors is SurvSoft, of Weston-Super-Mare. The company expects to have
+a system on the market before the middle of this year to aid surveyors when
+they are called in to refurbish buildings.
+The SurvSoft software, now in the final testing stage, contains a visual
+collection of building components - walls, floors, ceilings, wiring and so
+on. By touching the appropriate component with the pen, the surveyor can put
+them together to give an accurate representation of the building in what
+Pitman calls 'two and a half D' - the height, length and depth are included
+but the diagram has no true perspective. The appropriate measurements are
+inserted by calling up a calculator pad on the screen and then indicating
+the appropriate figures.
+Pitman points out that at Pounds 4,500 for the hardware and software
+combination the equipment costs about the same as surveying of a high-street
+premises. 'As it doubles the speed of the survey we believe it pays for
+itself after just two surveys,' he says.
+Such applications could speed the acceptance of pen-based systems, says
+Chris Fell, an analyst at information technology research group Dataquest.
+'It's an applications- driven market,' says Fell.
+'In the past company X has come out with a wonderful new box and people have
+bought it. That is no longer the case. Now people see they can get by with
+all the equipment they've got and that is one reason why we have seen a fall
+in the personal computer market,' he adds.
+The software developed by SurvSoft relies on the surveyor only to use the
+pen to highlight pictures and figures - no keyboard is needed, nor does the
+surveyor have to write information on the pad. Fell refers to this category
+of machines as pen and notebooks, and believes this will be the first stage
+in the development of the technology.
+The second stage will be true 'slates' on to which the user can scribble
+words which the system will be able to recognise. Fell predicts it will be
+1994 before such systems become reliable enough to find widespread
+acceptance. However some small handwriting recognition elements are already
+proving useful.
+A further factor which could inhibit the growth of the market is the choice
+of operating system for the pen systems. SurvSoft, for example, uses
+'windows' software, enabling the software developer to put pictures or
+'icons' on the screen. This approach is being pushed by Microsoft with its
+Pen Windows adaptation of the popular Windows software environment.
+Although this will enable users to adapt Windows applications for use on
+pen-based systems, many believe its lifespan will be limited because it is
+merely the adaption of a desk-top operating system for use with a hand-held
+machine.
+More promising in the longer-term, believes Fell, is the Penpoint operating
+system developed by Go, the California start-up company, specifically for
+pen-based portables.
+Whatever the outcome, many believe that the emerging pen technology could be
+the next revolution in computing. 'I think this is a piece of technology
+which is really here to say,' says London & Edinburgh's Fletcher. 'Not just
+in our industry but in many others as well.'
+ ----------------------------------------------------------------------
+FORECAST FOR PEN-BASED COMPUTERS
+ ----------------------------------------------------------------------
+Total Europe
+'000 units       1992     1993     1994     1995    1996    1997
+ ----------------------------------------------------------------------
+Pen/note            5       40      185      520   1,050   1,720
+Slate              10       30       85      575     860   1,115
+Total              15       70      270    1,095   1,910   2,835
+ ----------------------------------------------------------------------
+Source: Dataquest (January 1992)
+ ----------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page 13 Illustration (Omitted).
+
+920116
+

@@ -1,0 +1,65 @@
+FT922-4413
+
+FT  05 JUN 92 / Survey of Vehicle Manufacturing Technology (11): Rapidly
+evolving - Materials handling
+
+
+   By CHRIS BARRIE
+
+
+ABOUT 10,000 components make up an average car and they all have to be
+brought to the right area of the production line at the right time.
+Once on the production line, the components have to be moved from one
+assembly station to the next at a given speed and often be positioned with
+great accuracy.
+The materials handling equipment designed to do this ferrying has evolved
+rapidly as the demands made of it have become greater. Production lines are
+having to make a greater variety of car models, requiring a more complex mix
+of parts. Simultaneously, production managers are reducing stock holdings,
+demanding more frequent delivery to the lineside to more precise timing.
+The traditional method of transferring parts to the line is to use people,
+forklift trucks and towed trollies. The system needs to be flexible and
+fast, and it is hard to foresee how sophisticated automation will replace
+it. But the other aspects of car production are more heavily automated.
+There are three types of equipment in widespread use:
+Automatic guided vehicles. AGVs were bought in large numbers five years ago
+by some companies, especially General Motors and Volvo. They are flexible,
+quiet and extremely effective in certain applications. But the surge of
+interest in the early days of the technology has led to a reappraisal of AGV
+use within the car industry - and some disenchantment.
+Volvo's engine factory in Skovde has more than 260 AGVs. According to Mr
+Greger Lundesjo, managing director of supplier BT Rolatruc Systems, the
+application suits the technology because the Swedish place a high value on
+working environment and because Volvo has a sound understanding of the
+technology.
+AGVs are expensive, but the numbers can be matched to production increases
+to avoid high start-up costs. AGVs can also be effective when used for
+complex operations that are best carried out off the main production line:
+Mercedes-Benz uses AGVs for certain assembly operations, feeding the
+completed assemblies back into the main line which runs free of potential
+interruptions.
+Chain conveyors. The traditional method of moving car bodies down a
+production line will continue for years despite competition from more
+sophisticated alternatives. The Japanese car companies are replacing many
+basic conveyors to reduce noise and improve working conditions to offset
+recruitment difficulties. But cost and noise reduction measures will ensure
+this type of conveyor is bought by many plants in future.
+Self-propelled monorail carriers. More expensive than traditional conveyors,
+these lines will deliver large components or car bodies to a predetermined
+pattern. The parts or bodies travel on powered trollies, their movement
+tracked by computer.
+The Japanese car factories are turning to these systems to replace old chain
+conveyors. The systems are often used to feed a principal production line
+that is less flexible and has to be kept running at constant speed.
+Because of the sophistication of the production process and different
+priorities, car companies will choose a mix of materials handling equipment
+in future rather than be wooed by one-stop solutions.
+The author is the editor of The Engineer
+
+The Financial Times
+
+
+London Page IV
+
+920605
+

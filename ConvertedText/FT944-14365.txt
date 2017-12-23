@@ -1,0 +1,36 @@
+FT944-14365
+
+FT  24 OCT 94 / Intel wins injunction over clone
+
+
+   By LOUISE KEHOE
+
+
+   SAN FRANCISCO
+
+
+Intel, the world's largest semiconductor manufacturer, has won an injunction
+forcing a halt to shipments of clones of its microprocessors made by
+Advanced Micro Devices, a rival US chip maker. The court order will not take
+effect, however, until mid-January by which time AMD claims that it will be
+ready to ship new versions of its microprocessors with the offending
+software 'microcode' expunged. The injunction follows a ruling this month
+that AMD microprocessors contain 'microcode' software that infringes an
+Intel copyright. The case is the latest is a decade of legal battles between
+the semiconductor industry rivals.
+With its Intel-compatible microprocessors, AMD has gained about 6 per cent
+of the market, while Intel supplies about 90 per cent of all microprocessors
+used in personal computers. AMD's largest customer is Compaq Computer, the
+PC market leader. Intel said it will seek damages for all shipments of AMD's
+microprocessors that contain the infringing microcode. The court has yet to
+rule on damages. The judge has, however, effectively given AMD a reprieve by
+allowing the chip maker to meet orders for its microprocessor chips until
+January 15.
+
+The Financial Times
+
+
+London Page 3
+
+941024
+

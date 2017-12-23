@@ -1,0 +1,276 @@
+FT924-993
+
+FT  21 DEC 92 / Why recovery may depend on higher bank margins
+
+
+   By EDWARD BALLS
+
+
+THE COMBINATION of accumulating bad debts, vocal complaints from small
+businesses and a chancellor who is determined to ensure that all interest
+rate cuts are passed directly to borrowers has made this a trying year for
+Britain's banks. But, however justified it may be to criticise the
+competence of UK bankers, their willingness and ability to lend will be a
+central determinant of the pace of economic recovery next year. Whether
+Britain's banks are able to start lending again soon may depend on whether
+they are able to ignore Mr Norman Lamont's strictures.
+Two items of economic news in the UK last week confirm the banks'
+difficulties. On Thursday, Barclays bank announced a record Pounds 240m
+write-off to cover property-related losses on loans made at the height of
+the late 1980s boom. On Friday, the Bank of England announced that
+commercial bank lending in November fell, unexpectedly, by Pounds 600m.
+Nor are these problems peculiar to Britain, as the OECD acknowledged in its
+latest gloomy economic outlook. Commercial banks in the US and Japan, as
+well as in the UK, lent too much too cheap in the late 1980s to risky
+property-related ventures, many of which have subsequently collapsed along
+with the land and property prices upon which their financial health
+depended. The banks are still trying to repair the damage to their balance
+sheets.
+This asset price collapse has bitten deep into the profits of the commercial
+banks. The average rate of return on total assets of US banks was 0.73 per
+cent in 1990-91 compared to 0.83 per cent in 1981-89. The average return
+earned by UK banks was also 0.83 per cent in 1981-89 but has since fallen to
+0.56 per cent in 1990-91, while the average return earned by Japanese banks
+has slipped from 0.62 per cent to 0.40 per cent over the same period.
+Commercial banks in all three countries have responded to this fall in
+profitability by contracting credit growth. The charts, taken from the OECD
+outlook, show the collapse in the growth of bank lending in all three
+countries since 1989, particularly in the US and UK where credit has been
+contracting this year.
+Yet it is the rise in UK bank margins on existing loans, not the
+unwillingness of the banks to make new loans, that has aroused the
+chancellor's ire. Barclays and National Westminster have both raised the
+average margin over the base lending rate that they charge to small business
+from 3.1 percentage points 18 months ago to 3.5 percentage points today.
+Are the UK banks behaving unfairly? The mark-up over the base lending rate
+of UK banks is certainly bigger than that of US banks, and has risen
+further. Mr Christopher Snyder, president of the Loan Pricing Corporation, a
+New York-based financial information company, says that the average mark-up
+over the prime lending rate for middle market loans is 1.35 percentage
+points, while smaller and less credit worthy borrowers might face a 2
+percentage point mark-up. He estimates that this mark-up has risen by about
+0.3 percentage points over the past two years.
+Yet this comparison between mark-ups is puzzling because UK bank profits are
+both smaller and have fallen further than in the US. It is also misleading.
+For the US banks have been encouraged by the Federal Reserve to rebuild
+their balance sheets through a more direct means. While the Fed has reduced
+US short-term interest rates to half UK levels by cutting the rate at which
+it lends to commercial banks, the gap between the prime rate and the Fed
+Funds rate has risen by 1.5 percentage points over the last two years, as
+the chart shows. In the UK, by contrast, the gap between the base overdraft
+rate and the money market rate is both much smaller - 0.5 percentage points
+compared to over 2.5 percentage points in the US - and has been falling
+recently.
+So while the average US bank mark-up over prime is smaller than the mark-up
+over the base lending rate in the UK, US banks margins over market interest
+rates are both larger and have risen more than in Britain. And the US has a
+recovery.
+ -----------------------------------------------------------------------
+INTERNATIONAL ECONOMIC INDICATORS: PRICES AND COMPETITIVENESS
+ -----------------------------------------------------------------------
+Yearly figures are shown in index form with the common base year of
+1985. The real exchange rate is an index throughout; other quarterly
+and monthly figures show the percentage change over the corresponding
+period in the previous year and are positive unless otherwise stated.
+ -----------------------------------------------------------------------
+                              UNITED STATES
+ -----------------------------------------------------------------------
+                                                      Unit       Real
+                  Consumer    Producer               labour    exchange
+                   prices      prices    Earnings     costs      rate
+ -----------------------------------------------------------------------
+1986               101.9        98.6      102.2       99.4       76.5
+1987               105.6       100.7      103.8       96.7       65.4
+1988               109.9       103.2      106.9       98.1       61.8
+1989               115.2       108.5      110.0       98.9       65.5
+1990               121.5       113.8      113.8      100.9       60.9
+1991               126.6       116.3      117.3      103.5
+3rd qtr. 1991        3.9         1.9        3.2        2.4       62.0
+4th qtr. 1991        3.0        -0.2        2.9        1.7
+1st qtr. 1992        2.9         0.4        2.6       -0.1
+2nd qtr. 1992        3.1         1.3        2.9       -0.5
+3rd qtr. 1992        3.1         1.6        2.3       -0.1
+December             3.1        -0.1        2.6        0.7       na
+January 1992         2.6        -0.4        1.7        0.7       na
+February             2.8         0.6        3.5       -0.1       na
+March                3.2         1.1        2.6       -0.7       na
+April                3.2         1.1        3.4       -0.6       na
+May                  3.0         1.1        2.6       -0.6       na
+June                 3.1         1.6        2.6       -0.3       na
+July                 3.2         1.7        1.7       -0.2       na
+August               3.2         1.5        2.6       -0.5       na
+September            3.0         1.6        2.5        0.3       na
+October              3.2         1.7                  -0.2       na
+November             3.0         1.3                             na
+ -----------------------------------------------------------------------
+                                    JAPAN
+ -----------------------------------------------------------------------
+                                                      Unit       Real
+                  Consumer    Producer               labour    exchange
+                   prices      prices    Earnings     costs      rate
+ -----------------------------------------------------------------------
+1986                100.8       95.3      101.4      103.3      131.0
+1987                101.2       92.5      103.1      100.6      131.6
+1988                102.2       92.3      107.8       96.2      140.3
+1989                104.9       94.2      114.0       96.1      132.2
+1990                108.2       95.7      120.1       98.2      114.8
+1991                111.8       97.3      124.4      101.7
+3rd qtr. 1991         3.3        1.7        3.3        3.7      125.3
+4th qtr. 1991         3.2        0.0        3.2        6.0
+1st qtr. 1992         2.1       -0.6        2.5        8.2
+2nd qtr. 1992         2.6       -0.7        2.4        8.7
+3rd qtr. 1992         2.0       -0.8
+December              3.0       -0.1        3.5        5.9       na
+January 1992          2.1       -0.6        4.6        7.9       na
+February              2.2       -0.6        1.2        6.9       na
+March                 2.2       -0.7        1.7        9.8       na
+April                 2.8       -0.7        1.3        8.7       na
+May                   2.3       -0.7        1.1       11.8       na
+June                  2.5       -0.7        3.8        5.7       na
+July                  2.0       -0.7        2.3        8.8       na
+August                1.8       -0.8       -1.5                  na
+September             2.2       -0.7                             na
+October               1.2                                        na
+November              0.6                                        na
+ -----------------------------------------------------------------------
+                                  GERMANY
+ -----------------------------------------------------------------------
+                                                      Unit       Real
+                  Consumer    Producer               labour    exchange
+                   prices      prices    Earnings     costs      rate
+ -----------------------------------------------------------------------
+1986                99.9        97.5      103.8       104.0     110.2
+1987               100.1        95.1      108.0       107.0     123.9
+1988               101.4        96.2      113.0       107.0     125.3
+1989               104.2        99.3      117.3       108.0     121.0
+1990               107.0       101.0      123.8       110.0     125.0
+1991               110.7       103.4      131.8       115.0
+3rd qtr. 1991        4.1         2.8        na        4.6     122.7
+4th qtr. 1991        4.0         2.4        na        6.6
+1st qtr. 1992        4.3         2.0        na        4.5
+2nd qtr. 1992        4.5         2.0        na        3.8
+3rd qtr. 1992        3.5         1.0        na
+December             4.2         2.6        6.4         9.0      na
+January 1992         4.0         1.6                    4.5      na
+February             4.3         2.0                    3.6      na
+March                4.8         2.5                    5.4      na
+April                4.6         1.9                    5.4      na
+May                  4.6         2.0                    1.7      na
+June                 4.2         2.0                    4.3      na
+July                 3.3         1.1                    8.9      na
+August               3.5         1.1                    5.2      na
+September            3.6         0.8                             na
+October              3.7         0.5                             na
+November             3.7         0.5                             na
+ -----------------------------------------------------------------------
+                                 FRANCE
+ -----------------------------------------------------------------------
+                                                      Unit       Real
+                  Consumer    Producer               labour    exchange
+                   prices      prices    Earnings     costs      rate
+ -----------------------------------------------------------------------
+1986               102.5        97.2      104.5       101.5     102.3
+1987               105.9        97.8      107.8       103.0     102.6
+1988               108.8       102.8      111.1       104.0      96.3
+1989               112.6       108.4      115.4       105.5      92.3
+1990               116.4       107.1      120.6       110.0      95.7
+1991               120.0       105.8      125.8       114.3
+3rd qtr. 1991        3.0        -1.5        na        2.7      91.0
+4th qtr. 1991        2.9        -3.6        na        3.6
+1st qtr. 1992        3.1        -3.0        na        0.9
+2nd qtr. 1992        3.1        -1.1        na
+3rd qtr. 1992        2.7        -0.9        na
+December             3.1         na       4.1         na      na
+January 1992         2.9         na        -          na      na
+February             3.0         na        -          na      na
+March                3.2         na       3.6         na      na
+April                3.1         na        -          na      na
+May                  3.1         na        -          na      na
+June                 3.0         na       3.8         na      na
+July                 2.9         na        -          na      na
+August               2.7         na        -          na      na
+September            2.6         na       3.5         na      na
+October              2.4         na        -          na      na
+November             2.1         na        -          na      na
+ -----------------------------------------------------------------------
+                                  ITALY
+ -----------------------------------------------------------------------
+                                                      Unit       Real
+                  Consumer    Producer               labour    exchange
+                   prices      prices    Earnings     costs      rate
+ -----------------------------------------------------------------------
+1986               106.1       100.2      104.8       102.6     101.5
+1987               111.0       103.2      111.6       105.6     102.3
+1988               116.5       106.8      118.4       109.8     101.6
+1989               124.2       113.1      125.6       112.1     107.2
+1990               131.8       117.8      134.7       118.8     113.7
+1991               140.3       121.7      147.9       131.2
+3rd qtr. 1991        6.4         3.1       10.7        12.8     114.3
+4th qtr. 1991        6.1         2.1       10.6        12.7
+1st qtr. 1992        5.6         1.4        9.2
+2nd qtr. 1992        5.5         2.0        6.0
+3rd qtr. 1992        5.2
+December             6.0         1.9       10.4         na      na
+January 1992         6.1         1.3        9.4         na      na
+February             5.3         1.5        9.1         na      na
+March                5.5         1.4        9.1         na      na
+April                5.5         1.8        8.8         na      na
+May                  5.7         2.1        4.6         na      na
+June                 5.4         2.1        4.7         na      na
+July                 5.4         1.9        4.0         na      na
+August               5.2         3.5                    na      na
+September            5.1                                na      na
+October              4.9                                na      na
+November             4.8                                na      na
+ -----------------------------------------------------------------------
+                               UNITED KINGDOM
+ -----------------------------------------------------------------------
+                                                      Unit       Real
+                  Consumer    Producer               labour    exchange
+                   prices      prices    Earnings     costs      rate
+ -----------------------------------------------------------------------
+1986               103.4       104.3      107.7       104.5      93.3
+1987               107.7       108.3      116.3       105.9      91.3
+1988               113.0       113.2      126.2       108.9      97.5
+1989               121.8       119.0      137.2       113.6      96.4
+1990               133.3       126.0      150.1       123.2     102.3
+1991               141.2       133.0      162.4       133.6
+3rd qtr. 1991        4.8         5.5        7.8         6.3     107.0
+4th qtr. 1991        4.2         5.0        7.8         4.4
+1st qtr. 1992        4.1         4.5        8.6         4.1
+2nd qtr. 1992        4.2         3.6        5.9         1.6
+3rd qtr. 1992        3.6         3.5        6.2         1.9
+December             4.5         4.8        7.2         3.9       na
+January 1992         4.2         4.5        7.5         4.8       na
+February             4.1         4.4        7.8         2.3       na
+March                4.0         4.5       10.3         5.3       na
+April                4.3         3.8        5.0         0.1       na
+May                  4.3         3.5        7.0         2.7       na
+June                 3.9         3.6        5.9         2.0       na
+July                 3.7         3.6        6.2         3.1       na
+August               3.6         3.4        6.5         1.9       na
+September            3.6         3.4        5.7         0.8       na
+October              3.6         3.3        6.4         0.4       na
+November             3.0         3.3                              na
+ -----------------------------------------------------------------------
+Statistics for Germany apply only to western Germany. Data supplied by
+Datastream and WEFA from national government and IMF sources. Consumer
+prices: not seasonally adjusted. Producer prices: not seasonally adjusted,
+US - finished goods, Japan - manufactured goods, Germany - industrial
+products, France - intermediate goods, Italy - total producer prices, UK -
+manufactured products. Earnings index: not seasonally adjusted, refers to
+earnings in manufacturing except France and Italy (wage rates in industry).
+Hourly except Japan (monthly) and UK (weekly). Unit labour costs: seasonally
+adjusted, measured in domestic currencies. Germany - mining and
+manufacturing, other countries - manufacturing industry. Real exchange rate:
+IMF real effective exchange rate based on relative unit labour costs
+(non-normalised). A fall in the index indicates improved international
+competitiveness.
+
+The Financial Times
+
+
+London Page 4
+
+921221
+

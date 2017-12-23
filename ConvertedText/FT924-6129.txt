@@ -1,0 +1,78 @@
+FT924-6129
+
+FT  23 NOV 92 / Risk and Reward: Borrowers take a chance on 'diffs' as
+swaps' allure dims
+
+
+   By TRACY CORRIGAN
+
+
+TOUGH conditions in the swaps market have made it harder than ever for
+companies to borrow cheaply, encouraging some to opt for more radical
+solutions. In the process, some companies - and their financial
+intermediaries - are taking on substantially bigger risks.
+During the 1980s, companies were able to borrow at levels well below the
+London interbank offered rate (Libor) by swapping the fixed-rate money they
+raised through bond offerings into floating-rate financing. Now, only the
+best-rated borrowers can hope to do this.
+Falling US interest rates have squeezed the availability of swaps in the
+dollar market. Borrowers have been unwilling to lock themselves into
+fixed-rate interest costs, while rates are expected to ease further. The
+result: fewer people willing to pay the fixed-rate leg of a swap agreement.
+Other factors have also contributed to the decline in the swap market's
+attractions. The growing sophistication of investors and intermediaries and
+a breakdown of the barriers between domestic markets have eroded the
+opportunities for arbitrage between markets. At the same time, bond and swap
+markets have become tightly linked, so that price movements in one are
+quickly transmitted into the other.
+'Swaps and bonds have become much more closely correlated. Those who want
+cheap funding are now having to take risks to get it,' said Mr Nick Burge,
+executive director at Nomura International.
+The most successful product this year has been the differential or 'diff'
+swap, also known as the 'quanto' swap, which allows a borrower to separate
+currency and interest rate exposure, by paying interest rates based on one
+currency while taking the currency risk of another.
+For example, a company with D-Mark liabilities, paying say 8 per cent
+interest, may look enviously at dollar rates of 3 1/2 per cent. Under a
+differential swap agreement, the company agrees to receive D-Mark Libor in
+D-Marks, and to pay a margin over dollar Libor in D-Marks.
+The structure takes advantage of different-shaped yield curves to create
+immediate cost savings for the borrower. Such an agreement typically runs
+from three to five years, so the borrower is essentially betting that the
+shift in interest rates will be slower than the yield curve suggests.
+'There are monetary policy pressures to keep short-term interest rates low,
+and supply fears to keep rates high at the long end (of the dollar market),'
+says Mr Ron Tanemura, head of fixed-income derivatives products at Salomon
+Brothers.
+The risk for the company is that if US interest rates rise or D-Mark
+interest rates fall more quickly than expected, planned cost savings could
+soon be replaced by losses. Because it is more complicated than a
+conventional swap, a diff swap is also more difficult to unwind.
+The financial intermediary assumes substantially greater risk than in a
+normal swap. Currency risk, artificially separated from interest rate risk
+in this way, is very difficult to hedge, since there is no direct
+correlation between currency and interest rate movements.
+'Diff swaps are more difficult to manage than a straightforward swap,' says
+Mr Malcolm Basing, who heads the International Swaps Dealers Association.
+'It's not something you can put into the top drawer and forget about.'
+Diff swaps require what is known as dynamic hedging, which means that hedges
+must be constantly adjusted in line with the latest market moves.
+Even then, there is the risk that assumed correlation between interest rates
+and currencies will suddenly disappear.
+According to swap specialists, the structure of differential swaps is now
+widely understood, but the methods of hedging residual exposure remain
+proprietary.
+Diff swap technology has also been applied to suit investors' requirements.
+Credit for the concept is claimed by Credit Suisse Financial Products, which
+began marketing diff swaps to Japanese investors in early 1991.
+There could be room for further product expansion. According to Mr Chris
+Goekjian, head of risk management at CSFP, it may be that 'not all the
+applications (of diff swap technology) have been developed yet.'
+
+The Financial Times
+
+
+London Page 20
+
+921123
+

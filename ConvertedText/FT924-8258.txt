@@ -1,0 +1,103 @@
+FT924-8258
+
+FT  12 NOV 92 / International Capital Markets: Edgar to tackle the paper
+mountain - Patrick Harverson reports on the installation of the SEC's
+electronic filing system
+
+
+   By PATRICK HARVERSON
+
+
+Every year the Securities and Exchange Commission (SEC) is deluged with an
+estimated 10m pages of documents filed by US and foreign corporations and
+investment companies. The documents cover everything from share prospectuses
+to detailed earnings reports and data on stock ownership.
+And each year the time-consuming and inefficient system the SEC uses to
+assemble the mountain of paper, examine its contents and distribute the
+information to the public, becomes ever more costly to maintain, threatening
+to undermine the agency's ability to effectively regulate the industry.
+Now, after more than nine years and Dollars 70m in the making, a new
+electronic filing system is ready to revolutionise the way corporate
+information is disseminated in the US.
+The new system, called Electronic Data Gathering, Analysis and Retrieval, or
+Edgar for short, will allow companies to electronically file the 300 or so
+different forms required by the SEC. Edgar will also enable the SEC, headed
+by Mr Richard Breeden since 1989, to assemble and examine via computer the
+information in those forms. It will also allow public access to all
+SEC-filed corporate documents via computer databases.
+The idea behind Edgar is that it will make it easier and quicker for
+companies to file documents to the authorities (an IBM-compatible personal
+computer is the only technology that companies will need). It will also cut
+the cost and time the SEC spends handling the information, and widen public
+access to it.
+So far only a few hundred companies have volunteered to file electronically
+via Edgar, but by the middle of next year mandatory filing will begin, and
+if everything goes to schedule, the 14,000 or so companies that regularly
+file with the SEC will all be using the system by mid-1996 .
+Yet in spite of its obvious usefulness, Edgar has been dogged by controversy
+throughout its nine-year life. Criticisms have concentrated on the cost and
+time it has taken to build the system, and on the lack of public access to
+the information it collects.
+Edgar's life started in 1983 when an SEC staffer wrote a paper recommending
+automating the filing process. A prototype version was built the following
+year. The original plan was for the pilot system to last two years, but it
+lasted until this summer, when it was replaced by the operational system.
+The project fell badly behind schedule primarily because of a fight over
+funding. The SEC originally wanted Edgar to pay for itself by charging firms
+to subscribe to the system, but Congress, always reluctant to cede control
+of the purse-strings on government projects, insisted otherwise.
+After much debate, it was agreed the public dissemination sub-system - the
+part that allows vendors to sell the information gathered on Edgar to the
+public - would be the only element financed privately. The rest of the money
+would come from the public purse.
+Deciding who should build Edgar also slowed things down. The task of running
+the pilot system was originally given to Arthur Andersen, but in late 1987
+the SEC decided it needed a new contractor for the operational system.
+Changing horses midstream, however, led to wrangles over the choice of the
+new contractor, and further delays. After a detailed and lengthy review
+process, the job of developing the operational project was awarded in early
+1989 to a five-company consortium consisting of BDM International, Bowne &
+Co, CompuServe, Disclosure Inc and Mead Data Central.
+When the new contractors were chosen, the SEC hoped Edgar would be ready by
+the end of 1990. But further problems set the date back. The biggest single
+reason for the delay was the SEC's insistence on adding to an ever-expanding
+list of rules and requirements for Edgar users.
+In a report by the General Accounting Office (GAO) released in September,
+the SEC was severely criticised for continually changing the list of user
+requirements. The original list of 350 requirements in 1989 ballooned to
+1,000 by the start of this year.
+The GAO said the SEC failed to exercise 'top management oversight' to
+control the rapidly expanding list of functional changes in the system.
+Mr John Penhollow, director of planning and administration in the SEC's
+office of information technology, says reaching a consensus on the
+requirements was difficult: 'It took a long time to get agreement on
+requirements, but it is unrealistic for any agency that is building a system
+of this magnitude and complexity to believe that any one group of people can
+write down all the requirements that should be included.'
+Development of the Edgar project has also been interrupted by the complaints
+of consumer groups, who have argued that the cost of gaining access to the
+information on the system will be prohibitively expensive.
+Critics argue that access to Edgar would be limited to a few terminals in
+reading rooms in three cities - New York, Chicago and Washington DC  - and
+that charges levied by vendors of Edgar information will put the information
+out of reach to the general public.
+The delays have inevitably pushed up Edgar's costs. In 1989 it was
+originally estimated the system would cost Dollars 51.5m. This summer that
+figure stood at Dollars 70.2m.
+By the time the system is fully operational in 1996 (assuming there are no
+more major delays), Edgar is expected to have cost Dollars 78.3m, a 52 per
+cent increase over the initial estimate.
+Furthermore, there is no guarantee that Edgar will be ready by the target
+date of mid-1993. The SEC is still receiving and responding to comments from
+the industry on the proposed rules for Edgar that it published in August.
+Congress will also want another look at the system, to respond to questions
+about funding and public access, and given the pace at which legislative
+inquiry progresses, Edgar's troubles may not be over.
+
+The Financial Times
+
+
+London Page 30
+
+921112
+

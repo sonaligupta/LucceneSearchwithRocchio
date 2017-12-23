@@ -1,0 +1,60 @@
+FT932-7049
+
+FT  26 MAY 93 / Detection system for insider-dealing considered: Central
+computer may be used to combat market manipulation
+
+
+   By PETER MARTIN, Financial Editor
+
+
+THE Securities and Invest-ments Board is considering a new central
+'facility' to gather reports of many different types of transactions in
+individual securities and derivatives, some of which are not reported to
+regulators at present.
+Mr Andrew Large, SIB chairman, said: 'If the insider-dealing and
+market-manipulation legislation is going to work we have to have an
+intelligence system, and it's got to look at all the ways people can take a
+position.'
+The organisation is also assessing what steps to take, if any, to deal with
+the way exchanges are reacting to the challenges posed by 'non-exchanges'
+such as Reuters' Instinet service and the new Tradepoint share-dealing
+system.
+The proposal for a new facility, still at the initial stages, is mentioned
+in the Large report. 'This would significantly enhance the provision of
+vital raw material for preparing cases . . . of market manipulation and
+insider dealing,' the report says.
+The facility, which might be a central computer database, would bring
+together in the regulators' hands for the first time records of a large
+variety of transactions. In particular, it would provide details of
+transactions at present not reported to regulators, such as over-the-counter
+futures and options contracts.
+Creating a central computer system to link with many different market
+systems would be a substantial undertaking. SIB is still at the very early
+stages of considering the issue, however, and it is not clear if such a
+complex system is in fact likely to emerge from its discussions.
+The initiative has been urged by the London Stock Exchange. It also has the
+support of the Securities and Futures Association, which wants such a system
+to aid its monitoring of the capital adequacy of market participants, and to
+help it detect whether they are taking on more risks than they can afford.
+The British Merchant Bankers Association wrote to the Treasury on Monday
+saying that transaction-reporting should be expanded to aid the discovery of
+market manipulation, including in the gilt and corporate bond markets.
+The challenge to traditional exchanges is under consideration as SIB
+prepares a discussion paper on market regulation policy.
+Mr Large made it clear that he viewed transparency as a serious issue.
+'Post-trade transparency is important not just for the Stock Exchange, it is
+also important for the derivatives markets,' he said. Futures and options
+markets rely on obtaining accurate prices from cash markets.
+He added: 'Someone's got to say what level of post-trade transparency is
+acceptable.' That someone, he said, was the SIB.
+At present large share deals are published only after a delay, because
+marketmakers fear that they would be commercially vulnerable if their rivals
+could learn promptly what they were buying and selling.
+
+The Financial Times
+
+
+London Page 8
+
+930526
+

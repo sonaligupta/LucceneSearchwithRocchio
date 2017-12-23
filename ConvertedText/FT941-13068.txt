@@ -1,0 +1,47 @@
+FT941-13068
+
+FT  27 JAN 94 / Technology: Consultant's Critique - Software at work
+
+
+   By KEVIN GRUMBALL
+
+
+Although a book is a manufactured item with many sub-components, not one of
+them is re-usable. Most manufacturing control software is written for more
+traditional operations and a major consideration for HarperCollins was to
+select a package that fitted its needs. Even having selected the package
+with the most flexibility, David Thomson, HarperCollins' systems manager,
+says it has pushed Mac-Pac to its limits.
+The most interesting aspect of the new system has been the attention given
+to people. Owen
+Mitchell, business development director, spent considerable effort in
+getting his staff to see the computer system as a means to more efficient
+operation rather than as an end in itself.
+Classical change- management theory talks of a three stage process:
+'unfreezing' attitudes; the change itself; and 're-freezing' new behaviour
+patterns. Mitchell ensured that the unfreezing period minimised the feelings
+of unease that precede change. The change itself was carefully managed
+and quickly carried out. The re-freezing has been so complete that Agnes
+O'Brien, inventory planner, claimed that most people now could not even
+remember how to key in to the old system.
+One cost is the use of internal resources. Mitchell estimates that the
+Pounds 2m spent on the system has been matched by Pounds 1m of staff time.
+The returns seem to imply that it has been worthwhile. Inventory has dropped
+from Pounds 4.1m to Pounds 3.4m and lead times have halved. On-time delivery
+for paperbacks has increased
+from 50 per cent to 97 per cent. A quotation now takes about two days when
+it used to take two weeks.
+Andersen Consulting seems to have been a helpful partner in the process. It
+has insisted that HarperCollins write its own procedures. This has a twofold
+effect: first, it makes HarperCollins 'own' the result; and second, it
+reduces dependency on external consultancy.
+The author is a consultant at Software Design and Construction, of Milton
+Keynes
+
+The Financial Times
+
+
+London Page 20
+
+940127
+

@@ -1,0 +1,154 @@
+FT922-4420
+
+FT  05 JUN 92 / Survey of Vehicle Manufacturing Technology (1): Competition
+gets fiercer - Car manufacturers, in the struggle for advantage or survival,
+in one of the most harshly competitive activities, are using virtually every
+technology. This includes the development of materials, applied robotics and
+new energy applications
+
+
+   By JOHN GRIFFITHS
+
+
+THE world automotive industry of the 1990s is unique in the demands it
+places on the processes of industrial design, development and production and
+the technologies which make them possible.
+This uniqueness stems not so much from the technological sophistication of
+the product - the latest Mercedes 500 is hi-tech but hardly stands
+comparison with an Airbus - as its combination with the problems and
+complexities of manufacturing in large volumes.
+Car plants this year will produce nearly 40m vehicles. Each vehicle
+contains, on average, nearly 10,000 individual parts. In addition, the
+industry will produce more than 4m commercial vehicles. It is the world's
+largest manufacturing activity, and its most multi-faceted.
+As part of the manufacturers' struggle for advantage, or survival, in one of
+the most harshly competitive activities, the industry subsumes virtually
+every technology. This includes the development of materials, applied
+robotics and new energy applications.
+In the past few years, competition has been added to other environmental and
+legislative pressures. Cars and trucks - and there are expected to be more
+than 500m on the world's roads by the early 21st century - have become an
+enormous environmental problem.
+In endeavouring to minimise their environmental impact, the motor industry
+is exploring a broad array of actions, for example, vehicle weight-saving in
+order to improve fuel economy and alternative energy sources and recycling.
+Many of these will bring, or are bringing, change in the processes and
+technologies to what has been mainly a steel-based metal-bashing industry.
+In the area of vehicle bodies, for example, aluminium and plastic composites
+are challenging traditional steels. Both are much lighter than steel.
+Neither suffers from steel's propensity to rust.
+Audi, Volkswagen's executive car arm, is sufficiently convinced of
+aluminium's benefits to have committed its next V8 saloon to be built in
+aluminium, using a spaceframe concept in which unstressed aluminium panels
+are to be attached, possibly through bonding rather than welding.
+If such construction were to be adopted on a wide scale - by no means a
+foregone conclusion because of aluminium's high cost - there are
+implications right through the manufacturing supply line, heavily impacting
+foundries and the demand for traditional dies and stamping and pressing
+systems.
+The advent of plastic composites for body parts, similarly, is drawing in
+new processes and players. Large chemical groups such as Dow and Du Pont are
+anxious not to lose the impetus they have gained from projects such as
+General Motors' Saturn with its 240,000 cars a year capacity, in which car
+bodies are made of thermoplastics hung on a steel skeleton.
+The past three or four years has seen a spurt in the manufacturing
+technology for such materials. The industry has learned how to make plastics
+stampable into body panels and is making rapid strides in reducing the
+lengthy cycle times needed to make injection-moulded components - one of the
+material's biggest drawbacks.
+Such developments are stimulating those engaged in processing more
+traditional materials to fight back. Fritz Winter Eisengeiberie, the German
+foundries group and one of the world's biggest independent iron castings
+suppliers, has introduced a process for casting iron. It was developed by
+Professor Lennart Backerud and it is claimed that it reduces the weight of a
+casting by 30 per cent and costs by 10 per cent, with no loss of strength.
+Pressures are mounting not only to make vehicles lighter and cleaner but
+also the manufacturing processes. Nowhere has this been more apparent than
+in vehicle paint plants which use tens of millions of gallons annually.
+The industry is switching to water-based paints rather than the aromatic
+solvent-based materials which have contributed to atmospheric pollution. The
+latest generations of car plants endeavour to capture, clean or even recycle
+their manufacturing emissions.
+Opel's Russelsheim plant captures such emissions and turns them into energy
+for the plant. Volkswagen's symbol of manufacturing cleanliness has become
+famous: shoals of goldfish swimming in pools of recycled water. Specific
+manufacturing technology improvements such as these are being introduced
+within a much broader scenario of change, brought about mainly by heightened
+competition from the Japanese.
+The Japanese industry can bring a model into production in three years or
+less, compared with a typical five years or longer for most Western
+producers. Even the Japanese have begun to conclude that this might be
+overkill and that four years is a more sensible norm.
+However, while reaching this conclusion, the Japanese industry has acted to
+use the design and engineering abilities it has acquired to broaden its
+product spread and probe into an increasing number of specialist niches.
+The US industry, first in the firing line of Japanese market share
+ambitions, has been enthusiastic in its adoption of simultaneous engineering
+techniques to help it fight back.
+General Motors, in particular, appears to be reaping significant benefit
+from a system which has its origins in Japan. The concept is deceptively
+simple. All operating elements of the manufacturer are involved
+simultaneously with a new car from first concept through to the first
+vehicle coming off the production line.
+That might appear to be self-evidently the proper course - but it is not one
+that has been followed by Western producers. Instead, the typical procedure
+has been to undergo the sequential process of a team designing a vehicle,
+then forwarding the concept to the engineering division, where compromises
+are made to make driveline equipment fit.
+Subsequently, the finance division usually puts pressure on for cheaper
+components to be used in some areas, introducing more compromises. As the
+finale, the manufacturing division is then likely to point out that the
+vehicle is too difficult to make, or that additional investment will be
+needed in adapting production lines.
+However, none of it would be possible without the wealth of computer-driven
+technology. This has allowed the creation of master databases for all a
+company's divisions and even outside suppliers to work off simultaneously,
+together with the computer-aided design, manufacturing and logistics systems
+which lie at the heart of the industry.
+As Europe braces for its own era of much-increased competition with Japanese
+cars, the simultaneous engineering concept has taken swift root. Indeed, BMW
+has created perhaps the largest single research engineering centre in the
+European industry in pursuit of simultaneous engineering principles.
+Its Fiz centre in Munich, a futuristic maze of towers and multiple
+connecting walkways, houses nearly 6,000 engineers, none of whom has to walk
+more than 150 metres to talk to a colleague. It allows a first-concept
+designer easily to discuss with a production line engineer (the building
+houses prototype production lines) the manufacturing practicalities of even
+an outline design idea.
+Such are the Fiz's advantages, according to Dr Wolfgang Reitzle, head of
+research and development at BMW, that it is cutting two years from BMW's
+development cycles. The design of the building is based on the concept that,
+if physical distances between two designers or engineers are greater than
+150 metres, the easy interchange of ideas or discussion of problems is
+discouraged.
+It represents a recognition by BMW that competitiveness is as much a
+function of the proper organisation of human resources as of technology.
+Similar thinking lies at the heart of the lean production concept which,
+started by Toyota several decades ago, is seen by virtually every large car
+maker as the only way of securing the long-term future.
+Lean production, identified by a five-year study of the world car industry
+by a Massachusetts Institute of Technology team, involves using teams of
+multi-skilled workers at all levels of a company's organisation, in concert
+with highly flexible, increasingly automated machines to produce lower
+volumes of products in greater variety.
+The study concluded that with this process Western producers are hoping to
+close the production gap with Japan. For example, a US plant takes 25 hours
+to assemble a car compared with an average of 13 hours in Japan.
+It is not clear what is meant by lean production. Only last month
+Mercedes-Benz, for the first time facing real pressure from Japanese
+manufacturers, opened a new plant at Rastatt with the claim by Mr Werner
+Niefer, chief executive, that it was the most advanced car-making facility
+in the world.
+He asserts that production and management at Rastatt are lean and capable of
+cutting production costs by at least 25 per cent while ensuring quality and
+the near-abolition of traditional post-build rectification procedures. The
+lean procedures, he insists, are Mercedes' own and owe nothing to Japan.
+Rastatt will be watched closely by the industry.
+
+The Financial Times
+
+
+London Page I
+
+920605
+

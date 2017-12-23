@@ -1,0 +1,145 @@
+FT922-714
+
+FT  26 JUN 92 / FT Law Report: Enforcement case cannot be argued
+
+
+   By RACHEL DAVIES, Barrister
+
+
+AIGLON LTD AND L'AIGLON SA v GAU SHAN COMPANY LIMITED
+Queen's Bench Division (Commercial Court): Mr Justice Hirst: June 10
+1992
+A MAREVA injunction freezing a company's assets pending grant of leave to
+enforce an arbitration award against it will be discharged if there is no
+good arguable case for enforcement in that the award is a nullity as against
+the company, the arbitrators having exceeded their jurisdiction by deciding
+that it was party to the contract out of which the dispute arose.
+Mr Justice Hirst so held when proposing to grant an application by L'Aiglon
+SA (SA) to set aside a Mareva injunction and an order for disclosure of
+assets obtained against it by Gau Shan Ltd.
+(The injunction has since been continued by the judge, on fresh grounds  -
+see next Wednesday's law report. The reasoning based on enforcement
+proceedings still stands.)
+HIS LORDSHIP said the litigation arose out of the award of the Technical
+Appeal Committee of the Liverpool Cotton Association in favour of Gau Shan
+against Aiglon Ltd, an English company, and L'Aiglon SA, a Swiss company.
+On May 1 1992 Mr Justice Gatehouse granted an application by Gau Shan for
+Mareva injunctions, including an order for disclosure of assets, against
+both Ltd and SA.
+The present application was by SA only, to set aside the Mareva and
+disclosure orders as against it. Gau Shan counterclaimed as against SA under
+section 26 of the Arbitration Act 1950, for leave to enforce the award in
+the same manner as a judgment.
+The dispute arose under a contract of sale of 3,000 tonnes of Benin raw
+cotton, in which the sellers were described as Ltd, and which was signed on
+behalf of Ltd and Gau Shan.
+SA's case for discharge of the Mareva and the disclosure order was, inter
+alia, that Gau Shan were unable to show a good arguable case on the merits
+because there was no enforceable award against SA, since the Technical
+Appeal Committee did not have jurisdiction to determine whether it was party
+to the sale contract.
+The contract specified Gau Shan as buyers and Aiglon Ltd as sellers.
+Signatures were annexed under the respective headings 'Sellers - Aiglon Ltd'
+and 'Buyers - Gau Shan Co Ltd'. In the top left-hand corner of the contract
+appeared the words 'L'Aiglon Ltd'.
+The contract contained a force majeure clause which provided that sellers
+should not be responsible for non-delivery due to third parties' faults.
+No delivery took place, and Gau Shan claimed for non-delivery. The defence
+was that the force majeure clause applied due to the fault of third parties.
+The matter came before first tier arbitrators of the Liverpool Cotton
+Association.
+Their award was headed as being in an arbitration between Ltd and Gau Shan,
+by a contract between Ltd as sellers and Gau Shan as buyers. The award was
+in Gau Shan's favour. The force majeure defence was rejected.
+In their appeal submission in support of the force majeure defence, the
+sellers relied on a contract between SA and a third party for the purchase
+of cotton giving rise to the force majeure defence. The parties were
+described in the text as Ltd and Gau Shan, though in the title Ltd's name
+was preceded by L'.
+The counter submission on appeal, in relation to the force majeure defence,
+stated 'L'Aiglon Ltd are not a party to the contract in dispute' and
+referred to Aiglon and L'Aiglon as related companies.
+It was common ground that 'L'Aiglon Ltd' referred to SA, and 'Aiglon'
+referred to Ltd. Up to that stage in the proceedings, Ltd had been treated
+by both sides as sellers and were the only parties on their side to the
+arbitration.
+In paragraph 8 of their reply submissions, in the context of force majeure,
+the sellers stated 'Sellers are in fact Aiglon Ltd. For the purpose of this
+appeal there is no real distinction between the two companies. Any purchases
+by L'Aiglon SA would be utilised for the sales by Aiglon Ltd. The two
+com-panies are under the same control'.
+As a result, Gau Shan put forward supplemental appeal submissions that both
+companies should be made parties to the arbitration.
+The solicitors for SA sought to render submissions to the appeal committee
+with regard to the appellant's identity. The committee considered that the
+evidence already presented set out the position.
+The committee's award was issued on February 12 and was headed 'an
+arbitration between Aiglon Ltd/L'Aiglon SA' and Gau Shan.
+It stated 'sellers are in fact Aiglon Ltd. For the purpose of this appeal
+there is no real distinction between the two companies'.
+The award was against both Ltd and SA.
+Mr Colman submitted that for the purposes of a Mareva injunction, the
+criterion of a 'good arguable case on the merits' should be applied.
+Mr Milligan submitted that was putting the test too high. He relied on
+Nimenia (1983) 1WLR 1412,1417 where Lord Justice Kerr said 'a 'good arguable
+case' is no doubt the minimum which the plaintiff must show in order to
+cross the 'threshold' for the exercise of the jurisdiction'.
+He submitted it was sufficient for the plaintiffs to establish that their
+case on the merits was 'better than nothing'.
+That was rejected. A good arguable case test on the merits was the correct
+test, as Lord Justice Kerr made clear in referring to its being the
+'minimum' the plaintiff must show.
+Mr Colman submitted that by no stretch of the imagination could the appeal
+committee have had jurisdiction to determine whether SA were party to the
+sale contract, so that the award against SA on the footing that they were
+contractually subject to the arbitration was a nullity (Buccleuch (1870) 5
+Exch Cas 221).
+He submitted that vitiated the whole award against SA.
+Mr Milligan accepted that the principle was sound, but submitted it was
+irrelevant in the present case. He contended that in considering the
+application for enforcement of the award under section 26, it was for the
+court to decide who were parties to the contract and therefore to the
+arbitration, and that the arbitrators' decision on that topic was
+irrelevant.
+He said it was necessary under section 26 for the court at this juncture to
+evaluate the underlying evidence, and to decide who were the sellers under
+the contract.
+That interpretation of section 26 was not correct.
+The section gave the court power to enforce an award on an arbitration
+agreement in the same manner as a judgment. The detailed procedure was
+prescribed by Order 73 Rule 10.
+It was common ground that the arbitrators exceeded their jurisdiction in
+deciding that SA were party to the contract. That part of their award was a
+nullity.
+There was therefore no award to enforce so far as SA were concerned, and it
+was no part of the court's function under section 26 to salvage it by
+considering the issue as to who was party to the contract.
+Mr Milligan could not invite the court to enforce the award against SA, when
+SA only became party to it because the arbitrators chose to determine an
+issue which they had no power to determine. It was not open to the court to
+embark on an investigation of the merits to see if they came to the right
+conclusion.
+Mr Milligan's argument on this point was rejected in principle, so his
+argument on the facts became academic.
+His analysis of the evidence hinged essentially on paragraph 8 of the
+sellers' reply.
+That paragraph was directed solely to the force majeure issue and suggested
+that for that purpose there was no real distinction between the two
+companies. There was no suggestion in it that SA were also parties to the
+contract. It followed that the court would have been against Mr Milligan on
+the evidence.
+There was no good arguable case on the merits in support of the section 26
+application against SA, and the whole foundation of the Mareva and
+disclosure orders against SA disappeared. The court proposed to set them
+aside insofar as they affected SA.
+For SA: Anthony Colman and Graham Dunning (Weightman Rutherfords,
+Liverpool).
+For Gau Shan: Iain Milligan QC and Andrew Baker (Middleton Potts).
+
+The Financial Times
+
+
+London Page 14
+
+920626
+

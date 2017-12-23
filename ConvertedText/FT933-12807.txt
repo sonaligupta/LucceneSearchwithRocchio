@@ -1,0 +1,141 @@
+FT933-12807
+
+FT  22 JUL 93 / Easy option or unnecessary risk: A look at the debate
+surrounding the explosive growth of new financial instruments
+
+
+   By RICHARD WATERS
+
+
+They could be about to bring the world's financial system to its knees, or
+they could be among the most beneficial products created by the financial
+industry. The trouble is, so few people understand derivatives that the
+debate about these new-fangled instruments has hardly got beyond a handful
+of bank trading floors.
+Derivatives - the term covers futures, options, swaps and a growing array of
+more arcane products - are instruments whose value is based on some other
+asset, such as a currency, interest rate or share price. An option on a
+currency, for example, gives the holder the right to buy the currency at a
+predetermined level from the person who sold the option: if the currency
+rises on the foreign exchange markets, the value of the option will go up.
+Options like these may be used by corporate treasurers and others to hedge
+their future currency cashflows - or just to speculate.
+To their supporters, such instruments have brought new flexibility to the
+management of financial risks for companies, investors, government agencies
+and others. To their critics, they have opened a Pandora's box, creating
+complex risks that few users and traders of derivatives know how to handle.
+The financial industry had its own say yesterday in the shape of a report
+from the Group of 30, a Washington-based think-tank. It concludes that
+derivatives make a 'favourable and substantial' contribution to economic
+activity - though some banks need to think harder about how they manage the
+risks attached to derivatives.
+Other studies this year have reached a similar conclusion, including one
+from the Bank for International Settlements, the Basle-based club of central
+bankers. The view that derivatives have been generally beneficial could yet
+be challenged, however, as financial regulators, particularly in the US,
+continue to scrutinise the subject.
+Derivatives have become popular because they make it possible to hedge or
+take risks in a way that could not be done before, and because they make
+existing hedging and risk-taking cheaper. Also, by using an interest-rate
+swap, a company can change the structure of its liabilities, exchanging a
+fixed-rate liability for a floating-rate one (the entity on the other side
+of the swap - usually a bank - takes the opposite position). Such liability
+management is entirely new.
+The returns on assets can be shifted around in much the same way: a
+shareholder could swap the return on equity for the return on, say, a
+commodities index. Derivatives have thus given a whole new meaning to the
+way companies, investors and others manage their assets and liabilities.
+Derivatives have also brought down borrowing costs for large borrowers by
+making it possible for them to take advantage of pricing inefficiencies in
+different markets. For tax, regulatory or other reasons, a company may be
+able to borrow more cheaply in a currency it does not need than in one it
+does.
+The World Bank, one of the biggest borrowers internationally, raised Dollars
+3.6bn-worth of currencies for which it did not have a use in the 12 months
+to the end of June, swapping the money into the dollars, yen and D-Marks
+which it lends. This enabled it to reach a wide range of investors around
+the world, says Ms Jessica Einhorn, the bank's treasurer: 'It allows us to
+use the world's capital markets to diversify our borrowings into a pool of
+currencies, and to lock in our borrowing at a lower cost.' The bank reckons
+it saved 40 basis points (0.4 percentage point) a year in interest charges
+in the past 12 months.
+McDonald's, the US-based hamburger chain, uses the swaps market to reduce
+the cost of financing new hamburger restaurants abroad. In Denmark last
+year, a swap helped save 1.5 percentage points a year on the financing costs
+of new restaurants. Mr Carelton Pearl, treasurer, says: 'I'm just trying to
+get the lowest-cost hamburgers for our customers.'
+Thriving markets have developed in swaps and other new financial products,
+in the process creating one of the most profitable activities for the
+handful of large banks which dominate the business. In the first half of
+this year, trading profits at the biggest US banks climbed sharply, much of
+it driven by derivatives.
+Sophisticated computer systems and highly qualified staff are needed to
+price derivatives correctly and to enable the banks which sell derivatives
+to manage their own risks. This has limited the number of institutions able
+to trade, and added a premium to their efforts. Companies and investors have
+been prepared to pay the banks' big profit margins on such products for the
+benefits they convey - a clear case of a technological leap forward that has
+benefited those financial institutions which made the investment early
+enough.
+Derivatives look set to revolutionise the banking industry for other reasons
+as well. The business of taking deposits and making loans - the traditional
+credit intermediation process of banks - has declined as large companies
+have turned to the securities and commercial paper markets to raise money
+from investors directly. But by setting themselves up in the derivatives
+business, banks have been making themselves useful again to big companies.
+While loan growth has stopped or gone into reverse at most big commercial
+banks in the US and UK, there has been a steady growth in the credit risks
+taken on by banks through their derivatives activities.
+The process has been most marked at the US banks JP Morgan and Bankers
+Trust, which have moved fastest into the derivatives business. At Bankers
+Trust, off-balance sheet credit risks from derivatives now exceed loans
+recorded on its balance sheet. Bankers Trust and JP Morgan have become the
+most profitable big commercial banks in the US, making a return on equity of
+more than 20 per cent each last year. Other big banks struggled to get into
+double figures.
+It is not difficult to see why regulators have expressed concern at the pace
+of growth in derivatives. Mr Gerald Corrigan, president of the Federal
+Reserve Bank of New York, warned last year: 'High-tech banking and finance
+has its place, but it's not all it's cracked up to be . . . The growth and
+complexity of off-balance sheet activities and the nature of the credit,
+price and settlement risk they entail should give us all pause for concern.'
+The banking industry has hardly covered itself with glory in the past
+decade, stumbling from the third-world debt crisis at the start of the 1980s
+to the popping of the credit-induced bubble in property and other asset
+markets at the end of the decade. If bankers are unable to handle credit
+risks they have dealt with for generations, can they deal with the new risks
+associated with derivatives?
+In addition, the stock market crash of 1987 has left a lingering suspicion
+of high-tech trading techniques. Computer-driven 'portfolio insurance',
+which was meant to limit the risk of loss from a fall in share prices, was
+suspected of having hastened the collapse in 1987. To critics, the safety
+offered by the sort of hedging techniques used by derivatives traders could
+turn out to be just as illusory.
+There is some evidence to support this fear. Last September's currency
+crisis in the European exchange rate mechanism led some interest rate
+derivatives markets to dry up, making it impossible for derivatives traders
+to hedge the risks they were running. The financial markets had proved more
+volatile and less liquid than derivatives traders had assumed.
+Although the prospect that a bank's trading strategy will go wrong prompts
+the most frequent expressions of concern, the real danger from derivatives
+probably lies elsewhere - in the lack of an adequate infrastructure to
+support these fast-growing markets, and a shortage of people, including
+senior bank executives, who understand derivatives.
+The lack of infrastructure stems from the speed with which the markets have
+grown: the legal, accounting and regulatory framework of the financial
+markets has failed to keep up. Also, banks have put more effort into their
+'front offices' (the traders and supporting computer systems which conduct
+the business) than their 'back offices' (the administrative support
+functions such as internal valuation and reporting, and settlement).
+Without efficient administration, trading activities could founder. As Mr
+Bill Rhodes, vice-chairman of Citicorp, says: 'Very often that's the one
+thing that's missed. If there's one thing that concerns me, it's that the
+back office is set up properly.'
+
+The Financial Times
+
+
+London Page 19
+
+930722
+

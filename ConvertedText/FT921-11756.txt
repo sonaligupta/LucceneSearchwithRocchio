@@ -1,0 +1,47 @@
+FT921-11756
+
+FT  30 JAN 92 / International Company News: Motorola and Unisys strike R&D
+accord
+
+
+   By LOUISE KEHOE
+
+
+   SAN FRANCISCO
+
+
+UNISYS and Motorola have expanded their collaboration in chip technology
+development, manufacturing and design by entering a semiconductor technology
+alliance.
+Motorola, the largest US semiconductor manufacturer, is already a main
+supplier to Unisys, the US computer group. Under the new agreement, however,
+Unisys and Motorola will jointly define new chip production process and
+design technologies for customised chips to be used in future Unisys
+mainframe computer systems.
+Unisys said it would phase out its last chip-making operation, in
+California, making the company the largest computer manufacturer to rely
+entirely on outside sources for its semiconductor supplies.
+'The alliance confirms our commitment to focus our resources where we add
+unique value, and team with industry leaders in other disciplines,' said Mr
+James Unruh, Unisys chairman and chief executive.
+Under the agreement, Unisys, the third largest US computer maker, will gain
+earlier access to Motorola advances in chip design.
+Unisys will incorporate Motorola semiconductor devices into future mainframe
+computer systems, and joint engineering teams will define and develop
+semiconductor products.
+The Unisys-Motorola alliance follows an agreement between Unisys and Intel,
+announced late last year, in which Unisys agreed to standardise its open
+systems product lines on Intel microprocessors.
+The new agreement with Motorola means that Unisys will base its customised
+semiconductor requirements on Motorola technology.
+For Unisys, the semi-conductor partnerships represent a way of reducing
+development and manufacturing costs, at a time when the computer company is
+struggling to maintain profitability.
+
+The Financial Times
+
+
+London Page 25
+
+920130
+

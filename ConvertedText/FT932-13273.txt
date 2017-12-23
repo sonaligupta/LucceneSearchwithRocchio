@@ -1,0 +1,134 @@
+FT932-13273
+
+FT  23 APR 93 / FT Quarterly Review of Personal Finance - Survey of
+Investment Trusts (23): A classic ploy in a bull market - Their worth lies
+in a healthy rate of asset growth, but a repeat of their strong 1980s
+performance is unlikely / Capital Shares
+
+
+   By SCHEHERAZADE DANESHKHU
+
+
+CAPITAL SHARES of split investment trusts are traditionally branded as risky
+and volatile. Their sudden revival in the year to March follows a period of
+weakness which will have done nothing to reverse this image.
+The idea behind early split-level trusts was that one class of investor
+would receive all the income of the trust, while the others - holders of
+capital shares - would reap all the capital growth.
+Recent split-capital trusts have a more complicated structure with the
+addition of zero dividend preference shares, which have first claim on the
+assets of the trust at wind-up.
+Capital shares receive the remaining assets of the trust but, unlike zeros,
+they do not have a fixed redemption value. Their worth to investors
+therefore lies in a healthy rate of asset growth to bring a good return, and
+it is for this reason that they are regarded as classic bull-market ploy.
+Since most capital shares are geared - a modest rise in a trust's assets can
+have a major effect on their value - their strong performance over the past
+year is intertwined with the revival of the UK stock market.
+They have outperformed other classes of split-trust shares in the year to
+March. The average growth of investment trust capital shares was 11.6 per
+cent over the period, according to Finstat, but the difference between the
+top- and bottom-performing shares underlines that this is an average.
+Capital shares of Mezzanine Capital rose 105 per cent during that period,
+while those of Exmoor Dual Capital trust dropped by just under 40 per cent.
+The recent push by capital shares is reflected in the performance of
+Exeter's Capital Growth unit trust, which invests exclusively in investment
+trust capital shares. It was top of the UK equity growth sector in the month
+to March 1 after languishing near the bottom of the sector in the
+three-years to March 1.
+Hargreaves Lansdown launched a managed portfolio service of investment trust
+capital shares - the Geared Growth Portfolio - in March, on the back of this
+recent performance.
+'Capital shares are cheap by historical standards, and by buying now while
+prices are low, investors have scope for enormous returns,' says Hargreaves
+Lansdown, which believes the UK market is entering a new growth cycle which
+stands to benefit capital shares above others.
+Since capital shares pay no income, the only tax liability is to capital
+gains tax, which many people find adequately covered by their capital gains
+tax allowance, currently of Pounds 5,800. 'Capital shares are attractive,
+because the market does not price in their tax efficiency,' said Nigel
+Sidebottom, of stockbrokers Gerrard Vivian Gray.
+Most capital shares appear to be on a deep discount to net asset value
+(NAV). However, this is an area for caution. The convention is to quote the
+discount, compared with the current claims of other classes of share, such
+as zeros. But the demands of the zeros rise every year. A more realistic
+approach would be to compare the price of the capital shares with the assets
+left after the zeros have been repaid at their wind-up price. Shares which
+seem to be at a discount by one method, may be on a premium by the other.
+As an example, Scottish National appears to be on a discount of about 60 per
+cent to current NAV, but is so highly geared that assets would have to grow
+by at least 6 per cent per annum in order to pay back its debt on wind up in
+1998, according to Lewis Aaron, investment trust analyst at S G Warburg
+Securities. It is, on the more conservative valuation method, trading at a
+premium.
+'Look at the expected net returns,' says Mr Sidebottom, who favours
+Throgmorton Dual capital shares. 'If you buy today at its price of 383p,
+when the trust winds up in 1999, you will get the current asset value which
+probably represents a return of 7 per cent compound per annum.'
+However, Mr Sidebottom believes that even highly geared capital shares can
+be attractive if they are cheap enough.
+Capital shares had a very good record in the early 1980s bull market - the
+average return was 479 per cent over 10 years, compared with 246 per cent on
+the FT-All Share, according to Mr Aaron, but this has been during a period
+of high inflation which pushes up the market.
+If you subscribe to the view that, despite having left the exchange rate
+mechanism, we will be in a low-inflation environment for a prolonged period,
+the market - and capital shares - are unlikely to reach the same heights of
+performance as over the last decade.
+ ----------------------------------------------------------------------
+Estimated returns
+ ----------------------------------------------------------------------
+                                                             Years/
+                                    NAV     Discount      months to
+                                    (p)          (%)        wind-up
+ ----------------------------------------------------------------------
+Aberforth Split Level             208.9           37           11-4
+Contra-Cyclical                    42.1           76            8-1
+Gartmore Scotland                 230.4           74            8-5
+General Consolidated              214.0           56           4-10
+Jos Holdings                      205.4           76           9-11
+Lloyds Smaller Coys               100.1           33            9-2
+Mezzanine Cap & Inc                   -            -           9-10
+Murray Split Capital              173.6           54            5-6
+New Throgmorton (1983)            131.0           61           15-7
+Rights & Issues                       -            -            3-5
+River & Mercantile American        46.4           32            6-0
+River & Mercantile Geared          31.7           38            6-7
+River & Mercantile Trust          176.2           59            7-2
+River Plate & General             124.8           70            3-8
+Scottish National                  62.2           61            5-7
+St David's                        235.8           59            5-9
+Throgmorton Dual                  688.6           41           6-10
+ ----------------------------------------------------------------------
+                                    Gross redemption yield (% pa)
+                                   assuming annual growth rates of:
+                                   0%       5%       7.5%       10%
+ ----------------------------------------------------------------------
+Aberforth Split Level             4.2      9.6       12.3      14.9
+Contra-Cyclical                 -90.7     12.6       22.4      29.5
+Gartmore Scotland               -23.1     15.7       22.6      28.3
+General Consolidated             -7.1     19.0       27.5      34.9
+Jos Holdings                     -2.4     16.1       21.4      26.0
+Lloyds Smaller Coys               4.4      9.7       12.3      14.9
+Mezzanine Cap & Inc                 -        -          -         -
+Murray Split Capital             -4.3     15.9       22.9      29.1
+New Throgmorton (1983)            4.7     13.4       17.0      20.3
+Rights & Issues                     -        -          -         -
+River & Mercantile American       5.5     12.4       15.5      18.7
+River & Mercantile Geared         7.9     14.2       17.3      20.3
+River & Mercantile Trust         -2.1     18.9       25.5      31.1
+River Plate & General           -24.7     25.2       39.0      50.4
+Scottish National               -97.7    -43.7       29.0      47.4
+St David's                       -4.0     19.8       27.5      34.0
+Throgmorton Dual                    -        -          -         -
+ ----------------------------------------------------------------------
+Source: Association of Investment Trust Companies -    February 26, 1993
+ ----------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page XXII
+
+930423
+

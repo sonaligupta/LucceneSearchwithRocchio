@@ -1,0 +1,111 @@
+FT941-16887
+
+FT  07 JAN 94 / Technology: Brainchild hidden in a basement - Jacques
+Stern's dream of a European supercomputer is poised to become reality
+
+
+   By ALAN CANE
+
+
+Behind a door marked simply 'Maintenance' in the drab basement of a tower
+block in the city of Lyons, south-east France, a full-scale prototype of a
+supercomputer sits incongruously.
+It is evidence that the organisation several floors above, the four-year-old
+Advanced Computer Research Institute (Acri), is chasing a dream, not a
+fantasy. It is also proof that the European Union and a group of private
+investors have something to show for some FFr315m (Pounds 36m) put into the
+project since 1990.
+By mid-1994, the EU's contribution will be Ecu30m (Pounds 23.6m). The dream,
+that a European company could catch and compete with the rest of the world
+in supercomputers, has been nurtured since the 1980s by Jacques Stern,
+Acri's founder and chief executive.
+A former chairman of Groupe Bull, the French state-owned computer
+manufacturer, Stern has assembled in Acri a 200-strong multinational team
+with the goal of developing a globally competitive product. 'We do not
+suffer from the 'not invented here' syndrome,' he says. 'Our technology and
+engineering can come from anywhere. If you do not think globally at the very
+beginning, you will never succeed.'
+Late last year, in Portland, Oregon, the company made its international
+debut at a leading US supercomputing exhibition under its trading name
+'Stern Computing Systems'. SCS also plans to market systems developed by its
+strategic partners, including Digital Equipment of the US. Digital's 'Alpha'
+microprocessor chip, said to be the world's fastest, is at the heart of the
+Acri-1, the company's first machine scheduled for commercial launch this
+year.
+Some years ago, the idea of a European challenger in supercomputers would
+have invited derision. The market was small and pioneering costs high.
+Supercomputers were custom-built to squeeze power out of the available
+technology, with no expense spared. The world leader was Cray Research of
+the US, followed by the Japanese companies, NEC, Hitachi and Fujitsu.
+Much has changed. Developments in microprocessor technology have created
+minisupercomputers - computers nearly matching a Cray for power at a
+fraction of the price - and massively parallel systems such as Thinking
+Machines' Corporation's Connection Machine, in which hundreds, perhaps
+thousands, of microprocessors are strung together to tackle a computing
+problem co-operatively. Convex Computer Corporation of Dallas in the US was
+a pioneer in minisupercomputers; significantly, Adrian Wise, a senior
+vice-president at Convex, has now been appointed vice-president for sales
+and marketing at Acri.
+These smaller, less expensive, machines have dramatically altered the
+supercomputer market. Companies like the UK's Meiko, which builds parallel
+processors, have won sales in the US. Cray's share of the world market has
+started to slip and it has been forced to develop cheaper computers.
+So Acri is adopting the strategy of niche player, aiming at the
+high-performance technical computing (HPTC) market. Here, supercomputers
+model and simulate mechanical structures, environmental conditions, chemical
+processes and natural phenomena.
+Companies need this information to design new products and to prove they are
+complying with regulations. Tor Bloch, Acri's chief operating officer, gives
+as examples combustion engine and oil burner developments, ship hull
+collision resistance and the resistance of electronic aviation systems to
+lightning strikes.
+Supercomputers capable of handling these problems typically cost between
+Dollars 5m (Pounds 3.3m) and Dollars 6m. These are not machines designed for
+so-called 'Grand Challenge' problems - modelling the behaviour of the oceans
+or the atmosphere, for example - for which large Cray or Fujitsu machines
+costing up to Dollars 30m are needed.
+Bloch estimates the value of the HPTC market as Dollars 5.1bn in 1992,
+growing to more than Dollars 6.7bn in 1997. He says Acri's attack on the
+market will follow three guiding principles.
+It will use the most advanced available technology. The octagonal frame,
+some 2m high, houses six Alpha chips each capable of processing 64 bits of
+data simultaneously, giving up to 8bn operations a second. Gallium arsenide,
+three times faster than silicon but difficult to work with, is used for some
+of the chips. The machine is not fast by supercomputer standards, but
+combines the best elements of Cray-type systems and massively parallel
+systems to give excellent price performance. Typically, the price of an Acri
+machine will be Dollars 2m.
+It will use reduced instruction set computing (risc) techniques which offer
+the best performance for the price in the HPTC market. It will use open
+systems or client-server designs and will make use of a standard operating
+system, Digital's OSF-1 version of Unix. It has an agreement with Cray to
+share a common scientific programming language (Fortran) which should reduce
+time to market and open the door to existing technical applications
+software.
+It will be easy to use. Bloch points out that as demands for increased
+performance rise, supercomputer designs will converge and ease of
+programming will determine which ones will be successful.
+Acri was created out of discussions between Stern, Bloch, then in charge of
+the advanced computing group at the European Organisation for High Energy
+Physics (Cern), and Alain Lichnewsky, in charge of science and technology
+and formerly director of research at Inria, the French National Institute of
+Research in Computer Science.
+Acri's network of strategic alliances involves equity interests. It has a
+shareholding in Acset, a small Belgian company which writes the software
+which makes Acri's computers easy to program. Cray Research is also a
+shareholder in Acset and has a strategic alliance with Acri. Digital
+Equipment has shares in Acri as has CEA, the French atomic energy agency.
+Acri plans to sell its machines directly in Europe and through partners in
+the US and elsewhere. Now it faces a tough test. The technology, Tor Bloch
+says, is proven but more money must be found to bring the first Acri
+machines to market. The company must raise a further FFr200m. If it fails,
+Europe's supercomputing dream could founder, not from lack of innovation or
+entrepreneurial zeal, but for want of cash.
+
+The Financial Times
+
+
+London Page 10
+
+940107
+

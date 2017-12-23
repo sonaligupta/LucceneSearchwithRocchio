@@ -1,0 +1,110 @@
+FT941-3314
+
+FT  16 MAR 94 / Survey of Information and Communications Technology (16): A
+radical change in culture - Case study, two companies break new ground
+
+
+Facilities management agreement between BP Exploration Europe (BPXEU) in
+Aberdeen, and Andersen Consulting, broke new ground for both companies. In
+effect, BPXEU outsourced not only the IT department and the accounting
+software it had used, but the actual accounting function and staff as well.
+The decision, taken in the early 1990s, affected the entire accounting
+services of the UK and the Continental Shelf operations - a Pounds 12bn
+business worldwide, employing some 7,000 people. Another unusual aspect was
+the extreme secrecy of the arrangements: the 300 accounting staff affected
+were not told until after months of negotiations and hammering out details
+of the facilities management (FM) contract.
+The driving force for BP Exploration towards facilities management was the
+need to cut down all expenses by 30 per cent. Tom Wright, control and
+planning manager at BPXEU , explains the pressures brought about by the
+collapse of oil prices since the early 1980s - 'we realised we would have to
+radically alter the way we did business to remain competitive. We had to
+reduce costs 30 per cent across the board,' he says. 'It was a requirement
+for every manager to achieve that within three years without compromising
+health and safety.'
+The core skill for BPXEU was its business of oil exploration, and a hard
+look at the accounting services revealed that a line could be drawn between
+what accounting information was truly necessary in-house, and what was not.
+'It is vital that we have that information, for making policy and
+interpreting business information, but not that we provide it ourselves,'
+says Mr Wright.
+'Similar styles' is the reason he gives for the choice of Andersen
+Consulting, which already had a track record at BPXEU. When news of the
+announcement broke in June, it was a brand new idea for both companies.
+Andersen was to take over accounting staff as well as IT staff and computer
+assets.
+'Initially there was shock, even anger. However we had prepared pre-planned,
+individual, intensive counselling sessions, and by the end of the day,
+people understood the effect it was going to have. We though that was better
+than months of uncertainty,' says Wright.
+The business was transferred under transfer of undertaking legislation,
+which protects the employees and their rights. Effectively they had no
+choice, although for some, the centralisation of operations in Aberdeen,
+from the six sites previously involved, pre-determined the decision.
+'Everyone outside Aberdeen had a choice of relocation to new location or
+accepting severance terms,' says Tom Wright. 'They were transferred - full
+stop. There was no choice.'
+Andersen took over the staff, the Vax computer and McCormack and Dodge (now
+Dun & Bradstreet) Millennium software used for the accounts. Wright himself
+has no doubts that the deal arranged for BPXEU accounting staff actually
+secured better career prospects and long-term employment.
+'Andersen Consulting provides greater focus and incentive for the staff who
+feel far closer to the business. If an accountant works for an accountancy
+company, it is the focus of using the core skills in the core business that
+drives the difference. No one believes that on 'day one,' of course, but
+after six or seven months that is exactly what has happened.'
+The pension rights were the only thing that had to be addressed - in some
+cases 'topped up' to match the BP scheme for those transferring to the
+Andersen pension scheme.
+'The key benefits are the enthusiasm and the focus of the staff. It has
+reduced costs by creating a single interface, instead of a myriad of
+interfaces,' says Mr Wright. 'The real effect is that we have turned a fixed
+cost to a variable, or at least semi-variable cost. As the service expands -
+say, drilling increases or new fields come online, or we dispose of other
+assets - so the cost varies. Now we can concentrate on the core business,
+and it allows us to focus on the business of exploration and production. It
+has simplified things. We don't have to worry about training, developing and
+motivating 300 accounting and support staff.'
+However, there has been no abdication of decision-making. 'We take all the
+business decisions. They provide the financial analysis and variants
+analysis, but they don't decide what should be done: the decision-making is
+the core skill.' says Mr Wright. He believes the physical distance of the
+Andersen operation, five miles away, was essential to bring about a change
+of culture.
+The initial contract is for four years: both parties reckon on three years
+to get the costs down, although a longer partnership is envisaged.
+'It's an opportunity to share benefits: if Andersen can grow the business,
+they can bring the cost down. They have the focus to do it faster and more
+efficiently. The other thing I'd emphasise is that we really did want the
+best for our staff. We honestly believed they would have a better future
+than in a business where the cost pressures of the North Sea were a constant
+threat,' he adds.
+The FM contract has had one more important psychological effect, he says.
+'More than anything else, the move convinced everybody else inside BP that
+we are serious about changing the way we do business.'
+For Andersen, the business has grown as expected. It took 317 staff from
+BPXEU, only 30 of them computer-based. 'That's what makes this deal so
+unusual: it's a business function management, not just systems management,'
+says Norman Cook, Andersen's associate partner, the head of the unit at
+Aberdeen.
+It now has extra customers, including Sun Oil in Aberdeen. Cook's view is
+that Andersen's expertise has already brought savings. He is confident that
+the current costs of Pounds 15m per year can be brought down by Pounds 5m by
+1995 - 'we've saved a lot because we manage the bank balance tightly: Pounds
+500,000 a year in funding charges alone.'
+Bill Lattimer, partner in charge of market development for the outsourcing
+practice at Andersen Consulting, believes this is the way FM is going - 'the
+IT component is of less interest to the customer: it's not the important
+element in Aberdeen. The way we have developed the people is important. We
+have taken an organisation, a process, and completely redefined the way the
+service operates and the way it interacts with its customers. The
+value-added service we're providing is our skills in service definition and
+management.'
+
+The Financial Times
+
+
+London Page XII
+
+940316
+

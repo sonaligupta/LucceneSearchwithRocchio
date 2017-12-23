@@ -1,0 +1,50 @@
+FT942-12694
+
+FT  28 APR 94 / IBM to sell its crown jewels
+
+
+   By LOUISE KEHOE
+
+
+   SAN FRANCISCO
+
+
+International Business Machines is to sell its 'crown jewels', the
+microprocessor chips that are at the core of its future mainframe and
+parallel computer products, to Hitachi of Japan, its long and bitter rival
+in the mainframe computer market.
+The move is an extraordinary alliance of former enemies. For years, IBM
+feuded with Hitachi and other Japanese computer makers over allegations of
+stolen trade secrets. Instead of fighting to protect its technology, IBM is
+now willing to sell it, even to one of its largest competitors.
+Mr John Thompson, IBM senior vice president, explained the move saying:
+'There is, quite simply, a very strong business case for us to do this.
+'We will make more money by licensing our technology, than we would by not
+doing so.' The benefits to IBM include better use of its semiconductor
+manufacturing capacity, and the potential to expand the market for large
+scale systems, he said.
+The agreement also means IBM has effectively neutralised the threat of
+competition from Hitachi. 'Each Hitachi sale will mean revenue and profit
+for IBM,' said Mr Thompson. 'IBM will gain access to Hitachi's customer
+base, especially in Japan.'
+IBM will supply Hitachi with future versions of its System 390
+microprocessors. These chips represent the core technology of a new
+generation of IBM mainframe computers that will not require the elaborate
+cooling systems of today's mainframe computers.
+The chips will be modified to include Hitachi's specifications, IBM said,
+and will be used in computers being developed by Hitachi for introduction in
+1996.
+IBM will also supply Hitachi with its latest Powerparallel computers, to be
+resold by the Japanese company. These computers were introduced only a few
+weeks ago and represent a new generation of large scale computers which IBM
+believes will play a central role in computing in the next decade.
+Hitachi plans to develop its own products for this sector of the market,
+based on IBM's PowerPC microprocessors.
+
+The Financial Times
+
+
+London Page 27
+
+940428
+

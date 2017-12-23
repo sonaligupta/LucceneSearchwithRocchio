@@ -1,0 +1,136 @@
+FT944-11093
+
+FT  08 NOV 94 / Technology: The future is crystal clear - Growing
+international competition to capture a share of the LCD market
+
+
+   By VANESSA HOULDER
+
+
+When an earthquake hits Sharp's liquid crystal display plant at Tenri in
+Japan, its manufacturing operations automatically shut down. Otherwise, this
+stark, pristine factory - where the automatic guided vehicles are more
+evident than people and the air is a million times cleaner than the outside
+world - works round the clock, turning out 120,000 displays a month.
+The plant is one of the most sophisticated in the liquid crystal display
+industry, which is becoming larger and more innovative each year. The thin
+profile, light weight and moderate power consumption of LCDs make them a
+vital component in everything from laptop computers to control-panel
+displays in jet aircraft.
+Growing demand for LCD screens is creating intense international competition
+for a share of the Dollars 5.3bn (Pounds 3.3bn) world market. At present,
+Japanese manufacturers, led by Sharp - which claims a 45 per cent market
+share - have a virtual monopoly of the market.
+Japan's dominance of this technology has spurred the US government into
+taking one of its boldest industrial policy initiatives for many years. In
+April, the Clinton administration announced a plan to provide about Dollars
+700m for the development and manufacture of flat panel displays in an
+attempt to wrest market share away from the Japanese producers.
+The Japanese manufacturers, however, are spending heavily in an attempt to
+preserve their lead. Sharp, for instance, is spending Y120bn (Pounds 759m)
+on LCD plant and equipment in the three years to 1995; it is building the
+world's largest LCD plant in Taki-cho, between Osaka and Nagoya at a cost of
+Y53bn.
+The company's involvement in the LCD market goes back to the early 1970s.
+That was a few years after the discovery by RCA, the US broadcasting
+company, that liquid crystals - substances that behave optically as a
+crystal and mechanically as a liquid - could be made to realign so they
+transmitted light when subjected to an electric charge.
+The finding was quickly exploited in cheap watches and calculators. But the
+poor quality of the early LCDs, which had weak contrast and a narrow viewing
+angle, made them unsuitable for displays larger than a watch face.
+Over time, LCDs went through a number of enhancements. A sharper contrast
+was produced, for example, by the introduction of supertwisted nematic LCDs.
+Another important breakthrough came when passive-matrix LCDs were superseded
+by active-matrix LCDs, in which individual transistors turn each element in
+the display on and off. The full colour and high contrast of these displays
+allowed them to be incorporated in miniature colour televisions.
+Sharp's position in the flat panel display market was reinforced in 1986,
+when it decided to redouble its research efforts in LCDs. The sharp increase
+in the value of the yen in 1986 convinced the company it had to shift more
+of its products from labour-intensive to knowledge-intensive products. Haruo
+Tsuji, the newly-appointed president, was looking for another mainstay
+besides semiconductors. 'We decided to devote particular efforts to LCDs,'
+he says. 'I felt keenly there was a need for a successor to cathode ray
+tubes.'
+Sharp and its rivals have put immense effort into trying to increase the
+size of the displays. In 1988, it presented the first display that measured
+14 in across the diagonal. It has recently created a new record by producing
+a prototype of a 21 in screen.
+Building large displays poses formidable problems. A display is made up of
+hundreds of thousands of individual pixels, or dots, each of which must be
+controlled by a tiny transistor. The importance of avoiding even a single
+flawed pixel requires extraordinary precision on the part of manufacturers,
+even by the exacting standards of the electronics industry.
+As screens become larger, manufacturers also face greater problems in
+fabricating the thin film transistors uniformly, distributing the liquid
+crystal material evenly and resolving timing problems in the signals.
+Research is continuing into producing higher quality images, thinner
+profiles and lower power consumption of the displays. At the same time, the
+manufacturers are trying to improve manufacturing yields and reduce costs.
+A potential threat for manufacturers is that competition will drive down
+prices. Competition is intensifying, particularly as Korean manufacturers,
+such as Samsung, Hyundai and Lucky Goldstar, move into the market.
+But Tsuji believes that demand for LCDs is growing at a pace sufficient to
+outstrip supply. His judgment is backed by Koichiro Chiwata, electronics
+analyst at Salomon Brothers in Tokyo, who believes that supply and demand
+for LCDs will remain tight enough for Sharp's LCD business to 'do well for
+at least the next five years'.
+At present, two-thirds of the LCD market is used for notebook computers; the
+second most important application is for display screens in Pachinko
+parlours, amusement arcades where a Japanese version of pinball is played.
+But other uses such as wall-mounted television, video projectors, navigation
+systems, portable game machines and personal information tools, are expected
+to expand the market.
+Sharp is devoting particular research effort to developing new products that
+include LCD screens. One example is the Viewcam, a camcorder with an LCD
+monitor instead of a traditional viewfinder, which it introduced in 1992.
+Although most LCD-based products currently make use of the 'shutter
+function' of liquid crystals, new applications could stem from their other
+properties, such as their ability to react to light and to store
+information. These qualities have already been put to use in the development
+of a pen-based word processor, which senses the movement of a pen on the
+screen.
+Sharp believes the market will grow to Dollars 20bn by the end of the
+century. 'I consider the field of LCD is really immense and extensive,' says
+Tsuji.
+Another possible threat to Sharp's dominant position in the market is that
+LCDs will be superseded by another technology. The technical difficulty of
+building large LCD displays at an acceptable price has prompted some
+companies to work on other technologies. For example, plasma displays, in
+which images are created from gas-filled tubes, are considered to be a
+leading contender in the race to create a market for flat, wall-mounted
+television screens.
+A number of technologists are backing ferroelectric displays, a form of LCD
+technology that does not require transistors to switch the liquid crystal
+cells, as a cost-effective approach to building large display screens.
+Electroluminescent displays, which depend on an electron exciting a phosphor
+in a thin film, are also receiving close attention.
+A number of international companies are devoting particular attention to
+field emission displays, which resemble an array of tiny cathode ray tubes.
+Although it is still relatively immature technology, its backers believe it
+could score over LCDs because it would be relatively cheap to produce.
+Sharp, too, is working on the next generation of display technologies. But
+for the present, it believes the supremacy of LCDs is assured. 'In five,
+seven, 10 years from now, LCD will be the main type of product (in flat
+panel displays),' says Atsushi Asada, senior executive vice-president.
+Sharp's continued lead in LCDs cannot be guaranteed, but its strong
+performance in the sector has stood it in good stead at a time when Japanese
+manufacturers are suffering the effects of the high yen and consumers' jaded
+appetite for electronic gadgets.
+Sharp acknowledges it cannot be complacent. The rise in the value of the yen
+costs Y3bn in profit for every point gained against the dollar. According to
+Taizo Katsura, senior executive vice-president, it is crucial the company
+continues to develop high-value components. 'As a manufacturer we cannot be
+competitive by depending on the assembly side,' he says.
+It will also need to maintain its edge in research. Technological innovation
+is crucial if the company is to devise the next generation of products that
+will open up new markets, says Tsuji. 'We have to develop key technologies.'
+
+The Financial Times
+
+
+London Page 14
+
+941108
+

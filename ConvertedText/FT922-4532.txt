@@ -1,0 +1,92 @@
+FT922-4532
+
+FT  05 JUN 92 / Technology: Fashion hits the factory floor - How colour
+screens have brought manufacturing to life
+
+
+   By ANDREW BAXTER
+
+
+Recession-weary machine tool salesmen can be forgiven for wearing grey faces
+but at least the sophisticated computer equipment that controls their
+machines is beginning to blossom out in colour.
+Long accustomed to working with black-and-white screens, users of computer
+numerically control (CNC) machine tools are starting to resemble the
+telly-watchers of the late 1970s.
+In an industry where jargon comes by the bucketfull - and even CNC suppliers
+have trouble keeping up with each other's impressively named new product
+features - customers can at least ask suppliers one simple question: 'Is it
+in colour?'
+The answer is often yes, but the only problem is cost: colour costs hundreds
+of pounds more than black-and-white. Even in a total machine tool package
+costing a five-figure sum, the widespread use of colour has been hampered by
+the extra cost - and during a recession the total package cost becomes
+particularly critical.
+It is a similar story with thin film transistor flat screen TV technology -
+big savings in space compared with a traditional cathode ray tube screen,
+but several times dearer.
+Colour has been available for some years on CNC, and might seem like a
+luxury on something so utilitarian. Compared with a Cadcam screen, after
+all, a lot of the information on a CNC screen is by definition numerical.
+The majority of CNCs sold by GE Fanuc Automation, the world's leading
+producer, is still mono, says David Avrell, UK managing director. And that
+will remain the case, he says, until the cost comes down.
+The benefits of a palette of 256 colours, as is available on some CNC
+equipment, look somewhat dubious in comparison with some of the far-reaching
+technological developments in CNC over the past decade - the trend towards
+open systems and a striking development in specialist software that allows
+machine tool companies and users to customise their bought-in CNC equipment
+and differentiate their machine tools from the competition.
+But colour does have a role that goes a long way beyond aesthetics. As has
+happened elsewhere in the electronics industry, and particularly in personal
+computers, CNC suppliers have spent heavily to make their equipment easier
+to use over the past decade, and colour can help the process.
+Massimo Ziliani, head of US CNC producer Allen-Bradley's motion control
+division, says: 'I see colour becoming something pretty natural on CNC
+equipment.' Using different colour on a graphic of a complex part shape can
+help the operator specify the right dimension for a particular profile.
+As has been found in Cadcam, colours and shading make a 3D object more
+readily understandable as a version of the real thing.
+Even so, Ziliani admits it is hard to explain customers' desire for colour
+in some factory automation applications. Allen-Bradley has been pushed by
+users to develop a high-definition colour screen for a robot's operator
+panel, which is used only for programming and is rarely visited when the
+robot is working.
+'I think the look or appearance of a nice screen with nice graphics is
+something that is an image of high-tech,' he says. 'So there is a marketing
+consideration here.'
+If suppliers are asked to use colour screens in these applications, the
+market in CNC on machine tools ought to have greater potential, especially
+in small-batch production when the machine tool is being reprogrammed
+frequently.
+Flat-screen technology, meanwhile, lends itself to use in the machine tool
+industry for a number of reasons. The quality of the display is one
+attraction, says Avrell, and light tends to enhance the screen.
+The saving of space could also be important in small machine tools, says
+Ziliani, who otherwise remains a firm adherent of CRTs. 'I am still
+convinced that a high-resolution CRT is cheaper and more readable, and hence
+more effective,' he says.
+Most CNC suppliers would agree with Terry Margetts, sales and marketing
+manager at Cranfield Precision Systems (CPS), part of Powys-based Control
+Techniques, that 'flat screen has got to come in, but when it's a sensible
+price'.
+CPS, which over the past three years has been developing a new mass market
+system called Flexible Numerical Control, is sampling the flat screen market
+regularly, says Margetts.
+At present, he says, a 10-inch colour flat screen produced in volume would
+cost Pounds 1,750 against Pounds 400 for a colour CRT. In black and white,
+flat screens cost Pounds 300, against Pounds 125 for a CRT, so they are
+becoming more viable commercially.
+The CNC industry will, as usual, strive to give the machine tool builders
+what they want and can afford. But CNC suppliers cannot do much about the
+price of a flat screen. Reductions, Avrell believes, will depend on flat
+screens penetrating markets outside machine tools, such as in buses and
+aircraft where space is at a premium.
+
+The Financial Times
+
+
+London Page 15
+
+920605
+

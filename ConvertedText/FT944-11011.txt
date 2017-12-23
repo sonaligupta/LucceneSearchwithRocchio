@@ -1,0 +1,44 @@
+FT944-11011
+
+FT  08 NOV 94 / International Company News: Siemens in multimedia alliance
+
+
+   By ALAN CANE
+
+
+Siemens, the German electrical and electronics manufacturer, has formed an
+alliance with Scientific Atlanta and Sun Microsystems, both of the US, to
+develop and market systems for the emerging multimedia market.
+The plan is to develop a design, or architecture, for multimedia networks
+which will be accepted as the industry standard.
+The alliance intends to market the system to cable operators and telephone
+companies, initially in the US.
+Multimedia has become an important focus for electronics groups over the
+past year. It implies the delivery of information to the home or office in
+digital form over fibre-optic cable or telephone lines and in interactive
+fashion.
+Customers will be able to send messages and commands to the system making
+possible, for example, home shopping, home banking and video-on-demand.
+The Siemens alliance is one of a number of groups developing multimedia
+architectures in the hope of establishing its version as the industry
+standard.
+Among those involved in separate multimedia trials are American Telephone &
+Telegraph, British Telecommunications and Microsoft, the world's largest
+computer software house.
+Siemens is an expert in telecommunications switching and has developed the
+basic multimedia software, IMMXpress.
+Scientific Atlanta has experience of cable television systems while Sun
+Microsystems, a workstation manufacturer, is an expert in open, or industry
+standard, operating software and is heavily involved in the worldwide
+Internet computer network.
+Scientific Atlanta has developed the 'set-top boxes' - controllers which
+receive and translate the digital signals - for a multimedia trial planned
+by Time Warner to take place in Orlando, Florida, this year.
+
+The Financial Times
+
+
+London Page 24
+
+941108
+

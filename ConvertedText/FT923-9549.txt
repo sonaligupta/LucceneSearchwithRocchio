@@ -1,0 +1,60 @@
+FT923-9549
+
+FT  05 AUG 92 / International Company News: Fujitsu to end chip production
+at US plant
+
+
+   By ROBERT THOMSON and MICHIYO NAKAMOTO
+
+
+   TOKYO, LONDON
+
+
+FUJITSU, the Japanese computermaker, is to end production immediately at its
+semiconductor plant in San Diego as part of a reorganisation of the
+company's chip production.
+The decision, which could stir criticism in the US, reflects the financial
+pressure on electronics companies, particularly those determined to stay in
+the semiconductor race.
+It is also a sign of a general restructuring now taking place within the
+Japanese electronics industry.
+About 260 workers are employed at the California plant, which assembled
+1-megabit dynamic random access memory (D-ram) chips, and is one of two
+Fujitsu semiconductor plants in North America. The chips, produced for sale
+on the open market, are used in computers and telecommunications equipment.
+The memory chip market has suffered over-production, leading to large price
+falls. The 1-megabit D-ram market is particularly oversupplied and
+increasingly dominated by South Korean suppliers.
+The trend among Japanese semiconductor suppliers has been to enter markets
+for the most advanced products at an early stage when margins are higher.
+Fujitsu has not been successful in the memory chip market generally, where
+it has failed to be an innovator.
+The group has invested heavily in a recently-opened UK plant making
+4-megabit D-rams.
+However this has been incurring losses because demand has fallen short of
+expected levels. Fujitsu's difficulties in the semiconductor market led it
+recently to dismiss the heads of its European and North American
+semiconductor operations.
+Referring to the latest US move, Fujitsu said last night: 'We have to close
+the plant because of profitability and competitiveness problems. We all know
+that the profitability of the semiconductor industry is not so good. The
+weak Japanese economy is a reason, but that is not the only reason for the
+closure.'
+Fujitsu reported a 68 per cent fall in pre-tax profits for the year to
+March, while other Japanese chipmakers announced profit falls of 40 per cent
+and more, due to the weak memory markets.
+These companies are reviewing their chip production and their role in the
+crowded consumer electronics markets. They have sought to reduce development
+costs through partnerships with US and European makers.
+It is likely some of the San Diego operations will be transferred to a
+Fujitsu facility in Malaysia, where production costs are lower.
+The US facility, opened in 1980, assembled about 800,000 memory chips out of
+a total of 5m produced monthly by Fujitsu.
+
+The Financial Times
+
+
+London Page 20
+
+920805
+

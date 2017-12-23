@@ -1,0 +1,102 @@
+FT942-14892
+
+FT  18 APR 94 / Survey of Vehicle Fleet Management (18): Long-life engines
+keep the costs down - Alan Bunting studies trends in truck making
+
+
+   By ALAN BUNTING
+
+
+For many of Britain's road transport operators, fleet renewal is being
+considered for the first time this decade. Vehicle replacement programmes
+which were effectively frozen in 1990-91 as the recession took hold, are now
+being reinstated.
+Trucks bought in 1986/7, which in normal times would have been traded in two
+or three years ago, are only now being replaced. Some of the long-haul
+38-tonners among them have 800,000 kilometres (500,000 miles) of fleet
+service behind them.
+Received wisdom has repair and overhaul costs of heavy chassis rising
+unacceptably beyond about 500,000km. But the recession's enforced stretching
+of service life by 60 per cent or more has brought some pleasant surprises.
+Fleet engineers have become aware of the remarkable improvements in
+durability, as well as in day-to-day reliability, achieved by commercial
+vehicle and component manufacturers.
+Thanks to new, often computer-aided, technology, vital components are giving
+less trouble and lasting longer, while proving at the same time more
+efficient. Heavy-duty diesel engines built by companies such as Volvo,
+Cummins and Mercedes bear witness to a progressively greater understanding
+of why engines wear and fail and how to slow down ageing.
+Remarkably, those demonstrable improvements in life and quality have been
+achieved by engine makers who, at the same time, have had to meet the
+technical challenges of ever tougher legal exhaust emission limits. The
+regulations now effectively limit consumption of lubricating oil, which if
+allowed to get past the pistons or valves into the combustion chamber is
+burned, adding to particulate (soot) emissions.
+DAF, Mercedes, Cummins, Volvo, MAN and Scania are now offering engines which
+meet so-called Euro 2 emission laws some 2 1/2 years ahead of the October
+1996 deadline. By so doing they score environmental 'Brownie points', though
+there are more commercial motives at work. In Holland and Germany financial
+inducements encourage the purchase of Euro 2 compliant trucks ahead of time.
+Some of these 'cleaner' trucks are being offered in the UK, but the price
+premium, of Pounds 1,500-plus, is expected to deter all but the most
+public-spirited or image-conscious buyers.
+For the truck industry's diesel engineers, the competitive challenge is not
+so much to reduce pollutant emissions to regulated levels, but to do so with
+the least possible effect on fuel economy and performance.
+Volvo's new-generation FH12 chassis, introduced last year, powered by the
+first European-designed engine with full electronic injection control, is
+already showing its meanness on fuel against key rivals. The latest
+technically-similar Cummins Celect engines, built in Scotland and fitted in
+ERF, Foden and now DAF chassis, are also proving to be significantly more
+economical than their non-electronic predecessors.
+Evidence of new technology is apparent in other benefits for fleet operators
+ -and their drivers. For example, gearshift systems have in the past five
+years become a more critical area of competition between truck
+manufacturers. In the 1980s, the choice was straightforward: between
+American-style constant mesh, which called for driver skill, and continental
+syncromesh which demanded strength from the driver's arm.
+But transmission development has moved on apace, with gear changing made
+easier in skill and strength senses by the proliferation of compressed
+air-assisted but electronically-controlled shifting. Life is made easier for
+the driver, and the electronics block the kind of potentially
+gearbox-wrecking changes caused by inexperience or carelessness.
+All the systems seen so far feature conveniently-placed finger-tip switches,
+replacing manual 'brute force' gear levers.
+But from the driver's standpoint, the Eaton, Mercedes, Scania and Volvo
+systems' shifting techniques vary considerably. If you can handle one, it
+will not help you to cope with the others. A degree of training - or at
+least familiarisation - is needed to be sure of fast, smooth shifting, both
+up and down through the box, in different road and traffic conditions.
+Transfleet, the Lex Group truck rental company, has recently commissioned a
+batch of new 38-tonne trucks equipped with Eaton's SAMT (semi-automated
+mechanical transmission) for its London-based spot hire operation. A finger
+switch on the steering column effects gear changes and clutch release and
+re-engagement is automatic other than for starting away and stopping.
+Even in the hands of drivers who, by definition in a rental operation are an
+unknown quantity, premature gearbox and/or clutch failures have largely been
+eliminated. The timing of shifts remains in the driver's hands, so he can
+practise traditional anticipation in the light of changes in gradient or
+traffic conditions ahead.
+As a result, fuel consumption is not adversely affected, as it tends to be
+with fully-automatic transmissions, either of the familiar torque
+converter-based type or more recent derivatives of manual boxes.
+Though their numbers are declining, many truck buyers in Britain reflect the
+still prevalent attitude among their North American counterparts, of deep
+suspicion about new technology in general and electronics in particular.
+They equate technical simplicity in a truck with reliability and are
+reluctant to specify 'new fangled' equipment until it has proved
+trouble-free - in someone else's hands - for some years.
+They nevertheless welcome less newsworthy but evolutionary change in vehicle
+specifications. Better corrosion resistance in cabs is an example. New tough
+plastics are now widely employed instead of steel for bumpers, wing valances
+and other non-structural parts, with Mercedes and Fiat's Iveco truck
+division leading the way. Elsewhere, galvanised steel is now widely used for
+load-bearing cab panels exposed to moisture and salt spray.
+
+The Financial Times
+
+
+London Page VIII
+
+940418
+

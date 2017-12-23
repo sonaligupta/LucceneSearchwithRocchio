@@ -1,0 +1,115 @@
+FT932-301
+
+FT  29 JUN 93 / Survey of Computer Networking (3): Downtime goes up as
+networks expand - Network managers are finding that the problems of control
+have multiplied
+
+
+   By GEORGE BLACK
+
+
+AS MORE personal computers, servers and printers have been added to networks
+and applications have become larger and more complex, downtime has been
+growing steadily .
+A US survey by Gallup for Computer Reseller News last year found that the
+average large company suffered four hours of downtime a week - almost double
+the figure shown in research two years earlier.
+At a seminar in April Mr Enzo Torresi, president of the superserver maker
+NetFrame, forecast that average downtime would rise to five hours a week
+this year.
+The survey results refer to local area networks. On wide area networks the
+figures are likely to be considerably higher.
+Such a level of downtime represents a huge loss of productivity,
+particularly when it affects organisations which rely on online systems such
+as banks, airlines and manufacturers. For them 99.99 per cent availability
+is just not enough; it needs to be 99.999.
+The problem seems likely to worsen, because surveys show that users plan to
+add more hardware and software to their networks without adding to their
+network management resources.
+Mr Jim Pante, European managing director of Network General, a vendor of
+software tools for network management, says that most users spend only 2-3
+per cent of their information technology budget on network management,
+whereas 10-15 per cent is needed.
+Most large companies in Europe and the US at present spend only Pounds
+15-75,000 a year on network management tools. They do not expect to increase
+that figure by much, nor to hire more network managers.
+Mr Pante says more planning is necessary. 'Users need to lay down basic
+network requirements for availability and response times and then monitor
+any events that may put those targets at risk.'
+Users' expectations of what networks should be able to handle have grown
+faster than their adoption of network management systems and of the
+capabilities of those systems.
+Mr Paul Trowbridge, UK marketing manager for the network products company
+Synoptics, says that most people underestimate what is involved in network
+management. He attributes this to a lack of skills among network managers
+who are under so much pressure that they do not get adequate training and
+often adopt a naive 'tick list' approach to purchasing software tools.
+The arrival of a new gener- ation of applications, includ- ing multimedia
+programs, could compound the problems. Such applications will con- sume far
+more bandwidth than current systems; therefore demand for bandwidth will
+need to be closely monitored and controlled.
+One of the answers may lie in expert systems. These are software programs
+which use a specialised form of artificial intelligence based on sets of
+rules devised by subject experts. A set of such rules could help to alert
+network managers to anomalies and enable them to take a more pro-active
+approach to monitoring.
+Another part of the solution will come through the development of standards.
+Most computer networks today comprise equipment from a number of different
+sources, each of which requires its own management system. Network
+management needs a standard which will allow heterogeneous machines to be
+effectively monitored and controlled by a single software system.
+Such a standard is beginning to emerge, but it could be several years before
+it has stabilised. After that, it could be several more years before old
+non-standard machines are phased out and replaced by others that conform to
+the new standard.
+In this f i e l d, a s in others, the industry has been torn between
+official and de facto standards. A few years ago users and vendors were
+looking to the International Standards Organisation's Open Systems
+Interconnection model to provide them with official standards for
+networking.
+They pinned their hopes on OSI's Common Management Information Protocol. But
+that required so many features that it has so far failed to win much support
+from manufacturers.
+Meanwhile, the rival Simple Network Management Protocol, supported by the
+Internet organisation, appears to have overtaken it and is now close to
+becoming a de facto standard.
+However, SNMP has been criticised for allowing too many options for
+implementation by product vendors and for lack of security. A new version of
+the protocol, SNMP2, which should deliver both greater standardisation and
+improved security, is expected to be built into equipment towards the end of
+this year or early next year.
+The Open Software Foundation's Distributed Management Environment (DME) is
+now making the running as a standard architecture for the product vendors.
+It will support the SNMP protocol and should help to make network software
+more portable.
+Mr Justin van der Lande, networks marketing manager for NCR UK, an AT&T
+subsidiary, says: 'Our difficulty is to know which standards to back.'
+NCR's StarSentry, one of the leading network management products, already
+has SNMP compliance and will add compliance with DME in its next release.
+Though it has yet to achieve commercial success, StarSentry was rated best
+network management product in a recent market report by consultancy
+ButlerBloor.
+Hewlett-Packard has recently announced enhancements to its market-leading
+OpenView network management software which will take it in the direction of
+centralised control of distributed systems. Ms Caroline Rowney, its UK
+client-server programme manager, says that users wanting to migrate from a
+mainframe environment to a distributed environment have been concerned about
+a possible loss of control.
+The latest version of OpenView also takes another significant step towards
+the integration of system management with network management and thus
+towards centralised control.
+OpenView now seems to be on the way to becoming an industry standard, at
+least in the open systems community, as it is being incorporated into DME
+and into IBM's NetView products. Itis supported by around 170 partner firms
+which have developed hardware and software additions to the system.
+Whatever the industry standards turn out to be, networks of a few years
+hence should be controllable from a single software system and therefore,
+eventually, less subject to faults and crashes.
+
+The Financial Times
+
+
+London Page II
+
+930629
+

@@ -1,0 +1,131 @@
+FT941-3323
+
+FT  16 MAR 94 / Survey of Information and Communications Technology (7): The
+paperless office pays off for structured tasks - The electronic office / The
+paperless office is as far off as ever for what might be termed wide-ranging
+jobs. But for highly structured tasks, such as handling insurance claims or
+invoices, cutting down on paper can lead to substantial gains in
+productivity
+
+
+   By JOIA SHILLINGFORD
+
+
+A number of new technologies make it possible for modern offices to cut back
+on paperwork - they include image processing (which converts paper documents
+into electronic images), workflow (which controls the flow of work between a
+group of workers), electronic mail and electronic data interchange.
+Image processing and workflow:
+At General Accident's 1-2-1 division, which sells insurance directly to the
+public, a Pounds 1.5 million AT&T GIS image processing system has speeded up
+claims processing and increased productivity by 20 to 30 per cent.
+Bob Thomson, personal lines operations manager for General Accident, says:
+'We're working in a very competitive environment and wanted to make
+significant savings. A lot of resources were going into filing and looking
+for paper, and we wanted all documents to be accessible from a single
+source.'
+Now the 1,000 to 1,500 items that arrive in the post every day are scanned
+into the image processing system and assembled into electronic files, which
+can be viewed on a computer. 1-2-1's 54 staff (who spend most of the time on
+the phone) thus have everything they need to work on a claim on screen,
+without having to get up and look for files.
+Image processing and workflow software are also being used at the UK offices
+of US oil company, Amerada Hess. They have enabled the company to process
+higher volumes of invoices without increasing the number of accounts staff.
+Amerada Hess' system, developed in conjunction with US image processing
+company Filenet, scans every paper invoice into a computer system.
+If the invoice is straightforward and the goods have been received and match
+the original purchase order, the bill is paid. If it needs to be verified by
+an engineer or a senior accountant, it is sent to their computer screens
+electronically via Digital Equipment's Teamlinks package.
+Once approved the invoice is automatically sent to the general ledger
+department for a cheque to be issued. The system is faster and more
+efficient than the old system in which all accounting information was typed
+in to the computer from a paper invoice, and sometimes added to by an
+engineer or accountant, and it now takes only minutes to locate one of the
+50,000 invoices Amerada receives each year, rather than a day or longer.
+Electronic mail
+However, image processing and workflow are not the only route to reducing
+paper. David Ferris, a British-born but US-based electronic mail (e-mail)
+consultant says that use of e-mail can cut back on paper and give huge gains
+in productivity.
+He says that these gains will not necessarily come from interpersonal
+messaging of the 'Are you free for lunch on Friday' variety, but rather from
+the use of 'mail-enabled' applications, where an application such as word
+processing or electronic forms has an e-mail option built in. Mr Ferris
+says: 'Automating simple business forms, such as expenses, can cut a
+company's costs by between one and two per cent of revenues.'
+For example, time sheets created using JetForm software and sent via Lotus
+Development's cc:Mail or Microsoft Mail, save California-based
+diskette-maker and CD-ROM duplicator, Trace Dollars 270 a year per employee.
+The system costs Dollars 44 a year per employee, giving a financial return
+of more than 400 per cent a year.
+E-mail can also provide other, less measurable benefits, such as improved
+decision making, better communication across time zones, more up-to-date
+market information, faster reactions to unexpected events, and shorter
+product-development times from geographically dispersed teams. E-mail can be
+used on all sorts of computer, but the fastest growing area of the market is
+e-mail for local-area networks of PCs.
+Another growth area is e-mail for executives who spend a lot of time out of
+the office. One of the latest products designed for mobile e-mail users is
+Lotus' cc:Mail Remote for Windows. This allows executives to exchange
+messages with their in-house Lan e-mail system and keep in touch with what
+is going on back at base. Larry Crume, vice president of messaging at Lotus,
+predicts that it will be the company's biggest selling product this year and
+could hit sales of a million copies.
+Electronic data interchange:
+At present, many large companies use e-mail primarily for internal
+communications. By contrast, electronic data interchange (EDI) is used
+mainly for inter-company communications, where cutting out paper can
+significantly speed up the processing and transmission of information. (EDI
+or paperless trading is the name given to the exchange of structured
+business documents, such as orders and invoices, directly between
+computers.)
+For example, a sales management system underpinned by GE Information
+Service's public EDI network, helped to cut the time it took for US orders
+to arrive at Benetton's Italian clothing factories from three-to-ten days to
+just hours.
+Use of EDI is expanding. In Britain, 8,400 companies have adopted it and new
+types of paperless EDI message are being developed all the time. For
+example, a UK EDI standard for utility bills has been developed and is
+waiting for European endorsement, and despatch and binding messages are
+being developed for users in printing and publishing.
+But large scale users of EDI have one big problem - how to communicate with
+even very small suppliers or customers via EDI.
+One solution is to use what is known as hybrid EDI where those who aren't
+equipped to receive EDI documents electronically receive them on paper. A
+number of options are available including BT's EDI-to-fax service for its
+EDI*Net customers and the Royal Mail's Edipost (EDI-to-post). Here, EDI
+messages are sent to the Royal Mail's electronic data centre and then
+converted to paper for delivery by post. Recipients can phone back their
+responses, which in turn will be converted into EDI messages.
+Barriers to the paperless office
+Hybrid EDI is a sensible compromise but it underlines just how difficult it
+is to get rid of paper when paper is accessible to every business from the
+corner shop to the multinational.
+Another problem is that electronic images of paper documents are not legally
+admissible in court, even though they can include signatures, and are
+difficult to alter.
+For example, Amerada Hess files copies of its paper invoices, in case its
+auditors, consortia partners or the VAT office want to see them, and General
+Accident is keeping paper records of documents scanned into its imaging
+system on site for six months before deciding what to do with them. Jeff
+Goldberg, an analyst at researchers Dataquest, says: 'The promised paperless
+office has become the 'paperfull' office, partly because computers have not
+yet achieved the readability, or portability, of paper.'
+This is good news for printer companies - 'more and more data is being
+stored on computers and people want to output it in a variety of ways,' says
+Kevin Spinks, printer business manager at printer company, Lexmark. 'This
+creates more and more paper and the demand for printers is growing at 15 to
+20 per cent a year. I can't see the paperless office taking off this
+century.'
+Joia Shillingford is editor of the Financial Times newsletter, Business
+Computing Brief
+
+The Financial Times
+
+
+London Page V
+
+940316
+

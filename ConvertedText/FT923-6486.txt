@@ -1,0 +1,61 @@
+FT923-6486
+
+FT  24 AUG 92 / International Company News: LSI Logic to centre its
+manufacturing in Japan
+
+
+   By LOUISE KEHOE
+
+
+LSI LOGIC, the Silicon Valley semiconductor manufacturer, is to close its
+plant in Germany, reduce operations in the US and shift most of its
+manufacturing to Japan and the Asia Pacific region.
+About 450 jobs will be lost, including about 275 in Germany, in a broad
+restructuring of the group's manufacturing and product strategy. 'Our cost
+structure is out of line with the current level of revenues and we are
+compelled to reduce costs, and do it quickly,' said Mr Wilfred Corrigan,
+chairman and chief executive.
+LSI, which specialises in application specific integrated circuits, will
+take charges of Dollars 95m to Dollars 110m in the current quarter and
+expects to report net losses of about Dollars 100m. For the second quarter,
+LSI reported losses of Dollars 5.8m on sales of Dollars 151.8m.
+The German assembly and test factory in Braunschweig was opened in 1985 and
+is one of the most advanced of its kind in the world. It was built to serve
+expected strong demand from the European computer industry, Mr Corrigan
+said, but the anticipated level of demand failed to materialise.
+'There is very little PC or computer workstation manufacturing in Europe,
+and this represents a large portion of our market,' he noted.
+The rise in the value of the D-Mark against the dollar has made the factory
+more costly to operate, Mr Corrigan added, and it could no longer compete
+with the lower costs of subcontractors in Asia.
+In addition to closing the German plant, LSI Logic said that over the next
+18 months it would shift the bulk of its wafer fabrication operations to
+Japan where it had a large scale facility and was in the process of
+constructing a new factory in a joint venture with Kawasaki Steel. Research
+and development as well as pilot line production would remain in the US.
+'Following completion of the new wafer factory in Japan in 1993, LSI Logic
+does not foresee the need to build new wholly owned plant capacity,' said Mr
+Corrigan.
+The company aims either to share the cost of future plants with strategic
+partners as it has in Japan or to subcontract manufacturing. The cost of new
+semiconductor plants has risen sharply over the past few years, making them
+affordable by only the world's largest chip makers.
+'By the mid-1990s you are going to see a lot of shared chip plants,' Mr
+Corrigan predicted. LSI's problems stem from losses in the market for
+personal computer chipsets driven by sharp declines in PC prices.
+However, the bigger issue faced by LSI is high overhead costs. The cuts will
+reduce costs by about Dollars 10m per quarter, the company said. LSI
+projected net losses of about Dollars 100m after charges, for the current
+quarter but said that it hoped to return to profitability in the fourth
+quarter.
+'We are committed to lowering our break-even point, restoring profitability,
+and pursuing a value-added product strategy with emphasis on intellectual
+property, ASIC design tools and system-level integration,' Mr Corrigan said.
+
+The Financial Times
+
+
+London Page 14
+
+920824
+

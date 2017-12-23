@@ -1,0 +1,80 @@
+FT931-4231
+
+FT  11 MAR 93 / Technology: Keeping good time on the slopes - Ian Rodger
+discovers a novel method of gaining access to ski lifts which may pave the
+way for other security devices
+
+
+   By IAN RODGER
+
+
+Alpine skiers may not yet realise it, but they may have contributed to the
+improvement of our quality of life, our security and perhaps even our
+health.
+This hitherto unsung and unknown achievement arises from the familiar
+phenomenon of a restless inventor noticing a problem and trying to find a
+solution for it.
+The problem - one which every alpine skier will recognise - is gaining
+access to ski lifts. Traditionally, ski resorts issue lift passes which
+skiers keep in their pockets.
+On approaching lift turnstiles, they have to drop their ski sticks, take off
+their gloves, fish about in their pockets for the cards, pick up their
+sticks and gloves and slide towards the turnstile holding the cards up for
+the attendants to check or to slide into a validation slot.
+This procedure is awkward and time consuming and various inventors have
+tried to improve it.
+Perhaps the simplest and most popular solution is a small locket with a
+spring-loaded cord. One end is attached to the skier's jacket and the other
+to the lift pass. Thus, the card is always available and can be pulled out
+quickly and easily to a validation slot.
+Its only disadvantages are that the card flaps distractingly on the piste
+and, even though the cards are made of tough laminates, there is the danger
+that they can be wrenched off and lost in a bad fall. For a one or two-week
+pass, the cost of replacement is painfully high.
+In the past couple of years, more ambitious radio-electronic systems have
+appeared. The most popular of these, now installed at some 150 resorts
+around the world, was developed by the Skidata subsidiary of Austria's
+Constantia, the diversified industrial group. It is based on a wrist watch,
+the so-called Key Watch, which, in addition to being a digital watch, can
+store data in various forms and can transmit a signal that opens a turnstile
+or lock.
+The idea is that the skier buys the Key Watch for roughly Dollars 80 (Pounds
+56). Each time he or she goes to a resort that has the system, the watch can
+be programmed by the resort operator to provide access to lifts for whatever
+length of time the skier intends to stay at the resort.
+As the watch is expensive, the Skidata system continues to allow customers
+to buy and use the conventional access cards and this remains the norm for
+day-trippers. But skiers are obviously impressed by the watch's convenience.
+Since introducing the system in the 1990-91 season, Skidata has sold more
+than 80,000.
+While that has been gratifying for Constantia, the group also quickly saw
+that the system could have many applications other than at ski resorts. As a
+result, it has smothered the Key Watch with patents and installed automatic
+destruction devices in them to prevent snooping by would-be copiers.
+The technologies used to link the watch and the turnstile or lock provide it
+with a number of interesting characteristics. It can be made owner-secure,
+with the addition of a personal identification number that can only be seen
+by an authorised reader. It is also reprogrammable. Thus, it could be used
+to identify employees in a laboratory or factory or delegates at a
+high-security conference.
+It is already used in a few commercial parking garages in much the same way
+as at ski resorts. It is also used in some hotels instead of bedroom and
+function room keys. Other possibilities include authorisation of fund
+transfers.
+'Our aim is to increase the uses of the watch so that it becomes more
+worthwhile for people to buy it,' says Ernst Strohmeier, Skidata's executive
+vice-president of finance. Some Constantia officials are excited about the
+potential, conjuring up thoughts of it being used to deliver data on body
+functions to doctors at remote locations and similar futuristic ideas.
+But Strohmeier is more cautious. 'If you talk to 10 people, you can get 20
+new ideas. The important thing is to find applications that are not just
+interesting, but that really improve a function and which can be
+profitable.'
+
+The Financial Times
+
+
+London Page 20
+
+930311
+

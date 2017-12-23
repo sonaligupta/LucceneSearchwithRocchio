@@ -1,0 +1,39 @@
+FT941-3307
+
+FT  16 MAR 94 / Survey of Information and Communications Technology (27): A
+new world on your desktop - Clever software helps cut the cost of virtual
+reality
+
+
+   By PHILIP MANCHESTER
+
+
+One of the most important recent developments in Virtual Reality (VR) is the
+fall in prices of hardware and software packages.
+VR systems demand large computer resources and high-quality input and output
+ -which has been expensive until recently.
+But advances in hardware technology, such as faster PC processors, larger
+capacity storage and graphics software have made desktop systems possible.
+The most important element is the clever software which is needed firstly,
+to build a virtual reality to suit a specific need and, secondly, allow a
+user to visit and inter-act with it.
+UK-based software developer Dimension sees a growing opportunity in the
+emerging commercial market for VR tools on the desktop.
+Its Superscape package, which sells for around Pounds 3,500, can be used to
+build specific VR environments on a desktop computer.
+The package has a broad range of users from British Telecom, which has built
+a virtual network with Superscape, to the Shepherd School, which is using VR
+to help children with learning difficulties.
+One of the more exciting applications of Superscape is Tyne and Wear
+Development Corporation's creation of VR model of the Pounds 180m Quayside
+development in Newcastle.
+The VR Quayside is being used to view how the development will look in
+advance and sell it to prospective investors.
+
+The Financial Times
+
+
+London Page XVII
+
+940316
+

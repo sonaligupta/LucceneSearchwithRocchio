@@ -1,0 +1,167 @@
+FT941-3319
+
+FT  16 MAR 94 / Survey of Information and Communications Technology (12): A
+global scramble for partners - The big telecom operators / The emergence of
+global service providers able to meet the needs of multinational
+corporations is being slowed by a range of cultural and technical problems
+
+
+   By MARK NEWMAN
+
+
+Telecommunications giants are stumbling towards global alliances which will
+bring down national barriers and sideline second-division telephone
+companies.
+The telecommunications big boys say alliances are a response to the
+communications needs of multinational corporations, but, at times, it seems
+as though the customers are the sideshow, and the main event is a showdown
+between telephone operators determined to outmanoeuvre each other.
+BT carries much of the responsibility for the high levels of activity among
+the world's largest telephone operators over the last three years. It tried
+to set up an exclusive partnership with Deutsche Telekom and Nippon
+Telephone and Telegraph in 1991. This fell apart after Deutsche Telekom
+insisted on including its French allies, NTT got cold feet, and both the
+Japanese and the Europeans realised that their competition authorities might
+not think a joint venture company intent on exercising global competitive
+strength was a good idea.
+In fairness to BT, it saw a market emerging for the provision of global
+communications services, and this has been the motivation behind its
+attempts to put together worldwide alliances. Many other companies, despite
+their claims, would be happy to keep the status quo and to exclude BT from
+their markets.
+Events have moved on since 1991: BT has taken a 20-per-cent stake in MCI,
+the second largest US long-distance telephone company, and the two companies
+are setting up a new company dedicated exclusively to selling services to
+multinational corporations; France Telecom and Deutsche Telekom have set up
+a joint venture company of their own; three second-tier European telephone
+operators, PTT Telecom Netherlands, Telia of Sweden, and Switzerland's PTT
+Telecom have set up a venture called Unisource; and American Telephone and
+Telegraph has also announced a world strategy of its own.
+Brokers in the global power game will emerge from these four groupings, but
+the next few years will see a jockeying for position among the global
+communications protagonists and the expansion of existing partnerships.
+Other telecommunications companies waiting on the sidelines are US
+long-distance operator, Sprint, Japanese operators, KDI and NTT, Cable &
+Wireless, Spain's Telefonica and Telecom Italia, the group that will emerge
+from the restructuring of Italy's telecommunications services sector, but
+they will face a number of obstacles along the way which will slow the
+progress of global partnerships. The main ones are:
+US partners: most multinational corporations are headquartered in the US.
+The idea of a global communications company is that it can deliver services
+in all of those countries where multinational companies have offices.
+A presence in the US, therefore, is vital. Two of the groupings, Unisource
+and France Telecom/Deutsche Telekom need US partners. AT&T, MCI and Sprint
+are the three obvious candidates for anyone in search of a US partner.
+MCI has already thrown in its lot with BT, so this only leaves AT&T and
+Sprint. France Telecom and Deutsche Telekom were in serious discussions with
+AT&T last year with a view to an alliance that would have involved a pooling
+of international telecommunications activities in a new company but Project
+Atlantic has broken down following suggestions from the competition
+authorities in Brussels that it would fall foul of rules on mergers. A
+less-ambitious alliance is now under discussion, but this may not satisfy
+the ambitions of AT&T.
+Unisource appeared to be lining up Sprint two years ago when the two sides
+agreed to interconnect their data communications networks, but the agreement
+was terminated at the end of last year after Unisource lost one of its first
+customers, Swedish conglomerate, SKF Group, because of problems with the
+interconnection of the two networks.
+Systems integration: telecommunications networks are constructed in
+different ways and by different manufacturers. When SKF Group cancelled its
+contract with Unisource, it cited the failure of Unisource and Sprint to
+provide seamless network integration.
+Systems integration will be one of the main tasks facing BT and MCI when
+they construct a global network platform. Customers in the US will connect
+on to MCI's network, while BT is installing network facilities in Europe.
+Old friends: partnerships already exist between international telephone
+operators. When a UK company orders an international private circuit from
+BT, for example, from London to Paris, BT has to liaise with France Telecom
+for the half-circuit on the French side. Similarly, international telephone
+operators have to pay each other for delivering calls to their customers.
+Accounts are settled according to the international settlements procedure.
+Complications arise when a country has more than one international operator.
+For example, the UK has BT and Mercury, while the US has three large
+international carriers, AT&T, MCI and Sprint.
+In this case, BT would divide its international outgoing traffic between the
+US operators according to the market share of the three operators for
+international calls from the US.
+AT&T has roughly 60 per cent of the US long-distance market, so it receives
+60 per cent of all incoming calls. This business is highly lucrative as the
+settlements procedure sets prices at above cost. If AT&T was to side against
+large international operators, it could threaten existing relationships.
+This explains why AT&T says it would prefer to offer global services in
+partnership with state-owned telephone companies rather than in competition
+with them.
+Regulation: few countries allow competition with state-owned telephone
+operators in basic voice telephone services. In Europe, restrictions will
+not be removed until 1998, although many companies are already exploiting
+uncertainties about the rules for competition in services to closed user
+groups. Global alliances will also attract scrutiny from both national and
+regional governmental bodies.
+BT's acquisition of a 20 per cent stake in MCI had to go before the the US
+State Department and Department of Justice, as well as the Federal
+Communications Commission, the telecommunications regulatory authority. It
+also needed clearance from the European Commission.
+An alliance between AT&T, France Telecom and Deutshce Telekom would face
+even closer scrutiny, and is the main reason for the decision of the three
+operators to seek a less-ambitious alliance than was originally envisaged.
+Outsourcing: global alliances are founded on the assumption that
+multinational corporations will, over the next few years, decide to
+outsource their telecommunications networks to third parties. But Mr Lenny
+Elefenbein, the managing director of US telecommunications consultancy, Lynx
+Technologies, notes that 'while an impressive number of users have put out
+requests for information, very few have actually awarded their businesses to
+one of the carriers.'
+He says that even the large carriers have been confused by the high ratio of
+activity to closed deals and that several of them have commissioned internal
+studies to determine 'why they they are not getting their share of the
+perceived big outsourcing bonanza.'
+Cultures: while MCI is an aggressive, marketing-driven company, BT is still
+making the transition from a government department nine years after its
+privatisation and ten years after the ending of its monopoly. Many observers
+question the ability of the two companies to work together effectively.
+The problems will be even greater for other transatlantic partnerships.
+Other telephone companies in Europe are still under state-control and have
+not even begun to make the transition to commercially-run companies that BT
+started in the late 1980s.
+There will be other problems along the way, many of them arising as global
+consortia threaten to take lucrative business contracts from state-owned
+telephone operators in smaller countries, leaving them only with the
+unprofitable residential customers.
+A momentum has built up behind the formation of global alliances which will
+assure their emergence, but there will be problems along the way, and big
+businesses - in whose interests the alliances are being formed  - will have
+to wait a little longer before operators deliver the services that match
+their global service claims.
+The writer, Mark Newman, is editor of the FT newsletter, Telecom Markets
+ -----------------------------------------------------------------------
+THE WORLD'S TEN LARGEST TELECOMMUNICATIONS OPERATORS*
+ -----------------------------------------------------------------------
+Operator        Country      Revenue   % change   Lines (m)   % change
+                                1992    1991-92        1992    1991-92
+                           (dollars m)
+ -----------------------------------------------------------------------
+NTT***            Japan       51,353        1.7          57        2.7
+AT&T**               US       39,580        2.0         n/a        n/a
+DBP Telekom     Germany       34,550       14.3          35        5.6
+BT***                UK       23,379       (0.7)         26        1.9
+France Telecom   France       23,164        5.9          30        3.4
+SIP               Italy       17,492       10.8          24        2.8
+BellSouth            US       15,202        5.2          19        3.4
+Nynex                US       13,155       (0.9)         16        1.9
+GTE                  US       12,644        0.6          17        3.6
+Bell Atlantic        US       12,093        2.5          18        2.4
+TOTAL                        242,613        7.1         242        3.2
+ -----------------------------------------------------------------------
+*Ranked by 1992 revenue; **AT&T does not offer local exchange line
+services; ***indicates year ending March 31, 1993.
+ -----------------------------------------------------------------------
+Source: Financial Times Telecom Markets Newsletter
+ -----------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page VII
+
+940316
+

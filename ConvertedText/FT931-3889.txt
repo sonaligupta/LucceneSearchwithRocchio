@@ -1,0 +1,66 @@
+FT931-3889
+
+FT  13 MAR 93 / City settles on the way ahead after Taurus: Richard Waters
+on suggestions for handling share transactions
+
+
+   By RICHARD WATERS
+
+
+THERE was a surprising unanimity in the City yesterday over what should
+replace Taurus, the London Stock Exchange's proposed settlement system,
+which was declared dead on Thursday.
+Different sections of the securities industry have different interests, but
+there seemed to be agreement over the general direction that future
+development should take.
+First, individual shareholders should be left out of the first stage of the
+development. Taurus had been conceived from the point of view of
+institutional investors, and getting the large volume of private
+shareholdings on to an automated system would add to the complexity and
+cost.
+Second, the Stock Exchange already has an automated settlement system which
+could be adapted to handle much of what Taurus was meant to do. Called
+Talisman, it was introduced as long ago as 1979 and is used to settle
+bargains between marketmakers. Each marketmaker has a nominee account in
+which they group together all their holdings.
+In theory, institutional investors could be offered such accounts, as could
+a stockbroker which maintained a nominee account for its clients - in effect
+allowing a retail stockbroker to take part in the automated settlement
+system.
+Third, the stock market should move quickly to a system of 'rolling
+settlement'. Share bargains are now settled once a fortnight: under rolling
+settlement all transactions would be settled a set number of days after they
+took place. With institutional investors in Talisman, the settlement cycle
+could be as little as five or even three days. Individual investors, outside
+the system and still using share certificates, could settle on a 10-day
+cycle.
+The idea of different settlement cycles was discussed during the Taurus
+project. At that time marketmakers agreed that the different cycles would
+not lead to institutional and private investors buying and selling shares at
+different prices.
+There was less agreement yesterday on how, if shares were held in nominee
+accounts, companies could draw up complete share registers as they are
+legally obliged to do. Companies would be able to comply with their legal
+obligations by drawing up a register which simply showed the amount of their
+stock held in each nominee account.
+To find out more, companies would have to employ agents to make inquiries of
+each nominee to draw up a picture of their share registers. However, this
+private register would take time to compile and would be unavailable to an
+outsider.
+One way round this would be a central registry, which would construct a
+complete record of a company's shareholdings.
+Technically this would be easy to achieve. A system already developed by a
+UK registrar could be bought by an independent clearing house and run for
+the interests of the City as a whole.
+This would put the existing bank-owned service registrars out of business,
+and could curtail severely the operations of the bank-owned custodians. But
+the Bank of England has made clear that some interests are likely to be
+trampled in the pursuit of a quick and cheap solution.
+
+The Financial Times
+
+
+London Page 5
+
+930313
+

@@ -1,0 +1,163 @@
+FT933-5155
+
+FT  04 SEP 93 / Briefcase Special: Why dividends may prove taxing - A more
+complex system of taxing dividends is explained by Maurice Parry-Wingfield
+
+
+   By MAURICE PARRY-WINGFIELD
+
+
+THE TAXATION of dividends was radically altered by Norman Lamont, the former
+chancellor, in his last Budget. For private investors in particular, the new
+system is much more difficult to understand than the one it replaced.
+Unsurprisingly, the Weekend FT's Q & A Briefcase section has received a lot
+of questions on this topic in the last few months, including the rather
+strange interaction of income and capital gains tax. In this article, I try
+to explain the new provisions in basic terms so that readers will be able to
+work out their own situation from the principles involved.
+Let us start by reminding ourselves of the basic tax rules. The first slice
+of income is covered by personal allowances (eg a single person's allowance
+of Pounds 3,445) and reliefs (eg for BES investment); the first taxable
+slice of Pounds 2,500 is taxed at the lower rate of 20 per cent; the next
+slice between Pounds 2,501 and Pounds 23,700 is taxed at the basic rate of
+25 per cent; and anything over this is taxed at the higher rate of 40 per
+cent.
+Capital gains add a certain amount of complication. In principle, however,
+once the gains of the year, net of losses, exceed the annual exemption of
+Pounds 5,800, they are taxed as though they were a top slice of income.
+Consequently, if your net gains, after deducting your annual exemption, come
+to Pounds 5,000 and your income, after deducting personal allowances and
+reliefs, comes to Pounds 20,000, then the first Pounds 3,700 of your gains
+are taxed at 25 per cent and the remaining Pounds 1,300 at 40 per cent.
+After the Budget, however, the position is considerably more complicated. I
+will start with those of you who - perhaps as a spouse of a breadwinner - do
+not pay any tax or whose marginal tax rate is at the lower rate, and then
+move on to those who are basic rate and higher rate taxpayers. I will
+concentrate mainly on UK dividends as part of income.
+I will also deal with the effect of realising capital gains (meaning, for
+simplicity, gains arrived at after deducting the annual exemption). It will
+be seen that the treatment of UK company dividends, together with the
+treatment of capital gains where there is insufficient non-dividend income
+to absorb the lower rate band, produces quirks.
+The basic point is that a dividend from a UK company now carries a tax
+credit of 20/80. This means that a dividend of Pounds 80 from a UK company
+is grossed up to Pounds 100 and a credit of Pounds 20 is available for
+offset against the tax liability or, where appropriate, to be repaid.
+(Previously the rate of tax credit was 25/75 so that a dividend of Pounds 80
+would be grossed up to about Pounds 107 and carry a tax credit of Pounds
+27).
+Non-taxpayers
+If your income is fully covered by allowances and reliefs, an additional
+dividend of Pounds 80 will use up a further Pounds 100 of those allowances
+and reliefs and entitle you to a tax repayment of Pounds 20. Capital gains
+(ie, as mentioned, gains in excess of the annual exemption) will be taxed at
+20 per cent, 25 per cent and 40 per cent, depending upon the amount.
+Lower rate taxpayers
+If you fall within this category, an additional dividend of Pounds 80,
+grossed up to Pounds 100, will be taxable at 20 per cent but fully covered
+by the tax credit of Pounds 20, so there will be no tax payable or
+repayable. Capital gains will be taxed at 20 per cent, and then at 25 per
+cent and 40 per cent if they are high enough.
+Basic and higher rate taxpayers
+The fun starts where dividends, when added to other income, fall within the
+basic rate band. Here you might think that a dividend of Pounds 80,
+producing gross income of Pounds 100, would give you a net tax liability of
+Pounds 5 - ie tax at 25 per cent less a credit at 20 per cent. In fact you
+will have no liability because the legislation provides that, within the
+basic rate band, the rate of tax applying to dividends is only 20 per cent,
+not 25 per cent.
+No doubt it was felt that the policy of reducing Revenue manpower would not
+be helped by making inspectors collect trivial liabilities on dividends.
+This treatment, once understood, is not particularly difficult to apply in
+calculating your income tax liability. The real problem comes when capital
+gains are taken into account. The draftsman of the new tax rules had to
+decide at what rate to tax gains where dividends are taxed at the new
+'dividend rate' of 20 per cent. His solution is best explained by looking at
+the following four examples.
+These show that dividends are taxed after other income, but where that other
+income falls short of the Pounds 2,500 lower rate limit, gains take up the
+remainder of the lower rate band so far as possible. This is a departure
+from the principle that gains are always taxed as though they are a top
+slice of income.
+Example 1
+You have enough income other than from dividends to absorb your lower rate
+band of Pounds 2,500. Here your dividends are taxed as the next slice, at
+the 20 per cent 'dividend rate' or at 40 per cent as appropriate; and your
+gains are then taxed as the top slice, at the basic rate of 25 per cent or
+at 40 per cent as appropriate.
+Example 2
+Your income consists entirely of dividends. Here your income and gains are
+taxed in the sequence shown in the table.
+This is illustrated in columns 1 and 2 of diagram A, which shows how your
+income and gains are apportioned between the three rate bands in two
+situations. (In this and all other examples, it is assumed that you already
+have sufficient other income to absorb your personal allowances and
+reliefs).
+Example 3
+You have non-dividend income but it falls short of the lower rate limit.
+Here the position is the same as in example 2, except that the non-dividend
+income uses up the bottom slice of the lower rate band, so that more of your
+dividends and gains will be pushed into the other rate bands. This is
+illustrated in columns 1 and 2 of diagram B, which are identical to those of
+diagram A except that interest of Pounds 1,500 has been added.
+Example 4
+Your non-dividend income exceeds the lower rate limit. Here a different
+approach is taken. Your income and gains take you through the rate bands in
+the following sequence: non-dividend income, then dividend income, then
+gains. This is shown in columns 1 and 2 of diagram C.
+For the technically minded, I should mention that the legislation which
+allocates income and gains to the rate bands provides that, for income tax
+purposes, the basic rate limit is reduced from Pounds 23,700 to the extent
+that capital gains use up any part of the lower rate bands. Since this does
+no more than ensure that gains taxed at the lower rate are included within
+the full basic rate limit, I have ignored it to be able to explain the new
+system clearly. Foreign dividends
+Finally, we have to consider the impact of foreign dividends. These are
+treated in much the same way as UK dividends - including the 20 per cent
+dividend rate where they fall within the basic rate band - subject to two
+exceptions.
+The first is that there will normally be overseas withholding tax to credit
+against your UK tax, resulting in a reduction or even elimination of your UK
+liability. The second relates to those of you who are not domiciled in the
+UK. Your foreign dividends are taxed in the UK on the 'remittance' basis,
+and accordingly the 20 per cent dividend rate does not apply - though it
+does, surprisingly, for Irish dividends.
+Conclusions
+These issues are important, for two reasons in particular. First, the tax
+treatment of dividends and gains is yet another example of the regrettable
+trend away from the Lawsonian simplification of the tax system of the late
+1980s.
+Anything which makes it more difficult for you to work out your own tax
+liability is retrograde. It causes unnecessary time and cost for you, your
+advisers and the Revenue.
+Equally important, if you do not know your marginal rate of tax, you are not
+in a position to make informed investment decisions. Either you will make
+the wrong decisions, or you will play safe and put your funds into a bank or
+building society account.
+Maurice Parry-Wingfield is a tax partner with Touche Ross & Co
+ ----------------------------------------------
+THE TAX TRIANGLE
+ ----------------------------------------------
+Source          Cumulative total       Rate
+                                    (Per cent)
+ ----------------------------------------------
+Gains         Up to Pounds 2,500         20
+Dividends     Up to Pounds 2,500         20
+Dividends    Up to Pounds 23,700         20
+Gains        Up to Pounds 23,700         25
+Dividends     Over Pounds 23,700         40
+Gains         Over Pounds 23,700         40
+ ----------------------------------------------
+Source: Touche Ross
+ ----------------------------------------------
+No legal responsibility can be accepted by the Financial Times for the
+answers given in these columns. All enquiries will be answered by post as
+soon as possible.
+
+The Financial Times
+
+
+London Page VI
+
+930904
+

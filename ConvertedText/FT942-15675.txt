@@ -1,0 +1,134 @@
+FT942-15675
+
+FT  14 APR 94 / Accountancy Column: Standard setting not the panacea for all
+ills - Gerry Acher argues that business life is too complex for prescriptive
+rules to override personal judgment
+
+
+   By GERRY ACHER
+
+
+Today, the Accounting Standards Board has published FRS 5, the standard
+primarily designed to curb off-balance sheet finance. It reflects how
+accounting judgment is rapidly taking second place to prescriptive rules.
+By comparison with earlier standards - even SSAP 16, which introduced
+current cost accounting and an entirely different system of profit
+measurement - this standard is of colossal length, albeit much in the form
+of application notes.
+Business life is far more complex than the one dimensional approach of
+double entry bookkeeping. Very few accounting facts can be expressed in
+black and white. The function of the accountant is to communicate the
+colourful reality to a particular audience in an honest way that makes sense
+to them and enables them to make informed decisions.
+The process of standard setting started innocently enough more than two
+decades ago. Because of the complexities of business, it was possible to
+adopt a number of completely different, but arguably equally acceptable,
+ways of looking at the same result. Some narrowing of the range was
+desirable.
+But this perfectly reasonable process is increasingly in danger of
+transformation into an ever expanding 'cook book' exercise in which it is
+more important to observe the rules than it is to get the message across.
+One has only to look at the example of the leasing standard, SSAP 21, and
+the distinction it makes between finance leases (which feature on the
+lessee's balance sheet) and operating leases (which do not).
+What it actually says is that the criteria for a finance lease should be
+presumed to apply if the present value of the minimum lease payments amounts
+to 'substantially all' the fair value of the leased asset. It says that
+'substantially all' will normally mean 90 per cent or more. In practice, the
+figure is taken as an absolute barrier, and almost limitless effort is
+expended in order not to breach it. This is not what judgment, still less
+auditing, is all about.
+The US experience of goodwill is another example of the way in which a
+detailed standard degenerates into a mechanistic approach. Under US GAAP,
+goodwill is capitalised and amortised, over a period not exceeding 40 years.
+Of course, practically everyone opts for the longest possible period,
+relying on the standard for support. It has taken the Securities and
+Exchange Commission, a much more interventionist regulator than exists in
+the UK, to force certain types of company to use a shorter period.
+A number of factors have contributed to this cook book situation. One could
+look to Brussels as a convenient bogey, with its directive-driven mentality.
+But the fault, I am afraid, is much nearer to home and lies with
+professional accountants.
+The process of preparing and auditing accounts varies in its nature. In many
+cases, there is a relationship of mutual respect between management and
+auditors, who see their joint objective as that of arriving at audited
+accounts which best reflect the activities of the company.
+In others, the process involves a degree of tension. Managements wish to
+emphasise their successes and to minimise their failures. It is one of the
+auditors' roles to moderate this tendency and to ensure that a more balanced
+picture is presented.
+It is sometimes forgotten that it is the duty of the directors to present a
+proper account of their actions to the owners of their business, the
+shareholders. Equally, auditors have retreated from their task. The
+existence of an increasing body of standards has provided a crutch for lazy
+minds.
+There arises a perception that as long as you comply with the standards, the
+accounts must be 'right' and, more dangerously, it risks an attitude that if
+there is no rule against a treatment, then it must be acceptable. Quite
+apart from the fact that the standards we have are by no means a
+comprehensive set of principles, this is an abdication of judgment. More
+attempts by the standard setters to produce a comprehensive set of
+instructions will simply encourage us to fall into this trap.
+In the days before we had accounting standards, the 'true and fair' view was
+paramount and weighed heavily in auditors' minds. Since then, we have
+allowed the audit to become an exercise in compliance, a checklist to be
+completed, rather than an endorsement of the way commercial and financial
+judgments are presented. This is totally wrong: the independent attestation
+of financial reports is fundamental to the efficient operation of our
+economic system.
+I see FRS 5 as a watershed. It is not the fault of the Accounting Standards
+Board. Indeed, David Tweedie, its chairman, is on record as saying that the
+standard was only as long as it has turned out to be because of pressure
+from the accounting firms. This pressure simply represents the demand from
+audit partners for rules which they can turn to when confronted with a
+difficult situation.
+We can either move further towards a US system, where fair presentation
+simply means that accounts comply with the rules, or we can try to
+revitalise the process of financial reporting so that judgment has a greater
+role to play and the myriad facets of a business are synthesised into
+something more than the sum of a cook book's parts. We, as auditors, have to
+convince the financial community that we have the qualities to exercise the
+judgments required, in a proper, timely and consistent way.
+I am not looking to reverse the clock. Business life evolves continually,
+and accounting must do so too. Today's complexities were unthought of 20
+years ago. But I would much rather my intelligence was taxed and I was able
+to make a positive contribution to financial reporting, than my role should
+be reduced simply to checking that all the rules have been observed - and to
+hell with the result.
+Can this be accomplished? The precedents are not encouraging. If we are to
+achieve the necessary change in attitude and approach, directors must
+remember their reporting responsibilities as stewards, rather than as
+management, and auditors must be worthy of the respect their responsibility
+entails.
+The auditing profession has already moved a considerable way towards this
+objective. As a profession we have made mistakes in the past, but the
+accounting firms are putting their houses in order. I sense a new awareness
+of the importance of auditing even at the potential expense of new jobs and
+the top line.
+In my firm as in others, senior partners review difficult issues and poor
+judgment is not tolerated. We need to build on our philosophy and encourage
+robustness of opinion, based on proper consideration of the facts and not on
+truculence.
+Externally, the workings of the Financial Reporting Review Panel have at
+least made people pause for thought, although I have to say that the way the
+panel's remit is phrased, and the approach it often adopts, is far too rule
+book-driven for my taste.
+I am by no means certain that this change can be accomplished. I am much
+more certain that if we, collectively, do not attempt to change direction
+now, the juggernaut will gather even more momentum and we will never be able
+to get off the path that we are presently following towards a cook book of
+rules, and ultimately more interventionist regulators as we have seen
+elsewhere.
+It is up to auditors, directors and regulators to decide if they are up to
+making the necessary effort of will. My opposite numbers in the accounting
+firms, the 100 Group of finance directors and the ASB, will all have a
+central role to play. If we fail, we will be all the poorer as a result.
+The author is head of audit and accounting at KPMG Peat Marwick
+
+The Financial Times
+
+
+London Page 12
+
+940414
+

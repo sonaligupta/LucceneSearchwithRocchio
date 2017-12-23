@@ -1,0 +1,35 @@
+FT932-73
+
+FT  30 JUN 93 / International Company News: IBM shows off speech advance
+
+
+   By LOUISE KEHOE
+
+
+   SAN FRANCISCO
+
+
+IBM yesterday demonstrated advances in its speech recognition technology
+that will lead to the availability within the next 12 months of
+high-performance speech-to-text translation on low-cost personal computers.
+The demonstrations included a dictation version of WordPerfect, one of the
+most popular PC word processing programs. IBM's technology provides a
+vocabulary of up to 32,000 words and can take dictation at a rate of about
+70 words a minute.
+Users train the system to recognise their own voice.
+Promising applications of the speech recognition technology include its use
+by doctors, police, social services personnel and lawyers, Mr Sherwin
+predicts.
+IBM also demonstrated the use of 'continuous speech' recognition to create
+and manipulate data using Lotus 1-2-3, the leading PC spreadsheet program.
+Atari, the video-game manufacturer, said IBM is to manufacture a new TV game
+system, the Atari Jaguar. It will be made at an IBM plant in North Carolina.
+Atari valued the agreement at Dollars 500m.
+
+The Financial Times
+
+
+London Page 30
+
+930630
+

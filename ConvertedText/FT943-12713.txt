@@ -1,0 +1,53 @@
+FT943-12713
+
+FT  23 JUL 94 / Whitehall computer spending 'to fall'
+
+
+   By ALAN CANE
+
+
+Spending by the civil service on computer systems is set to fall in 1994-95
+for the first time in five years, according to one of the first detailed
+analyses of expenditure by the government on information technology.
+The biggest fall, of 48 per cent, is at the Department of Social Security
+which, with the Exchequer - comprising Treasury, Customs and Excise and
+Inland Revenue - and the Ministry of Defence, accounts for about two-thirds
+of the Pounds 2.5bn spent annually by government departments and agencies on
+hardware, software, external services and computer staff.
+The analysis, carried out by Kable, a research group specialising in
+public-sector information systems, does not take into account the dramatic
+decline in prices for computer hardware over the past few years. Kable
+concludes nevertheless that the boom is over for equipment suppliers. It
+says: 'Civil service hardware spend has risen an average 5 per cent a year
+over the past four years. At the depth of the recession in 1991-92,
+government was decidedly popular with the computer industry as budgets rose
+20 per cent. This year, equipment spend is set to drop 10 per cent.'
+The Kable study sets benchmarks for government IT spending when, as a
+consequence of market-testing and the outsourcing of computer operations,
+the picture will become much more complex.
+Personal computers accounted for 42 per cent of spending on hardware by the
+civil service last year. The MoD alone spent Pounds 86. The most successful
+supplier that year was the US manufacturer Compaq with a 14 per cent share.
+Some Pounds 303m was spent on software last year, representing 12 per cent
+of overall IT spending. The largest share, 45 per cent, was spent on
+specially written software. In commercial data processing, pre-written or
+packaged software is increasingly preferred.
+Departments spent a total of Pounds 127m on consultancy, representing 5 per
+cent of their systems budgets. However, the DSS and the Exchequer each spent
+8 per cent of their budgets while Northern Ireland spent less than 0.1 per
+cent.
+Market testing - where the performance of in-house operations is measured -
+also threw up broad differences. The leaders - the Exchequer and the MoD -
+have each tested Pounds 350m worth of services while the Department of
+Social Security and the Lord Chancellor's Department have not tested
+activities worth more than 1 per cent of their gross running costs.
+Kable Market Profile: Civil Service IS 1994-95. Kable. 40 Bowling Green
+Lane, London EC1 0NE, Pounds 2,250.
+
+The Financial Times
+
+
+London Page 5
+
+940723
+

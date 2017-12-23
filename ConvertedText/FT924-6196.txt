@@ -1,0 +1,115 @@
+FT924-6196
+
+FT  23 NOV 92 / Management: Swiss bankers share secrets - A look at a
+pioneering effort to develop a new approach to data processing
+
+
+   By ALAN CANE
+
+
+Swiss bankers traditionally neither take risks nor are they iconoclasts,
+especially where computer systems are concerned.
+Yet a group of cantonal banks, based in Lausanne and Geneva, is pioneering
+an approach to data processing which may presage a new era in electronic
+banking.
+Led by Banque Cantonale Vaudoise (BCV), a medium-sized retail bank serving
+the canton of Vaud from its Lausanne headquarters, the group is pooling its
+computing resources in a separate organisation owned equally by five founder
+members.
+The collaboration has come about principally through BCV's need to share the
+estimated Pounds 100m costs of developing new and more competitive computer
+systems.
+The Financial Times first examined the project when it was on the drawing
+board; three years on, it seems to be going well with cost reductions of up
+to 30 per cent a year expected by 1995 on what would have been total running
+costs for individual members of the consortium
+The new company, Unicible, is now planning to recruit more members and sell
+its services outside, doubling the number of accounts it is processing to 2m
+within five years. Its management considers this the minimum to survive. The
+Union Bank of Switzerland, one of the country's big three international
+banks, is among the organisations which has already talked to Unicible about
+possible co-operation.
+Unicible began operations formally at the beginning of the year, causing a
+stir in staid Swiss banking circles.
+The development is controversial because it provides identical data
+processing services to each member, operating computer hardware on behalf of
+shareholders from two mainframe sites.
+A bank's computer system these days contains as much of value as its vaults.
+Accounting information, lending records and so on, are filed away on
+batteries of capacious disc drives.
+It is the kind of data which can be used to compile marketing profiles of
+customers, opening the door to the cross-selling of a wide variety of
+financial products. Bankers conventionally see such information as their
+crown jewels and guard it jealously.
+Yet the Unicible shareholders - BCV and Credit Foncier Vaudois in Lausanne,
+Banque Hypothecaire du Canton de Geneve and Caisee d'Epargne de Geneve in
+Geneva and Banque Cantonale du Valais in Sion - are not only sharing
+processing services, but developing applications software on a common basis,
+using a single software development method.
+This includes software designed to give institutions a competitive edge,
+again an area companies traditionally reserve for their own computing
+specialists.
+The Unicible initiative is a form of facilities management, or
+'outsourcing', which is becoming an increasingly credible option for
+companies anxious to concentrate on what they do best, leaving essential,
+but non-core, activities to outside specialists.
+But it is still highly unusual in the banking community. Barclays Bank in
+the UK, for example, recently hived off its data processing department as a
+subsidiary, Barclays Computer Operations (BCO), which sells computing
+services to outside customers in addition to members of the Barclays group.
+BCO is wholly owned by Barclays, and its outside customers - while in
+financial services - are not competitors.
+Unicible has its origin in decisions taken in the late 1980s by BCV. Then a
+moderately successful cantonal bank, it was concerned about its continuing
+ability to hold its own with its big Swiss competitors - Union Bank of
+Switzerland, Swiss Bank Corporation and Credit Suisse - and, with the advent
+of the single European market, foreign banks as well.
+Like many cantonal banks, its strength lay in its local business - personal
+savings and mortgages - and it lacked the business expertise and computer
+systems flexible enough to exploit newer, more profitable banking products.
+The bank had two iconoclasts among its senior executives: Francis Randin,
+then senior vice-president for organisation and information systems, and
+Pierre Pennone, head of information systems development. Randin, the
+youngest-ever member of the Swiss Bankers Association, has now given up his
+banking career to run Unicible. Pennone has taken charge of systems
+development there.
+Randin and Pennone persuaded BCV to re-engineer its business processes and
+its information systems using special computer software developed by Texas
+Instruments, the US-based electronics company, and new International
+Business Machines' file system, DB2.
+Business process re-engineering - changing the way a company does business
+to focus its responsiveness to fast-changing markets - is a hackneyed term
+today but, back in 1988 it was very new, as was the Texas Instruments'
+software Information Engineering Facility or IEF.
+BCV became its first commercial site; it still has more experience of the
+technology than any other customer.
+IEF is a very large and sophisticated form of computer-aided systems
+engineering (Case); it uses computer power to design business processes and
+automatically write the computer systems to underpin them. According to the
+US technology consultancy Gartner Group, it has proved itself the most
+successful Case system in a difficult market.
+But the entire strategy, planned to take up to 10 years to complete, was
+certain to cost more than BCV could afford alone, hence Unicible. Three
+years into implementation of the transformation strategy, both Randin and
+Pennone agree that IEF has proved an effective re-engineering tool.
+One-third of the five banks' application programs - some 2,000 operational
+procedures - have been rewritten; another third will be ready in 18 months.
+That leaves what Pennone describes as 'decision-making' programs - software
+for competitive advantage but in areas outside the banks' present expertise.
+For these topics it is seeking outside know-how: for investment portfolio
+management, for example, it has bought a Belgian product which it is
+rewriting, using IEF to offer to its shareholders.
+Pennone explains that Unicible works because its shareholders have the same
+processing needs and the same global strategy; they are not in competition
+with each other although they face the same threats from bigger banks.
+And they have the same need to keep up with technology. Pennone is already
+beginning to think about open systems and multimedia which he says represent
+a 'tremendous opportunity'.
+
+The Financial Times
+
+
+London Page 11
+
+921123
+

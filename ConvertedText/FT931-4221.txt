@@ -1,0 +1,54 @@
+FT931-4221
+
+FT  11 MAR 93 / Survey of Software at Work, Spring 1993 (4): Control across
+multiple projects - Application area / Financial Information Services
+
+
+   By CLAIRE GOODING
+
+
+AS ONE of the world's largest information services groups, CCN relies on
+information technology (IT) systems at the centre of its business. But IT
+projects are among the most difficult to manage, and it was to control a
+dozen different project areas, and multiple projects within them, that CCN
+first acquired Hoskyns' PMW tool, writes Claire Gooding.
+CCN's main customers are banks, building societies, credit card, finance and
+mail order companies, which rely on CCN information for credit management
+and marketing decisions. The company is a wholly-owned subsidiary of Great
+Universal Stores, with a turnover of Pounds 67m.
+Of a staff of 1,500 worldwide, 350 work in IT, and some are full-time
+project managers. Delivering to time and cost was a big concern, and needed
+more than hand-drawn charts. In 1987, when Alec Dawson, director of systems
+development, started looking for a project management system, there was a
+need to manage several client projects simultaneously. He looked at five
+different products, but found that there was very little available for
+running on PCs at the time: most needed mainframe hosts.
+One product was rejected for being too closely aligned with engineering and
+construction. And another, Wings, although functionally rich, had an
+uncertain future.
+PMW is now used to control costs and track staff deployment across multiple
+projects. With 27 licences, and as many as 45 individual users, CCN invested
+in tailored training, provided by Hoskyns - 'PMW has been of big assistance
+to us in bringing in our projects on time and within cost,' explains Alec
+Dawson. 'Previously, we were finding it increasingly difficult to achieve
+this with paper and pencil.' Another advantage is that the use of the
+software has standardised communication between teams, and enabled a quicker
+response to change - 'having the ability to change project plans quickly and
+easily has allowed managers to identify and focus on key issues much faster
+than when they used manual methods.'
+To get the best out of PMW, CCN had first to put effort into organising its
+own disciplines. Mr Dawson's advice is that standards have to be set,
+in-house.
+'You must have a set of standards for describing resources and tasks which
+are present in all projects - for example, SP for a senior programmer, and
+implementing it across the company,' he says.
+'The training was very much tailored to teaching our specific standards, not
+just PMW methodology.'
+
+The Financial Times
+
+
+London Page IV
+
+930311
+

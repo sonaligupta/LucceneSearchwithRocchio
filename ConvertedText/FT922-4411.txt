@@ -1,0 +1,117 @@
+FT922-4411
+
+FT  05 JUN 92 / Survey of Vehicle Manufacturing Technology (9): Scope for
+more machinery - Final Assembly
+
+
+   By CHRIS BARRIE
+
+
+ASK A CAR buyer which bit of his car was most difficult to build and the
+chances are that he or she will name the engine or the car body.
+In fact, the most time-consuming, and therefore expensive, task is when
+engine, gearbox, suspension and interior trim are placed and fixed in the
+painted car body - a process known as final assembly.
+To please the customer the car company must offer many different options on
+each basic car.
+Apart from different engine sizes and gearboxes, the production line has to
+cater for a myriad of differences in interior trim: colours, fabrics,
+equipment, and tinted glass.
+Take Ford's latest Escort, built at the Halewood plant on Merseyside. There
+are more than 100 variations in the bumper fitted to this car depending on
+colour and specification.
+Similarly there are up to 90 variations in the body side moulding, 60
+variations in the door mirrors, and between 140 and 260 variations in the
+door trim panels according to the model mix being built at the plant.
+The complexity of choosing the right component and fitting it into the right
+model has left these areas of the factory dominated by men and women, not
+machines. It has also made this part of car construction the area where, on
+the surface, greatest efficiency gains should be possible.
+The International Motor Vehicle Programme (IVMP) - an international study
+carried out by the Massachusetts Institute of Technology - found that final
+assembly accounts for about 15 per cent of the final value of the car, a
+significant proportion.
+Typically in Europe it takes 15 hours of assembly time per car to carry out
+final assembly, compared with four hours to paint the car and five to weld
+it together (direct labour only).
+By contrast, according to the IMVP, a typical Japanese plant needs six hours
+of final assembly per car, two hours for paint and three hours for body
+construction - a clear competitive advantage to the Japanese.
+There is no escape from the complexity of the tasks to be carried out on
+final assembly. Customers will continue wanting more, not fewer, options.
+And in any case it is not the complexity itself which makes a factory
+efficient. The IMVP study suggested that the factories coping with the most
+complex cars were also the most productive, and they were Japanese.
+So what are the solutions to making final assembly more efficient? Needless
+to say, companies are choosing different ways ahead.
+The most obvious answer is to do to final assembly what has already been
+done elsewhere in the car factory: use machines instead of men. Machines
+will work flat out all day every day to uniformly high quality standards.
+The rising cost of labour makes automation more attractive. And as fewer
+people want to work in car factories these days, especially in Japan,
+machines are having to be used, whether cost effective or not.
+There is certainly scope for more machinery. The proportion of direct steps
+carried out by automation in Europe is, on average, just 3 per cent. In
+Japan the equivalent is 7 per cent. The typical European bodyshop has 77 per
+cent of its action automated, compared with 86 per cent in Japan.
+Automation suppliers are confident that they can provide the answers. Mr Kai
+Warn, Brussels-based manager of automotive sales support for ABB Robotics,
+says automation is just becoming cost-effective in final assembly.
+He estimates that the cost of robots has fallen by 30 per cent in the past
+five years while their performance has risen by the same amount over the
+same period.
+Mr Warn estimates that the real advance in automation will come in the next
+two to three years as new cars come on stream having been designed with
+automation in mind.
+But it is worth adding a caveat: design a car for easier automation, and you
+make it easier for a man to assemble, too. Ford looked long and hard at
+automating final assembly of the Sierra replacement, the CDW27, and appears
+to have ruled it out as still not cost effective.
+But there are companies that have automated already. Fiat builds its Tipo
+car on highly automated lines at Cassino in Italy. The factory has more than
+100 computers, 400 robots, 24 lasers, more than 1200 wire guided trollies
+and 480 automatic guided vehicles. It is the most highly automated factory
+in the world.
+Similarly, Volkswagen builds the Golf on highly-automated lines, while
+Citroen uses automation to carry out large numbers of final assembly tasks
+on the XM executive car at Rennes in France.
+But there are constraints in such an approach. The high cost of
+sophisticated automation systems makes high production volume a must. Yet
+the complexity of the systems can mean frequent break-downs, adding to
+indirect costs, as systems engineers wrestle with the problems.
+Professor Dan Jones of Cardiff Business School says the Cassino plant will
+only be cost-effective if it runs at full capacity. And that in turn means
+Fiat will need another less efficient car plant elsewhere capable of turning
+Tipo production on and off according to fluctuating demand.
+Similarly, automation can inhibit new model design by forcing engineers to
+cut costs by using tooling installed for the old model. The Volkswagen Golf
+is often cited as a case in point.
+Instead of trying to replace the workforce, some companies are turning to
+automation as a means of using people more effectively. Citroen automates
+tasks that are ergonomically awkward. And Jones suggests that automation
+should be used to tackle the simple repetitive tasks, not the
+labour-intensive pinchpoints on a production line where workforce numbers
+may be reduced but the automation left with an impossibly complicated job -
+and the people with an impossibly boring set of simple jobs.
+Instead of being concerned with machines, some managers are turning to two
+sets of people for help: the workforce and the supplier.
+Unlocking the skill in the workforce can be extremely effective. Rover
+achieved huge improvements to productivity and quality by asking its
+workforce to examine prototypes of the new Rover 800 executive car before it
+went into production. Similarly, Nissan's car factory in Sunderland is one
+of the least automated but most efficient in Europe because of the
+management skill in running the factory efficiently.
+All car companies will simplify their own tasks by asking suppliers to do
+more. Instead of assembling cars under one roof, car companies will receive
+built-up modules such as dashboards, seats or mouldings ready for
+installation into the car.
+But whichever route a company chooses it must get the cost analysis right.
+Automation can be hugely expensive. But so is failure to use the workforce.
+
+The Financial Times
+
+
+London Page IV
+
+920605
+

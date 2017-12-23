@@ -1,0 +1,115 @@
+FT944-10978
+
+FT  08 NOV 94 / Survey of International Fund Management (4): Statistical
+jungle needs standards - Benchmarks and performance measurement
+
+
+   By BARRY RILEY
+
+
+The rapid expansion of global investment management, covering a wide variety
+of geographical markets, has highlighted the need to standardise performance
+measurement.
+In the past, performance measurement has too often been a statistical jungle
+in which every management firm has claimed to have outperformed against some
+sort of index or other benchmark over some period or other. Allegedly
+'typical' portfolios have been presented as indicative of actual client
+experience.
+Industry-wide historical performance figures have been visibly flattered by
+so-called 'survivor bias' as the records of poorly-performing discontinued
+funds have been dropped from the databanks.
+In the extreme cases, longer-term performance histories have been cobbled
+together out of claimed records of different funds, often managed by
+particular teams which may even have moved between different firms. These
+stitched-together records are apparently known by measurement buffs as
+'Frankenstein' figures.
+Attempts are now being made at a clean-up. Last year, in the US, the
+Association for Investment Management and Research published its performance
+presentation standards. This move followed closely on the introduction of a
+voluntary pension fund investment performance measurement code in the UK.
+Now the European Analysts' Federation (Effas) has decided to set up a
+permanent commission on performance measurement, headed by Dugald Eadie,
+until recently the chairman of the World Markets Company (WM), one of the
+two main performance measurement specialists based in the UK.
+Effas felt that there was a need for a European initiative in this area. By
+building on the work of the AIMR and the promoters of the UK code it might
+be practical to develop global standards, without too much wasteful
+duplication.
+Mr Eadie is hoping to propose a working programme by early next year and,
+perhaps ambitiously, to develop a set of global standards by the end of
+1996. It could take much longer, because developing a global code will
+require a struggle with basic cultural differences.
+In the US, the problem has been seen as largely an ethical one, in that
+portfolio management firms - typically quite small - operating in a
+competitive environment will be tempted to manipulate performance data in
+their commercial favour.
+Hence the emphasis on presentation, because the provision of performance
+data to consultants and prospective clients is a crucial element in the
+marketing activities of US money management firms.
+In other countries, however, competitive bidding for mandates is often less
+of an issue, but reporting to existing clients and controlling risks may be
+more so. On the technical side, questions about the treatment of income,
+taxation and currencies are also bound to loom quite large.
+According to Mr Eadie, who is moving his own job from measurement at WM to a
+marketing responsibility at the London fund managers Henderson
+Administration, measurement standards are driven by the marketing process in
+each country. 'The issue hasn't even arisen in Japan because there is no
+competitive market for fund management there,' he says.
+In the global arena the development of relevant securities market indices is
+particularly important for performance measurement. Indices are required as
+benchmarks against which managers can compare their achievements. However,
+the global markets represent a constantly moving target.
+For example, the growth of the emerging markets has prompted the committee
+which controls the FT-Actuaries World Index to expand the 24-country index
+series to include Brazil and Thailand. But this introduction has been
+delayed for a month until the beginning of November because of the
+difficulties faced by managers running global index funds in making their
+initial investments in Brazil.
+Similar difficulties can arise in bonds. Salomon Bros and JP Morgan, which
+both produce widely-followed World Government Bond Indices, upset certain
+fund managers two years ago when they introduced Italian bonds to their
+indices.
+Not all investors considered that Italian government paper was of true
+investment quality, a doubt which was mollified by the 1993 bond bull market
+but which has recently once again resurfaced as Italian bond yields have
+headed back towards 12 per cent.
+The problem of over-dominant indices is an increasing source of concern to
+fund managers. The indices were designed to measure portfolios, but too
+often it now works the other way around, with the managers slavishly chained
+to the indices.
+The global equity indices do, however, offer flexibility, being constructed
+on a building block basis, so that different subsidiary indices can be
+easily extracted. The Morgan Stanley Capital International series is the
+longest-established and is especially widely followed in the US.
+The capitalisation weights in these indices cause constant problems,
+however, especially in the case of Japan, which at one stage in the late
+1980s represented more than 40 per cent of the FT-A World Index and still
+accounts for some 30 per cent. Thus the World ex US Index has an exposure of
+45 per cent to Japan, representing a dangerous concentration of risk.
+Some global funds have dabbled with GDP weights, in an attempt to reflect
+basic economic realities rather than financial valuations, which can be
+distorted.
+Another option is to use equal weights, although this may be difficult in
+practice to the smallest markets where liquidity is restricted and dealing
+is difficult.
+Still another approach, seen particularly in the UK among pension funds, is
+to adopt a peer group benchmark. According to WM, the overseas equity
+portfolios of UK pension funds currently have a 23 per cent weighting in
+Japan, much lighter than the World ex UK capitalisation weighting of 33 per
+cent.
+In practice most UK fund managers assess their risks against the performance
+of other similar funds rather than against the World Index. According to WM,
+the overseas equity portfolios of UK pension funds outperformed the FT-A
+World Index by 14 per cent in 1993 (but with Japan relatively firm they will
+have substantially underperformed it so far in 1994).
+Was this 14 per cent excess return a good performance, or did it reflect
+extravagant risk-taking? This is the kind of tricky conceptual challenge
+that global performance measurement has to help answer.
+
+The Financial Times
+
+
+London Page 30
+
+941108
+

@@ -1,0 +1,96 @@
+FT944-10923
+
+FT  08 NOV 94 / Survey of India (26): Brains at bargain wages - Software
+skills attract world-wide interest
+
+
+   By PAUL TAYLOR
+
+
+Over the past decade India has built up a solid reputation for software
+programming and semiconductor design.
+According to the National Association of Computer Software and Services
+(Nasscom), the Indian software sector grew at a compound rate of almost 30
+per cent between 1987 and 1992.
+Last year, the industry generated Dollars 600m of revenues, 50 per cent more
+than the previous year, of which Dollars 330m represented exports, mostly to
+the US and Europe. Nasscom's 273 members, who include the Indian
+subsidiaries of companies such as Microsoft as well as indigenous companies,
+account for about 97 per cent of industry revenues. 'This year's revenues
+will reach about Dollars 1bn and we estimate 50 per cent growth for the next
+50 years,' says Mr Dewang Mehta, the executive director.
+Several factors explain the success of the Indian software industry. Among
+these India has a large pool of relatively low wage skilled people who speak
+English and have been taught mathematics and science. The salary for a
+qualified Indian graduate, although rising rapidly, is still only about a
+tenth of that in the US. As a result, when labour shortages began to appear
+in the mid 1980s many western high tech companies set up software and
+semiconductor chip design operations in India, particularly around Bombay,
+Bangalore and Delhi.
+Others went 'body shopping' - contracting with Indian start-ups that could
+supply cut-price programmers.
+Among the industry pioneers TCS (Tata Consultancy Services) was started 26
+years ago and won its first overseas contract in 1974. Today TCS employs
+4,000 professionals (average age 26 1/2 ) of whom 1,700 to 1,800 are working
+for foreign clients including 800 abroad.
+'We think of ourselves as software engineers,' says Mr Faquir Kohli, deputy
+chairman of TCS whose customers have included many foreign giants including
+insurance companies Life and Prudential and US banking group JP Morgan.
+Mr Saurabh Srivastava, managing director of International Informantics
+Solutions (IIS), another Indian software consultancy, cites several reasons
+for using a company like his. One is cost - using an Indian subcontractor
+can cut costs by about 25 per cent for the same quality or better work.
+According to Mr Srivastava, the Indian software industry is entering a new
+phase. Having developed programming expertise and confidence, IIS and other
+companies are beginning to invest in the research and development of their
+own products. 'There are a lot of companies doing R&D today,' he says.
+Mr R Ramachandra, science editor of the Economic Times newspaper, estimates
+that, despite tax an other incentives for industry, around 75 per cent of
+Indian R&D expenditure is undertaken by the government.
+In part this has reflected India's strategic requirements. With access to
+western technology restricted, India has developed indigenous expertise in
+key areas including defence, space and nuclear power. These programmes have
+had mixed success. For example, the space programme, conducted under the
+auspices of the Indian Space Research Organisation, has suffered a number of
+technical setbacks.
+Meanwhile, the country's nuclear industry was branded a 'dangerous failure'
+by western scientists earlier this year during an investigation by America's
+CBS network and the country has been without an indigenous semiconductor
+fabrication capacity since the semiconductor plant at Chandigar burned down
+in 1989.
+In other areas, India's attempts to protect and encourage domestic high
+technology companies have come unstuck. In aerospace and defence, the
+state-controlled companies which dominate industry have failed to make any
+inroads into the commercial sector. In areas such as pharmaceuticals,
+however, there have been successes.
+The Indian pharmaceutical industry is well established and the government's
+decision earlier this year to sign the Gatt agreement on intellectual
+property rights is expected to stimulate further research and development.
+In addition, several national research laboratories such as the National
+Chemical laboratory in Pune have developed a high level of expertise in
+process technology - for the petrochemical industry, for example - and are
+acknowledged to be world-class institutions.
+Historically, private sector R&D spending in India has been fairly limited.
+Small private sector businesses have relied on the state laboratories for
+technology such as materials substitution and testing, while larger scale
+manufacturers have been protected by trade barriers and often lacked the
+finance and the confidence in future government industrial policy to
+undertake R&D.
+Overall expenditure on research and development in India is reckoned to be
+running at around 0.8 or 0.9 per cent of GDP - down from about 1 per cent
+during the 1980s. The decline reflects the impact of the current
+administration's economic liberalisation programme which includes
+restricting state spending.
+As a result many state-run research laboratories which have so far failed to
+win foreign or private sector contracts are close to collapse. The
+government hopes that eventually its more open economic, financial and trade
+policy will encourage industry to invest more in R&D and establish more
+technology transfer joint ventures with foreign multinationals.
+
+The Financial Times
+
+
+London Page XVI
+
+941108
+

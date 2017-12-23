@@ -1,0 +1,52 @@
+FT924-5982
+
+FT  24 NOV 92 / Technology: Crossed lines on European IT networks
+
+
+   By ANDREW FISHER
+
+
+Many British companies know all too well that in these days of prolonged UK
+recession and increasingly global markets, their future lies in mainland
+Europe. The export opportunities opened up by sterling's devaluation have
+reinforced this perception.
+The trouble is that companies do not always know the best way to go about
+building up business abroad. They are aware of the customers they want to
+attract or the sectors they wish to penetrate. They may also have a fair
+idea of the sort of electronic systems they need.
+But this is where their planning often starts to fall down, according to a
+study carried out among industrial, financial, service and consumer
+companies for 3Com (UK), part of California-based 3Com, which makes computer
+equipment. It concluded that there is a worrying lack of agreement between
+managers at different levels as to what their companies really need.
+For instance, while main board directors tend to favour systems of strategic
+value, such as those linking different business functions like manufacturing
+and sales, managers responsible for implementing European networks often
+take a narrower view, wanting facilities like electronic mail. Only 35 per
+cent of directors see the latter as being important for European growth
+compared with 52 per cent of network managers.
+Also, there is a tendency to be over-ambitious. Nearly half of directors
+expect their international data communications to increase by over 40 per
+cent in the next 12 months, as do about a third of network managers.
+Astonishingly, nearly 20 per cent of those polled expect growth to exceed
+100 per cent.
+This, says Tom Plimmer, 3Com's UK managing director, 'could lead to
+complexity outgrowing capability'. The study, carried out by Business
+Marketing Services with 50 directors responsible for strategy and 100
+network managers, also revealed other worrying examples of inconsistency.
+As many as 81 per cent of network managers believe they derive value for
+money on their European networks; only 48 per cent of directors think so.
+Moreover, less than a quarter of the companies have strategic networking
+plans to support their growth. Hardly flattering to the network managers was
+the fact that directors seem 'barely aware of their existence'.
+There is also disturbing news for airline and hotel operators. More than 40
+per cent of directors would consider video conferences as an alternative to
+business travel, on which UK companies now spend Pounds 22bn a year.
+
+The Financial Times
+
+
+London Page 15
+
+921124
+

@@ -1,0 +1,85 @@
+FT934-8305
+
+FT  16 NOV 93 / International Company News: Slimmer Wang gets back on line /
+A look at how the US computer group has re-emerged
+
+
+   By ALAN CAIN
+
+
+It was once America's fastest growing computer company. But when Wang
+Laboratories slipped into bankruptcy 15 months ago, there were fears it had
+entered a black hole from which there could be no return.
+The position seemed desperate. It was one of the first victims of the
+profound changes now racking the global computer industry. Its technology
+was obsolete, its revenues were declining rapidly, and its debt, despite the
+Herculean efforts of former chairman Mr Richard Miller - who had managed to
+pay off Dollars 575m - stood at a over half a billion dollars.
+Today, Wang will report its first quarterly figures since emerging from the
+protection of Chapter 11 of the US bankruptcy code three weeks ago. The
+price paid for survival includes loss of control by the family of Dr An
+Wang, the brilliant Chinese-born inventor whose death from cancer in 1990
+exacerbated the crisis, and a significant change of identity.
+The old Wang with Dollars 3bn in sales was a manufacturer of proprietary
+minicomputers tuned to run Wang's own, well-regarded office software.
+Today's Wang is a slimmer computing services company with just under Dollars
+1bn worth of sales, marketing a range of white-collar productivity software
+and prepared to work with industry standard hardware and other suppliers to
+meets customers' needs.
+The chief link with the old Wang remains the commitment to computer systems
+for the office and for workgroups.
+Mr Miller resigned at the beginning of the year. Wang has a new chairman and
+chief executive in Mr Joseph Tucci, promoted last month. Mr Tucci joined
+Wang as vice-president, operations, in 1990. He was recruited by Mr Miller,
+who reasoned that Mr Tucci's previous experience with Unisys, another US
+manufacturer hard-hit by the changes in the industry, could help Wang
+through the crisis.
+Crucial to the company's survival has been the manoeuvres to eliminate the
+debt burden and rejuvenate the balance sheet. The key has been a conversion
+of debt to equity. Wang's principal creditors, including suppliers such as
+Hewlett-Packard, were persuaded to take stock in the new company.
+Before the plan was confirmed, Wang had a negative net worth of Dollars
+508m, with combined short-term and long-term debt of Dollars 497m. Now,
+coupled with the debt conversion, the company has raised a further Dollars
+60m through the placement of preferred stock, and describes itself as having
+the strongest balance sheet in the computer industry.
+Its justification is a cash level at 20 per cent of total assets, compared
+with 8 per cent for Hewlett-Packard and 6 per cent at IBM. Long-term debt is
+1 cent of equity, against 28 per cent at IBM and 97 per cent for Unisys.
+The essence of the Wang argument was that the company could successfully
+move from proprietary hardware and software to open - or industry standard -
+systems and 'client-server computing'.
+Client-server computing is generally acknowledged as the principal direction
+of the computer industry now. It implies networks of low-cost personal
+computers linked through a network to larger computers which share the
+processing load.
+Wang has spent the past three years converting its old proprietary software
+to the new client-server systems. It had to be done from scratch; papering
+over the deficiencies of the old software simply leads to inefficiencies and
+frustrated customers.
+Mr Tucci describes negotiations with creditors as 'difficult' and talks of
+the due diligence process. 'They went through every line of computer code to
+see if we had really moved the software to client-server. In the end, the
+survival plan gained the support of 97 per cent of the old and new
+shareholders.
+His strategy now is to develop the company's office productivity software -
+including programs for document management, imaging, workflow and electronic
+mail - while continuing to support its line of VS minicomputers.
+The line will not develop much further, but there are 20,000 customers who
+will continue to need maintenance and support.
+Although the company will invest some Dollars 50m in research and
+development this year, most of that will go on software development. 'There
+will be no next generation of VS computers,' Mr Tucci says.
+There is a newly-appointed board of directors.
+The new, financially sound, Wang is also receptive to ideas in a way that
+would have been alien to its predecessor. 'We are setting no rules.' Mr
+Tucci says: 'We are open to every way of working with our customers and with
+other suppliers.'
+
+The Financial Times
+
+
+London Page 30
+
+931116
+

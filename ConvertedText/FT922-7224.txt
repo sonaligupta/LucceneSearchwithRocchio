@@ -1,0 +1,112 @@
+FT922-7224
+
+FT  20 MAY 92 / Survey of Courier and Express Services (7): Barcoded for
+speedy recognition - Tracking technology is becoming increasingly
+sophisticated
+
+
+   By JANINA WALKER
+
+
+IN AN industry where speed and reliability are vital, courier and express
+operators' consignment monitoring would make Arnold Schwarzenegger's tracker
+robot Terminator feel at home.
+Automatic identification technology, which can pinpoint a parcel in a
+network, whether it is travelling to Telford or Timbuktu, has always
+provided customers with reassurance that the carrier is in control. The
+trend is towards enhancement of this system.
+Millions have been spent in this and other information technology (IT)
+areas, as companies seek to gain the technological edge in a competitive
+industry squeezed by recession.
+Tracking and tracing is a simple idea. Consignments are given a unique
+barcode by which they can be followed through a distribution system.
+Mick Linsell, systems director of the top player in the UK express parcel
+market, Royal Mail Parcelforce, describes barcoding as 'the integral
+efficiency product'.
+Parcelforce, which claims a 30 per cent share in the market, has just
+invested Pounds 3m in an international distribution centre, one component of
+which is interfacing with track-and-trace systems.
+A further multi-million pound investment is planned for an new automatic
+sorting centres in the UK, which will integrate track-and-trace using the
+barcode technology.
+'My personal view on track-and-trace in the domestic operation is that
+consignments should be delivered so quickly you don't have time to find out
+where they are,' said Mr Linsell. 'The trend is not away from
+track-and-trace, but the enhancement of it - more is being done with the
+barcode information, and we are getting more functions out of our investment
+and there are huge incremental benefits in speed and reliability.'
+Another UK domestic parcel operator, Parceline, is investing Pounds 2.5m in
+IT, including the integration of parcel tracking and billing operations.
+Parceline's hub and technical services manager, Chris Ogg, said: 'Added
+value through technology, which gives the comfort factor to customers, is
+becoming a major issue as operators are fighting for the same clients in a
+similar market.
+'We have witnessed an emphasis on confirmation on proof of delivery
+information, and are bolting on technology to our track-and-trace systems to
+deal with it. One major advance is that we now have the ability to give full
+image reproduction of a consignment for POD purposes.'
+DHL is investing Pounds 7.5m in IT in the UK this year. It currently has
+EasyShip On Line - a tracking and tracing advance for high-volume shippers,
+which means these customers can now trace worldwide movement of consignments
+from their own offices.
+'Most customers are saying now they want to track more pieces, and they want
+information on them more quickly,' said Charles Brewer, after-sales manager,
+DHL International (UK). 'There is more anxiety in business in this current
+economic climate, and demands are higher than in the past.
+'The comfort factor is still very important for customers, especially when
+they are involved in the just-in-time method of operation, which involves
+regular stocking of empty shelves.'
+DHL is also looking to another track-and-trace advance, which has nothing to
+do with sophisticated technology - improvement in personal service. In
+November, the company introduced a 24-hour, seven-days-a-week tracking and
+tracing service, which means it can contact international colleagues to get
+immediate information on a consignment.
+Mr Brewer said the company was also recruiting staff with foreign languages,
+to reduce the margin of error when tracing consignments overseas.
+UK player Securicor Omega Express, which delivers 1.5m parcels a week, has
+completed the first phase of a five-year Pounds 25m investment in IT, which
+includes enhancement of tracking-and-tracing technology. Here again, the
+comfort factor comes into play, in the form of Signline, a nationwide
+confirmation-of-delivery system based on scanning the barcodes on all
+consignments which customers ring in to use.
+The company's systems manager, Phil Whitlock, commented: 'Without
+technology, a carrier is going to lag behind. The main impetus is for
+carriers to communicate billing and receiving.'
+Australian express giant TNT is also re-equipping systems within the UK
+operation, at a cost of between Pounds 2.6m and Pounds 3m.
+TNT Express UK's general manager, domestic development, Nigel Barton, said:
+'Not only are we bolting on to our track and trace, we are completely
+re-writing our systems.
+'What we are doing effectively, from a commercial point of view, is adding
+value to get a competitive edge. Reliability is the key. . . The systems
+also enable us to monitor our own internal quality, which is extremely
+important if we are to give the best service to our customers.
+'There is certainly more and more demand for information as companies look
+to operators as an offshoot of their own business, rather than just a parcel
+carrier. Customers tend to regard us as their own fleet.'
+British Rail Red Star express parcel division spent Pounds 750,000 on a
+special system, which gives customers the technology to track their own
+consignments' progress through the distribution chain.
+The system - known as TRAC - is PC-based and provides customers with a live
+on-line link to the Red Star Parcels' mainframe computer. It gives on-line
+proof of delivery, and generates an invoice and manifest. It is currently
+being used by high-volume customers, which include IBM, and is updated every
+three months at the cost of Pounds 15,000.
+IBM's storage services manager, Brian Fisher, said the company had been
+using Red Star for a number of years, and the paperwork system used before
+TRAC had been messy.
+'It has certainly tightened things up, and the additional control it gives
+us, of knowing where a parcel is, is a positive advantage,' he said. 'We use
+Red Star for overnight emergency service, which means it is vital for
+customers to know where their consignment is, if for some reason it does not
+arrive on time.
+'We look to our carriers to give us a good service, and this is certainly an
+enormous leap forward in those terms.'
+
+The Financial Times
+
+
+London Page IV
+
+920520
+

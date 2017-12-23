@@ -1,0 +1,29 @@
+FT922-717
+
+FT  26 JUN 92 / Technology (Worth Watching): Pixels promise better image
+
+
+   By PAUL TAYLOR
+
+
+High resolution digital cameras are now an essential tool in medical
+analysis, microscopy, non-contact measurement and precision testing in
+industrial research and production.
+However, these cameras leave spaces between each pixel - meaning that a
+computer has to estimate the image within these 'dead' areas. Now Kodak has
+launched the 'Megaplus' camera which is designed to capture high resolution
+1320 by 1035 pixel digital images. Uniquely, each square pixel is contiguous
+with its neighbour, ensuring full image accuracy.
+One hundred per cent image coverage is vital for areas like non-contact
+measurement of electronic components, chemical structures or parts of the
+human body too sensitive to be touched. These measurements often require
+microscopic accuracy which can only be delivered by total image coverage and
+capture. Kodak US 619 535 2908; UK,0442 61122.
+
+The Financial Times
+
+
+London Page 12
+
+920626
+

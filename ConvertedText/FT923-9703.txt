@@ -1,0 +1,48 @@
+FT923-9703
+
+FT  04 AUG 92 / Technology: EDI on the book shelves
+
+
+   By PAUL TAYLOR
+
+
+It is estimated that 70 per cent of all trading documents printed by
+computer are re-keyed into another computer by their recipients,
+representing considerable time and cost.
+One way to reduce this wasted effort is to introduce electronic data
+interchange (EDI) which allows for computer-to-computer handling of
+structured information like orders, delivery notes, invoices, credit notes
+and other commercial communications between trading partners.
+In the UK, booksellers are the latest retailers to embrace EDI. First
+Edition, of Otford, Kent, began supplying EDI services to the book community
+last month following a three-month pilot scheme involving five publishers
+and four booksellers/suppliers.
+The potential market for EDI among booksellers is substantial. As Mark
+Hodder-Williams, managing director of First Edition, notes: 'This is an
+industry with 15,000 producers and over 500,000 product lines.'
+Dillons, one of the biggest UK booksellers, estimates that it alone handles
+1.5m invoices a year which, if placed end to end would reach from London to
+Leeds. The company spends about 11,000 hours a year keying them into
+computers.
+First Edition, formed by Book Data, the book database company, and Vista
+Computer Services, the computer systems market leader in the UK book
+publishing industry, is providing EDI to the book industry based on the INS
+Tradernet service. First Edition subscribers receive the INS Intercept-Plus
+software for use on any PC clone, an electronic mailbox, full installation
+and consultancy, plus staff training.
+The service provides publishers, wholesalers, the library community and
+bookshops with access to a low-cost, fast and reliable 24-hour
+computer-to-computer service for exchanging commercial documents in agreed
+formats defined by the Book Industry Communication, the official
+co-ordinating body for EDI in the book industry.
+EDI is expected to offer a number of advantages to booksellers including
+speeding up communications, eliminating repetitive data entry, increasing
+accuracy, enhancing customer service and reducing operating costs.
+
+The Financial Times
+
+
+London Page 12
+
+920804
+

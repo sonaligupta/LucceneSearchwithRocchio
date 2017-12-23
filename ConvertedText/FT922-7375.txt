@@ -1,0 +1,65 @@
+FT922-7375
+
+FT  19 MAY 92 / International Company News: Using family ties to take on IBM
+ -Alan Cane on the developing relationship between Fujitsu and ICL, one of
+its global network of associates, as they battle flagging profitability and
+market changes
+
+
+   By ALAN CANE
+
+
+Collaboration between Fujitsu and its global 'family' of associate companies
+is intensifying as Japan's leading computer manufacturer seeks to revive
+profitability and stalk International Business Machines (IBM) for leadership
+of the worldwide computer business.
+The list of projects includes a development with ICL which could lead to the
+UK company challenging IBM's mainframe superiority; research into computers
+which recognise handwriting with the US-based company Poquet; and
+developments in computer communications with Amdahl, the US-based large
+computer supplier.
+Fujitsu, like other Japanese mainframe computer-makers, has seen a steep
+decline in profitability this year as Japanese banks and securities houses,
+traditionally heavy spenders on large computer systems, cut back on orders
+and information technology investment.
+Mr Toshio Hiraguri, managing director of Fujitsu Ltd., which has
+responsibility for all Fujitsu's computer families, said the Japanese market
+was also being affected by the structural changes which were western
+computer manufacturers. Customers, he said, were moving to common standards
+and smaller, less expensive computers, a phenomenon known as 'down-sizing'.
+Mr Hiraguri said Fujitsu was keen to increase the share of revenues coming
+from software and services compared with hardware.
+It is determined to develop software products which can be used on Fujitsu
+computers and those of its competitors. An example was 'Graphicwriting
+particular kinds of programs easier, and which was developed jointly by
+Fujitsu's artificial intelligence centre in Kawasaki and an ICL group in
+Dublin.
+Technological links between Fujitsu and ICL, which began in the early 1980s,
+are now being cemented by exchange of research staff between London and
+Tokyo, and frequent video conferences. Mr Hiraguri confirmed that ICL
+engineers were helping Fujitsu to design fibre optic communications systems
+to be incorporated into the company's large mainframe computers, which
+operate in the same way as IBM's large systems.
+He said, however, that the system could also be incorporated into ICL's
+mainframes - which are not compatible with IBM's - making it possible for
+them to act as the heart of an IBM data processing system. Such a
+development would give ICL new credibility among companies which use IBM
+hardware exclusively.
+Business links between the two companies have also been strengthened through
+a reorganisation this year which placed parts of Fujitsu's operations in the
+US and Europe under ICL's control. In the US, for example, where both ICL
+and Fujitsu market systems for the retail trade, a single company under ICL
+management has been formed.
+Not all Fujitsu's overseas investments have proved instantly successful.
+Poquet developed a pocket-sized computer compatible with IBM's personal
+computer, but manufacturing and technical glitches meant weak sales. An
+improved version, which can recognise handwritten characters, is expected to
+do better.
+
+The Financial Times
+
+
+London Page 25
+
+920519
+

@@ -1,0 +1,27 @@
+FT921-3678
+
+FT  13 MAR 92 / Technology (Worth Watching): Getting to grips with IT
+networks
+
+
+MANAGING information across a local or wide area network can be the stuff IT
+department nightmares are made off.
+UK-based Digital Networks International has developed the Help Desk Expert,
+a PC network software package which enables all the optional modules to
+inter-relate and to update one another.
+The software, developed using Clarion, a fourth-generation language,
+centralises all IT documentation and associated databases within larger
+organisations and then distributes the maintenance of the data to those best
+suited to carry it out.
+Some 11 add-on modules, ranging from purchase order tracking and training
+schedules to PABX planning and even the IT department payroll, have been
+added to its basic features.
+Digital Networks International: UK, 0342 326 000.
+
+The Financial Times
+
+
+London Page 12
+
+920313
+

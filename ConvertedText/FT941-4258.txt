@@ -1,0 +1,65 @@
+FT941-4258
+
+FT  11 MAR 94 / International Capital Markets: DTB fills gaps in yield curve
+with two new products
+
+
+   By CONNER MIDDELMANN
+
+
+Futures traders are gearing up for the launch of two interest-rate contracts
+on the Deutsche Terminborse, Germany's financial futures exchange.
+Today is the first day of trading in the DTB's long-term 'Buxl' future,
+based on bonds issued by the German government and the Treuhandanstalt with
+a remaining maturity of between 15 and 30 years. Next Friday, the
+screen-based exchange plans to launch its long-awaited Fibor future, a
+three-month interest-rate contract based on the Frankfurt inter-bank offered
+rate.
+'Now the spectrum will be complete - anyone who trades this market can play
+the whole yield curve without any gaps,' said Mr Ralf Lemster, head of
+derivatives sales and trading at Dresdner Bank in Frankfurt. The DTB already
+lists five-year and 10-year bond futures.
+Mr Jorg Franke, DTB chairman, said the Buxl future had been launched to meet
+increased demand for long-dated debt, especially from international
+investors.
+'The rise in issuance at this part of the yield curve has shown that there
+is a real need for long-dated bonds in the cash market,' and a hedging
+instrument was needed to round off the picture, he said. Since December
+1993, Germany has issued DM27bn of 22-year and 30-year bonds.
+Despite some concern over the liquidity of the underlying market, most are
+confident that the Bundesbank's commitment to reinforcing Frankfurt's
+position as a financial centre will ensure a steady supply.
+'I expect to see at least one 30-year bond every six months - that's not a
+lot, but enough,' said Mr Peter Kerger, head of futures and options at
+NatWest Markets in Frankfurt.
+Volatility in the 10-year bund future has jumped sharply following recent
+market turbulence, and an even longer dated instrument is likely to be even
+more volatile.
+'It's not the easiest instrument to trade, but if we want to be an
+international market, we have to offer these types of products,' said Mr
+Lemster.
+Moreover, said Mr Franke, the contract would offer cash investors a way to
+hedge their very long dated positions during turbulent market conditions,
+while providing short-term traders with a speculative instrument.
+The Fibor future may be slower to take off, largely because Liffe already
+lists a similar contract based on the British Bankers Association interest
+settlement rate for three-month Euromark deposits.
+'The Fibor future could be a flop,' said one dealer, noting that
+'duplicating another exchange's products has never worked'. Moreover, he
+feels that there is not enough Fibor-based business around to justify
+creating a Fibor contract.
+But others say that is precisely why it is needed. 'Once the Fibor future is
+in place, it could spur the development of more Fibor-based instruments,'
+said Mr Franke.
+Some fear the underlying market may not be broad enough without issuance of
+short-term government paper but hopes for such debt were dashed yesterday
+when Bundesbank council member Johann Wilhelm Gaddum said the issuance of
+treasury bills could interfere with the central bank's monetary policy.
+
+The Financial Times
+
+
+London Page 30
+
+940311
+

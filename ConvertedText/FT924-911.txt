@@ -1,0 +1,100 @@
+FT924-911
+
+FT  21 DEC 92 / Survey of Japanese Industrial Review (9): Experiments for
+the future / Profile of Tsukuba
+
+
+   By STEVEN BUTLER
+
+
+IN a sprawling complex of government buildings about an hour's drive from
+Tokyo lie what the Japanese government hopes will be the seeds of Japan's
+next industrial revolution.
+Tsukuba is the main campus for the government's science programme. In 1991,
+the government spent Y117.3bn to employ 2,526 researchers and 1,093
+administrators in an effort to put Japanese science on the international
+map.
+Tsukuba, and indeed the government's entire programme, is still more of an
+experiment than it is the engine room of Japanese technological advance.
+What Japan has rightly become famous for has been making a commercial
+success out of scientific and technical developments, many of which
+originated elsewhere. Whether the government's role in bringing this about
+was central or peripheral is still subject to debate. Yet whatever the
+outcome of debate among academics, Europe and the US have begun to imitate
+the Japanese formula in order to try to bring their own industries up to
+international running speed.
+What the Japanese government did was to bring private companies together in
+government-sponsored programmes in order to develop 'pre-competitive'
+technology, for example in semiconductors. Private companies were then able
+to take advantage of the basic technology to design products and compete in
+the market, in theory giving them a collective head start.
+At Tsukuba, supported by the Agency of Industrial Science and Technology
+(AIST) under the administrative control of the Ministry of International
+Trade and Industry (Miti), the aim is to develop technology that is
+somewhere between pure, basic science, and the 'pre-competitive' stage where
+private industry is likely to show strong interest.
+Miti officials consult industry and the scientific community and then select
+research topics and allocate money to areas where they believe basic
+scientific research will eventually lead - perhaps in the distant future -
+to some technical breakthrough that will be useful to industry.
+Increasingly, the process is becoming more open to foreign participation,
+with hundreds of foreign scientists visiting each year for stays of varying
+durations.
+The subjects for research are broad, with institutes for mechanical
+engineering, fermentation (including biotechnology), electrotechnology, and
+geology. Some of the more interesting projects presently moving forward at
+Tsukuba include:
+Mr Gen Matsumoto, at the Electrotechnical Institute has developed a
+super-high-speed video camera that can actually capture visually the
+activity of the brain. With a better understanding of how the human brain
+functions, scientists are hoping to build computers that can think, instead
+of just compute and process data.
+Mr Matsumoto spent five years on research and initially produced nothing,
+but he has now perfected a camera, actually a charge-coupled device, that
+operates at 0.5 milliseconds per frame.
+In the past, brain researchers were forced to develop models of how the
+brain functioned by attaching electrodes to animal brains and measuring the
+electrical response to stimuli. Yet for practical purposes, very few
+electrodes could be attached, forcing scientists to measure a highly complex
+process in overly simplified form.
+Mr Matsumoto's camera, however, is capable of measuring 16,000 points
+simultaneously. A rat's brain is opened and treated with an
+electro-sensitive dye and a brilliant picture of how information is spread
+through the brain can be watched on a video tape that is slowed by a factor
+of 100. Already, Mr Matsumoto says, widely accepted models of how the brain
+functions have been put into doubt.
+Mr Matsumoto claims that his success in developing the camera was only
+possible because he had the freedom to fail for five years, without
+producing anything. He doesn't believe this would have been possible in, for
+example, the US.
+Mr Susumu Takada has developed a super-high-speed Josephine computer that he
+says is nearly ready for practical development. A Josephine computer is one
+in which high speed is achieved by using circuits supercooled by liquid
+helium to achieve superconductivity. Ordinary, silicon chips are limited in
+speed because they produce heat - a problem that is intensified as chips
+become smaller and smaller yet pack more computing power.
+IBM, which had been working on the computer, gave up the project in the
+early 1980s as unworkable. Rather than use lead, as IBM did, however, Mr
+Takada used the rare metallic element niobiuim and was able to produce a
+processor of high reliability.
+'In principle, the scientific problems are nearly solved,' he says. The main
+obstacle to commercial development, he believes, is the current business
+environment. Other projects at the laboratories include programming for
+computers to enable them to recognise human faces; hydrogen production from
+light-sensitive bacteria; development of powerful robot manipulator arms
+using six parallel links; and the development of robot arms with a sense of
+touch and the ability to manipulate objects flexibly like the fingers of a
+hand.
+The main difference with government programmes in Europe and the US is that
+Miti takes a more direct approach to deciding on its own what to support and
+what to axe. Whether the programmes will counter an often-heard criticism
+that Japanese are better at commercialising basic technology than developing
+it remains to be seen.
+
+The Financial Times
+
+
+London Page 25
+
+921221
+

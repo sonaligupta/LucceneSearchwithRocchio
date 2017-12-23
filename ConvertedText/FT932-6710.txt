@@ -1,0 +1,47 @@
+FT932-6710
+
+FT  27 MAY 93 / Technology: User Profile
+
+
+Westlands is a state school in Torquay which has pioneered work in using
+expert systems software in teaching other subjects as well as computing.
+Nature of business:  The education of 1,200 pupils in the area around
+Torquay, Torbay, Paignton and the Newton Abbot area.  There is a staff of 78
+teachers and 15 auxiliary staff.
+Budget:  School budget is Pounds 2.1m per annum including salaries: The
+newly refurbished computer centre cost Pounds 12,000: the computer
+department has an annual budget of Pounds 1,800 covering purchase of four
+computers a year, books, running of PC network, etc.  Other departments buy
+their own computers to the network (Worth around Pounds 15,000).
+Key Personnel:  Head teacher Griff Madoc-Jones, David Bowles, senior teacher
+(curriculum and technology co-ordinator), Geoff White, head of computing and
+cross-circular IT.
+TECHNOLOGY FILE
+Software:  The Crystal expert system from Intelligent Environments is used
+both by White and pupils to build systems for use in the classroom in
+subjects other than computing.  Westlands holds a 10-user licence, funded by
+Devon Education Authority at a discount price of Pounds 600.
+Hardware:  A PC network of Nimbus PCs from Research Machines, plus a CD-ROM
+server and Nimbus 286 server.  There are 14 machines in the new computer
+suite at the Upper School and a further seven networked around the school in
+geography, English, Science, home economics, careers and the library, which
+are in constant use.
+There are also four Nimbus standalone computers, and a couple of Research
+machines notebooks, all compatible.
+Supplier:  The Crystal software was developed by Intelligent Environmentsm
+founded in 1985 and based in Sunbury-on-Thames.  IE had a turnover of Pounds
+3.5m in 1992, up from Pounds 2.9m in 1991. The company employs 35 people in
+the US, from where it derives 60 per cent of its income.  More than 8,000
+licences have been sold to developers, resulting in 300,000 runtime (or
+user) licences, 100,000 of them for NatWest's Pharos system.
+Cost of system:  Crystal usually costs Pounds 1,295 with a 'fast start'
+version including examples at Pounds 1,995.  Ten runtime licences (for users
+of developed expert applications) cost Pounds 2,000.
+
+The Financial Times
+
+
+London Page 18
+
+930527
+

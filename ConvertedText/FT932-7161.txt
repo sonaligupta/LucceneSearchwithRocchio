@@ -1,0 +1,112 @@
+FT932-7161
+
+FT  25 MAY 93 / International Company News: US marketmakers fight back
+against the nerds - Small investors, defined as 'professional traders', are
+upsetting some of Wall Street's biggest firms
+
+
+   By PATRICK HARVERSON
+
+
+ON THE wall of an office at the small upstate New York securities firm of
+All-Tech Investment Group, a magazine headline is proudly displayed. It
+reads: 'Revenge of the Nerds'.
+To the All-Tech clients occupying the office, the headline is an in-joke, a
+reference to the fact they spend their days in windowless rooms staring at
+computer screens filled with stock prices.
+To the marketmakers and dealers of the big Wall Street firms, the people at
+All-Tech - a collection of former bartenders, truck drivers, accountants and
+beauty consultants turned 'professional investors' - are nerds of the most
+annoying kind.
+Although they classify themselves as investors, the men and women who have
+found a second career buying and selling small amounts of stock via a
+computerised automatic share execution system, are essentially stock market
+traders. They spend their days trading on the Small Order Execution System,
+a system run by the National Association of Securities Dealers. SOES was
+established in 1988 to allow individual investors to buy and sell small
+amounts of stock, without having to go through an intermediary.
+At All-Tech, the SOES traders concentrate on the marketmakers' quotes - the
+prices at which marketmaking firms indicate they are willing to buy and sell
+shares - waiting for one marketmaker to lag behind in updating his quote
+when a share price moves.
+When they spot these temporary price discrepancies, SOES traders immediately
+buy or sell the stock at the price quoted by the slow marketmaker. The
+marketmakers cannot escape the trade, because under SOES rules, they must
+take up to 5,000 shares worth of trades before changing their quote.
+A few minutes later, when all the prices have moved back in line, the
+traders unwind their earlier order. If they bought a stock low, they sell it
+back high, if they sold high, they buy it back low. The difference
+represents their profit.
+Although the amount of stock traded each time is small, those profits can
+add up. If a trader exploits a quarter of a point (25 cents) difference
+between marketmakers' prices, he can earn a Dollars 250 profit on the
+maximum SOES trade of 1,000 shares.
+Good SOES traders can pocket several thousand dollars a week, and the very
+best earn an annual income well into six figures. And they do not need that
+much capital - a minimum of Dollars 15,000. There is nothing illegal about
+what traders do, yet marketmaking firms are so angry at being 'picked off'
+by the traders that they have pushed the NASD into taking action.
+In the past few months the NASD has tried to change some key SOES rules to
+curb the SOES traders. It narrowed the definition of 'professional traders',
+who are banned from using SOES, to anyone trading on the system more than
+four times a day.
+Since then, the NASD has proposed other changes, including reducing the
+order size from 1,000 shares to 500 for which marketmakers must guarantee
+firm quotes on SOES, and giving marketmakers more time to change their
+quotes after taking the first automatic order. Ultimately, the NASD wants to
+change SOES from an automatic trade execution system to a simple order
+delivery system that will give marketmakers the choice of accepting or
+rejecting customer business.
+The tightening of the 'professional trader' definition has not hurt the SOES
+traders because the rule change has been temporarily blocked while All-Tech
+and other firms challenge it in the courts. The other proposed changes are
+before the Securities and Exchange Commission, awaiting approval.
+The NASD justifies attempts to shut the traders out of SOES on the grounds
+they are exploiting a system designed for small investors, not professional
+traders. A NASD spokeswoman says: 'They are not investors, because they
+immediately unwind their trades after executing them.'
+The NASD also contends marketmakers are losing money because of the SOES
+traders. There are 29 brokerage firms offering a home to SOES traders, and
+at times, says the NASD, marketmakers are hit by 'wave after wave' of
+automatic orders from these traders, leaving them thousands of dollars out
+of pocket each time.
+Moreover, the NASD insists marketmakers are not the only ones to suffer from
+the SOES traders' activities. It says that, to make up for losses incurred
+at the hands of the SOES traders, marketmakers have been widening price
+spreads - something that hurts all investors who use the system.
+Additionally, the NASD says the traders' activity increases stock price
+volatility and damages liquidity.
+The SOES traders deny such claims. Mr Harvey Houtkin, chief executive of
+All-Tech, says there is no convincing evidence the traders have either
+forced marketmakers to widen their spreads, or their activities have added
+to volatility. Mr Houtkin says his customers add liquidity to the market.
+He fears if the NASD is allowed to change its rules SOES will be placed
+off-limits not just to his clients but to a wide range of users, hindering
+efficiency and liquidity in the OTC market. Ultimately, Mr Houtkin says the
+NASD, which bills itself as the stock market of the 21st century, will kill
+off the one system with the po-tential to be the blueprint for the market of
+the future.
+There is now an uneasy impasse between the two sides, with the court not
+expected to rule on All-Tech's appeal for several months.
+While trading on SOES is only a small part of the total business conducted
+on US stock markets, the row between the NASD and the traders has wider
+implications.
+At a time when the Securities and Exchange Commission is investigating
+possible changes to the structure of US stock markets, the SOES controversy
+raises an important question: who does the NASD run its stock market for -
+investors, or the marketmaking professionals who operate the system?
+The people at All-Tech and advocates of computerised trading in the US argue
+that if the NASD were putting investors' interests first, it would not only
+allow them to trade on SOES, but would also develop SOES into an automated
+trading system on which everyone - big and small investors, brokers and
+marketmakers - could trade directly with each other. Only then, says Mr
+Houtkin, would the NASD live up to its billing as the stock market for the
+next 100 years.
+
+The Financial Times
+
+
+London Page 28
+
+930525
+

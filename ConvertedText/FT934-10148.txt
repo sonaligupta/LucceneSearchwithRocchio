@@ -1,0 +1,99 @@
+FT934-10148
+
+FT  06 NOV 93 / Minding Your Own Business: A taxing question - David Carter
+asks which packages will keep the Revenue happy / Computing
+
+
+   By DAVID CARTER
+
+
+A READER writes: 'My wife has three small businesses (a sole trader, a
+partnership, and a limited company) all requiring book-keeping and annual
+accounts. I have taken early retirement and would like to do most of the
+work myself.
+'What programme should I use? I have narrowed down the search to TAS Books
+or Quicken for DOS. I understand that Quicken does not do 'proper' accounts
+but I hope it will provide all the necessary information, correctly broken
+down, for me to complete the quarterly VAT return and for our accountant to
+produce year-end accounts.'
+The last few months have seen a sharp rise in the sales of packages such as
+Microsoft's Money and Quicken from Intuit. They are cheaply priced at around
+Pounds 50 or Pounds 60 and are sold as 'personal finance managers', which
+are also capable of managing the accounts of a small business.
+Should small business users try Quicken or stick to a traditional accounts
+package such as TAS Books?
+The first point to clarify is how a 'personal finance manager' differs from
+a 'traditional accounts package'. Most business transactions are conducted
+on credit. So, on November 20, 1993 I might issue a sales invoice to a
+customer for Pounds 1,000 plus Pounds 175 VAT. Finally, on February 2, 1994
+the customer sends me a cheque for Pounds 1,175 in payment. In accounting
+terms, therefore, each sale has two elements: when it is invoiced to the
+customer, and when it is paid.
+A traditional (or 'accrual-based') accounts package such as TAS Books will
+record both elements of the sale. A 'Cashbook' accounting package such as
+Quicken records only the second element - the February payment.
+With a traditional package you would credit your sales and VAT accounts when
+you entered the invoice - in November 1993. With a cashbook accounting
+system you would credit sales and VAT at time of payment - in February 1994.
+With the one method the sales go into your 1993 accounts, with the other
+into 1994's. So, if your year-end is December 31, 1993, could you switch to
+running your accounts on Quicken and defer paying tax on the Pounds 1,000
+for 12 months? Unfortunately, no. As far as the Inland Revenue is concerned
+your income is earned, and therefore taxable, when you invoice it, not when
+it is paid.
+Another tax authority is involved, Customs and Excise. Again, as far as it
+is concerned, you become liable for VAT at the end of the quarter in which
+the invoice is raised (hence the term 'tax-point date' on many invoices).
+However the Excise offers a concession: if your turnover is less than Pounds
+350,000 per annum, you can apply to account for VAT under the VAT cash
+accounting scheme. This allows you to pay your VAT to the Excise when your
+customer pays you, not when you raise the invoice. If you produce cash-based
+VAT returns on Quicken in the normal way you must apply to the Excise for
+permission.
+So, if your sales invoices are substantially greater in value than your
+purchase invoices, you should choose VAT cash accounting. If you have a
+retail 'cash' business such as a shop, the cash accounting scheme would be
+harmful. You would continue to pay your VAT on sales straight away, but
+instead of being able to claim back the VAT on your purchase invoices as
+soon as they arrived, you would have to wait until you paid them.
+Whatever your final arrangement with the VAT authorities, there still
+remains the Revenue, which will flatly refuse to accept that you made the
+sale in February 1994.
+With the exceptions of the bar, which can always use cash accounting and
+members of other traditional professions who can adopt it after the first
+three years, 'accrual-based' accounting is the only form acceptable to the
+Revenue.
+So, I am wary of 'cashbook' packages, and for a further reason. With a
+traditional package the invoice goes on to the computer straight away and
+you are right up-to-date on how much your customers owe you and how much you
+owe your suppliers.
+Users with bank overdrafts, for example, often want an accounting programme
+to give them 'aged debtors' and 'aged creditors' reports. These are concise
+summaries of all sales and purchase invoices outstanding for payment. With
+the computer producing these, they have, for the first time, real control
+over their bank account. With a conventional cashbook accounting system you
+do not get this control because the invoice is not recorded until after it
+has been paid.
+Quicken can handle accrual accounting by using an asset account in which you
+enter invoices as you issue them; if this is done it can record Vat in a
+special account suitable for the tax authorities and generate an aged
+debtors report, which it calls 'accounts receivable'. The VAT-paying
+business user does not have the option of using Quicken the easy way and
+must use this extra feature, described in the 'advanced business uses'
+section of the manual. Tass, by contrast, allows you to use the traditional
+system on which tax collection is based.
+For this reason, TAS Books, at Pounds 99, would be my first choice of
+accounts package for the business that has to account for VAT. In running
+your personal finances, where simpler cash book accounting is a acceptable,
+Quicken is ideal. However, for a VAT-paying business which must use its
+advanced features, Quicken becomes more complicated than Tass Books.
+David Carter is a consultant in computer systems for small businesses; tel
+0727-812447.
+
+The Financial Times
+
+
+London Page IX
+
+931106
+

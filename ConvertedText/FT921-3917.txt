@@ -1,0 +1,76 @@
+FT921-3917
+
+FT  12 MAR 92 / Technology: Revolution at eastern banks
+
+
+   By EUGENE DAINOV
+
+
+Western countries took 300 years to move through agricultural and industrial
+revolutions to the information age of the 20th century. The east European
+economies are having to do it in the space of a few years.
+Nowhere does this apply more than to the banks. The potential for huge
+turnover has not escaped the notice of the two credit and debit card
+companies, Visa and Eurocard.
+Electronic payments through point of sale (Pos) swipe card machines should
+encourage foreign and local consumer spending through ease of payment, while
+simplifying shops' accounting and reducing bank costs. Automated teller
+machines (ATMs) will enable private banks to compete with the traditional
+savings banks' large but inefficient branch networks.
+The dilemma is how to automate, and there are two possibilities. Bankers can
+invest now in systems designed to handle the expected explosion of growth in
+card usage. This is the route favoured by Eurocard and the main large
+software supplier, Base 24. Or they can start more modestly and invest in
+smaller but possibly more flexible systems, as endorsed by Visa and the new
+lower-cost technology suppliers, such as IFS International.
+So far the banks have been divided on which route to take. In
+Czechoslovakia, Muzo, the joint clearing and settlement company, has based
+its ATM and Pos network on a Tandem computer and Base 24 software. Muzo's
+first ATMs began operating last month and accept Eurocard/Mastercard and
+local cards. It also plans to take Visa cards. The company says 500 ATMs
+should be working by 1996.
+Ceska Sporitelna AS (CSAS), the Czech savings bank, will be using a
+Unix-based IFS system. The bank will have 10 ATMs linked through Unix to
+Visanet, Visa's authorisation, clearing and settlement system.
+Toby Mitchell, Visa's area manager for eastern Europe, thinks Eurocard and
+its followers are over-optimistic about the short-term market for cards.
+Among the issues are:
+Low incomes, which will limit fee scales on cards.
+Inadequate telecommunications - CSAS is having difficulty obtaining just 20
+lines to run 10 ATMs.
+Retailer resistance to Pos machines.
+Starting costs are also a concern. Mitchell asserts that the combination of
+Base 24 and a Tandem computer brings the price of hardware and software to
+Dollars 1m (Pounds 500,000), compared with a Unix-based package starting at
+Dollars 130,000.
+John Bycroft, European area manager of Base 24, disputes this, saying that
+the price for running five ATMs starts at around Dollars 200,000 and
+expansion to 100 ATMs means spending just Dollars 40,000 more.
+But cost is not the only factor. Charles Caserta, founder of IFS, says
+Tandem's closed architecture ties banks to the original hardware and
+software vendor. 'If Base 24 has 1m lines of code, mine has 30,000,' he
+says. 'This is immeasurably easier to understand, modify and enhance'.
+Base 24 argues that Unix users face exactly the same problem, because of the
+variety of systems available.
+Fault-tolerance capabilities - which provide an automatic back-up to every
+part of the system, including telecommunications - form another contentious
+topic, one which concerns the Giro Card Company, Hungary's equivalent to
+Czechoslovakia's Muzo. It is considering Tandem equipment because it
+believes the system's fault-tolerance capabilities are suitable for
+international payment networks.
+But Giro Card Company's projections of 200 ATMs in operation this year have
+been delayed and there are difficulties in persuading retailers to accept
+Pos. Moreover, a Tandem/Base 24 system can typically process around 20
+transactions per second, but peak hour ATM transactions are expected to
+reach only 0.36 per second in 1994, making its power largely redundant.
+The Giro Card Company may have to invest in a cheaper package, says Edward
+Collier, of management consultants Ernst & Young. 'If you want to automate,
+you need money,' he explains.
+
+The Financial Times
+
+
+London Page 18
+
+920312
+

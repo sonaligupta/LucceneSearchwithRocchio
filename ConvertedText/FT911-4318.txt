@@ -1,0 +1,59 @@
+FT911-4318
+
+FT  19 APR 91 / Technology: Little engine goes to Detroit
+
+
+   By DAVID FISHLOCK
+
+
+An idea for a type of compact internal combustion engine, developed in
+Britain, will be introduced later this month to the US motor industry in
+Detroit. Its backers claim that the engine can deliver power from as little
+as half the space required by conventional engines of this kind.
+For car designers the compact engine offers improvements in aerodynamic
+efficiency and a reduction in fuel consumption. Its power density is also
+attractive to light aircraft designers and in mobile industrial engines.
+In the mid-1970s Brian Collins, then an engineer at the Railway Institute in
+Perth, Australia, wanted to simplify the four-stroke engine. He argued that
+fewer parts would mean that less can go wrong.
+He used a mechanism called the scotch yoke to link the piston in the engine
+to the crankshaft. This replaces the usual connecting rod which moves about
+a pin, causing the piston to drive the crankshaft and so the wheels. The
+scotch yoke allows one end of the rod to be fixed, so the highly stressed
+pin is no longer necessary.
+'Collins wanted a way of putting a higher volume of engine capacity round a
+single crank pin,' says Graham Mountain, technical director of the engine
+project. Subsequent development in Britain has shown that the scotch yoke
+can reduce engine size and weight by as much as 150lb for an eight-cylinder
+engine.
+In 1980 Collins formed Collins Motor Corporation (CMC) to develop the new
+engine. The central feature of this engine is the strength of the yoke
+itself, and its lubricating systems. It comprises a scotch yoke arrangement
+with hydrodynamic slider bearings. The slider block is mounted on a
+conventional crankpin bearing and therefore orbits in a circular path. The
+flat sliding surfaces of the slider block bear on the sliding surfaces of
+the yoke assembly, which is attached to the pistons and moves along the
+cylinder axis.
+Harry Close, an engineer on the board of TNT Shipping and Development, the
+chief source of CMC's development funds, has become closely involved in the
+problem of transferring the engine technology to the motor industry's
+factories. 'We're selling a technology - and people don't really want to buy
+a technology,' Close contends.
+Its main rivals are high-speed versions of today's engines, and
+turbo-charged engines. The design has introduced no new manufacturing
+problems, but the bearing design has caused difficulties. Close has a
+graveyard of broken components caused by failures in lubrication for sliders
+that stop and reverse at the end of each stroke, in a design which needs a
+larger bearing area than for the equivalent conventional engine.
+CMC has built a family of prototype engines and even installed some in
+current car models. But Close says CMC's aim will be to continue as a
+technology vendor, further exploring its compact engine not only for the car
+industry but also for other markets.
+
+The Financial Times
+
+
+London Page 19
+
+910419
+

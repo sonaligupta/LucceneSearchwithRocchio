@@ -1,0 +1,77 @@
+FT921-15218
+
+FT  11 JAN 92 / Minding Your Own Business: Solving other people's problems -
+A company that was built with a screwdriver and a pair of pliers
+
+
+   By DAVID SPARK
+
+
+AFTER the oil price crashed in 1986, Richard Gibson was home from the Far
+East, kicking his heels on stand-by for his oil company. Keith Anderson, who
+had been a fellow student of electronics at Newcastle Polytechnic, had
+become a senior lecturer there.
+The two got together and in 1987 set up their own company, Integrated Design
+Techniques, (IDT), with, says Gibson, a screwdriver and a pair of pliers.
+Anderson had heard of a couple of possible jobs, and the idea was that they
+would work on their customers' premises.
+The company's first task was to design a microprocessor-controlled safety
+system for offshore oil. Then it got a job for Electrolux cookers.
+The problem of demonstrating cookers in showrooms is that they need more
+than the normal 13-amp supply. Electrolux cookers' halogen rings could
+operate safely inside 13 amps but the oven, grill and ceramic hobs could
+not. IDT produced an easily-reset box which cut the power supply if anything
+but a halogen ring was turned on. It did this by looking at the wave-form of
+the current being drawn.
+IDT took a workshop in the Mountjoy centre in Durham and was joined last
+year by Robin Jefferson, who had completed a doctorate at Newcastle
+University. Meanwhile, Anderson keeps up his lecturing. 'I'm working about
+20 hours a day,' he says.
+IDT made a big step forward when it persuaded two leading electronic
+manufacturers to authorise the use of their ready-assembled boards. These
+save the detailed work of assembling individual components and protect the
+system against interference.
+The boards proved their value when IDT won a contract to design and install
+a system for testing lawnmowers made by Flymo at Newton Aycliffe. A factory
+is a harsh environment for computerised equipment. Flymo used to suffer
+breaks in production when dust and electrical interference caused computers
+to crash. The system IDT installed enabled Flymo to beat production records.
+Each completed lawnmower goes into a Perspex box where test probes check it
+for speed of rotation and electrical characteristics. Each production line
+has a test box and test results are displayed instantly in the production
+engineer's office. He can see at once if anything is going wrong.
+The results of each machine are recorded. If a Flymo is returned by a
+customer, the causes of its failure can be checked against the test results.
+One Flymo manager said: 'IDT had the confidence to tackle the job and we
+felt we would not be able to write the software ourselves. We have been most
+impressed by what they did and the support we have had from them since.'
+IDT has won a Department of Trade and Industry Smart award for work on
+technology which identifies people, animals and goods. Texas Instruments
+produces radio transponders in thin tubes about an inch long with an aerial
+at one end and an integrated circuit at the other. If one passes a reader,
+it gives a signal which can be identified. So a transponder incorporated in
+a badge can show where the wearer is on, say, a factory site. The
+transponders can also identify valuable goods such as beer kegs or
+industrial overalls.
+However, readers can be confused if confronted by several transponders at
+the same time and IDT is seeking to overcome the problem of identifying
+several transponders at once.
+Richard Gibson, who once designed a conference control system for a Gulf
+States summit meeting and worked as a diver on an Operation Raleigh
+expedition, says IDT's turnover in the first year (1988) was Pounds 13,000
+and it has at least trebled each year since. They have paid for their Pounds
+20,000 investment without borrowing.
+Working for themselves, he says, 'we have independent control of our own
+destiny and we get to see the whole picture. The Mountjoy centre is
+expensive but prestigious. We have a good deal of synergy with other
+organisations here: we have worked with High Force Research.'
+Integrated Design Techniques Ltd, Unit 1Q, Mountjoy Research Centre,
+Stockton Road, Durham DH1 3SW 091-384-0058.
+
+The Financial Times
+
+
+London Page VI
+
+920111
+

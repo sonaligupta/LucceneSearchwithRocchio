@@ -1,0 +1,99 @@
+FT921-12007
+
+FT  29 JAN 92 / International Company News: French computer industry thrown
+a lifeline - A look at the result of six months hard bargaining between IBM
+and Bull
+
+
+   By ALAN CANE
+
+
+MRS Edith Cresson, the French prime minister, must be savouring her triumph.
+The agreements she was able to announce yesterday morning between leading
+French and US electronics companies suggest that six months of hard
+bargaining have paid off handsomely. The French electronics industry has a
+deal worth much more than the sum of its parts.
+Groupe Bull, the computer manufacturer, which lost over Dollars 1bn (Pounds
+562m) last year and which cannot hope to return to profitability until 1993,
+expects an injection of about Dollars 100m from International Business
+Machines, the world's largest computer manufacturer.
+It also has access to IBM's most strategic technology, reduced instruction
+set computing (Risc), on which small and mid-range computers are expected to
+be based for the foreseeable future.
+IBM will buy large numbers of portable and notebook computers from Zenith
+Data Systems, Bull's personal computer arm, which is struggling back to
+profitability.
+One of the most important features of the agreement involves collaboration
+between Bull and IBM's Computer Design Centre, a collaboration with Apple
+Computer and the semiconductor company Motorola set up to design advanced
+personal computer chips and operating systems.
+This part of the deal alone gives Bull a powerful stake in the future.
+SGS Thompson, the semiconductor company in which the French and Italian
+governments each have a stake and which lost Dollars 96m last year with
+little hope of improvement this year, has a promise from IBM that the value
+of its annual purchases of silicon chips including the Inmos transputer from
+the semiconductor manufacturer will double to Dollars 100m. It will
+collaborate with IBM in semiconductor research.
+Mrs Cresson and her government negotiators have, moreover, managed to
+persuade Hewlett Packard, the large US computers and instrumentation group
+which had been vying with IBM to conclude the technology deal with Bull, to
+continue talks with SGS Thomson although Hewlett Packard is not thought
+likely to consider taking an equity stake in the Franco-Italian concern.
+Hewlett Packard made its disappointment over the Bull decision known
+yesterday. It said: 'Bull has made the wrong decision. It is clear the
+French Finance Ministry took a decision on financial rather than technology
+grounds. It has passed over the opportunity for a long-term solution in
+favour of a quick fix.'
+IBM was desperate to get the Bull deal settled in its favour and was
+determined to deny victory to Hewlett-Packard. The drawn out negotiations
+were conducted personally by Mr Michael Armstrong, a former head of IBM
+Europe and now in charge of IBM's world trade.
+Mr Armstrong said after the announcement yesterday that bargaining with the
+French had been tough. 'I'm very glad to be here,' he added.
+IBM's prize is two-fold: it will have access to to the lucrative French
+government market, something difficult to achieve in France without equity
+in a French company, and it will have enhanced its European credibility
+before the single market takes effect at the end of the year.
+It will have new markets for its Risc technology products which command
+lower profit margins than conventional technology and are therefore very
+dependant on volume sales. IBM is expected to benefit from Bull's expertise
+in 'symmetrical multiprocessing' an advanced computing technique which is
+likely to be increasingly important in the future.
+For Bull, the deal has a powerful industrial logic.
+It has been looking for a US partner to balance the 4.9 per cent stake held
+by NEC of Japan. The Japanese company, which supplies Bull with mainframe
+technology, broadly welcomes the tie-up between Bull and IBM.
+Mr Takehiko Inoue, NEC associate vice-president said the company welcomed
+any strategic alliance that would help the business. NEC did not want to see
+its investment imperilled.
+Risc technology, invented by IBM about a decade ago, is an important part of
+open systems, the worldwide move in the computer industry towards standard
+components.
+While open systems make it simpler for customers to connect together
+computers from different manufacturers, they command intrinsically lower
+profit margins than proprietary designs and are a principal cause of the
+crisis in the world computer industry. IBM, with sales in excess of Dollars
+60bn, lost money last year.
+Bull failed to catch the first wave of Risc products and is now trailing. To
+develop Risc technology from scratch would cost many hundreds of millions of
+dollars.
+The deal with IBM gives Bull immediate access to proven Risc technology and
+offers it a rapid way of catching up with the competition.
+It remains to be seen how the alliance between Bull and IBM affects the
+future of the European computer industry.
+Of the European-owned companies, only Olivetti of Italy has yet to find a
+strategic partner.
+An agreement to merge with ICL of the UK foundered two years ago on
+management differences. It finally collapsed when the UK company was bought
+by Fujitsu of Japan.
+However, it is a member of the so-called Ace consortium, a collection of
+companies sponsoring a particular flavour of Risc technology.
+
+The Financial Times
+
+
+London Page 24 Illustration (Omitted). Illustration (Omitted). Chart
+(Omitted). Chart (Omitted). Chart (Omitted). Chart (Omitted).
+
+920129
+

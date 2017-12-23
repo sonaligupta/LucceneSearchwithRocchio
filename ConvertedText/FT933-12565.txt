@@ -1,0 +1,80 @@
+FT933-12565
+
+FT  23 JUL 93 / Technology: Designs on the future - Intergraph is weathering
+a painful transformation
+
+
+   By ANDREW BAXTER
+
+
+For a senior executive in an industry notorious for hype, Manfred Wittler is
+refreshingly frank about trading conditions in Europe for Intergraph, the US
+company that sells computer graphics systems.
+In Italy, where the corruption scandal has brought corporate decision-making
+to a halt, and in post-Olympics, recession-hit Spain, Intergraph's markets
+are 'devastated', Wittler says. 'There are workstations sitting idle and
+that's about as bad as you can get.'
+Germany is 'terrible' - big customers have taken board-level decisions to
+halt investments. Customers in the Mittelstand, the medium-sized independent
+German manufacturers, have seen their orders fall by as much as 50 per cent
+and are slashing spending.
+After strong growth last year, Intergraph's sales in Europe are likely to
+fall about Dollars 50m (Pounds 33.3m) to Dollars 400m this year. And some
+European countries will make their first loss this year, Wittler warns.
+Wittler is Intergraph's top man in Europe and also executive vice-president
+for sales and support. The company makes everything from Cadcam systems used
+to design and manufacture cars to mapping systems that help water companies
+manage their sewage networks, so few people get a better view of sentiment
+among industrial, utility and government users of computer graphics.
+Fortunately for Intergraph, the view from Wittler's office, down the road
+from Amsterdam's Schipol airport, is not one of unrelieved recession. In the
+UK, too, the recession has cut leading clients' spending plans, but, Wittler
+says, 'we don't see that any more'.
+Intergraph has also been helped by the diversity of its customer base. With
+about 40 per cent of its European business coming from government, utilities
+and transportation, another 30 per cent from building and process industries
+and the rest from manufacturing, the company has fared better than suppliers
+who are more dependent on the mechanical Cad market alone.
+But the company has also benefited from a series of changes introduced by
+Wittler since he joined the company in 1989. By building up a true indirect
+sales channel for the company's products, Intergraph is better able to take
+advantage of continued computer graphics purchases by small companies or
+divisions of larger organisations.
+Another important move was the reorganisation of the sales force into
+industry segments. In the past, Wittler says, Intergraph had not fully
+exploited its biggest strength - its ability to provide a complete range of
+products for all the technical needs of a particular industry.
+An example is the transportation sector, which Wittler sees as one of
+Intergraph's biggest growth opportunities. It has started a drive into the
+railway industry, which is now undergoing a renaissance in continental
+Europe.
+The recession in Europe has coincided with what Wittler calls a 'painful
+transformation' of Intergraph's technology. Because its applications
+software was tied to its mid-range Clipper workstations, it could not be
+sold easily through indirect channels.
+Intergraph is now converting its 350 software packages so that they can run
+on Microsoft's new Windows NT operating system. This is an important move -
+Wittler believes it will open up a mass market for Intergraph's software via
+indirect resellers.
+But the company is also working on 'porting' - making compatible - Windows
+NT to its Clipper Risc processor, which powers its existing Unix
+workstation.
+At the same time, Intergraph is developing a high-end workstation based on
+Sun Microsystems' Sparc processor and earlier this month was chosen by Sun
+both to co-develop the next Sparc processor generation and to port Windows
+NT to the Sparc architecture.
+All this activity emphasises the importance for Intergraph of tying its
+future to that of Windows NT, which Wittler believes will be 'the big
+winner' as an operating system - without totally supplanting Unix. As long
+as software can run on Windows NT, the hardware will not matter.
+Wittler's hope is that the European market will recover from recession in
+the second half of next year, coinciding more or less with the completion of
+Intergraph's technology changes.
+
+The Financial Times
+
+
+London Page 16
+
+930723
+

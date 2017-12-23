@@ -1,0 +1,140 @@
+FT921-1170
+
+FT  25 MAR 92 / FT Law Report: Writ can be served in Pennsylvania
+
+
+   By RACHEL DAVIES, Barrister
+
+
+ISC TECHNOLOGIES LTD AND ANOTHER v GUERIN AND OTHERS
+Chancery Division: Mr Justice Hoffmann:
+March 17 1992
+THE TIME for examining the appropriateness of an English forum on an
+application to set aside leave for service of a writ abroad, is when leave
+was granted, and not when the application to set aside is heard, unless
+further evidence or subsequent events throw light on what should have been
+relevant considerations at the time. And accordingly, irrespective of
+whether judgment has been entered against most of the original defendants
+and those remaining may not be worth pursuing, leave will be upheld if it
+was properly granted in that at the time England was the appropriate forum
+for trial of the action and the other requirements for service abroad were
+satisfied.
+Mr Justice Hoffmann so held when refusing an application by Mr Stuart
+Pindell, the 10th defendant to an action by ISC Technologies Ltd and ISC
+London Ltd against Mr James Howard Guerin and others, to set aside an order
+by Master Barratt giving leave to serve proceedings on him in Pennsylvania.
+HIS LORDSHIP said that the plaintiffs were English companies whose principal
+business was selling arms to foreign countries. They were subsidiaries of
+International Signal and Control Group plc (ISC) which in 1987 merged with
+Ferranti plc. Mr Guerin was founder and executive chairman of ISC.
+The plaintiffs claimed that between 1983 and 1989, Mr Guerin and other
+persons in the ISC group conspired to commit a complex fraud. They created
+fictitious contracts for the sale of arms to foreign countries, and
+fictitious contacts for the purchase of stocks and services to enable them
+to perform the sale contracts.
+They represented to the companies' accountants, auditors, solicitors and
+bankers that the contracts were genuine and thereby falsely inflated the
+profits which ISC appeared to be earning.
+That enabled Mr Guerin to deceive Ferranti into agreeing to a merger upon
+advantageous terms.
+They also made payments out of the companies' funds to Panamanian
+corporations controlled by Mr Guerin on the pretext that they were payments
+to suppliers. More than Dollars 180m of the companies' funds was diverted to
+the use of Mr Guerin and his associates.
+The action was originally commenced against nine defendants: Mr Guerin,
+three of his associates and five Panamanian companies which Mr Guerin was
+alleged to have controlled. By the end of June 1990, final judgment had been
+entered against all except two.
+On July 25 1990, Master Barratt gave leave under RSC Order 11 for service of
+proceedings on Mr Pindell out of the jurisdiction. Mr Pindell now applied
+under RSC Order 12 rule 8 to set the order aside.
+Mr Pindell was an ISC director until 1986. He was responsible for securing
+and negotiating major contracts for international arms sales.
+The principal allegation against him was that he knowingly participated in a
+fraudulent representation that a contract dated May 12 1984 had been
+concluded for the sale of missiles to the United Arab Emirates (UAE), when
+there had been no such contract.
+He was also alleged to have participated in the pretence that goods and
+services were being ordered to enable the plaintiffs to perform the
+contract, and to have given the auditors a false version of a genuine
+contract between ISC and the UAE in 1986.
+The relief sought against Mr Pindell was account and restitution, damages
+and account of profits.
+The requirements for leave under RSC Order 11 were that the plaintiff had a
+'good arguable case'; the claim came within the 'letter and spirit' of the
+sub-paragraph relied upon; and England was 'the forum in which the case can
+most suitably be tried in the interests of all the parties and for the ends
+of justice'.
+As to whether the claims fell within the paragraphs of Order 11 rule 1(1),
+the claim for damages for fraudulent misrepresentation fell within (f)
+(action founded on tort within the jurisdiction); and the restitutionary
+claims came within (c) (necessary or proper party to the action).
+The next question was whether the plaintiffs had a sufficient case on the
+merits.
+Their case on the affidavits was that Mr Pindell was primarily responsible
+for negotiation of contracts with the UAE. He represented that the 1984
+contract had been signed when, in fact, it had not. He gave the auditors a
+version of the 1986 contract appearing to contain clauses dealing with the
+1984 contract and a payment which was said to have been made under it, when,
+in fact, no such provisions appeared in the real contract. He also signed
+amendments to two fictitious purchase contracts, and there was material to
+suggest he was involved in pretended implementation of the 1984 contract.
+Mr Pindell's affidavit covered in detail the whole history of his
+association with the plaintiffs and the subtle intricacies of his
+negotiation of the 1984 and 1986 arms contracts with the UAE. His
+participation in many of the events which surrounded the production of those
+now admittedly bogus documents was uncontradicted. All that remained in
+issue was his degree of participation and state of knowledge.
+Mr Crystal for Mr Pindell submitted that his affidavit, if believed, would
+exonerate him.
+That was correct. On the other hand, if he was disbelieved, he would be held
+liable.
+The plaintiff's case was sufficiently strong (assuming England to be the
+appropriate forum) to justify subjecting Mr Pindell to proceedings within
+the jurisdiction.
+When the action was commenced, England was plainly the appropriate forum.
+The fraud was committed here and the facts had no strong connection with any
+other jurisdiction. The plaintiffs were English companies and the original
+defendants resided in diverse jurisdictions, including three of the United
+States.
+Since then, proceedings against all but two of the original defendants had
+been terminated by judgment. For the purposes of the application, when must
+the appropriateness of an English forum be examined?
+Mr Crystal said the court should look at the position today. He said an
+application to set aside leave under RSC Order 12, rule 8 was a rehearing of
+the application for leave and the exercise of a fresh discretion. It should
+therefore take into account what had since happened.
+That was not accepted. The present application was to discharge the master's
+order. The question was therefore whether that order was rightly made when
+it was made. The court could receive evidence not before the master, and
+subsequent events might throw light on what should have been relevant
+considerations at the time. But leave which was rightly given should be not
+discharged simply because circumstances had changed.
+The alleged fraud was committed in England on English companies. It had
+little connection with any other jurisdiction.
+In Cordoba Shipping (1984) 2 Lloyds Rep 91, 96 Lord Justice Robert Goff
+said: 'If the substance of the alleged tort is committed within a certain
+jurisdiction, it is not easy to imagine what other facts would displace the
+conclusion that the courts of that jurisdiction are the natural forum.'
+What was there in this case to displace such a conclusion?
+It was said Mr Pindell resided in Pennsylvania and that it would be hard for
+him to have to bear the expense of litigation in England. But that would
+almost invariably be the case when leave was given and was not sufficient
+answer.
+If Mr Pindell came to the UK and participated in a fraud on English
+companies, it could not be unfair for him to have to defend his actions
+here. If the claim turned out to be ill-founded, he would be able to recover
+his costs, and in that respect was better off than in his home jurisdiction.
+The prima facie conclusion to which Lord Justice Robert Goff referred was
+not displaced. England was the appropriate forum. The master was right to
+grant leave. The summons was dismissed.
+For Mr Pindell: Michael Crystal QC and Charles Hollander (Clyde & Co).
+For the plaintiffs: David Oliver QC and John Nicholls (Herbert Smith).
+
+The Financial Times
+
+
+London Page 9
+
+920325
+

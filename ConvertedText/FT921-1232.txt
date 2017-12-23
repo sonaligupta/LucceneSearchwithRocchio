@@ -1,0 +1,37 @@
+FT921-1232
+
+FT  25 MAR 92 / International Capital Markets: Liffe options trading hit by
+teething difficulties
+
+
+   By TRACY CORRIGAN
+
+
+EQUITY options trading on the London International Financial Futures and
+Options Exchange (Liffe) is undergoing some teething problems after last
+weekend's merger of London's futures and options markets.
+The merger involved a change of clearing and trading systems for equity
+option traders from the London Traded Options Market (LTOM). The shift to
+the new systems was described by one trader as 'smooth, considering the
+number of adjustments which had to be made'.
+The largest hiccup was that the notification to traders of the exercise of
+FT-SE index options was not delivered in sufficient time on Monday evening
+to ensure traders were aware of any changes to their positions. As a result,
+the opening of trading in the index option contract was delayed for 15
+minutes. The information should have been delivered by Liffe's Trade
+Registration System (TRS), which option traders moved to as a result of the
+merger. On LTOM, the system of notification was completed manually.
+Liffe said the problem was not expected to recur.
+The initial difficulties of adapting to new trading systems are expected to
+be overcome shortly. But the future of the equity options market hangs in
+the balance. Liffe is working on a business plan for the equity options
+market. The success of the implementation of the plan may be the determining
+factor.
+
+The Financial Times
+
+
+London Page 28
+
+920325
+

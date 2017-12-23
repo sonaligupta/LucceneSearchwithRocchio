@@ -1,0 +1,273 @@
+FT941-4077
+
+FT  12 MAR 94 / Finance and the Family: CGT and indexation . . . - In this,
+the second of a series on capital gains tax, Richard Chant and Alan Sugden
+deal with indexation and how to match sales of a security with purchases
+made at different times after March 31 1982
+
+
+   By RICHARD CHANT and ALAN SUGDEN
+
+
+The purpose of indexation
+In order to avoid charging CGT on that element of a realised gain caused by
+inflation since March 1982, the cost of securities acquired after March 31
+of that year is indexed by the change in the retail price index from the
+month of purchase or acquisition to the month of disposal.
+(Note that the month of purchase is the month of the contract's date, not
+the settlement date).
+Calculation of indexation using factors
+The Inland Revenue issues a monthly table of indexation factors. These apply
+to the original cost of a holding sold in that month.
+For example, its January 1994 table (not shown here) gave a factor of 0.665
+for June 1983. Thus, if shares bought for Pounds 1,000 in June 1983 were
+sold in January 1994, the calculation needed to work out the indexed cost
+would be: Pounds 1,000 + (Pounds 1,000 x 0.665) Pounds 665 = Pounds 1,665.
+An alternative and simpler indexation tool is provided in Table 1. By adding
+1 to all the factors published by the Revenue, the FT allows you to cut the
+calculation down.
+Simply multiply the original cost by the adjusted factor: ie, 1.665. So,
+Pounds 1,000 x 1.665 = Pounds 1,665.
+Where to find the factors
+A table of adjusted CGT indexation allowances is published each month -
+usually on the last Saturday - in the Weekend FT. These cover allowances for
+the previous month. Those for January 1994 were published on February 26.
+(See Table 1).
+Calculation of indexation factors
+The indexation factor is calculated like this. Take the retail price index
+(RPI) in the month of disposal and subtract the RPI in March 1982 (or the
+actual month acquired, if later). Divide the resulting figure by the RPI in
+March 1982 (or the actual month acquired, if later).
+Here, for example, is how to work out the factor for the sale of an asset
+acquired in June 1983 and sold in January 1994, using the RPIs from Table 2:
+RPI January 1994 - RPI June 1983 / RPI June 1983 gives you (141.3 - 84.8)
+56.5 / 84.8 = 0.66627. Rounded to the nearest third decimal place, this
+would give 0.666.
+The difference between this and the published factor of 0.665 is due to the
+published RPI figures being themselves rounded.
+Calculation of indexation using RPI
+Alternatively, you can use the monthly RPIs, which are produced by the
+government statistical service and published widely in the financial press.
+Each year, for instance, Accountancy magazine produces a complete table of
+RPIs going back to 1915, and this is updated each month in the FT table.
+(See Table 2).
+In our example above, taking the RPIs for June 1983 (84.8) and January 1994
+(141.3) from Table 2, the calculation is quite simple. The indexed cost =
+original cost x RPI for the month of sale / RPI for the month of purchase -
+or Pounds 1,000 x 141.3 / 84.8 = Pounds 1,666.
+Either method (factor or RPI) is acceptable to the Inland Revenue providing
+it is consistent. In other words, you must stick to one method all the time.
+A great advantage of using the RPI is that you need only one table of RPIs
+rather than a factor table for each month.
+What happens when the RPI is static or falling
+If the RPI for the month of disposal is the same or less than the RPI for
+the month of acquisition (or the RPI for March 1982 if acquired pre-March 31
+1982), then indexation would be nil. (That is, there is no 'negative
+indexation' if the RPI falls).
+Share pooling for stock acquired after April 5 1982
+Where you add to your existing holding of a security, and all your previous
+purchases have been later than April 5 1982, your total holding of that
+security is treated as a single asset. If you dispose of part of your
+holding, the disposal is treated as a partial disposal.
+Ignoring indexation for the moment, let us consider a shareholder who
+invests in the ordinary 10p shares of Stakis, the Scottish-based hotel group
+(see Table 3).
+Stakis fell on hard times due to rapid and imprudent expansion, sometimes
+into activities unrelated to its main business; it even acquired a
+stockbroking firm, Robert Wigram & Co., in September 1987, the month before
+the market crashed. It took a change of management, the disposal of
+peripheral activities and a one-for-three 'rescue' rights issue to turn the
+company round.
+Now let us include indexation. Table 4 shows how:
+1. The cost of the original holding is indexed from the month of the
+original purchase to the month of the rights issue.
+2. The total cost is indexed to the month in which 4,000 shares were sold.
+This is the method that Revenue legislation stipulates; a re-calculation of
+the indexed cost should be made every time an 'operative event' occurs. An
+operative event is any event which either increases or reduces the cost of a
+holding.
+This is fine if you are programming the calculation for a computer, but not
+if you are a small private shareholder working it out by hand. In this case,
+you can simplify the process by doing the calculation only when a disposal
+takes place.
+First, you either index the original cost to the date of this disposal; or,
+if there has been a prior disposal from the holding, index the indexed cost
+of the residual holding at the date of the last disposal to the date of this
+disposal.
+Then, you index the cost of each subsequent purchase from the date of
+acquisition to the date of this disposal.
+In our Stakis shareholder example, the shareholder has made no previous
+disposals (see Table 5). We will deal with the treatment of securities
+acquired before March 31 1982 in our next article.
+Proposed changes to the rules on indexation
+In his November Budget, the chancellor announced that for disposals made on
+or after November 30 (the day after the Budget), indexation would be allowed
+only to reduce or eliminate a capital gain. That is, it cannot be used to
+create or increase a loss. In addition, as we mentioned last week, the
+indexation of the cost of holdings of negligible value is ruled out for
+negligible-value claims made after November 29, even if the Revenue had
+deemed them to be of negligible value before then.
+These proposals are contained in the Finance Bill now going through
+Parliament and are not expected to be altered.
+Payment for shares by instalment - acquisition date
+If you subscribe for an issue of shares and pay for them by instalments,
+indexation of their cost is calculated as follows:
+1. For privatisation issues: from the date you acquire the shares.
+2. For other issues: (a) If all instalments are payable within a 12-month
+period, from the date by which the first payment has to be made; (b) If
+payments are spread over more than 12 months, from the date by which each
+instalment had to be paid.
+ -----------------------------------------------------------------------
+Table 1. CGT INDEXATION ALLOWANCES: January
+ -----------------------------------------------------------------------
+Month       1982    1983    1984    1985    1986    1987
+ -----------------------------------------------------------------------
+January        -   1.710   1.627   1.549   1.468   1.413
+February       -   1.703   1.620   1.537   1.463   1.407
+March      1.779   1.700   1.615   1.523   1.461   1.405
+April      1.744   1.676   1.594   1.491   1.447   1.388
+May        1.731   1.669   1.588   1.484   1.444   1.387
+June       1.726   1.665   1.584   1.481   1.445   1.387
+July       1.726   1.657   1.586   1.484   1.449   1.388
+August     1.725   1.649   1.571   1.480   1.444   1.384
+September  1.726   1.642   1.568   1.481   1.437   1.380
+October    1.718   1.636   1.558   1.478   1.435   1.373
+November   1.709   1.630   1.554   1.473   1.423   1.367
+December   1.713   1.626   1.555   1.471   1.418   1.368
+ -----------------------------------------------------------------------
+Month       1988    1989    1990    1991    1992    1993
+ -----------------------------------------------------------------------
+January    1.368   1.273   1.182   1.085   1.042   1.025
+February   1.363   1.264   1.176   1.079   1.037   1.018
+March      1.357   1.258   1.164   1.075   1.034   1.014
+April      1.336   1.236   1.129   1.062   1.018   1.005
+May        1.331   1.229   1.120   1.058   1.014   1.001
+June       1.326   1.224   1.115   1.054   1.014   1.002
+July       1.324   1.223   1.114   1.056   1.018   1.004
+August     1.310   1.220   1.103   1.054   1.017   1.000
+September  1.304   1.212   1.093   1.050   1.014   1.000
+October    1.290   1.203   1.084   1.046   1.010   1.000
+November   1.285   1.192   1.087   1.042   1.011   1.000
+December   1.281   1.189   1.088   1.041   1.015   1.000
+ -----------------------------------------------------------------------
+Source: Inland Revenue
+ -----------------------------------------------------------------------
+ -----------------------------------------------------------------------
+Table 2: Retail Price Index. All figures rebased to January 1987 = 100
+ -----------------------------------------------------------------------
+Year      Jan    Feb    Mar    Apr    May    Jun    Jul    Aug
+ -----------------------------------------------------------------------
+1915      4.1
+1982       -       -   79.4   81.0   81.6   81.9   81.9   81.9
+1983     82.6   83.0   83.1   84.3   84.6   84.8   85.3   85.7
+1984     86.8   87.2   87.5   88.6   89.0   89.2   89.1   89.9
+1985     91.2   91.9   92.8   94.8   95.2   95.4   95.2   95.5
+1986     96.2   96.6   96.7   97.7   97.8   97.8   97.5   97.8
+1987    100.0  100.4  100.6  101.8  101.9  101.9  101.8  102.1
+1988    103.3  103.7  104.1  105.8  106.2  106.6  106.7  107.9
+1989    111.0  111.8  112.3  114.3  115.0  115.4  115.5  115.8
+1990    119.5  120.4  121.4  125.1  126.2  126.7  126.8  128.1
+1991    130.2  130.9  131.4  133.1  133.5  134.1  133.8  134.1
+1992    135.6  136.3  136.7  138.8  139.3  139.3  138.8  138.9
+1993    137.9  138.8  139.3  140.6  141.1  141.0  140.7  141.3
+1994    141.3
+ -----------------------------------------------------------------------
+          Sep    Oct    Nov    Dec
+ -----------------------------------------------------------------------
+1982     81.9   82.3   82.7   82.5
+1983     86.1   86.4   86.7   86.9
+1984     90.1   90.7   91.0   90.9
+1985     95.4   95.6   95.9   96.0
+1986     98.3   98.5   99.3   99.6
+1987    102.4  102.9  103.4  103.3
+1988    108.4  109.5  110.0  110.3
+1989    116.6  117.5  118.5  118.8
+1990    129.3  130.3  130.0  129.9
+1991    134.6  135.1  135.6  135.7
+1992    139.4  139.9  139.7  139.2
+1993    141.9  141.8  141.6  141.9
+ -----------------------------------------------------------------------
+Source: Accountancy, June 1993, and FT
+ -----------------------------------------------------------------------
+ -----------------------------------------------------------------------
+Table 3: A shareholder's dealings in STAKIS ignoring indexation
+ -----------------------------------------------------------------------
+Date       Transaction         Shares    Price      Cost        Notes
+                                                 (Pounds)
+ -----------------------------------------------------------------------
+Jan 83     Bought               2,000       63p    1,295            1
+Mar 85     2 for 1 Scrip
+           (or Bonus) issue     4,000        0p        0
+                                -----              -----
+                                6,000              1,295
+May 91     Bought               3,000       50p    1,545            1
+                                -----              -----
+                                9,000              2,840
+Feb 93     1 for 3 Rights       3,000       32p      960            2
+                                -----              -----
+                               12,000              3,800
+Dec 93     Sold                (4,000)      64p   (1,267)       3 & 4
+                                -----              -----
+           Remainder            8,000              2,533
+ -----------------------------------------------------------------------
+Notes:
+1.Includes broker's commission etc.
+2.Consideration (Pounds 960) given for the shares qualifies for
+indexation from the time it was given or due.
+3. Cost pro rata:                     4,000
+                    Cost = 3,800 x -------- = 1,267
+                                     12,000
+4.Proceeds, net of commission & compliance = Pounds 2,519
+Chargeable gain = Pounds 2,519 - 1,267 = Pounds 1,252.
+ -----------------------------------------------------------------------
+ -----------------------------------------------------------------------
+Table 4: A shareholder's dealings in STAKIS with indexation
+ -----------------------------------------------------------------------
+Month of      Shares         Cost       Indexation      Indexed
+purchase                  (Pounds)          Factor    cost (Pounds)
+ -----------------------------------------------------------------------
+Jan 83         2,000        1,295                            1,295
+Mar 85         4,000            0                                0
+               -----                                         -----
+               6,000                                         1,295
+Indexation Jan 83 to May 91                  0.616             798
+May 91         3,000        1,545                            1,545
+               -----        -----                            -----
+May 91         9,000        2,840                            3,638
+Indexation May 91 to Feb 93                  0.040             146
+Feb 93         3,000          960                              960
+               -----        -----                            -----
+              12,000        3,800                            4,744
+Indexation Feb 93 to Dec 93                  0.022             104
+Dec 93                                                       4,848
+Dec 93        (4,000)      (1,267)                          (1,616)
+               -----        -----                            -----
+Dec 93         8,000        2,533                            3,232
+ -----------------------------------------------------------------------
+Proceeds of the disposal remain the same at Pounds 2,519 but, with
+indexation, the cost has increased to Pounds 1,616:
+Chargeable gain = Pounds 2,519 - Pounds 1,616 = Pounds 903
+ -----------------------------------------------------------------------
+ -----------------------------------------------------------------------
+Table 5: Indexation: STAKIS, a quicker way
+ -----------------------------------------------------------------------
+Month of      Shares         Cost       Indexation      Indexed
+purchase                  (Pounds)       To Dec 93    cost (Pounds)
+ -----------------------------------------------------------------------
+Jan 83        6,000xc       1,295            1.718           2,225
+May 91        3,000         1,545            1.063           1,642
+Feb 93        3,000           960            1.022             981
+             ------         -----                            -----
+             12,000         3,800                            4,848
+Dec 93       (4,000)       (1,267)                          (1,616)
+             ------         -----                            -----
+Dec 93        8,000         2,533                            3,232
+ -----------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page X
+
+940312
+

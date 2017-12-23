@@ -1,0 +1,21 @@
+FT932-6711
+
+FT  27 MAY 93 / Technology: Buzzword
+
+
+EXPERT SYSTEMS are also known as knowledge-based systems, KBS. An offshoot
+of early artificial intelligence (AI) research, they are rule-based, using
+the answers entered by users to refine the information and prompt the next
+question.
+An expert system 'shell' such as Crystal provides the KBS developer with a
+framework linking questions, rules and screens. The rules are often derived
+from one human expert and can include uncertainties, usually expressed as
+percentages.
+
+The Financial Times
+
+
+London Page 18
+
+930527
+

@@ -1,0 +1,70 @@
+FT921-1124
+
+FT  25 MAR 92 / International Capital Markets: IBM launches laptop in colour
+
+
+   By LOUISE KEHOE and ROBERT GIBBENS
+
+
+   SAN FRANCISCO, MONTREAL
+
+
+INTERNATIONAL Business Machines (IBM) has introduced a laptop computer with
+colour screen. It has also launched two lower-priced notebook computers.
+IBM's colour laptop incorporates a 10.4-inch flat active matrix colour
+display, jointly developed by IBM and Toshiba in Japan.
+It will be manufactured in Japan to avoid dumping duties imposed by the US
+government last year on Japanese-built active matrix displays. Such duties
+are not imposed on assembled units.
+The notebook-sized computers, called PS Notes, have monochrome screens and
+weigh just over six pounds.
+With these product announcements, IBM aims to shrug off a series of mistakes
+in the rapidly growing market for portable personal computers, where it has
+trailed competitors.
+The PS/2 Color Laptop is based on a 386SX microprocessor and incorporates an
+80MB hard drive. It is priced in the US at Dollars 5,995. Bigger and heavier
+than the notebook computers, the colour laptop weighs 11 pounds, due
+primarily to the screen technology.
+The PS/2 Model N51 SLC is built around IBM's own version of the 386
+microprocessor, which the company claims is up to 80 per cent faster than
+standard versions. It also comes with an 80MB hard drive. The US price is
+Dollars 3,295.
+The PS/2 Model N51 SX is aimed at price-sensitive customers and is based on
+a standard 386SX microprocessor with a 40MB hard drive.
+It is priced at Dollars 2,250 in the US, placing it in direct competition
+with a myriad of IBM-compatible notebook models.
+Sun Microsystems Computer, the leading US computer workstation manufacturer,
+yesterday cut by nearly 30 per cent the prices of its high-end workstations
+for three-dimensional imaging.
+The move is expected to step up pressure on such competitors as
+Hewlett-Packard, Digital Equipment, IBM and Silicon Graphics to make similar
+price adjustments.
+Sun also cut prices on 19-inch monitors for all its workstations. Pacific
+Bell, one of the largest regional telephone companies in the US, has formed
+an alliance with IBM and Northern Telecom to develop and field test
+'multimedia' telecommunications network services.
+The goal of the alliance is to create services that would enable telephone
+customers to communicate with data, video, images and voice as easily as
+they can now place a phone call.
+Focusing initially on expanding applications of existing network technology,
+the companies are also planning a second phase of joint research on making
+use of new broadband network technologies.
+As envisioned, multimedia services would allow users simply to dial others
+on their PCs. The parties could, for example, see images of each other on
+their screens and use a shared computer screen 'window' to edit documents
+jointly.
+In a separate move, Northern Telecom - Canada's biggest telecommunications
+equipment producer - has formed a joint venture, Northern Telecom de Espana,
+to sell telephones, switching equipment, business communications systems and
+data networks in Spain, writes Robert Gibbens in Montreal.
+NT owns 50 per cent of the new company; Agroman Inversiones owns 37.5 per
+cent; and Radiotronica 12.5 per cent. Both Spanish partners are members of
+the Banesto group.
+
+The Financial Times
+
+
+London Page 27
+
+920325
+

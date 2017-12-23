@@ -1,0 +1,63 @@
+FT942-14436
+
+FT  20 APR 94 / International Company News: SGS-Thomson increases chip
+stakes - The Franco-Italian group's move will intensify competition
+
+
+   By JOHN RIDDING and ALAN CANE
+
+
+Competition in the strategically important microprocessor segment of the
+semiconductor business, worth about Dollars 5bn a year, is certain to
+intensify after the announcement last week that SGS-Thomson intends to sell
+industry standard microprocessors under its own name.
+The Franco-Italian concern, the world's 13th largest manufacturer of
+semiconductors, makes microprocessors designed by Cyrix, a small,
+Texas-based, semiconductor company at its Carrollton, Texas, plant. It
+intends to spend about Dollars 300m to equip and commission another facility
+in Phoenix, Arizona, to manufacture Cyrix-designed chips under its own name
+and in direct competition with Intel, the industry leader. Cyrix chips are
+functionally similar to Intel's 80/486 and Pentium chips.
+Mr Keith Chapple, Intel's director of strategic development for Europe, said
+the SGS-Thomson move would intensify competition, but represented little
+threat in the short term: 'We are all for competition if it is fair
+competition,' he said.
+SGS-Thomson's decision follows the news earlier this month that Internation
+Business Machines, the world's largest semiconductor and computer
+manufacturer, has agreed to make copies of Intel chips designed by Cyrix.
+However, analysts believe that the decision will not lead to a price war of
+the kind which has damaged the personal computer business. They point out
+the market is large and growing and there is plenty of scope for competitors
+to improve market share without cutting prices unduly. Intel has at least 80
+per cent of the market for PC microprocessors, while Cyrix has less than 3
+per cent.
+IBM and SGS-Thomson were encouraged to enter the market for Intel
+microprocessor clones after Intel last month dropped patent infringement
+claims against the Texas chip designer, opening the way for companies with
+licences to Intel's patents to clone its microprocessors. SGS-Thomson
+qualifies though its acquisition of Mostek in the 1980s.
+SGS-Thomson's decision is part of its strategy to expand in advanced
+semiconductors and raise its ranking to the world's 10th largest producer,
+the company said.
+The group refused to give further details of the size of the investment or
+the timing of the launch, but said the company would make copies of Intel's
+80/486 chip as the first of a family. It is expected that Cyrix-designed
+copies of Intel's top-of-the-line Pentium chips and its successors will
+follow.
+Mr Bipin Parmar, an analyst with Dataquest, the US-based market research
+company, who has been advising SGS-Thomson on its strategy, said while the
+company led the world in power semiconductors, too much of its business
+depended on products selling for 2 cents to 20 cents a unit.
+Microprocessors, by comparison, sold for Dollars 30-Dollars 60 each.
+The company is enjoying a sharp increase in profits. Last year's results
+have not yet been announced, but Mr Pasquale Pistorio, chairman, confirmed
+forecasts that net profits would rise to about Dollars 160m compared with
+Dollars 3.4m in 1992. Industry observers expect a further rise in 1994.
+
+The Financial Times
+
+
+London Page 30
+
+940420
+

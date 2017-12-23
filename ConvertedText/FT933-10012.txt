@@ -1,0 +1,27 @@
+FT933-10012
+
+FT  06 AUG 93 / Technology: Cutting out the PC bottleneck - Worth Watching
+
+
+   By PAUL TAYLOR
+
+
+Although the microprocessor chips that power PCs have been getting faster,
+the actual performance of PCs has been held back by data 'bottlenecks',
+writes Paul Taylor.
+The answer is to devise faster ways to exchange data between the
+microprocessor, memory chips and expansion cards. Kamco, a UK-based direct
+sales manufacturer, claims to have beaten its rivals with the first PCs
+based around Intel's new Peripheral Component Interconnect (PCI) standard
+which has the support of companies such as Apple, Compaq, Digital and IBM.
+Kamco's first PCI machine, which will run the next generation of multimedia
+software such as Microsoft's Windows NT, is priced at Pounds 2,995. Kamco:
+UK, 0895 271919.
+
+The Financial Times
+
+
+London Page 8
+
+930806
+

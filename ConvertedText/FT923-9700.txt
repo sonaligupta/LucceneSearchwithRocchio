@@ -1,0 +1,72 @@
+FT923-9700
+
+FT  04 AUG 92 / Technology: Mind over matter - Technically Speaking
+
+
+   By PAUL TAYLOR
+
+
+I admit that I felt more than a little sceptical when I met the people who
+claim to have developed a 'mind-controlled' computer - even if the research
+had been done in the Medical Electronics and Physics department at London's
+St Bartholomew's Hospital.
+The idea is to operate the computer by relaxing or tensing up at the
+appropriate time. Today's keyboard is recognised to be an awkward interface
+between man and machine, but this seemed to be taking things a bit too far.
+The front door of an average-looking house in Muswell Hill in north London
+did nothing to reassure me. Could this really be the right address for
+Menorah Software? It was, said Daniel Rogoff, Menorah's director, as he sat
+me down on a suitably relaxing sofa, about six feet in front of an ordinary
+looking PC clone - minus the keyboard.
+I was soon wired up - with two small sensor pads strapped to the fingers of
+my right hand. The wires led to a remote-controlled box about the size of a
+cigarette-packet which resembled a cordless computer mouse.
+The electrodes on my fingers picked up biofeedback signals, in the form of
+skin resistance which, I was told, 'has been widely used over the last 80
+years as a 'marker' which reflects the state of physical, emotional and
+mental arousal of humans and animals.'
+Skin resistance is a well-established parameter for measuring psychological
+reactivity and was used by, among others, Karl Gustav Jung, the Swiss
+psychologist, and has been popularised by its use in 'lie-detector' tests.
+The signal, which varies according to how relaxed or stressed the person
+feels, is sent back via an infra-red link to a receiver in the PC which
+decodes the information and passes it along to the standard serial port of
+the computer.
+Now for the clever part. Software in the computer processes the incoming
+data, displays it on the screen and communicates interactively with the user
+through text, symbols, games and animation designed by some of the people
+who worked on the film 'Who Framed Rodger Rabbit'.
+Press the start button on the sensor control and the fun begins. The 'game'
+I played, called Evolve, involved trying to move an animated fish. Relax,
+and the fish moves from left to right, turns into a mermaid who climbs out
+of the water, metamorphosing once again into a girl who walks up the beach,
+sprouts wings, and flies off into space, finally turning into a twinkling
+star. At least that's the idea. If, however, you tense up - as I did when
+Daniel asked me about deadlines - the whole process goes into reverse.
+Other software modules included with the basic Pounds 189 (plus VAT)
+RelaxPlus package include 'Mind-controlled Car', a driving game which
+requires the user to tense up as well as to relax, and two computerised
+interactive tutorials, Biofeedback and Muscular Relaxation. More games,
+including 'mind-powered adventure games for children, home healthcare
+programs and a range of executive products for the office' are promised.
+The least impressive thing about the system is probably the skimpy brochure
+which, in the tradition of pure hyperbole, claims that RelaxPlus will 'help
+you attain your full potential by teaching your conscious and sub-conscious
+mind to communicate'.
+Is RelaxPlus more than another wacky computer game? Its developers think so.
+The system was devised by two healthcare innovation companies, Ultramind and
+Medeci Developments, and is based on research by a medical team at St
+Bartholomew's led by Ernesto Korenman in co-operation with Professor Bernard
+Watson, professor of medical electronics.
+They believe that it may find uses in hospitals, doctors' surgeries, at
+home, and even in the office, where it might be used to help stressed
+executives 'chill out'.
+RelaxPlus is distributed by Menorah Software: 081 803 4269.
+
+The Financial Times
+
+
+London Page 12
+
+920804
+

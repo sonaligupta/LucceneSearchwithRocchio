@@ -1,0 +1,149 @@
+FT921-11800
+
+FT  30 JAN 92 / Technology: Light at the end of the tunnel - Newly
+privatised UK utilities are expecting IT to give them a competitive edge
+
+
+   By DAVE MADDEN
+
+
+Thames Water's customer information system is one of its biggest capital
+investments - second only to the London Ring Main, the three-metre diameter
+tunnel surrounding the capital.
+Although the project is one of the more ambitious information technology
+developments undertaken by a UK utility, it is not unique. Rather it
+illustrates the vast scale of IT investment in the newly privatised water
+and electricity industries - and the pivotal role that investment is playing
+in creating a competing, and competitive, utilities sector.
+The water industry has some Pounds 25bn to spend on capital projects in the
+decade to 1999 - of which around 10 per cent will go on support systems.
+The Water Services Association, which represents the 10 big water and sewage
+companies in England and Wales, says that Pounds 275m of the industry's
+Pounds 2.29bn capital expenditure last year went on 'miscellaneous
+projects', of which IT constitutes the bulk.
+It is tempting to view this as some sort of 'privatisation dividend', a
+reaction to years of public sector starvation. But money is not just being
+spent for the sake of it.
+First, individual systems face rigorous cost-benefit analysis. 'There is no
+question in my mind - the National Power board takes a highly commercial
+view of return on investment,' says John Handby, IT director.
+Second, some of these projects are driven by pre-privatisation IT
+strategies: Thames Water set its agenda in 1986; Welsh Water is building on
+its integrated business information system, conceived in 1985.
+There is no doubt, however, that privatisation accelerated programmes and
+changed priorities. 'Privatisation was not the catalyst but it fuelled the
+process,' says Jeff Maynard, Welsh Water's IT manager.
+But what is happening now says Declan Good, managing associate of
+consultants CSC Index, is that these companies are shifting emphasis from
+mandatory projects to more glamorous competitive initiatives. This
+transition is nowhere more evident than at National Power, the biggest
+electricity generator.
+National Power inherited a fragmented IT infrastructure. It had lost IT and
+telecommunications assets, including its central mainframe, to Nuclear
+Electric in the dismantling of the Central Electricity Generating Board. Its
+remaining technology was complex, often incompatible and, says Handby, its
+core business systems were incapable of meeting the demands of its new
+commercial environment.
+After a 'survival phase', in which it secured short-term solutions to keep
+the business running, National Power committed itself to a substantial
+investment in a radical IT infrastructure to underpin the new company. The
+programme is one of the largest computing and telecommunications projects
+ever undertaken by a company in Europe.
+It comprises core hardware and systems software - Amdahl mainframe and
+Digital Equipment Vax machines, a new company-wide network, applications,
+tools and procedures. When it is completed 70 Vax machines will be
+distributed across the company linked to 3,000 networked Compaq personal
+computers.
+Handby's priority has been to devolve computing to the remotest parts of an
+unusually dispersed organisation. In technological terms that has meant
+single-screen access to an integrated network.
+But its effect is farther reaching. 'We are building a true networked
+organisation,' says Handby, replacing the formal hierarchical culture of a
+public utility with a 'flatter, highly responsive' structure, which has
+shifted power from corporate headquarters to the power stations themselves.
+Distributing technology 'is as clear a signal of intent', Handby says, 'as
+getting rid of the executive loos'.
+National Power's IT strategy was developed in just three months. It is now
+18 months into an aggressive three-year programme. This has seen it:
+Implement a company-wide communications network, called Unity;
+Install new hardware and systems software in new data centres;
+Design, build and roll out a series of applications: office systems,
+procurement, work management, financial reporting - and an innovative
+operational information system which gives the business access to a
+reservoir of operational power plant data.
+National Power's experience is exceptional but its conviction that IT will
+prove an agent of cultural change is shared.
+Maynard expects IT to 'empower Welsh Water workers' - but that does not
+translate into a uniform approach. Good says the scope and ambition of IT
+initiatives across these utilities is conditioned largely by the management
+style they inherited, and their relative sophistication when they 'hit'
+privatisation.
+But there are clear priorities emerging. The first is customer service
+systems.
+At first sight this is hard to fathom. Water companies retain a monopoly, as
+do the electricity suppliers in the domestic market, until full deregulation
+in 1998. So is their interest in customer service systems more than just a
+fashionable import from the US?
+'We simply would not survive very long under the new regime if we didn't
+take this seriously,' says Maynard.
+Customer service initiatives address three interrelated issues: inflexible
+billing systems; scattered, and often incompatible customer databases; and
+inferior customer service organisations.
+Of these there is no doubt that privatisation has concentrated minds on the
+inadequacy of existing billing arrangements in both industries. As Maynard
+says, Welsh Water's customer accounting system 'handles our most important
+customer contact'.
+Yet, says Good, these same systems are elsewhere 'bogging companies down' to
+the extent that they can only introduce creative service products or complex
+tariffs with great difficulty, because they cannot bill for them. But while
+the motivation is the same, the approach varies greatly.
+Severn Trent Water turned to IBM imaging technology as the basis of its
+customer service effort. Ian Hislop, director of computer systems, says the
+systems were built to deliver immediate improvements in the speed and
+quality of its response to customers.
+Thames Water, on the other hand, is building a 'one-stop customer contact
+point' at its customer centre in Swindon - from the bottom up.
+This strategy, says project manager Peter Ratcliffe, is dependent on a
+complex computing and telecommunications infrastructure which will integrate
+all Thames's customer service contacts.
+A second priority is for 'work and asset' management systems. Asset
+management in both the water and electricity industries demands not just
+proper job or workflow administration but geographical information systems
+(GISs) to keep track of the network.
+Thames Water is three years into its own IBM mainframe-based GIS project (it
+has 20,000 maps loaded so far). But, says Ratcliffe, it will take another
+five years to digitise Thames's own water and sewer network on top. The
+ultimate trick, he says, will be to give its customer and job management
+centres direct access to that integrated model.
+In part these GIS initiatives are driven by legislation: the Street Work Act
+and respective customer charters oblige utilities to take better control of
+their physical infrastructure as well as their field workforce.
+In the longer term, the emergence of an IT-based customer service culture
+among UK utilities raises the prospect that, ultimately, providing the
+service could be decoupled from owning and running the physical
+infrastructure.
+In the mean time, says Good, 'having the utilities around the place has
+certainly kept the wolf from the (IT consultants') door'.
+ -------------------------------------------------------------
+IT BUDGET INCREASES
+ -------------------------------------------------------------
+by sector, 1990 over 1989
+(UK average = 30%)
+ -------------------------------------------------------------
+ABOVE AVERAGE                  BELOW AVERAGE
+Utilities         147%         Finance                 26%
+Education          83%         Retail/Distribution     10%
+Process            63%         Other industry           0%
+Engineering        48%         Public administration   12%
+                               Computer services       24%
+ -------------------------------------------------------------
+Source: Price Waterhouse/Computing Opinion Surveys
+ -------------------------------------------------------------
+
+The Financial Times
+
+
+London Page 12 Photograph (Omitted).
+
+920130
+

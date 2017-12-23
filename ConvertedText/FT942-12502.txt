@@ -1,0 +1,26 @@
+FT942-12502
+
+FT  29 APR 94 / Technology (Worth Watching): Building a better mousetrap
+
+
+   By ANDREW FISHER
+
+
+For buildings infested with small rodents, a UK company has developed a
+high-tech mouse trap. Mouse Alert uses infra-red detectors and low-power
+radio signals to warn customers when a mouse has been caught.
+Developed by Radio Data Systems for Rentokil, it comprises a number of
+trapping boxes placed around the building, and a wall-mounted control
+console. Instead of traps having to be checked regularly, the detectors on
+each trap transmit a signal to the console.
+Mouse Alert can also be put in unstaffed areas such as automated
+distribution centres and storage and production sites.
+Radio Data: UK, 081 542 2283
+
+The Financial Times
+
+
+London Page 15
+
+940429
+

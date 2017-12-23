@@ -1,0 +1,118 @@
+FT921-11734
+
+FT  30 JAN 92 / Business Law: Tax bill in US Congress seems to promote
+takeovers
+
+
+   By LEO HERZEL and WILLIAM A SCHMALZ
+
+
+AN IMPORTANT tax bill pending in the US Congress would permit depreciation
+of intangibles, including goodwill, for tax purposes. This would appear to
+eliminate a major US tax barrier against take-overs.
+Just a short time ago, Congress had been carefully scrutinising possible tax
+incentives for acquisitions, such as deductions for interest expense, with
+an eye towards removing them.
+Now it is considering a proposal that appears to increase the tax
+attractiveness of acquisitions, especially those in which large premiums are
+paid.
+In July last year, Congressman Dan Rostenkowski, who is chairman of the
+powerful Ways and Means Committee, introduced a bill, HR 3035, adding a new
+section 197 to the Internal Revenue Code. This was entitled 'Amortisation of
+Goodwill and Certain other Intangibles'.
+The bill would provide a uniform 14 year amortisation period for goodwill
+and other intangibles.
+While the bill did not come to a vote during 1991, it seems likely that it
+will become a part of some future legislative package since both the
+Treasury and the Internal Revenue Service support it.
+Because the bill has such an important bearing on acquisition planning,
+Congressman Rostenkowski has proposed that, when it is reintroduced into
+Congress, it should be made retroactive to the date of its original
+introduction last July.
+The inability to deduct or amortise amounts paid for goodwill has long been
+one of the main constraints in tax planning for acquisitions in the US.
+While businessmen recognise that goodwill may be an important business
+asset, they also recognise that its value may be fleeting. During the 1980s,
+the large premiums paid in acquisitions often resulted in prices that
+greatly exceeded the value of tangible assets, further increasing the
+significance of the non-deductibility of goodwill.
+By allowing amortisation of goodwill, HR 3035 would appear to increase the
+attractiveness of acquisi-tions.
+A closer examination of the proposal, however, reveals that the motive
+behind it is not to provide a tax incentive for acquisitions.
+During the 1980s, as the premiums paid in acquisitions increased so did the
+incentives for creativity by tax advisers. Acquirers did not accept
+fatalistically that the large premiums they paid had to be additional
+goodwill.
+Instead, the assets of targets were closely scrutinised to ensure that no
+possible depreciable or amortisable asset was overlooked.
+Along with patents, licences, favourable contracts, the deductible assets
+uncovered included such items as:
+workforce in place (experience and composition of existing workforce);
+information base (business records, operating systems, etc);
+customer-based intangibles (market share and composition);
+and supplier-based intangibles (any expected special value in the future
+from the acquisition of goods and services).
+In many instances, the result was that the amount of the purchase price
+remaining to be allocated to goodwill was quite small.
+However, the Internal Revenue Service challenged many of these claimed
+deductions.
+Disputes between the Internal Revenue Service and taxpayers involving very
+large sums of money ensued over whether these intangibles existed, the
+appropriate period for their amortisation, and the portion of the total
+purchase price that could be allocated to them.
+The disputes are only now beginning to wind their way through the audit
+process. Final resolutions by settle-ment or litigation are likely to be
+years in the future.
+Moreover, because of the highly specific factual nature of these disputes, a
+resolution in one case usually provides only limited guidance for other
+acquirers and the Internal Revenue Service.
+These problems are the driving force behind the proposed legislation.
+The uniform amortisation period for intangibles is intended to eliminate
+disputes over the existence, value and life of intangible assets.
+The bill is designed to be neutral with regard to tax revenue although
+savings are anticipated from the reduction in complex disputes. Hence, the
+amortisation of goodwill is expected to be financed by increasing the
+amortisation period for some intangible assets.
+For example, acquired computer software would be amortised over 14 years
+rather than the current five years and covenants not to compete would be
+amortised over 14 years rather than their likely much shorter lives.
+Generally, the benefits (or detriments) of this new legislation would depend
+on whether an acquirer bought assets rather than stock. Business
+considerations may limit an acquirer's ability to choose.
+For example, an acquirer may strongly prefer to buy assets because of
+concerns about large, difficult-to-measure liabilities of the business being
+acquired.
+On the other hand, an acquirer who must make a hostile tender offer can only
+buy stock.
+A purchase of stock would not automatically permit an amortisation of the
+acquired corporation's goodwill since the goodwill itself would not have
+been purchased. An acquirer could elect to treat a purchase of stock as a
+constructive purchase of assets for tax purposes and thereby come within the
+scope of this new provision.
+However, generally, this would not achieve the best tax result for an
+acquirer because of the immediate taxable gain on the difference between the
+purchase price and the tax basis of the assets.
+In any contemplated acquisition, the effects of the proposed legislation
+should be reviewed in detail.
+In situations where, under existing law, large values could be ascribed to
+intangibles for which a short useful life could be established, this bill
+might reduce the tax benefits from an acquisition.
+In situations where the major intangible is clearly goodwill, the bill could
+make the acquisition much more attractive.
+Accordingly, even if the aggregate effect on the value of acquisitions is
+unchanged by the legislation, the allocation of values among individual
+acquisitions may be changed drastically, making some previously unacceptable
+deals attractive - and vice versa.
+Any company considering an acquisition in the US should analyse the likely
+effects of this bill and watch its progress in Congress.
+The authors are partners in the Chicago office of US law firm Mayer Brown &
+Platt.
+
+The Financial Times
+
+
+London Page 38
+
+920130
+

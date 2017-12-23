@@ -1,0 +1,34 @@
+FT921-15344
+
+FT  10 JAN 92 / Technology (Worth Watching): At the wheel of a virtual car
+
+
+   By STEVEN BUTLER
+
+
+NEC, the Japanese electronics company, has developed a virtual reality
+network system to enable designers in multiple locations to work together in
+real time, designing three-dimensional objects, writes Steven Butler.
+The company has written software for the design of a car body which, when
+goggles are donned, appears in three-dimensional space on a high-definition
+computer screen. The parts of the car can be manipulated and reshaped by
+moving hands inside gloves attached to sensors. On the screen, what appear
+to be disembodied gloves actually move the objects about.
+The breakthrough, say NEC scientists, came in reducing the information flow
+between remote computer terminals so that the exchange could be handled by
+ordinary engineering work stations. Designers working at any terminal linked
+together can each reshape objects on the screen at the same time.
+NEC admits the system is still fairly primitive and is unlikely to have
+commercial applications for several years. The level of detail on the screen
+is low, and the gloves are still not sensitive enough.
+One goal will be to increase the size of the system so that objects, like
+cars, can appear in three dimensions at full size.
+NEC: Japan, 03 3454 1111.
+
+The Financial Times
+
+
+London Page 8 Illustration (Omitted).
+
+920110
+

@@ -1,0 +1,98 @@
+FT944-5935
+
+FT  01 DEC 94 / Technology: Speeding up tax-collection - Software at work /
+A radically different system was needed for new Inland Revenue
+tax-collection methods
+
+
+   By PHIL MANCHESTER
+
+
+One persistent theme in the search for techniques to make software easier to
+build is to make its production more like a traditional engineering
+activity. Software applications are increasingly 'assembled' from a set of
+components - operating systems, database software and applications packages
+ -rather like a car or an aeroplane.
+Traditionally, software has been built in a haphazard manner with more
+emphasis on the technology than on the business problem. But
+'object-oriented' design aims to switch the emphasis back to the business.
+The UK's Inland Revenue found itself using an object-oriented approach
+almost by accident when its development team set about designing a system to
+process corporate tax collection, following legislative changes. The new
+rules allow UK companies to make their own tax assessments and pay
+accordingly. Random audits police the system.
+The Corporation Tax (CT) Pay and File system, in operation at the Revenue
+since October last year, not only administers the new tax collection rules,
+but forms the basis for another phase of tax change in 1996, which will
+bring about 10m self-employed UK tax payers into the self-assessment system.
+By using object-oriented design, the development team based in Telford in
+the north of England has been able to plan the re-use of software modules in
+future systems.
+Although the details of object-oriented design can be complex, it starts
+from a simple idea. It views the world as a set of self-contained 'objects'
+that define both the data and processes needed to make the object 'work'. An
+employee payslip, an invoice, a sales ledger or even an entire factory can
+be viewed as objects in this way.
+Each object is like a sealed black box recorder in an aeroplane. It can be
+activated - but its internal workings are hidden from view. If you want to
+print a payslip, for example, you send the 'payslip object' a message. It
+contains all of the data it needs to format and print itself.
+Object-oriented design helps to define computer software in terms that
+relate directly to real things - such as a payslip.
+Collection of corporate tax, like other Inland Revenue activity, is
+currently undergoing changes akin to a business re-engineering exercise. The
+change is comparable, for example, to a large business moving to
+self-billing for its purchasing operations.
+The new information technology system is, therefore, radically different
+from the one it replaces. Previously, UK corporation taxes were collected
+after a complicated, time-consuming assessment by the Inland Revenue and an
+equally complex collection procedure.
+All data processing was performed in batches after tax returns, payment
+receipts and so on had been entered into the central tax database. This
+batch processing system was slow, labour-intensive and required an expensive
+technology support structure.
+The introduction of self-assessment aims to reduce the cost of collecting
+taxes - by cutting staff and technology costs. At the same time, the
+batch-processing system was replaced with an on-line system, which gives
+Inland Revenue staff instant access to data. 'The new system is on-line
+rather than batch and aims to cut the time it takes to process changes. It
+used to take three or four weeks with the batch system. Now we can offer a
+better and more cost-effective service with the on-line system,' explains
+Alan Ward, a senior software engineering consultant seconded to the Inland
+Revenue from computer manufacturer ICL.
+Ward explains that the CT Pay and File system, which handles the Revenue's
+1m corporate accounts, currently supports a potential 14,000 users, although
+only about 4,500 of the Revenue's staff are working directly on the system
+operating the corporate tax accounts.
+The system operates across a national network of personal computers running
+Microsoft's Windows 3.1 and an ICL mainframe computer that manages a massive
+160 gigabyte tax database.
+'It was not part of the original decision to use object-oriented design,'
+says Ward. 'Our priorities were to develop a new architecture to support the
+application and to increase the amount of software we could re-use. We
+wanted to build a system where the application was integrated at a high
+level - so we could re-use large parts of an application in later
+development.'
+He acknowledges that object-oriented design has been an important element in
+the success of the existing application. It also promises to lay a
+foundation of re-usable code for the next phase of development.
+This brings long-term benefits. Elements of a design can be recycled on
+later systems. The Telford development team is using recycling - or 're-use'
+ -to help build the expanded system for self-employed taxpayers due to go
+live in 1996-97. High-level objects - or software components - are being
+transferred from the CT Pay and File system for use in the new one.
+'The object approach forces you to design software in modules. The result is
+that we are getting re-use at all levels, which is something we did not
+expect,' says Ward.
+The Inland Revenue has found that object-oriented design provides a strong
+base for applications software. It introduces engineering discipline and
+brings long-term benefits like re-usable programs. It also helps focus
+attention on business needs rather than technology.
+
+The Financial Times
+
+
+London Page 20
+
+941201
+

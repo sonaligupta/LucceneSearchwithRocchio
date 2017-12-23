@@ -1,0 +1,47 @@
+FT923-15356
+
+FT  02 JUL 92 / Technology: Anti-noise devices drown out competition
+
+
+   By LOUISE KEHOE
+
+
+Looking for the quiet life? The din of the diesel engine and the whine of
+the air conditioning fan can now be silenced electronically using 'noise
+cancellation' technology that is rapidly finding a broad range of commercial
+applications.
+Electronic or 'active' noise cancellation systems analyse undesirable, low
+frequency noises in a chosen environment. The noise reduction system
+produces an equal but opposite wave, called 'anti-noise', which cancels out
+or reduces the unwanted sound. The concept of 'anti-noise' was discovered in
+the 1930s, but commercial use had to await the microprocessor and cheap
+computing power used to analyse sound.
+The first commercial applications of the technology are in industrial
+settings. NCT Muffler of Stamford, Connecticut, a subsidiary of Noise
+Cancellation Technologies, this week took its first order, for 50 electronic
+silencers, which electronically silence noise from blowers, vacuum pumps,
+compressors and other internal combustion engines. An added benefit of the
+noise cancellation systems is that they also make the equipment more fuel
+efficient and improve worker safety.
+The first of NCT Muffler's silencer systems have been installed in a wire
+manufacturing plant that uses industrial vacuum pumps to unload bulk product
+from railway cars.
+Noise cancellation may find a much broader market in the vehicle industry,
+where it can be used to quieten car engines - to the benefit of those
+outside and inside the vehicle. Noisy buses, trucks, farm equipment and
+generators are also potentially important applications. NCT General Systems,
+another subsidiary, is working on noise reduction systems for fans used in
+household appliances.
+The most appealing applications of this technology are being pursued by NCT
+Personal Quieting. These include personal headsets that block out offensive
+noise without affecting a person's ability to hear speech, warning signals
+or music. Unfortunately beyond the scope of this technology, it seems, is
+the ability to selectively block some voices while leaving others audible.
+
+The Financial Times
+
+
+London Page 16
+
+920702
+

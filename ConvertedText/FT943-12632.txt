@@ -1,0 +1,103 @@
+FT943-12632
+
+FT  23 JUL 94 / Finance and the Family: Winners and losers - The relative
+virtues of gilts and bond funds
+
+
+   By SCHEHERAZADE DANESHKHU
+
+
+Investing in a bond fund is, almost invariably, more expensive than buying
+gilts directly. Gilts can be purchased cheaply and easily enough over a post
+office counter from the National Savings Stock Register. But most UK bond
+funds have an initial charge of up to 6 per cent (the table shows some of
+the present bid-offer spreads - the difference between buying and selling
+units). They also carry an annual charge, usually of about 1 per cent.
+Gilt prices and yields vary in inverse proportion. While yields have risen,
+from about 6 per cent to just over 8.5 per cent in the first six months of
+the year, the price of the 10-year benchmark gilt - Treasury 6 3/4 per cent
+2004 - fell 16.9 per cent.
+Investors in UK bond funds, who hoped to have fared better, may be
+disappointed to see from the table that the average unit trust in the UK
+gilt and fixed income sector fell by virtually the same amount - 16.66 per
+cent (offer to bid, no income re-invested) - over the same period.
+This is despite the greater flexibility that bond funds have. Many of those
+in the UK gilt and fixed income sector invest in shorter dated gilts,
+corporate bonds and preference shares, which are part of a company's share
+capital and pay a fixed dividend.
+When yields are rising, as has happened in the first half of the year,
+changes in price are greater for longer dated gilts than for those at the
+short end of the market. The JP Morgan UK government bond price index, which
+covers the performance of both longer and shorter dated bonds, fell 14.2 per
+cent over the first six months of the year - less than the 10-year benchmark
+gilt.
+Bond funds investing in the short end of the market have had an advantage
+over this period. The Whittingdale short dated fund does not invest in gilts
+with a maturity of more than six years and the fund's performance has
+benefited from this restriction. But when prices are rising, such as in the
+bull market of 1993, the shorter end of the market tends to perform less
+well.
+Thus, the Whittingdale short dated fund was ranked 52 out of 58 by Micropal
+in the year to January 3 1994 (offer to bid, net income re-invested),
+although it was in the top five funds over five and 10 years.
+Abbey Life's Capital Reserve fund (which is not included in the table
+because it has only accumulation units) also invests in short dated gilts.
+With net income re-invested, it is the top-performing fund (excluding bear
+funds) in the sector, mainly because it switched to cash.
+Gerard Wherity, its fund manager, says: 'We were nervous last year because
+we thought that the rise in gilt prices was not sustainable.
+'If we believe prices are going to fall, we avoid being in gilts. The fund
+has been liquid through fairly large chunks of the year, but we were more
+liquid than we should have been last year.'
+Many private investors, however, buy gilts for the income they provide. The
+highest yields of the top 10 funds listed were delivered by those investing
+in preference shares - Gartmore Preference and Thornton UK Preference - with
+over 9.17 and 8.5 per cent respectively.
+Investors weighing the advantages and disadvantages of bond funds should
+note that there is a tax drawback to buying gilts in a unit trust. Gains are
+liable to capital gains tax, whereas gilts bought directly are exempt from
+it.
+ ----------------------------------------------------------------------
+            BEST AND WORST PERFORMING UK BOND FUNDS
+ ----------------------------------------------------------------------
+                           Fund   Bid-offer   Percntge   Fund
+                 size (Pounds m)   spread %   Yield %    change (%)
+ ----------------------------------------------------------------------
+TOP 10 (1/1/94-1/7/94)
+ ----------------------------------------------------------------------
+Whittingdale Shrt-dated      47.0      1.26        0      -8.54
+Britannia Lf Gilt & FI       1.8       2.01      6.26     -9.13
+Burrage Shrt-Dated Gilt      1.8       1.26      6.19    -10.92
+Exeter Zero Preference      40.7       5.76         0    -10.95
+Aberdeen Gilt Income       18.23          0      6.51    -12.72
+AIB Grofund Gilt            2.75       3.00      5.44    -12.85
+Abtrust Fixed Interest     16.82       6.32      7.53    -13.09
+Thornton UK Pref           14.67       6.50      8.50    -13.38
+Gartmore Preference         6.60       6.50      9.17    -14.30
+Fidelity Gilt & FI         21.50       0.95      7.37    -14.86
+ ----------------------------------------------------------------------
+BOTTOM 10
+ ----------------------------------------------------------------------
+Schroder Gilt & FI         18.40       5.15      7.24    -21.82
+N&P Gilt & FI               0.93       5.51      5.94    -21.78
+BG Bond                    21.47       4.95      6.64    -21.55
+Legal & Genrl Gilt          5.00       5.70      6.75    -20.89
+Framlington Gilt           13.74       3.03      6.19    -20.20
+Legal & Gen FI              2.00       6.00      7.26    -20.18
+Prosperity Gilt & FI        1.40       6.01      6.58    -20.18
+Norwich Gilt & Cnvtble     11.51       5.93      6.61    -20.04
+Clerical Med Gilt & FI      5.00       4.91      7.98    -20.04
+Canlife Gilt & FI           4.97       5.67      6.34    -19.73
+Sector average            -16.66
+ ----------------------------------------------------------------------
+Source: Micropal. Offer to bid with no income reinvested. Excludes
+bull and bear funds and funds with accumulation units only.
+ ----------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page V
+
+940723
+

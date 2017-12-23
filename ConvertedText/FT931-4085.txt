@@ -1,0 +1,75 @@
+FT931-4085
+
+FT  12 MAR 93 / Leading Article: Taurus done to death
+
+
+OVER THE past decade and a half, the business of running a stock exchange
+has undergone a dramatic transformation. Instead of being cosy, monopolistic
+utilities run by club committees, most exchanges now operate in
+internationally contestable markets. They have less power over their members
+and less ready access to their members' pockets; to survive, they have to
+demonstrate credible managerial skills. Against the background of this harsh
+new market discipline, the London Stock Exchange's botched attempt to
+introduce a paperless settlement system, Taurus, suggests that the shelf
+life of this august body may be rather less than previously assumed.
+To say that the exchange was over-ambitious with its computer plans
+laughably understates the case. Nor is the cost of the debacle restricted to
+the Pounds 400m or more that has gone into preparations for Taurus in the
+City and in industry, where listed companies have incurred expenditure in
+anticipation of paperless trading. The antediluvian system that now gains a
+new lease of life is administratively inefficient for investors, brokers and
+companies, and needlessly ties up capital in the securities system. It falls
+woefully short of the target set by the Group of 30, an influential think
+tank of former policy makers, for three-day rolling settlement.
+Given that the development of this computerised system constituted a crucial
+challenge for the exchange's chief executive Mr Peter Rawlins, it is
+appropriate that he should have tendered his resignation. In the City,
+unlike the cabinet, it seems that the buck does actually stop somewhere. The
+question is how much damage has been done.
+International role
+As far as the City's international role is concerned, there will no doubt be
+celebration in Paris and Frankfurt, but no great gain in business. While
+settlement is important - and better managed in those two continental
+European cities - it is not the central factor in deciding where securities
+business is done.
+Institutional investors attach more importance to liquidity, dealing costs,
+research and other services. A recent survey by the London Stock Exchange
+into dealing costs in other markets suggests that London remains the most
+competitive centre for large transactions, even without the reduction in
+stamp duty that the government had promised, to coincide with the
+introduction of Taurus.
+Despite the shortcomings of settlement in London, the stock exchange's SEAQ
+International dealing system claims to have 90 per cent of Europe's
+cross-border equity turnover. If settlement were crucial, trading in
+overseas stocks would not account for 50 per cent of the London Stock
+Exchange's business.
+London's strength
+London's real strength in securities trading is not on its organised
+exchanges but in over-the-counter markets trading in eurobonds, swaps,
+currency forwards and the rest. Here the service providers range from
+information technology groups like Reuters to international banks. They
+constitute as great, or possibly a greater competitive threat to the London
+Stock Exchange, than the market authorities in Paris and Frankfurt.
+The decision to ask the Bank of England what to do makes some sense.
+Settlement is not unlike a public good: the incentive for the potential
+beneficiaries is not sufficient for them to set up a system on their own
+initiative. Cooperative effort is therefore needed. The snag is that the
+Bank of England was deeply involved in trying to reconcile the conflicting
+interests in the system that went so disastrously wrong by trying to
+accommodate too many of their demands.
+Whether the collapse of Taurus will give the Bank new leverage to persuade
+bank registrars, companies and securities houses to make sacrifices in the
+wider interest remains to be seen. But it would seem, at the very least,
+that the task of developing a new system should be offered around more
+widely. There is plenty of expertise in payments and settlements in the
+international banking fraternity and elsewhere. The poor light cast on the
+Stock Exchange's management by the Taurus disaster suggests that a
+diminished role for the exchange would be in order.
+
+The Financial Times
+
+
+London Page 19
+
+930312
+

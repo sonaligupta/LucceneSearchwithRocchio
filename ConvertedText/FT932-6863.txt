@@ -1,0 +1,106 @@
+FT932-6863
+
+FT  26 MAY 93 / Survey of Computer Industry - Systems, Software & Services
+(3): High-cost Japanese lose out - Foreign competitors are gaining ground
+
+
+   By MICHIYO NAKAMOTO
+
+
+JAPAN'S computer manufacturers - from the giants Fujitsu, NEC and Toshiba to
+their smaller cousins such as Seiko Epson - have suffered from a dramatic
+fall in demand over the past year.
+The value of sales fell 12 per cent from the year before, according to
+estimates by the Ministry of International Trade and Industry, as Japanese
+companies moved to cut capital spending and consumers held back from buying
+new machines.
+Corporations, faced with a pressing need to cut costs amid the economic
+slowdown, targeted spending on information and communications equipment,
+areas in which they had invested heavily in the past.
+Consumers stopped making new purchases, particularly towards the end of the
+year as low-priced machines, newly available from foreign companies, raised
+expectations that prices would fall further and that Japanese manufacturers
+would also be forced to cut prices.
+Manufacturers have found the market situation so difficult that the computer
+industry association has applied to be included on the Ministry of Labour's
+list of industries qualified to receive employment subsidies to help tide
+companies over bad times.
+The fall in demand would have been bad enough for Japan's computer industry.
+But in the midst of the worst economic slump in recent history, the industry
+has been confronted with a hitherto unknown entity in its home market:
+foreign competition.
+Last year, Apple Computer jumped to third place in the market share league
+table and some believe it could rise to second place this year.
+IBM, Compaq and Dell are other US companies that have created a stir with
+low-priced models. They have yet to make much impact in terms of sales, but
+their presence symbolises a changed market environment for Japanese
+manufacturers.
+Like their foreign competitors before them, Japan's computer manufacturers
+are having to face up to the fact that computers are becoming commodity
+items.
+Until now, Japanese manufacturers were able to charge high prices for their
+computers and obtain high margins as a result of a relative lack of
+competition in their home market.
+The difficulty of processing the Japanese language kept the domestic market
+in effect closed to many potential outside competitors.
+However, developments in software have made it possible to overcome this
+hurdle, removing a barrier to competition in the home market.
+The result is that unlike in the past, computer manufacturers in Japan will
+increasingly have to compete on price as well as on the merits of their
+products.
+The situation has exposed a weakness among Japanese manufacturers. When it
+comes to computers, they are not particularly cost competitive.
+Those that depend on high-cost manufacturing in Japan are unable to compete
+on price. Moreover, unlike IBM, which uses standardised parts throughout the
+world, Japanese companies use proprietary systems which are more costly to
+produce.
+As a result, Japanese manufacturers looking to offer cheaper computers are
+likely to turn increasingly to IBM-compatible machines, rather than their
+own proprietary systems, to complete the lower end of their product range.
+Recent moves by a number of computer manufacturers to turn to OEM suppliers
+for some of their products illustrates the trend.
+Earlier this year, Hitachi indicated that it would obtain some of its
+computer products through an OEM arrangement with IBM. Meanwhile, Fujitsu
+says it may take OEM supplies of low-priced IBM-compatible machines from
+Acer of Taiwan.
+In addition, the Japanese are facing the consequences of an increasing move
+towards downsizing and open systems.
+These developments pose the biggest threat for the two computer giants
+Fujitsu and NEC.
+Fujitsu, Japan's largest computer manufacturer which depends for 70 per cent
+of revenues on computers - of which about 30 per cent comes from large
+mainframes - will have to shift its revenue base from hardware to software,
+says Mr Koichiro Chiwata, industry analyst at Salomon Brothers, the US
+securities house.
+Meanwhile, the advantages that NEC, the country's largest PC manufacturer
+with over 50 per cent of the market, has enjoyed with its proprietary system
+will be eroded, Mr Chiwata believes.
+Last year, NEC saw its PC shipments fall 5 per cent; the company's debt
+rating has been downgraded by Moody's, the debt rating agency, which expects
+competition to intensify.
+Fujitsu and others have already started to place greater emphasis on
+software and systems to counter the fall of profits from hardware resulting
+from lower consumption and weak prices.
+Fujitsu has come up with a list of charges on 20 different software and
+after-sale services such as maintenance and repairs. Both Hitachi and IBM
+Japan have similar price lists.
+But it will not be easy for them to convince their Japanese customers to
+agree on service charges as these have until now been regarded as part of
+the price of buying a machine.
+On the brighter side, in spite of a lingering mood of low consumption,
+Japan's computer market is expected to recover this year. Dataquest, the
+high technology consultancy, forecasts growth of 6.6 per cent in 1993. The
+range of low-cost machines currently available, the launch of Windows and
+the purchasing cycle will all contribute to the rise in demand, it believes.
+As the market recovers, it is likely to become an even more heated
+battleground between domestic manufacturers struggling to protect their
+proprietary systems and their margins against the cost advantages and the
+open systems offered by their US competitors.
+
+The Financial Times
+
+
+London Page II
+
+930526
+

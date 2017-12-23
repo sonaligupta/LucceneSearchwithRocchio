@@ -1,0 +1,83 @@
+FT941-12801
+
+FT  28 JAN 94 / Technology: Computers come face to face - New personal
+conferencing products allow users to hold meetings through their PCs
+
+
+   By LOUISE KEHOE
+
+
+The personal computer industry has for years sought the 'killer app' - a
+compelling new application of PCs that would boost sales and draw new users
+into the market.
+Intel, the world's largest chip maker and dominant supplier of
+microprocessors to the PC industry, may have found this elusive prize in the
+form of 'personal conferencing'. This week, the company launched PC add-on
+products that enable users to conduct video conferences from their desks,
+viewing each other in one corner of their computer screens while
+simultaneously reading, discussing and updating the displayed documents.
+'Personal conferencing will change the way people in business communicate by
+bringing the power of the PC to one-on-one communications,' predicts Andrew
+Grove, Intel's president and chief executive. 'We are entering an era when
+people will use their PCs to make and to receive calls and to solve business
+problems together.'
+Intel's PC-based technology does not match the standards of dedicated
+video-conferencing systems. The video image of participants is small and
+rather jerky at 15 frames per minute. But it is a relatively low-cost and
+easily installed system.
+Intel is already using the technology in its own offices. Colleagues at
+distant sites can, for example, edit a report together. With the draft
+version displayed on their screens, they may each suggest changes - pointing
+to relevant sections, highlighting important words and inserting new text as
+if they were sitting at the same desk. Both parties can see each other's
+reactions.
+Personal conferencing 'addresses the contemporary problems of commerce,'
+says Grove. It improves the flexibility, helping employees in separate
+locations to collaborate more easily. It eliminates time-consuming shuffling
+of work from one individual's computer to another. It can cut travel time
+and costs, and facilitate 'telecommuting'.
+Personal conferencing 'is very processor intensive,' says Grove. 'Clearly,
+it works better on high-performance personal computers.' That should
+translate into a sales boost for Intel's latest Pentium microprocessor, he
+believes.
+Intel is spending Dollars 100m (Pounds 67m) a year on developing personal
+conferencing technology, says Grove. The market may be huge. 'We will play a
+part in it, we hope a big part, but if this is going to be as big as it can
+be, it will require the work of dozens, if not hundreds, of companies.'
+Intel has already secured the support of software developers Lotus
+Development, Microsoft, Novell, Software Publishing and WordPerfect, which
+have announced their interest in developing personal conferencing software.
+Computer manufacturers AST, Compaq, Digital Equipment, Dell and Gateway 2000
+have also endorsed the technology.
+'We believe this is going to be a very important new PC application,' says
+Eckhard Pfeiffer, Compaq chief executive. Sales of computer-based
+videoconferencing systems will grow from Dollars 70m last year to more than
+Dollars 3bn by 1997, market researchers predict.
+To take full advantage of Intel's new technology the user needs a
+high-performance personal computer, based on either an Intel 486DX or a
+Pentium microprocessor and an ISDN (integrated services digital network)
+telephone line.
+In the US, Intel has forged marketing agreements with AT&T and several
+regional telephone companies, which will provide ISDN telephone services
+along with Intel's ProShare software and hardware package. This includes
+video and communications PC add-in circuit boards, a monitor-top video
+camera, hands-free headset with microphone and ProShare software. Prices
+will range from Dollars 1,200 to Dollars 2,500.
+Intel plans to launch its personal conferencing products in Europe this
+year, and has already made an agreement with one European telephone company,
+says Grove.
+For those willing to sacrifice video telephone features, personal
+conferencing will cost much less. Intel will offer its ProShare software
+alone for Dollars 99. The program can be run on a standard 386 model
+personal computer equipped with a 9600 baud modem. The software includes a
+tool set with pointers, markers, highlighters and text tools. A 'jumpstart'
+feature allows another user to take part in a conference without buying the
+ProShare software.
+
+The Financial Times
+
+
+London Page 14
+
+940128
+

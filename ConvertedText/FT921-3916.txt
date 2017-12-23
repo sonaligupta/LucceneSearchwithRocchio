@@ -1,0 +1,141 @@
+FT921-3916
+
+FT  12 MAR 92 / Technology: Multilinguals on the open road - As Europe's
+single market approaches, Della Bradshaw examines systems that translate
+documents into several languages
+
+
+   By DELLA BRADSHAW
+
+
+In less than 10 months' time there will be a single European market: but
+there will not be a single European language. As a result manufacturers
+wanting to sell their wares across boundaries will be forced to translate
+their product information.
+Ahead of the pack, Xerox, the US electronics company, has long translated
+its technical documentation for use in Europe. Although translation services
+have traditionally been a cottage industry, Rank Xerox turned to computer
+technology for assistance.
+Machines at Rank Xerox in the UK now translate 10,000 pages a year from
+English into 10 European languages. Mike Scott, of Rank Xerox's Language
+Technology Centre, believes the machines can at least halve the time it
+takes to complete the task.
+As pressure on manufacturers to reduce product lead times increases,
+computers are proving ever more valuable, says Alan Portela, vice president
+of marketing for Systran, of La Jolla, California. 'Today large corporations
+that have to translate huge manuals in a short time have only one option -
+machine translation.'
+Manufacturers emphasise that time savings can only be achieved if the text
+follows a narrowly-defined format. 'The system can only translate what has
+been stated in a sentence, not what could possibly have been meant,' says
+Thomas Schneider, manager in charge of linguistics and terminology at
+Siemens-Nixdorf, in Munich.
+This means the systems are best suited to the translation of instruction and
+maintenance manuals, where the documentation is bulky but where clarity of
+expression rather than elegance of phrase is required. 'They are designed to
+work on logical English - not poetry,' says Phil Wrenn, senior applications
+engineer at Intergraph, the US computer group.
+Nevertheless, different types of translation machines are suited to
+different types of text. Machines fall into three types:
+Batch systems, where a document is fed into the computer in one language and
+emerges in a second language. The Systran and Siemens-Nixdorf machines fall
+into this category.
+Computer-assisted, or interactive, systems where the text is translated a
+sentence at a time, and constantly checked by a human translator. If the
+computer cannot find a word in the dictionary, then it will stop and prompt
+the translator to help.
+Computerised dictionaries, which are used as an aid by translators. Although
+not as sophisticated as the first two, these dictionaries ensure that
+several translators working on a single text use consistent terminology.
+Batch systems are most effective for technical literature and need three
+types of dictionary, says Jane Mason, language technology consultant at the
+Rank Xerox Language Technology Centre. These are a general dictionary -
+English to French, for example; an industry dictionary for, say, the
+pharmaceuticals industry; and one developed for the specific company.
+Working on short, terse sentences - Mason recommends training the authors to
+write text with translation in mind - the results can be extremely
+effective. A human translator using a batch system could translate between
+5,000 and 10,000 words a day. Most of the manual work would be at the
+'post-editing' phase, once the machine had completed its task. A human
+translator working alone could manage only 1,500 words a day.
+However, if inadequate preparation is done, the results can be of little
+use, says Scott. 'It's a one-shot system. If it has the wrong terminology it
+would repeat the error over and over again. When it is below the 70 to 80
+per cent correct level, you might as well translate it sentence by
+sentence.'
+By comparison, interactive systems enable a translator to handle between
+2,000 and 4,000 words a day, but the advantage is that they can be used for
+translating more general text - sales and marketing information, for
+example.
+Many large US companies, such as Eastman Kodak, General Motors and General
+Dynamics already use machine translation systems. In Europe, companies have
+been more hesitant, although the German software house Sap and the German
+subsidiary of Philips are among several large companies that have taken the
+plunge.
+The European Commission, too, uses computer translation systems. It has also
+begun a programme to develop its own system, Eurotra, which will handle nine
+European languages. A small-scale prototype has been developed, says Sergei
+Perschke, programme manager, which can handle scientific and technical
+documentation. However, he reckons it will be a further 10 years before an
+operational system can be produced.
+'As far as the technology is concerned, the computers are quite
+appropriate,' Perschke points out. 'The main problems are linguistic.'
+Each language presents its own problems, says Schneider. English has a lot
+of words such as 'back', which can be a noun, adjective or participle. In
+German, on the other hand, words can have an almost free word order - with
+the object at the beginning of the sentence or the subject at the end.
+Recent years have seen a great improvement in the software. Whereas systems
+used to translate a word at a time, they now work on phrases or whole
+sentences, and relate one sentence back to another. So if the sentences 'The
+cat sat on the mat. It drank a saucer of milk,' were translated, the
+software would recognise that the 'It' of the second sentence referred to
+the cat, not the mat.
+Today's machines also incorporate artificial intelligence techniques. So the
+Intergraph system teaches itself to recognise the words within the context
+of the article it is reading, says Wrenn. The first time it translates a
+document for a particular company or industry it will get only about 45 per
+cent of the words correct. But learning from the corrections it will achieve
+up to 95 per cent accuracy by the time the fourth or fifth document, on a
+related topic, is translated.
+On the document production side Systran, Siemens-Nixdorf and Intergraph have
+all combined translation software with publishing software, so that a
+document can be produced that incorporates both text and diagrams or
+photographs.
+Developments in computer hardware, particularly of smaller and more powerful
+machines, have also benefited machine translation customers.
+Intergraph, for example, has transferred its software from a Digital
+Equipment Vax machine to workstations running under the Unix operating
+system and Siemens-Nixdorf plans a similar move.
+However, the fall in the price of hardware is unlikely to have a striking
+impact on the price of the overall system, says Schneider, as the software
+has proven so expensive to develop - in the case of Siemens-Nixdorf some
+DM60m (Pounds 21m).
+'If you look at the development costs, the software is dirt cheap to buy,'
+says Schneider. A typical system with five workstations would cost DM
+250,000.
+This overhead means that only large users - those translating more than
+2,000 pages a year - would benefit from buying their own equipment. But both
+the larger translation agencies, and some of the manufacturers, offer
+services for smaller companies.
+Rank Xerox, for example, sells translation services through its Language
+Translation Centre. Anyone with a 200-page document for translation would
+find the service economical, says Scott.
+In the US, Systran offers a range of services. Companies can even have
+on-line access to the Systran database, to send their documentation over the
+phone line for translation. This costs about Dollars 13 (Pounds 7.50) a page
+and, says Portela, is suitable for companies that need between 50 and 100
+pages a month translated.
+Systran can also carry out the machine translation of a text and then send
+it to a traditional translation agency to apply the post-editing polish. The
+documents are then returned to the originating company in a camera-ready
+form - photos and diagrams included - for printing. Portela estimates the
+cost of this is about Dollars 25 a page. A traditional translator would
+charge Dollars 50 a page.
+
+The Financial Times
+
+
+London Page 18
+
+920312
+

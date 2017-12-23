@@ -1,0 +1,145 @@
+FT922-4524
+
+FT  05 JUN 92 / FT Law Report: Insolvency statement is admissible
+
+
+   By RACHE DAVIES, Barrister
+
+
+REGINA v KANSAL
+Court of Appeal (Criminal Division):
+Lord Justice Russell, Mr Justice French and Mrs Justice Ebsworth:
+May 12 1992
+SELF-INCRIMINATING statements made by a bankrupt at his insolvency
+examination can be used in evidence against him in any other proceedings,
+including criminal proceedings for obtaining property by deception.
+The Court of Appeal (Criminal Division) so held when dismissing an appeal by
+Mr Yash Pal Kansal against convictions under the Theft Act 1968 and the
+Insolvency Act 1986.
+LORD JUSTICE RUSSELL said that in February 1992 Mr Kansal was convicted of
+obtaining property by deception contrary to section 15(1) of the Theft Act
+1968, in that he dishonestly obtained cheques of Pounds 150,000 and Pounds
+116,250 from the Halifax Building Society by falsely representing that his
+annual income was Pounds 90,000, that he had never been bankrupt, and that
+he had no loans or credit card debts.
+He was also convicted of the offence of a bankrupt removing property
+contrary to section 354(2) of the Insolvency Act 1986, in that he removed
+Pounds 104,356 held jointly by himself and his wife, possession of which he
+would have been required to deliver up to the Official Receiver or trustee
+in bankruptcy.
+His wife was acquitted of aiding and abetting.
+Mr Kansal came to the UK from India in 1967, and qualified as a pharmacist.
+In 1977 he formed a company which flourished until, by 1983, it operated
+some 20 chemist shops. At about that time he purchased a house with a Pounds
+60,000 mortgage.
+In 1986 the house was remortgaged. The original mortgage was paid off and
+the balance invested in the business. By then Mr Kansal was encountering
+financial problems. In February 1986 a finance company obtained judgment
+against him in respect of a Pounds 4,000 loan, and the company went into
+liquidation in February 1987.
+On March 11 1988 a bankruptcy order was made against Mr Kansal. Five days
+later the Halifax advanced Pounds 150,000 on the security of the house, and
+a further Pounds 116,250 a week later.
+Those advances formed the subject matter of the Crown's allegation that he
+had misled the building society.
+On March 23 his wife collected Pounds 104,356 in cash from the bank, being
+part of the building society advance, and took it in a bin liner to India.
+The Crown alleged that was done at Mr Kansal's instigation with knowledge
+that the money should have been delivered up to the Official Receiver or the
+trustee in bankruptcy.
+On May 20 Mr Kansal made a statement of affairs pursuant to the Insolvency
+rules 1986, and a narrative statement to the Official Receiver's examiner.
+On July 29 at the Romford County Court, his public examination took place.
+The Official Receiver asked him a number of questions and elicited
+incriminating answers.
+At Mr Kansal's trial the Crown intended to produce a transcript of the
+public examination, and the bankruptcy file. Judge Rucker ruled that the
+documents were admissible.
+Mr Kansal's appeal basically was against that ruling.
+The appeal turned on the proper construction of section 31 of the Theft Act
+1968, and the impact of section 433 of the Insolvency Act 1986.
+Section 31 provided that a person was not excused on the ground of
+self-incrimination under the Act from answering any question put to him 'in
+proceedings for the recovery or administration of any property, for the
+execution of any trust . . . ', but that no statement or admission made in
+answering the question should 'in proceedings for an offence under this Act'
+be admissible in evidence against him.
+Miss Arden for Mr Kansal contended that bankruptcy proceedings were
+'proceedings for the recovery or administration of any property' or 'for the
+execution of a trust'.
+Accordingly, she said, while Mr Kansal was not excused from answering
+questions in bankruptcy proceedings on the ground of self-incrimination, he
+was protected in 'proceedings for any offence under this Act', ie the Theft
+Act, his answers being inadmissible against him in those proceedings.
+Miss Arden said the bankruptcy process was very much concerned with getting
+in and distributing the bankrupt's assets and that the words 'for the
+recovery or administration of any property' were apt to cover the duties of
+the Official Receiver or trustee in bankruptcy, who also executed a
+statutory trust. She said there was nothing in section 31 that excluded
+bankruptcy proceedings from the ambit of the section.
+Also, she said that the privilege from self-incrimination had been enshrined
+in the law for centuries and if it was abrogated there should be a
+counterbalance such as was found in section 31 rendering statements
+inadmissible in criminal proceedings. She said it was not part of the
+bankruptcy process to ensure that bankrupts were prosecuted, and the court
+should shrink from the construction of the statute that lent support to any
+such result.
+Section 433 of the Insolvency Act 1986 provided that 'in any proceedings
+(whether or not under this Act)' a statement prepared for the purposes of
+the Act 'may be used in evidence against any person making or concurring in
+making the statement'.
+Miss Arden submitted that that provision must be read subject to section 31
+of the Theft Act and that if there was conflict between the two sections,
+section 31 must prevail. She said it was a specific provision giving
+protection in a limited field, as opposed to the generality of section 433
+(see Seward v Vera Cruz (1884) 10 App Cas 59,68; Blackpool Corporation
+(1922) 1 AC 34).
+Mr Crystal for the Crown submitted that there was no warrant for the
+suggestion that section 31 embraced or was ever intended to embrace
+bankruptcy proceedings.
+He said section 31 related to civil proceedings inter partes, where a claim
+was made in relation to property which had been acquired in circumstances of
+an incriminating nature. The normal privilege against self-incrimination was
+abrogated by the terms of section 31 in such proceedings.
+Bankruptcy proceedings on the other hand, he said, had no lis. They were not
+adversarial and the whole statutory scheme of bankruptcy had a different
+purpose and objective when compared with civil proceedings properly
+so-called. The objectives of the statutory scheme for bankruptcy, found in
+the 1986 Act and the 1986 Rules, were to enable the bankrupt's affairs and
+dealings to be investigated under court control; to provide statutory
+machinery for collection and rateable distribution of his available assets;
+and to rehabilitate him through the process of discharge.
+He said the privilege from self-incrimination was abrogated in bankruptcy
+proceedings, not by the opening words of section 31 of the Theft Act, but by
+rule 6.175 of the Insolvency Rules - '(1) The bankrupt shall . . . answer
+all such questions as the court may put . . . (5) The written record may in
+any proceedings (whether under the Act or otherwise) be used as evidence
+against the bankrupt . . .' Thereafter section 433 of the 1986 Act rendered
+the evidence admissible.
+Mr Crystal's submissions were right.
+Section 433 was not a provision of general application subject to a special
+exemption created by section 31 of the Theft Act.
+It was concerned with admissibility of a special class of document derived
+from insolvency in 'any proceedings' whether or not under the Insolvency Act
+or the Theft Act.
+The section was not concerned with privilege, but with the admissibility of
+evidence. Its terms were clear, unambiguous, unequivocal and were not
+subject to any exceptions.
+In Mr Kansal's case, his privilege against self-incrimination was abrogated
+by the insolvency legislation. Once that situation arose, section 433 came
+into play.
+Section 31 of the Theft Act was not capable of protecting Mr Kansal. The
+judge was right to admit the evidence. The appeal against conviction was
+dismissed.
+For Mr Kansal: Mary Arden QC and Richard J Haworth (assisted by the
+Registrar of Criminal Appeals).
+For the Crown: Michael Crystal QC and Peter Gower (Crown Prosecution
+Service).
+
+The Financial Times
+
+
+London Page 16
+
+920605
+

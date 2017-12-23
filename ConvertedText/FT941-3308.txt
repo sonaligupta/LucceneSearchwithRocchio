@@ -1,0 +1,112 @@
+FT941-3308
+
+FT  16 MAR 94 / Survey of Information and Communications Technology (23):
+The clear message: innovate or perish - Technology developments in Canada /
+Canada's successful IT companies demonstrate that to survive they must be
+show greater speed and originality than their US competitors
+
+
+   By GEOF WHEELRIGHT
+
+
+When you live next to a country as large as the US and want to succeed in
+the information technology sector, you have to innovate to survive.
+That is the story behind Canada's best personal computer and
+telecommunications companies - which seem to win new business by creating
+specialised solutions for surprisingly common challenges.
+Take the success of Canadian personal computer fax software maker Delrina,
+which hit the world markets in a big way with its WinFax software for
+Microsoft Windows, a few years ago. Many companies had tried to produce
+software which allowed users to fax documents direct from their PC screens,
+but none had ever really achieved much success with it until this Canadian
+company came along.
+By closely identifying a need for simple design, low cost and an ability to
+work with dozens of popular personal computer fax modems, Delrina almost
+created the market for Windows-based fax software. Today it dominates that
+market. It has been successful in building on the reputation of WinFax with
+a range of form-design products and fax add-on systems, and operates in a
+number of countries including a subsidiary operation in the UK.
+Likewise, the Toronto-based Vivid Group identified at an early stage the
+potential of 'virtual reality' technology. Using its implementation of this
+idea, it started building entertainment and education systems.
+Today, the company's Mandala System, an interactive virtual reality product,
+allows users to indulge in a variety of 'virtual' experiences including
+virtual ice hockey (something guaranteed to make it a big hit in Canada),
+virtual volley ball or soccer, and even a virtual swim in the shark-infested
+waters of Australia's Great Barrier Reef. The Vivid Group recently won the
+ultimate accolade for its virtual reality technology when it was selected to
+provide a key element of Paramount Pictures' Virtual Star Trek Transporter
+Experience.
+According to The Computer Paper, the founder and publisher of Canada's
+largest computer publication, many successes of this kind do not stay
+Canadian for very long. Douglas Alder, who founded The Computer Paper seven
+years ago, says that moderate success is quite commonly followed by US
+corporate acquisition.
+He says that even raising initial venture capital is a tough slog for most
+Canadian developers and entrepreneurs. 'There just aren't enough
+millionaires in Canada,' he says. And even when Canadian companies do
+achieve moderate success, there is no 'peer group of aspiring billionaires'
+willing to spend the money, time and energy to help grow the Canadian
+companies - 'most companies don't make it,' Alder says.
+And when they do make it, they often become American companies in due
+course. Take the case of SoftImage, the Quebec-based computer animation
+specialists, recently acquired by US software house Microsoft for Dollars
+130m.
+In this case, SoftImage will be allowed to stay in Quebec and pursue its
+existing business - while its technology will also be incorporated in future
+Microsoft products.
+Microsoft has been quite active in the Canadian technology sector. In 1991
+it purchased Consumers Software, another Canadian company, and turned it
+into its first big North American research and development facility outside
+the United States.
+Based in Vancouver, it now employs more than 100 people and has been renamed
+Microsoft Workgroup Canada.
+'We see a bright future for Canadian business and the local personal
+computer industry,' says Mike Maples, executive vice-president at Microsoft.
+'The Canadian personal computer hardware and software market is one of the
+most advanced in the world.'
+But being a Canadian personal computer hardware manufacturer is a tougher
+business. Ask, for example, Benjamin K. Tam, president and chief executive
+of Burnaby, British Columbia-based Darius Technology.
+Tam has been making and selling personal computers in Canada for more than
+six years, but admits that it is a tough market - particularly when many
+Canadians can shop quite easily for US computers over the border.
+Tam says that the recent Canada/US/Mexico North American Free Trade
+Agreement (Nafta) does not make this job any easier.
+'In the Canadian market, we are affected by the economic situation of our
+giant neighbour, the US, as well as by the agreements and government policy
+of the Canadian government,' he says.
+'Nafta could affect us severely in the high technology sector. Although we
+are known to be strong in the telecommunications side, we are not at all
+competitive (in the computer market) because the sheer volume is not there
+in Canada.'
+One solution has been to sell recently-developed products, including a
+network file server system based on Digital Equipment's powerful Alpha AXP
+computer processor, in both the US and Canada.
+As a result, Tam now boasts that 22 per cent of his company's annual sales
+are in the US, with the rest in Canada. And in the near future, he is
+expanding to the Far East - a move becoming increasingly popular among
+Western Canadian companies.
+Tam recently signed a Dollars 1.5m joint venture agreement with a
+state-owned enterprise in China. It will begin manufacturing computer
+displays in Shanghai this summer. Tam says that these products are being
+made for both the Far East and North American markets.
+In short, while Canada has the resources and the talent to create
+world-class high technology companies, it may have to move quite quickly to
+sell products outside its borders if these talents are to survive.
+With a domestic market of only slightly more than 25m people, spread over
+thousands of miles, this is perhaps not surprising.
+In terms of land mass, Canada is the second-largest country in the world -
+and distribution costs can be high. But judging by the successes of Delrina
+and the Ottawa-based Corel Corporation (developer of the popular Corel Draw
+software and now owners of the Ventura Publisher desktop publishing
+suite)Canadian companies can succeed on the world market.
+The secret is to be there from day one.
+
+The Financial Times
+
+
+London Page XVI
+
+940316
+

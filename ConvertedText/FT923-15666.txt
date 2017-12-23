@@ -1,0 +1,116 @@
+FT923-15666
+
+FT  01 JUL 92 / International Company News: Parents foster Europe's computer
+makers - Alan Cane examines the era of strategic alliances after Digital
+takes up to a 10% stake in Olivetti
+
+
+   By ALAN CANE
+
+
+THE SCRAMBLE among Europe's computer manufacturers to tie up with a larger,
+better resourced partner is virtually at an end.
+The deal secured last Friday, through which Digital Equipment (DEC) of the
+US will take up to a 10 per cent stake in Olivetti of Italy at a cost of
+almost Pounds 200m, (Dollars 370m) is almost the last throw in a poker game
+which has occupied Europe's faltering computer makers for the past
+half-decade.
+Their struggle to secure a lifeline to the future, however, is becoming a
+sideshow to the main event: the battle between US computer giants to ensure
+their technology stands a fair chance of becoming the world standard.
+That was the principal reason DEC was prepared to pay well over twice the
+market price for a share in a loss-making Italian manufacturer with no
+certain path back to profitability.
+European manufacturers, penalised by small, insular markets and rising
+research and development costs, have been seeking relief in strategic
+alliances since the 1980s. ICL of the UK found a wealthy parent in Fujitsu
+of Japan two years ago. Nokia Data of Finland was in turn purchased by ICL.
+International Business Machines of the US earlier this year spent Dollars
+100m to take a small stake in Groupe Bull of France.
+Of Europe's large players, only Siemens of Germany is left unpartnered. It,
+however, may be in no mood for courtship. It is still fully occupied
+digesting the loss-making systems company Nixdorf, which it bought last
+year, and is the only European company which may not need a partner either
+for financial or technological reasons.
+Olivetti needs both. It lost Dollars 387m last year and revenues are
+falling. It has shed 25 per cent of its workforce in the past two years, but
+further cuts may be necessary if it is to reach its goal of a return to
+profitability this year.
+Although it has developed some excellent products, including the Quaderno
+small notebook computer, it relies heavily on the US and Japan for basic
+technology.
+In particular, it needs a reliable source of Risc (reduced instruction set
+computing) microprocessor chips. Risc chips are fast and powerful. They are
+the microprocessor of choice for scientific workstations; within a few
+years, they are expected to power most personal computers and medium-sized
+computer systems.
+This is the largest and fastest-growing sector of the computing market. It
+is also an 'open' market where systems are expected to conform to
+industry-wide standards.
+This is the heart of the matter. Competing Risc suppliers, which include
+IBM, Hewlett-Packard, Sun Microsystems, DEC and Mips, all of the US, are
+fighting to establish their Risc technology as the industry standard. That
+means, inevitably, forming alliances with competitors who will design the
+Risc chips into their systems, so driving up volume.
+Sun Microsystems, for example, has licensed its Sparc Risc technology to a
+wide range of companies including ICL.
+IBM's deal with Bull and DEC's deal with Olivetti, however, indicates that
+Risc suppliers are now prepared to trade off equity funding against Risc
+'design-in'.
+Olivetti currently builds machines based on Risc technology from Mips. Mips,
+however, has a question mark over its future. It has just been acquired by
+Silicon Graphics and one of its principal supporters, Groupe Bull, has
+defected to IBM following the deal between the two companies earlier this
+year.
+As a result of last week's deal, Olivetti will now use DEC's Risc chip, the
+Alpha microprocessor in future products. The Alpha chip is the most advanced
+of its kind. When it launched the chip earlier this year, DEC claimed it had
+the performance of a small supercomputer. It also claimed that, by 2000, 80
+per cent of businesses in Europe would be using Alpha technology in some
+shape or form. The Olivetti deal is a clear prerequisite for that prediction
+to be fulfilled.
+DEC has currently no share of the European Risc market, which is dominated
+by Sun with almost a 60 per cent share followed by Mips (19 per cent), IBM
+(10 per cent) and Hewlett-Packard (8 per cent).
+Olivetti talked to both Hewlett-Packard and IBM before agreeing the deal
+with DEC with whom it has had an alliance (one of the 229 Olivetti claims in
+advertisements) stretching back over 20 years. Olivetti already provides DEC
+with about 100,000 personal computers a year for sale in Europe.
+For Olivetti, the advantages of the deal are threefold. It gains an
+injection of equity capital at a time when its resources are heavily
+stretched. It has access to an advanced Risc technology around which to
+design workstations and personal computers.
+And it has a US partner to share the burden of future product development
+(an earlier alliance with AT&T, the US telecommunications group, fell apart
+in 1989).
+Olivetti's recent advertising emphasising the number of its alliances has
+been widely seen as an attempt to reassure customers anxious about the
+company's lack of a larger partner.
+For DEC there are both advantages and disadvantages. It has a partner to
+help disseminate its Alpha Risc technology. Through its equity partnership
+it has a better foothold in Europe and access to Olivetti's distribution
+channels. And it opens the door to further co-operation between the two
+companies in commercial and technical areas.
+DEC today, however, is a giant with feet of clay. The world's third-largest
+IT supplier with sales of about Dollars 13bn, it lost more than Dollars 500m
+last year and has not made a profit in the any of the first three quarters
+of 1992.
+In Europe, it is still assimilating last year's purchase of Kienzle from
+Mannesmann and the minicomputer operations of Philips of the Netherlands.
+It failed to exploit three of the major elements of the modern computer
+industry; personal computer, high performance workstations and open systems.
+It desperately needs to make a success of its Alpha technology if it is not
+to become one of the industry's also-rans.
+So both DEC and Olivetti have powerful reasons to make a success of the
+joint venture. Questions which remain unanswered, however, include the fate
+of Mips, now a falling star among Risc suppliers, and the position of
+Siemens. It may have no need of a partner, but it is the last big European
+target for America's jostling Risc vendors.
+
+The Financial Times
+
+
+London Page 28
+
+920701
+

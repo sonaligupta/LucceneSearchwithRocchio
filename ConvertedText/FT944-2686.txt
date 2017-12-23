@@ -1,0 +1,108 @@
+FT944-2686
+
+FT  16 DEC 94 / Survey of World Commercial Vehicles (9): High cost of new
+standards - Regulation / Implementation of the new rules
+
+
+   By JOHN GRIFFITHS
+
+
+Little more than a year after the European Commission's Euro I rules curbing
+exhaust pollution by heavy goods vehicles, Europe's truck makers are well
+down the road to overcoming the greater cost and other problems of a further
+phase of legislation - the much stricter standards of Euro II.
+The Euro I standards became mandatory on October 1 last year. The Euro II
+standards, which require almost a halving of the Euro I emissions, come into
+effect on October 1, 1996, for all trucks in production at that time, and a
+year earlier for new designs of trucks.
+However, already the steady trickle of new truck designs for which
+manufacturers have to obtain legislative approval - or homologation - are
+virtually all conforming to Euro II. The leading truck engine makers have,
+indeed, been increasingly launching Euro II-compliant engines for well over
+a year.
+The industry has had relatively little technical difficulty meeting the Euro
+II standards, although the investment required in manufacturing and design
+changes has been substantial.
+'The problem has been one not so much of technical difficulty as of time,'
+says Ron Armstrong, product marketing manager of Iveco-Ford.
+More recent engines have been designed from the start to meet the Euro II
+standards, he points out. But other engines, designed earlier but which
+require further use to be financially viable, are needing more work to
+upgrade them to the standards. Even so, he estimates that his own company's
+ranges will be progressively brought up to Euro II levels by next spring.
+The cost of compliance for each range can vary considerably, from a few
+pounds for modifying injector holes on recent units to up to Pounds 1,000 on
+complicated intercooled and turbo-charged engines.
+In terms of costs to manufacturers, Mr Armstrong estimates that Iveco-Ford
+has spent some Pounds 1bn over its half-a-dozen engine ranges.
+The standards, which apply to all engines above 150 kilowatts (brake
+horsepower) require a more than halving of carbon monoxide emissions to 4
+grammes per kw (from 9 in Euro I), to 1.l grammes/kw of hydrocarbons (from
+1.7), 7 grammes of nitrogen oxides (from 11.5) and 0.15 of particulates (the
+cause of diesel 'soot'), down from 0.36.
+The petroleum industry is also being obliged to play a part in reaching
+these levels. Reaching the particulates target requires lower-sulphur fuels.
+Thus, under an EU-set timetable, the 0.2-0.3 per cent sulphur content usual
+in diesel fuels will have dropped to a maximum of 0.05 per cent by the time
+Euro II is fully effective. To cater for the first stage of the Euro II
+standards by October 1, 1995, at least 25 per cent of the diesel fuel
+available in EU member states must be below the 0.05 per cent ceiling.
+Towards the end of the decade, theoretically in 1999, yet another tightening
+ -Euro III - will be introduced, although EU member states have not reached
+sufficient of a consensus on what they should be for the European Commission
+to be able to publish a draft directive.
+However, Mr Armstrong says he thinks it likely that they will closely
+resemble proposals drawn up by Germany.
+These call for carbon monoxide levels to be cut to 2.0-2.8 grammes,
+hydrocarbons to 0.6-0.77 grammes, nitrogen oxides to 4.7-5 grammes and
+particulates to 0.1 grammes.
+If adopted these would represent a much stiffer technological challenge to
+the industry, particularly since the test driving cycle - a simulated
+'typical' route - is also to be changed to reflect modern traffic
+conditions.
+The current EU test cycle is a much-criticised slow speed one, still not
+reflecting that 80 per cent of the EU's goods are moved by truck across
+ever-longer distances along high-speed motorways.
+Even so, companies such as Iveco, Volvo and Leyland DAF do not doubt the
+industry's ability to meet them - and hope they will be able to do so
+without having to resort to some technologies in which they do not wish to
+become involved. Notable among these is the particulate trap - to collect
+the soot-forming particles in a chamber off a more complex exhaust system,
+in order to burn them off when the vehicle is not in use.
+They hope, but are by no means certain, that they will be able to meet even
+the Euro III standards with further refinement - mainly through increased
+electronic control - of high-pressure fuel injection and other engine
+management systems. For example, instantaneous adjustments can be made to
+fuelling quantity and timing in each injector, under the control of a
+central computer taking readings from various sensors around the engine.
+Exhaust gas recirculation (EGC), or passing exhaust gas back through the
+engine again for more complete combustion, is also likely.
+That presumes that the final Euro III standards are not significantly
+tighter than the German proposals - 'the German proposals are about the
+limit before going down these other routes,' says Mr Armstrong.
+Development of Euro III-compliant engines is well under way - not least
+because manufacturers think it likely that some countries may bring in
+financial incentives for operators to buy these 'cleaner' trucks in 1998 or
+earlier.
+Thus there is likely to be a repeat of the Euro II scenario, in which
+companies such as Iveco-Ford with its Eurostar truck range and Volvo with
+its latest FH ranges, launched Euro II-compliant trucks well in advance of
+the formal introduction of new emissions standards.
+The other main area of legislation, noise, is proving rather more
+problematical.
+Another EU directive is to go into effect on October 1 next year requiring a
+truck to emit a maximum of 80 decibels, measured by roadside microphones,
+when travelling at 50 kilometres per hour. The current maximum is 84
+decibels, and although the reduction may not appear to be much, this is
+around a halving of perceived noise.
+To meet the standards manufacturers are seeking a number of remedies, such
+as sound-deadening body panels, partial encapsulation of the engine and, as
+Mr Armstrong puts it, 'exhaust systems like small dustbins'.
+
+The Financial Times
+
+
+London Page IV
+
+941216
+

@@ -1,0 +1,116 @@
+FT923-9803
+
+FT  03 AUG 92 / International Bonds: Banks hungry for capital as Basle
+deadline nears
+
+
+   By TRACY CORRIGAN
+
+
+BANKS ARE still hungry for capital, as the deadline for meeting Basle
+capital adequacy ratios at the start of next year approaches.
+Investment bankers are responding by creating some ingenious ways of
+structuring debt offerings so that they will meet investors' rather picky
+appetites and satisfy regulators.
+While many US banks have taken advantage of the strong stock and credit
+market conditions prevailing for most of this year to raise fresh capital,
+their European counterparts have generally been slower to move.
+Consequently, the next wave of bank capital financing is likely to be
+concentrated among European - and perhaps Japanese - banks.
+Last week four financial institutions - JP Morgan of the US, Credit Local
+and Societe Generale of France, and Germany's Landeskreditbank, - raised
+Dollars 700m of subordinated floating-rate notes (FRNs) in the Eurobond
+market, using an unusual 'collar' structure, incorporating minimum and
+maximum interest rate levels. The notes qualify as lower tier 2 capital
+under Basle capital adequacy rules.
+At this point in the US interest cycle, with US rates at historical lows -
+money market rates are around 3 1/2 per cent - investors are less keen to
+lock in fixed-rate returns, and an initially higher coupon appears
+attractive.
+Kidder Peabody, which is active in the secondary floating-rate note market,
+had noted a strong appetite among Swiss investors for outstanding bank FRNs
+with the same structure. A spate of such issues, then known as mini-max
+floaters, was launched in 1985, but have since been a virtually forgotten
+casualty of the fall-out from the collapse of the perpetual FRN market in
+1986.
+Some of the bankers who remember the panic-selling of the crashing
+floating-rate note market remain sceptical about these instruments.
+A floating-rate note incorporating an interest rate cap and floor is
+structured in this way: effectively, the issuer buys a cap from the
+investor, and then sells a cap in the market to hedge that position. The
+issuer effectively sells a floor to the investor and hedges that position by
+buying one in the wholesale market. However, the issuer benefits from the
+spread between the wholesale market and the terms offered to the FRN
+investor.
+'Investors are not getting fair value for the cap, but they do not care,
+because they are being offered a high initial coupon to compensate,'
+explained one banker.
+Consequently, the market for such paper is limited to specific pockets of
+demand. The Dollars 700m of paper launched so far has already stretched that
+demand, according to some underwriters. While the Dollars 200m JP Morgan
+deal launched by Kidder Peabody met strong demand due to the rarity of the
+name, later deals met a less favourable reception. The pocket of Swiss
+demand was only accessible to credits of double-A and above. European
+markets are effectively closed to lesser credits, which will have to find
+other sources of capital.
+Most likely, they will turn to the US, where the market in dated
+subordinated fixed-rate debt has been expanding. However, the heavy supply
+of paper in the US market has caused yield spreads over US Treasuries to
+widen by about 20 basis points in the last month.
+The US market is virtually the only source of tier 1 capital, apart from
+straightforward equity financing. The US market in preferred stock has been
+active recently. European banks such as France's Banque Indosuez and Spain's
+Banesto have raised preferred stock, and others are set to follow.
+Bankers said investors were buying preferred shares which offer a premium
+over rates available on dated bonds sufficient to repay principal after 17
+to 20 years. Because of the steep shape of the US yield curve, preferred
+shares are also attractive to borrowers.
+A further seven borrowers have added D-Mark options to their medium-term
+note (MTN) programmes. From today, borrowers can issue D-Mark medium-term
+notes under multi-currency programmes, following a liberalisation of rules
+announced a month ago by the German Bundesbank.
+Previously, D-Mark MTNs could only be issued under a separate programme,
+which involved substantial costs including legal and listing fees. Bankers
+said the cost of adding a D-Mark option to an existing programme amounted to
+around Dollars 2,000. A D-Mark MTN programme would cost over Dollars 100,000
+to set up.
+The seven borrowers are: Norway's Export Finance, Finnish Export Credit,
+Halifax Building Society, Woolwich Building Society, Monte dei Paschi di
+Siena, the Italian bank, GMAC Europe, the European finance arm of General
+Motors of the US, and Compagnie Bancaire, the French financial services
+group.
+Merrill Lynch Bank in Germany is acting as arranger of all these D-Mark
+options. Halifax has abandoned its planned D-Mark MTN programme, which had
+run into technical problems prior to the liberalisation.
+Another 10 borrowers are to add similar options to their programmes this
+week, in addition to Abbey National and Nationwide Building Society, which
+did so earlier. On Friday, the European Bank for Reconstruction and
+Development signed the first new programme to incorporate a D-Mark option.
+The signing of the Ecu1bn programme was delayed to allow the D-Mark option
+to be included.
+A NUMBER of European banks are considering raising capital in the US using
+an innovative structure which offers greater flexibility, writes Tracy
+Corrigan.
+Barclays Bank, National Westminster Bank, the Royal Bank of Scotland, and
+Sweden's S-E Banken were among the banks looking at the structure,
+investment bankers said. With little opportunity to raise capital in Europe,
+many European banks are turning to the more receptive US market.
+The structure would allow banks to raise upper tier 2 capital, with the
+option later to convert it into tier 1 capital. Certain proportions of both
+types of capital must be held by banks to meet the Basle capital adequacy
+standards, which come into force at the start of next year. Although UK
+banks are among the best capitalised, most banks are seeking means of
+raising increasingly scarce capital.
+Under the structure, a bank issues undated subordinated debt, which
+qualifies as upper tier 2 capital. But this can be exchanged, at the option
+of the issuer, into preferred stock, which qualifies as tier 1 capital. The
+issuer would pay a premium to investors for the conversion. It is based on a
+recent offering by Bankers Trust.
+
+The Financial Times
+
+
+London Page 17
+
+920803
+

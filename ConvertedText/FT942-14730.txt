@@ -1,0 +1,84 @@
+FT942-14730
+
+FT  19 APR 94 / When people prove to be a costly liability: Tracy Corrigan
+and Patrick Harverson explain the dangers highlighted by the Kidder affair
+
+
+   By TRACY CORRIGAN and PATRICK HARVERSON
+
+
+Investment banks, particularly those with a strong bias towards trading, are
+often fond of saying that their greatest assets are their people. The
+Dollars 350m (Pounds 237m) pre-tax charge taken by Kidder Peabody in the
+first quarter, as a result of a phantom trading scheme devised by its head
+government bond trader, demonstrates that people can also be a liability.
+Risk management has become a buzz word among financial institutions, many of
+which now have global heads of risk management or risk control.
+Sometimes, the human factor may be all but forgotten, as highly
+sophisticated systems are set up to deal with the complex financial
+instruments which increasingly dominate trading activities. 'Fundamentally,
+banks are most exposed to their people,' said one treasury consultant. 'You
+can invest a lot of money in computers and software but you also have to
+find some degree of deterence: that is achieved if people know they will be
+regularly audited.'
+Traders at other Wall Street firms were puzzled as to how Mr Joseph Jett,
+managing director in charge of Kidder's government bond trading desk, was
+able to fake profits without being caught by the firm's internal accounting
+procedures. 'We get our P&L (profit and loss statement) from a separate
+department, so there are checks and balances,' said one trader at a
+prominent investment bank.
+Yet, senior Wall Street executives point out that if an experienced
+professional running a complex and fast-moving securities trading desk wants
+to mislead the firm about his activities, it is not easy to stop him. As Mr
+Michael Carpenter, Kidder's chief executive, told reporters: 'When somebody
+is trying to obfuscate the systems for a deliberate purpose, it's hard to
+always be protected against these things.'
+Kidder is not alone on Wall Street in having suffered at the hands of a
+'rogue' trader. Three years ago, Salomon Brothers had to pay hundreds of
+millions of dollars in fines and compensation after the head of its bond
+trading desk was found to have faked customer bids in auctions of Treasury
+securities.
+The main dangers for a bank are that a trader may try to book false
+transactions or use inflated valuations for genuine trades - either to
+inflate profits or to try to cover up losses.
+To guard against phantom trades, banks should have 'an independent
+confirmation function, where the back office (which settles trades) has a
+system of obtaining direct confirmation with the purported counterparty',
+says Mr John Hitchins, a partner in the capital markets group at Price
+Waterhouse. This is standard practice in the foreign exchange market, as
+most big banks automatically confirm through Swift.
+To stop dealers from fiddling valuations, the back office also needs to have
+independent ability to value positions. This involves taking prices from
+external feeds and having their own models for calculating positions.
+In an attempt to bridge the growing gap between back office and increasingly
+complex trading activities, some banks have created a new function which
+they call the 'middle office'.
+'They have an appreciation of the markets but also come from an accounting
+culture,' explains Mr John Tiner, head of financial markets at Arthur
+Andersen in London. 'Their job is often to recalculate the daily
+marking-to-market in order to compare traders' records and accounting
+records.' Kidder admitted that it did not have such a function.
+According to consultants and senior bankers, the separation of front and
+back office is virtually universal. The result is that 'it is almost
+impossible for fraud to be conducted by one individual', said one
+consultant. 'If you have a fake trade you need to have a fake settlement.
+Otherwise, the scam should show up pretty quickly. The problem occurs where
+you have collusion, particularly between front and back office.'
+Another consultant described it as folly to underestimate the ingenuity of
+people who want to defraud, once they have been working on a particular
+system. He pointed out that traders, who are trained to look out for and
+exploit the inefficiencies of markets, may take the same approach towards
+the systems designed to check them.
+It does seem that in the case of Mr Jett, who earned Dollars 9m last year,
+the risk/reward ratio so dear to traders was just not there.
+But perhaps banks should brace themselves for further attempts. After
+earning record bonuses last year, many traders will face massive falls in
+earnings in this year's bear market conditions.
+
+The Financial Times
+
+
+London Page 19
+
+940419
+

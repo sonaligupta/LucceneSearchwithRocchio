@@ -1,0 +1,111 @@
+FT941-3325
+
+FT  16 MAR 94 / Survey of Information and Communications Technology (6):
+Focus for all banking activity - Despite the high cost of applying the
+latest information technology, the banks - faced with mounting competition -
+can no longer survive without persistent investment in this area / Michael
+Dempsey highlights IT applications in finance
+
+
+   By MICHAEL DEMPSEY
+
+
+'We don't have warehouses full of cash. We have information about cash -
+that is our product.' Thus, Peter Lazard, head of technology strategy and
+research at Abbey National sums up the relationship between banking and
+information technology, (IT).
+On the surface, computer technology has become the focus of all banking
+activity. The real assets of any financial institution are now locked away
+in digital form. The rise of the technology-driven bank has coincided with
+fierce commercial pressures and a relentless struggle to keep overheads
+down.
+IT briefly served to offer a 'holy grail' during the 1980s. Banks signed up
+for huge projects on the grounds that more information meant better
+business. By and large, they ended the decade disillusioned. Computers had
+proved their worth, handling vast quantities of data but they had not come
+cheap, and on the way banks found themselves employing a growing army of
+programmers and systems analysts.
+With financial deregulation in the UK, retail banks have faced new
+competitors. Abbey National is a building society turned bank. Lazard notes
+that Abbey National has used computers for thirty years. Historically this
+meant large expensive mainframe machines. Falling hardware prices and the
+event of the micro-processor saw computing break out of the mainframe world.
+IT was suddenly available across the board.
+'Technology was a barrier, due to cost. Now it is a gateway, an enabler
+rather than an inhibitor. That is very significant to us.' Lazard says.
+Abbey National operates systems ranging in size and supplier. Large
+mainframes from IBM and Unisys still provide the backbone for essential
+services such as savings, current accounts and insurance packages, but the
+advent of powerful workstations that do not require IT specialists to drive
+them has revolutionised the branch network. Abbey National has recently
+completed a four-year programme to install rings of workstations linked into
+local networks in each of its 685 branches.
+These Olivetti machines are tied to a dedicated communications workstation
+at each site, which is networked on a national basis through lines leased
+from British Telecom. The object of the exercise is data-sharing through the
+communications host machine. In theory, any member of staff can work with
+any application on any workstation. The entire branch programme, including
+banking software, cost Pounds 95m. Over the last seven years Abbey National
+has invested a total of nearly Pounds 200m in IT.
+Large though it seems, banks can no longer survive without persistent
+investment in IT, a condition Lazard defines as a growing dependency on
+information as a product. In theory, IT should allow banks to make better
+use of that information.
+One of Abbey National's computers is an AT&T Teradata database engine, an
+extremely powerful box dedicated to analysing customer data. The price tag
+on the entire Teradata installation is around Pounds 10m, but this expensive
+specialist tool is the only option if Abbey National is to exploit customer
+profiles and mount direct sales campaigns.
+Expert systems are computer programmes designed to replicate and multiply
+human knowledge. Barclays Bank is employing Lending Advisor to back up
+decisions on commercial lending. Software licences from supplier
+Syntelligence cost upwards of Pounds 600,000. If the expert system can
+succeed in producing a coherent and secure lending policy it is money well
+spent.
+The world of the expert system is a clear example of IT coming to be used as
+a precision tool. In the past, vast banking IT projects stumbled because
+computers were employed in an indiscriminate fashion. Banks have learnt to
+target IT to deal with specific problems. Thus, multimedia, the mixing of
+sound and video images with data on one screen, is seen as having large
+potential for banks.
+Multimedia computer terminals represent the logical next step in the march
+of the automatic teller machine. Condensing all the human functions of
+retail branch banking on to a machine has obvious attractions for
+institutions determined to slash payrolls.
+Some banks are seizing on multimedia to squeeze extra revenue out of
+existing floorspace. Turin-based San Paolo Bank is installing Olivetti
+multimedia terminals in its branches. San Paolo rents out space on these
+machines to third parties who use the interactive video display to sell
+services. The Trustee Savings Bank (TSB) has 1350 branches. and is
+experimenting with multimedia equipment from AT&T's NCR arm in two branches,
+in Newcastle and Watford.
+Paul Swainbrook's job as director of Teleservice at the TSB is to set up a
+telephone banking system. He has worked on the multimedia experiments and is
+blunt about the impact of such technology - 'customer shock proved much more
+powerful than you might think.' The TSB discovered that without human
+intervention, in the form of a Customer Care Officer, its account holders
+would not do business with a box.
+This experiment justified a policy of applying IT in a restrained fashion.
+'It's about not being supply-driven,' says Swainbrook. 'You start out by
+asking what the customer wants, and then give him the choice whether or not
+to use the technology. Why persist with a solution if the customer doesn't
+want it?'
+The TSB is embarking on remote telephone banking courtesy of IT. Cheaper and
+more powerful computers have enabled banks to set up parallel institutions
+such as Teleservice within a practical timeframe. Teleservice pools the
+skills of computer and telephony integration specialist Datapoint, telecoms
+provider Mercury and IT supplier Unisys.
+The project will cost tens of millions of pounds, but by a judicious
+marriage of telecoms and IT, TSB will acquire a new banking structure
+without the overheads of a physical branch network. Teleservice will follow
+in the steps of Midland Bank's First Direct operation. Technology is the
+enabler, but public interest is the motivator. Banks are finally taking a
+firm grip on the IT toolbox.
+
+The Financial Times
+
+
+London Page IV
+
+940316
+

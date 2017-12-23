@@ -1,0 +1,102 @@
+FT932-62
+
+FT  30 JUN 93 / International Company News: Northern suffers from purchasing
+switch / A look at problems facing the Canadian telecoms group
+
+
+   By BERNARD SIMON and MARTIN DICKSON
+
+
+NORTHERN Telecom has a history of skidding on an oily patch every few years.
+The Canadian telephone equipment maker has been fortunate, however, to find
+a new driver each time with the skill to straighten the wheel and put down
+the pedal for another burst of speed.
+Northern is now in just such a skid. Following a 27 per cent drop in
+first-quarter earnings, it announced last week it expected a loss in the
+second quarter and 'significantly' lower earnings for the year as a whole.
+Its share price has tumbled 28 per cent in the past two days to CDollars 34.
+True to form, a new driver - in this case, two new drivers - have taken the
+wheel. The appointments of Mr Jean Monty, who took over as chief executive
+from Dr Paul Stern last March, and Mr Bradford Butler, named to replace Dr
+Stern as chairman last week, give a clue to how Northern plans to deal with
+its latest problems.
+Mr Monty, an astute and personable Quebecer, was previously head of
+Northern's sister company, Bell Canada, the country's biggest telephone
+utility. Bell is not only a big Northern customer, but is about the same
+size as each of the US regional operating companies on which Northern
+depends for sales of its computerised telephone switches.
+Mr Butler is a former chief executive of Procter & Gamble, the US consumer
+goods group. He is described by a fellow-director at Northern as 'a great
+people guy' with excellent contacts in the US.
+Dr Stern's legacy was to broaden Northern's international base. He led
+Northern into the acquisition of STC, the UK telecommunications group, and
+forged a valuable joint venture with Matra of France.
+But his abrasive style and emphasis on international growth have hit
+Northern's core business in North America. Mr Michael Arellano, analyst at
+Northern Business Information in New York, says the company 'might not have
+had these problems if customer service and software quality had been given
+more attention over the past four years.'
+Northern ascribes its difficulties to lower-than-expected sales of switching
+equipment. But this sits awkwardly alongside indications from US local
+telephone companies that they are pushing ahead with substantial capital
+investment programs which are little changed from previous years, or in some
+cases larger.
+BellSouth, the 'Baby Bell' serving the south-eastern US, says it plans to
+spend Dollars 3bn a year over the next three years on capital equipment -
+roughly the same as last year. Nynex, which serves the north-eastern US,
+says it expects capital spending to be at around Dollars 2bn a year for some
+time.
+Pacific Bell, which serves California, is spending Dollars 1bn over the next
+five years to replace analogue switches - the computers which route calls -
+with digital equipment, a Northern speciality. That is some Dollars 330m
+more than it would normally spend on switching equipment in a five-year
+period.
+At the same time, increasing competition in the US local telephone market
+should provide more customers for switching equipment.
+Northern has been slow to latch on to some of the fastest-growing areas of
+telecommunications, notably transmission, cellular and wireless. It is
+between 12 and 15 months behind its rivals in bringing key fibre-optic
+transmission products to market. Northern predicts that transmission
+products will eventually contribute as much as switching equipment to its
+business, but they made up only 11 per cent of revenues last year, compared
+with 50 per cent from switches.
+Another challenge is the trend among US local telephone companies to place
+equipment contracts with fewer vendors. Nynex is expected shortly to
+announce which of four equipment suppliers - Northern Telecom, LM Ericsson,
+American Telephone & Telegraph and Siemens - has won a bid to supply 3.5m
+lines of digital switching.
+Mr Romy Tomlinson, managing director of technology selection at Nynex, says
+the company is trying to minimise the number of vendors in order to lower
+operating costs. Fewer vendors means less money spent on training people to
+use the equipment, fewer problems of matching different suppliers'
+equipment, and less inventory.
+The move to fewer suppliers has contributed to fierce pricing pressure in
+the North American market. Equipment vendors seem willing to cut prices to
+ensure they are on a telecommunications company's buyer list, because if
+they miss out they will have a hard time getting back on the list and may
+then have to offer either extremely keen prices or next-generation
+equipment.
+The arrivals of Mr Monty and Mr Butler signal that Northern's priority will
+be to snuggle up again to the US telephone companies. 'Northern is going to
+attack the world a little differently under Monty than it did under Stern or
+(previous chief) Fitzgerald,' predicts one of the company's directors.
+Mr Monty's plan of action is likely to become clearer between now and July
+27, when Northern publishes second-quarter earnings. At least one, and
+possibly more, significant announcements are expected. One move may be to
+shift resources to faster-growing products, with a consequent reduction in
+switching capacity. Part of the second-quarter loss will probably comprise a
+hefty write-down to reflect this adjustment.
+Some recent initiatives have yet to achieve top speed. The Matra alliance,
+for instance, links Northern with a leading supplier of radio systems. A
+cellular venture with Motorola in North America is still getting off the
+ground. But provided Mr Monty and Mr Butler are as deft as their
+predecessors, it could be just be a matter of time before Northern pulls out
+of its latest skid.
+
+The Financial Times
+
+
+London Page 32
+
+930630
+

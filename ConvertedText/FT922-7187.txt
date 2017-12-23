@@ -1,0 +1,111 @@
+FT922-7187
+
+FT  20 MAY 92 / Business and the Environment: The bugs bite back - Clive
+Cookson reports on the search for pesticides that kill insects but are safer
+than conventional chemicals
+
+
+   By CLIVE COOKSON
+
+
+Residues from agricultural chemicals in crops and water supplies are a
+growing environmental concern. But they provide a business opportunity for
+biotechnology, which is set to play a big part in the world's Dollars 20bn
+(Pounds 11bn) a year pesticide industry over the next decade.
+Insecticides are leading the way in the emerging market for residue-free
+biopesticides. Sales of biological insecticides were in the region of
+Dollars 130m worldwide last year - only 2 per cent of the figure for
+chemical insecticides. Industry predictions put the bio-insecticide market
+in 2000 anywhere between Dollars 500m and Dollars 2.5bn.
+The market has been dominated so far by two international companies, Sandoz
+of Switzerland and Abbott of the US. They make bio-pesticides from Bacillus
+thuringiensis (Bt), a naturally occuring bacterium. Bt produces a protein
+that kills some insects.
+These natural Bt pesticides have been on the market for about 20 years.
+Farmers have not taken them up enthusiastically, despite their environmental
+appeal, because they do not kill most insects as effectively as conventional
+chemicals.
+Now a group of biotechnology companies, led by Ecogen and Mycogen in the US
+and Agricultural Genetics Co (AGC) in the UK, is using genetic techniques to
+develop a more powerful and more diverse range of second-generation
+insecticides. Large chemical groups such as Monsanto, Du Pont and Ciba-Geigy
+also have active bio-insecticide programmes.
+Insects are the most tempting target for biological pest control, says John
+Davis, Ecogen chief executive. One reason is that the chemical industry has
+not developed a significant new class of insecticide since the synthetic
+pyrethroids 20 years ago. Its recent innovation record is better against the
+other main types of agricultural pest: fungi and weeds. As a result, some
+insects are building up resistance to the long-standing chemical pesticides.
+Another reason why biotechnology is attacking insects first is the wealth of
+scientific and technical knowledge built up since the 1960s about Bacillus
+thuringiensis.
+Ecogen, based in Pennsylvania, has a bacterial library of 9,000 strains of
+Bt collected from around the world. Each produces a slightly different toxin
+and therefore has a different effect on insects.
+The company's new products are based on Bt strains modified genetically
+through a process known as transconjugation. This is different from the
+standard genetic engineering technique of 'recombinant DNA' which alters the
+chromosome, the bacterium's central store of genetic information.
+Transconjugation involves moving plasmids - extra strands of DNA that some
+bacteria carry outside the chromosome - from one strain to another. In Bt
+the plasmids rather than the chromosome carry the insecticidal genes, so
+scientists have been able to create super-strains with plasmids brought
+together from different natural strains to have the maximum impact on
+specific pests.
+Ecogen is already selling three bio-insecticides made in this way and one
+from AGC - to be marketed by Ciba-Geigy - will be launched later this year.
+Their targets include various caterpillars, Colorado potato beetle and
+European corn borer, gypsy moth and spruce budworm.
+Mycogen, based in California, has most experience of recombinant DNA work on
+Bt. Last year the US Environmental Protection Agency approved its first two
+genetically engineered products, one for use on caterpillars and the other
+aimed at the Colorado beetle.
+Mycogen transfers Bt genes into another common bacterium, Pseudomonas, which
+is then mass-produced and killed. The dead Pseudomonas cells act as a
+'bacterial capsule' for the Bt toxins. They therefore persist longer than
+the original Bt pesticides, which users have criticised because they break
+down in the environment before they have killed their insect targets.
+There has been little environmental opposition to Bt-based biopesticides in
+the US, because the toxins biodegrade so quickly and leave no residues.
+Compared with conventional chemicals they are very specific, poisoning the
+target while doing little harm to other insects and none to birds and
+mammals.
+The Japanese, however, are wary, because current Bt formulations contain not
+only the toxin crystals but also spores which could in theory give rise to
+new bacteria. They fear that these could infect silkworms - which are
+culturally if not industrially important insects in Japan.
+'We see no harm at all in having the spores and we have made a Bt that is
+not toxic to silkworms,' Davies says. But Ecogen is now talking to cautious
+Japanese companies about developing spore-free versions of its products.
+Although Bt leads the bio-insecticide field, some researchers are
+investigating other micro-organisms as a source of toxins. For example Du
+Pont, the US chemical group, is collaborating with Crop Genetics, an
+agricultural biotechnology company, to develop insecticidal virus products.
+All bio-insecticides are formulated so that growers can mix them with water
+in a tank and spray on to the crops just like ordinary pesticides. Even so,
+farmers need to be educated not to expect an immediate 'knock-down' as with
+a chemical poison.
+When a susceptible insect ingests Bt toxin, its stomach is paralysed
+instantly and it stops feeding, but it may not die for three or four days.
+This can mislead the user into thinking that the spray is working too
+slowly.
+'Once you get over that initial hurdle, growers get a kick out of using a
+biological product,' says Roger Gilmore, chief executive of AGC. 'Many of
+them feel instinctively that it's wrong to use a chemical spray.'
+Eventually bio-insecticides may face competition from another feat of
+biotechnology: transfering toxin genes directly into plants, so that the
+crops then make the poisons in their own cells. Mycogen and Ecogen are both
+collaborating with seed companies to do this with Bt genes, while AGC is
+making use of insecticidal genes present in plants themselves.
+It will be well into the next century, however, before many plant varieties
+have been engineered to kill a wide spectrum of potential pests. By then
+bio-pesticides are likely to have made many conventional insecticides
+redundant.
+
+The Financial Times
+
+
+London Page 13
+
+920520
+

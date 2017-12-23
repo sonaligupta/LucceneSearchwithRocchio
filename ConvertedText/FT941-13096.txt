@@ -1,0 +1,130 @@
+FT941-13096
+
+FT  27 JAN 94 / Accountancy Column: Pitfalls in the way of a better
+understanding - Andrew Jack considers a book that questions whether
+financial reports can ever tell the whole story
+
+
+   By ANDREW JACK
+
+
+On September 14 1990, Carr, Kitcat & Aitken, the City investment analysts,
+circulated a report recommending that clients buy shares in Polly Peck
+International at the current price of 260p. The author predicted a
+substantial improvement in pre-tax profits for 1990 and 1991.
+Just six days later, Polly Peck, the conglomerate controlled by Mr Asil
+Nadir, saw its shares plummet to 108p before they were suspended on the
+Stock Exchange. The rest is turbulent history: raids by the Serious Fraud
+Office, the appointment of administrators to the company under UK insolvency
+law, evidence of enormous misappropriations of funds, and Mr Nadir illegally
+jumping bail to flee to northern Cyprus.
+Yet while much attention has been given to the machinations of the company,
+its executives and investigators since that date, rather less has been paid
+to the question of the financial information present in the company's
+accounts and whether the warning signs were clear well in advance.
+Trevor Pijper, an accountant in the technical department of Ernst & Young in
+London, attempts to set that right as part of his book on creative
+accounting*. At its core is the question of whether readers of financial
+reports will ever be satisfied by the information they could possibly
+contain.
+In the preface, Pijper says he wrote the book in part as a critical response
+to another on creative accounting which was published in 1992: Accounting
+for Growth, by Terry Smith, the City analyst. He believes Smith's approach
+of grading companies by allocating them 'blobs' for each accounting 'trick'
+they used was too simplistic.
+He takes readers through the elements of company accounts, suggesting that
+there is no single correct way to present information in all circumstances:
+how to allocate credits or goodwill, at what point there is dominant
+influence or control, the limitations of the components of both the
+numerator and the denominator in any gearing calculation. Accounts are crude
+attempts to deal with complex problems, he argues.
+Pijper cites approvingly an article in 1991 by David Gwilliam and Tim
+Russell of Cambridge University. They examined the role of Polly Peck's
+analysts, and concluded that they seemed more willing to pay attention to
+information provided by the company than the 'danger signs' shown in the
+accounts.
+He calculates a series of five-year trend ratios on the company which he
+says auditors sometimes use to highlight points for discussion with
+management. In Polly Peck's case, it suggests concerns such as possible
+future financing strains and declining profit margins.
+He also recasts the source and application of funds statement into the newer
+cash flow format with the aid of footnotes in the 1989 accounts, to show how
+far Polly Peck was dependent on new finance from its bankers and
+shareholders to run its existing operations. The message is clear. A skilled
+reader of accounts could have seen the troubles afoot.
+The danger of this approach, of course, is the benefit of hindsight. Many
+similar warning signs could be drawn from other companies that have not
+collapsed and may not do so. It also neglects the considerable question
+marks over the reliability of the figures published, making their
+examination far less relevant.
+It is nevertheless an important theme to which Pijper returns often in his
+book. He cites the case of Trafalgar House, the construction, property,
+shipping and hotels group, which triggered the first real confrontation for
+the Financial Reporting Review Panel, the enforcement arm of the new
+machinery established alongside the Accounting Standards Board as result of
+the 1989 Companies Act.
+After some initial brinkmanship, the company amended its 1991 treatment of a
+revaluation and reclassification of properties between current and fixed
+assets under pressure from the Review Panel.
+Yet Pijper highlights the fact that all the necessary information was
+disclosed in the accounts, though analysts apparently ignored it. He
+interprets the episode as a demonstration of the power of the panel, but
+more importantly as a reminder of its limitations. All it did was to clarify
+presentation, and not, for example, to comment on the appropriateness of the
+valuations adopted.
+A welcome aspect of the book is that it attempts to consider the new
+financial reporting machinery, although this presents a moving target given
+the current pace of change. In the case of the review panel, he argues that
+it can only deal with external, disclosed factors and not confirm the
+correct use of accounting policies.
+More generally, he sees the development of new accounting standards as part
+of an increasingly regulatory response to concerns over the quality of
+financial information in the last 20 years. But - citing the activities of
+the urgent issues task force and the intention of standards-setters to
+revise even their new regulations every two years - he suggests that there
+will always be loopholes and never a watertight rulebook.
+While he says there can be no doubt about the enthusiasm of the Accounting
+Standards Board, he questions how far its activities are meeting its
+objective to 'provide shareholders and creditors with an adequate basis for
+understanding a company's accounts and its financial position'.
+Pijper is not always able to follow through and connect the different
+threads of his arguments. For example, he builds up a good explanation of
+the motivations for creative accounting. Manipulating profits can help
+companies make acquisitions, gain access to finance and swell directors'
+remuneration, he says. He is less able to say whether manipulation takes
+place as a result, or how widespread it might be.
+After raising a number of important questions, he sometimes lapses into
+detailed recitations of new standards and regulations and vague
+speculations, rather than providing answers.
+Without much exploration, he makes one of his most original and radical
+points in a single sentence at the end: that there should be economic
+penalties for preparers who fail to provide to informed users the
+information needed for sensible decisions.
+The most depressing aspect of the text is that it essentially ends up as a
+defence of the accountancy profession. The conclusion seems to be that
+trained accountants are the best and perhaps the only people equipped to
+prepare and interpret financial statements.
+As a result, he takes the establishment line in suggesting that education to
+combat ignorance of the limitations of accounts needs most emphasis. In a
+spirit of defeatism, he also argues that users of accounts other than
+controlling shareholders have little choice but to place their faith in the
+stewards chosen to manage the finances of the companies in which they have
+invested. In that vein, he fails to address the extent to which some greater
+standardisation or modification in disclosure requirements might help
+improve accounts for a range of different user groups.
+Nor does he touch on the potential vulnerability as a result of commercial
+pressures on auditors in approving accounts of which they disapprove, let
+alone of their potential active complicity in devising treatments which may
+not be designed with transparency and disclosure most in mind. Those who
+most escape his criticism are the accountants themselves.
+But the book is a welcome contribution in the debate on the changing face of
+accounting in Britain.
+*Trevor Pijper. Creative Accounting. Macmillan. Pounds 75
+
+The Financial Times
+
+
+London Page 16
+
+940127
+

@@ -1,0 +1,80 @@
+FT944-5809
+
+FT  01 DEC 94 / Survey of Software at Work - Winter 1994 (4): Last minute
+solution - A publisher's view / Portal was convinced that Windows was the
+answer. But it was hard to find the right package
+
+
+   By CLAIRE GOODING
+
+
+Shopping can be a frustrating experience when you know what you want but
+cannot find it. Neil Beardsley, operations director of Portal Publications
+in the UK, was sure he wanted a Windows package when he started the search
+for an accounting system.
+It was unexpectedly hard to find one, and the package he now uses, Kewill's
+Dynamics, came into the picture at the eleventh hour, thanks to an
+eagle-eyed book keeper who had read a magazine review.
+Portal is the UK arm of a US publisher with a Dollars 200m turnover, the
+world's largest in the specialist area of shrink-wrapped posters and prints
+of the kind that adorn student rooms all over the world. Portal had set up
+in the UK under the wing of a sister organisation, which initially provided
+accountancy services and software on a contract basis.
+The arrangement had its drawbacks: Mr Beardsley found the contractor's
+implementation of the Pegasus package too limiting.
+'The Pegasus software didn't retain historical data, nor did we have
+drill-down, such as being able to look at a trial balance and drill-down to
+the source of a figure,' he says.
+'We couldn't track back without using huge print-out reports.
+'We looked at half dozen well-known packages, mostly good, but none had made
+the leap into Windows.
+Although it was clear at the demonstration that Dynamics was not yet
+complete, Mr Beardsley was prepared to compromise, and wait for the
+purchasing and sales order processing modules. 'We took the view that if
+what was to come was as good as what we had already seen it would be what we
+wanted.'
+The flexibility of the package is its strength but also its danger, because
+it demands skilled analysis in implementation. Portal used a Kewill
+consultant to do the initial set-up. 'If you don't spend time setting it up
+correctly, and give yourself time to understand its potential, you'll never
+get the best out of it,' says Mr Beardsley.
+As a UK subsidiary, Portal is self-sufficient in IT terms, and there is no
+need as yet to link with the parent's AS/400. So far there have been few
+problems in any downloading of data, and Portal makes its software work
+hard, providing stock label data into Word and data for analysis into Excel
+spreadsheets. 'We've had no problems, and are happy with our choice,' says
+Mr Beardsley.
+Supplier profile Product: Kewill-Omicron's Dynamics is a multinational
+accounting system designed specifically for Windows and Macintosh. Includes
+drill-down enquiry, background processing, unlimited budgets and on-line
+history, data exchange facilities and an easy-to-use report writer. All
+screens and menus can be tailored. A linking tool kit allows integration
+with other applications.
+Suppliers: Kewill-Omicron is owned by UK-based Kewill Group, whose business
+software products include manufacturing, Cad/Cam, accounting, wholesale and
+retail distribution, and EDI.
+Turnover: Pounds 31.8m to March 1994, with Pounds 4.04m profit; Pounds 31m
+in 1993, with loss of Pounds 5.19m (disposal of discontinued operations cost
+Pounds 5.63m).
+Employees: 200 in the UK.
+Number of users: 20 in UK, 850 in US, 150 elsewhere.
+Price: Pounds 2,290. Entry price Pounds 2,290, typical price for 40-user
+network is Pounds 8,770 for five modules under Windows.
+Hardware and operating systems: PC-DOS Windows, Macintosh, client server
+RS/6000, NT, Alpha, HP9000, Intel.
+Sales and support/maintenance: direct and through dealers. Maintenance 20
+per cent of list price.
+Other services available: consultancy, training.
+User views: flexible, powerful, power-hungry (needs 486), adaptable and easy
+to use. Minimum training, but needs careful implementation to reflect a
+company's needs.
+Contact: Neville Merritt, sales director.
+Tel: 0932 248328.
+
+The Financial Times
+
+
+London Page IV
+
+941201
+

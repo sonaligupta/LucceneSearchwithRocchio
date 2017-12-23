@@ -1,0 +1,75 @@
+FT921-646
+
+FT  27 MAR 92 / International Company News: Salomon blunder fuels trading
+row
+
+
+   By PATRICK HARVERSON
+
+
+   NEW YORK
+
+
+SALOMON Brothers, the embattled Wall Street securities house, was yesterday
+clearing up the mess left by an embarrassing clerical error which swamped
+the New York Stock Exchange (NYSE) late on Wednesday with hundreds of
+millions of dollars in computerised sell orders.
+The mistake, which could prove costly, created chaos on the exchange floor
+and knocked 12 points off the Dow Jones Industrial Average in the final two
+minutes of trading.
+The NYSE said it was 'reviewing' the trades with the full co-operation of
+Salomon. The Securities and Exchange Commission, the industry watchdog, said
+it would also look into the matter.
+Although it was not clear whether any disciplinary action would be taken
+against the firm, the fuss surrounding Salomon's blunder is likely to
+intensify the debate over the influence of computer trading on US stock
+markets.
+The error, which traders said was unprecedented in recent memory, was
+committed when two Salomon clerks mistook a customer's order to sell Dollars
+11m of stock as an order to sell 11m shares of stock. Even in these days of
+big computerised trades, the latter represented a huge sale.
+At 3.58pm on Wednesday, two minutes before the close, the incorrect order
+was sent by Salomon to the stock market via computer, which began selling
+11m shares of some of the market's biggest stocks.
+The sudden wave of sell orders pushed prices lower as traders on the floor
+rushed to find matching buyers. The Dow, which at 3.58pm had been up nearly
+13 points, finished down 1.57 points. Experts say the entire loss was
+attributable to the Salomon trades.
+The value of the bungled order was estimated to have been somewhere between
+Dollars 300m and Dollars 500m, although Salomon says it spotted the mistake
+and 'halted the order mid-trade'.
+The error could not have come at a worse time for Salomon, which is still
+struggling to overcome last year's scandal over its illegal activities in
+the Treasury bond markets.
+The managerial, staffing and procedural changes in the wake of the scandal
+have created morale problems within the company, most notably in Salomon's
+equity department, which has seen its role cut back and several senior
+executives depart for other firms.
+One Wall Street insider who knows Salomon well said the computer blunder
+revealed a worrying lack of supervision at the firm. He was surprised that
+clerks apparently did not check with a senior supervisor before executing
+the huge block sale of 11m shares.
+If the embarrassment over the bungle were not enough, Salomon faced the task
+yesterday of sorting out the mess without losing money.
+Observers said that whether the trading error ultimately proved costly
+depended on which direction the stock market moved. Late last night a
+spokesman for Salomon said: 'The position we were left with on Wednesday
+night was neutralised before the market opened this morning via a complex
+set of hedging procedures.'
+Salomon's blunder is also likely to provide ammunition to critics of
+computerised block trading, a practice regularly used by big securities
+firms to execute large stock orders in a hurry.
+In the past, computer trading has been blamed for exacerbating price
+volatility, most notably during the October 1987 crash. Critics have also
+argued that it undermines investor confidence in the stock market.
+They say the ability of dealers to trade large amounts of shares at great
+speed by computer gives them an unfair advantage over individual investors,
+who have to trade via specialist market-makers on the exchange floor.
+
+The Financial Times
+
+
+London Page 30
+
+920327
+

@@ -1,0 +1,147 @@
+FT921-3674
+
+FT  13 MAR 92 / FT Law Report: Oil rig contract is not frustrated by revised
+drawings
+
+
+   By RACHEL DAVIES, Barrister
+
+
+MCALPINE HUMBEROAK LTD v MCDERMOTT INTERNATIONAL INC Court of Appeal (Lord
+Justice Lloyd, Lord Justice Wolf and Lord Justice Russell): March 5 1992 A
+CONTRACT is not frustrated by pre-signature events of which the parties are
+fully aware when they sign, and which are provided for in its terms. And
+where time is of the essence, delay which on the evidence is caused by the
+contractor does not displace lump sum provisions for his payment so as to
+entitle him to increased prices going beyond those provided for in the
+contract.
+The Court of Appeal so held when allowing an appeal by the defendant,
+McDermott International Inc, from a decision of Judge Davies QC sitting with
+two assessors that a contract between it and the plaintiff, McAlpine
+Humberoak Ltd, had been frustrated. An appeal on McDermott's counterclaim
+was allowed.
+The appeal was the first on fact under the new procedure under Order 58 rule
+4(b) of the Rules of the Supreme Court.
+LORD JUSTICE LLOYD said that north of Aberdeen was an off-shore drilling
+rig, known as the Hutton Tension Leg Platform.
+The contract for construction of the deck structure was placed with
+McDermott.
+The top deck consisted of nine massive steel pallets, welded together to
+form a platform. Each pallet comprised nine plate girders joined together by
+tees, and covered by deck plating.
+On November 18 1981 McDermott awarded the sub-contract for four of the
+pallets, numbers W3, W4, W5 and W6, to McAlpine. It was not signed until
+March 24 1982, but was to take effect from November 18 1981.
+The total sub-contract price was Pounds 890,330. Completion dates for W3 and
+W4 were February 8 and 1 1982 respectively.
+W3 was not delivered until July 17, and W4 was not delivered until September
+11 1982.
+The costs actually incurred by McAlpine came to Pounds 2.59m. It claimed
+Pounds 3.54m. It said that sum was due under the contract, or as damages for
+breach of contract.
+Judge Davies QC held that the contract had been frustrated.
+That came as a surprise to the parties, since frustration had not been
+pleaded or argued.
+The judge awarded McAlpine a quantum meruit (the amount it deserved for work
+done) equal to its costs, plus 10 per cent profit, less Pounds 1m already
+paid by McDermott. He dismissed a counterclaim by McDermott.
+On the present appeal Mr Thomas for McAlpine did not support the judge's
+finding on frustration, but sought to sustain his conclusion on other
+grounds.
+Under the sub-contract time was of the essence. McAlpine was to complete
+work by the specified dates. It was entitled to be recompensed if
+acceleration was necessary due to McDermott's actions.
+By clause 35 McDermott might at any time direct McAlpine to make a change in
+the scope of the work. The change was not to be carried out until McAlpine
+had received a change order, signed by McDermott.
+McAlpine was to prepare shop drawings, and no fabrication was to be
+performed until they had been completed and reviewed by McDermott. Shop
+drawings were to be based on 'approved for construction' (AFC) drawings, and
+should show all details required for fabrication.
+McAlpine was to be paid lump sum prices for fabrication, assembly and other
+work. The lump sum was to be based on quantities agreed and stated in the
+sub-contract.
+Performance of the sub-contract fell into three stages.
+The first was the pre-production stage. It included preparation of shop
+drawings based on AFC drawings issued by McDermott's employer, preparation
+of steel for welding, manufacture of jigs, qualifying weld procedures for
+use in fabrication, and qualifying welders.
+The second stage was fabrication of the plate girders and tees. It was
+planned to take 11 days. In fact it took seven weeks.
+The third stage was assembly of the pallets.
+The greater part of the delay, and by far the greatest part of the
+additional costs, occurred during phases two and three.
+McAlpine's case was that the main cause of delay was the issue of a large
+number of revised AFC drawings after the contract had been placed. The first
+issue, consisting of 45 drawings, was received by McAlpine on December 1
+1981. The second, consisting of 17 drawings, was received on December 11.
+There were 22 new issues in all. They meant that the shop drawings had to be
+revised. It was said the revised AFC drawings created havoc in the drawing
+office and disrupted production in phase 1, and had a knock-on effect in
+phases 2 and 3.
+The second cause of delay, according to McAlpine, was McDermott's failure to
+answer technical queries (TQs) as promptly as it should have done. The third
+cause, it said, was the issue of variation orders (VOs) under clause 35,
+changing the scope of the work.
+McDermott's case was that the revised drawings, and the failure to give
+prompt answers to TQs, were no more than was to be expected in the North Sea
+oil industry, and had no disruptive or delaying effect. It said it had paid
+more than McAlpine was entitled to under clause 35 in respect of the VOs,
+and that they did not disrupt production.
+McDermott also said the delay in phase 1 was caused by McAlpine's failure to
+qualify its weld procedures until just before fabrication started on
+February 16, and to complete manufacture of jigs for fabrication of plate
+girders until early February 1982. It said the main causes of delay in
+phases 2 and 3 were the vast amounts of remedial work due to poor quality
+welding.
+The judge found it was the revised drawings which generated the excessive
+number of TQs.
+He said they 'transformed a contract based on 22 drawings into one based on
+161 drawings . . . They distorted its substance and identity.'
+He said time went out of the window with the first two issues in December
+1981, and the effect was 'to put paid to the lump sum constituent of the
+contract as well. From that time, time was at large'.
+He concluded that the effect of the changes was to frustrate the original
+venture virtually from the start.
+The present court could not agree with his reasoning, nor with the
+conclusion that the contract was frustrated.
+The revised drawings did not 'transform' the contract into a different
+contract, or 'distort its substance and identity'. It remained a contract
+for the construction of four pallets until March 24 1982, when W5 and W6
+were withdrawn.
+The judge found the contract was frustrated as early as December 11 1981 on
+receipt of the second drawing issue.
+That was over three months before the sub-contract was signed.
+The sub-contract when signed provided expressly that receipt of drawings
+would constitute change instructions for the purposes of clause 35, and that
+McAlpine should be recompensed for the additional time and work involved.
+If the court were to uphold the finding of frustration, it would be the
+first contract to have been frustrated by matters which occurred before the
+contract was signed, and were not only well-known to the parties, but were
+provided for in the contract itself.
+The judge held that, since the contract was agreed to take effect from
+November 18 1981, one must construe it in the light of circumstances then
+existing, and what the parties then knew.
+If that meant the court was to disregard the fact that the contract was
+signed by the parties with their eyes open on March 24 1982, when the causes
+and consequences of the alleged frustrating events were already largely in
+the past, it could not agree.
+The inherent probabilities, the contemporaneous documents and the
+overwhelming weight of the oral evidence all pointed in one direction. The
+cause of delay in starting fabrication was McAlpine's failure to qualify its
+weld procedures before February 15 1982. It had nothing to do with the
+causes found by the judge.
+The contract was not frustrated. The lump sum price was not displaced.
+The appeal was allowed. Judgment was given for McDermott on its counterclaim
+for damages in respect of additional site personnel employed after the
+period representing the overall impact of the extra work had expired.
+For McAlpine: Christopher Thomas QC and Peter Coulson (Glovers).
+For McDermott: John Uff QC and Lionel Persey (Ince & Co).
+
+The Financial Times
+
+
+London Page 13
+
+920313
+

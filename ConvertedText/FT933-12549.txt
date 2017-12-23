@@ -1,0 +1,81 @@
+FT933-12549
+
+FT  23 JUL 93 / Behind closed doors
+
+
+   By WENDY GOLDMAN ROHM
+
+
+Members of the computer industry and press, waiting in the lobby at 600
+Pennsylvania Avenue, Washington, for the Federal Trade Commission's
+anti-trust decision on Microsoft, were told at about 2pm on Wednesday the
+agency would not comment on the stalemate it had reached.
+Privately, however, FTC observers said politics had played a role. The group
+reached a two-to-two deadlock, with commissioners Janet Steiger and Dennis
+Yao voting for an administrative action (seeking changes in business
+practice) against Microsoft, and commissioners Deborah Owen and Mary
+Aczcuenaga voting against. The group then argued about closing the case.
+Owen is a conservative Republican appointed by former President George Bush
+in 1989. Aczcuenaga, an independent, has been noticeably hesitant in the
+past about intervention in cases of alleged monopoly. Steiger is a liberal
+Republican, and Yao is a Democrat.
+The complaint voted on by the commissioners involved two main points:
+Microsoft's practice of creating the appearance of incompatibilities between
+its own and rival products, and its 'per processor' licensing scheme (see
+above). The latter was restored to the complaint at the last minute, after
+argument by attorneys for Novell, Microsoft's largest competitor in the PC
+softare market. Novell had protested that the licensing issue - which it saw
+as having an enormous impact on competition - had been thrown out of the
+case owing to an objection by one of the commissioners.
+FTC insiders said that, despite Owen's insistence that the case be closed,
+the other commissioners chose to keep it open. The commission has thus
+allowed for the possibility that it or the justice department could
+eventually try the case.
+The FTC is considering three scenarios. First, the justice department could
+ask to take on the case. Ann Bingaman, President Bill Clinton's new
+anti-trust chief at the justice department, has acknowledged she is
+interested in reviewing it.
+Second, commissioner Owen, said to have been looking for another job
+recently, might take up a position outside the agency. Clinton could then
+name another commissioner, who might break the deadlock.
+Third, FTC insiders said commissioner Roscoe Starek, who withdrew himself
+from the case, had made inquiries about rejoining it. Having a fifth
+commissioner involved could break the deadlock.
+Observers of the three-year FTC inquiry into Microsoft's practices said the
+best outcome for the FTC would be to finish the case itself, as it would be
+an embarrassment if the justice department were to have to finish work it
+had started.
+'It is unlikely the case will remain open for very long, unless the
+department of justice asks for documents, or a change occurs at the FTC,'
+said a source close to the agency. If the FTC received a request to take
+over the case, Janet Steiger, FTC chairman, would decide whether to grant
+it.
+Microsoft, which discovered the possible involvement of the justice
+department about a week ago, is expected to begin lobbying officials. Late
+last week, Bill Gates, chairman of Microsoft, and a team of Microsoft
+attorneys, met separately with each commissioner, and with FTC staff serving
+on two of its investigative arms, its Bureau of Competition and Bureau of
+Economics.
+If the case moves to the justice department, Microsoft is expected to hear
+soon whether the department will proceed against it.
+Within the FTC there is a body of opinion that the justice department may
+take the case within a month. It could request that some of the FTC lawyers
+on the case be 'deputised' to it. A formal request for documents would need
+to be issued, according to rules on transferring documents from one agency
+to another 'for law-enforcement purposes'.
+In the UK, the Office of Fair Trading continues its own six-month-old
+investigation of Microsoft. The FTC is expected to provide the OFT with
+copies of its subpoenas and requests for evidence from Microsoft. Observers
+in the US said that software companies Novell, Borland and WordPerfect have
+all been providing information on Microsoft's alleged anti-competitive
+practices, both to the OFT and the European Commission.
+The author is writing a book on the FTC and Microsoft to be published early
+next year
+
+The Financial Times
+
+
+London Page 19
+
+930723
+

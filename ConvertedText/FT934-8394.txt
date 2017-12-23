@@ -1,0 +1,82 @@
+FT934-8394
+
+FT  16 NOV 93 / Business and the Law: Refusal to answer not always a right -
+European Court
+
+
+   By BRICK COURT CHAMBERS
+
+
+   BRUSSELS
+
+
+A fundamental principle of European Union law, that an individual may refuse
+to answer questions in competition proceedings if to do so would incriminate
+them, does not apply to civil cases brought in national courts, the European
+Court of Justice ruled last week.
+The court's ruling was made in a case involving the Arrondissementsrechtbank
+in Amsterdam. A customer had brought an action in the Dutch courts to have
+increases in bank charges declared unlawful under EU competition law.
+As part of his case the plaintiff wanted to call bank employees to show the
+increases were not based on any objective justification but were the result
+of an inter-bank agreement.
+Under Dutch law witnesses called to give evidence are generally obliged to
+do so, except in criminal cases. The bank argued that Dutch law in this
+respect was incompatible with Union law because it breached its right
+against self-incrimination. The Dutch court referred the question to the
+ECJ.
+The court said the right against self-incrimination did not exist as a
+fundamental principle of EU law where it was relied on by companies in
+relation to infringements - particularly of competition law - in the
+economic sphere.
+But the rights of defence that are also part of the fundamental principles
+of EU law do not allow the European Commission in the course of competition
+proceedings to compel a company to answer questions that might involve
+admission of an infringement.
+The question the court had to answer was whether the same principle could be
+extended to cover civil proceedings in national courts relating to the
+application of EU competition rules.
+The court said it was for the national law in conformity with EU law to
+define the appropriate procedural rules necessary to guarantee the rights of
+defence for interested parties.
+It was not necessary for procedural guarantees at national level to be the
+same as those at Union level. The guarantees needed to respect the rights of
+companies in a competition case brought by the Commission differed from
+those needed to respect parties' rights in national civil proceedings.
+In particular, in a case such as the present, in which the proceedings only
+concerned private dealings between individuals which could not directly or
+indirectly result in the imposition of a sanction by a public authority, an
+individual concerned could not take advantage of the right against
+self-incrimination as a matter of EU law.
+The right that existed under EU law was specifically designed to protect the
+individual from measures taken by a public authority to cause that
+individual to admit the existence of certain types of behaviour, thereby
+exposing that person to penal and administrative sanctions.
+The bank had also argued that the effect of such a ruling would be to
+deprive individuals of their rights under Union law with regard to
+self-incrimination, as the commission could simply obtain through national
+proceedings what it could not obtain through its own procedures.
+The Court rejected that argument. The Commission, or any national authority,
+could not use information thus obtained to prove a breach of competition law
+in the framework of proceedings which could result in the imposition of
+sanctions, or even as a reason for justifying the opening of a preliminary
+inquiry.
+C-60/92: Otto BV v Postbank NV, ECJ FC, 10 November 1993.
+Compatibility of service station agreements of indeterminate length with EU
+law.
+A pre-accession service station agreement would be compatible with the
+exclusive purchasing block exemption even though the agreement was of
+indeterminate length, because the general rules relating to the duration of
+agreements had been amended for pre-accession agreements. Thus, as long as
+the agreement met the other requirements of the block exemption, it would be
+valid.
+C-39/92: Petroleos de Portugal - Petrogal SA v Correia and others, ECJ 1CH,
+10 November 1993.
+
+The Financial Times
+
+
+London Page 14
+
+931116
+

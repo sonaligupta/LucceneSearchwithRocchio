@@ -1,0 +1,89 @@
+FT924-11381
+
+FT  26 OCT 92 / Survey of International Fund Management (10): Technology
+breaches the barriers - The challenges facing the global custody business
+
+
+   By RICHARD WATERS
+
+
+THESE days, intermediaries in the securities markets are so busy encroaching
+on each other's turf that it is not easy to see where global custodians
+start and where they stop. Fund managers, brokers, settlement houses,
+custodians: technology is breaking down the barriers between all these
+intermediaries so fast that the shifting profile of the industry is
+sometimes difficult to pin down.
+The latest of these developments is taking fund managers increasingly into
+areas which until now have been the preserve of custodians. Last year, after
+a rearguard action by a number of large US banks, fund managers were
+admitted to Swift, the international financial communication system. In
+theory, that gives them access to the same messaging system used for
+interbank payment and other instructions, allowing them to bypass banks
+should they so wish.
+The second advance has been the move by a number of big fund managers,
+prompted by Fidelity, to sponsor the development of a number of competing
+electronic trade confirmation systems. These will allow fund managers to
+confirm details of bargains they have entered electronically, rather than
+waiting for slower fax or telex messages.
+By the 1993, three confirmation systems will have been launched, all of them
+aimed at the European market. The fund managers who have promoted the
+development of these systems hope their specifications will be used as the
+basis for similar products in the US and Japan, making it possible (once
+bridges between the systems have been created) to confirm trades in all
+principal markets around the world.
+The creation of such electronic services - and the admission of fund
+managers to communication networks such as Swift - point to a move by large
+fund management groups to take greater control of the process that follows
+the completion of a securities trade. The desire to reduce costs and risks
+has motivated such developments. Membership of international settlement
+houses such as Euroclear and Cedel could be the next step, as fund managers
+cut out even more of the work done by the middlemen.
+These developments have come against a background of price-cutting by
+custodians. Like other activities in the securities industry, success
+depends on volume: faced with the high fixed costs of building and
+maintaining the necessary technology, it is the custodians which can push
+through the largest volumes of transactions that will do best. Most have
+built proprietary systems for their custody clients, and now face the added
+problem of amortising the costs of these systems faster as the clients
+demand more flexible systems that allow them to communicate with a number of
+different custodians.
+Despite these pressures, there are still plenty of opportunities for making
+a profit out of the custody business. These come either from the extension
+of the basic custody service into new markets - the emerging equity markets,
+for instance, or derivatives - or from the kinds of extra services
+custodians can sell on the back of custody.
+The emerging markets have become one of the biggest headaches for the
+back-office staff of fund management firms. The cost of dealing in these
+markets, and the risks incurred in failed trades, are difficult to control.
+Not surprisingly, the charges made by custodians are higher for this type of
+business. 'Margins are higher the further away from mature markets that you
+get,' says Mr Julian Gibbs of Barclays Bank.
+Despite the higher costs, it is difficult to find custodians willing to take
+on the settlement risks in emerging markets. When offering 'contractual
+settlement', under which investors are guaranteed settlement on the due
+date, custodians also retain the right of recourse against the investor if
+trades fail.
+Derivative markets provide a different opportunity. Many financial
+institutions around the world are still trying to come to grips with the
+difficulties of valuing their derivatives portfolios and finding ways of
+measuring and managing the risks they entail. Those banks which have been
+longest in the derivatives business and which also act as global custodians
+are well positioned to offer help in these areas to investment managers.
+Meanwhile, custodians continue to make money out of services which have
+traditionally sat alongside custody: stock lending, foreign exchange and
+cash management.
+The first of these services has come under scrutiny in the UK in recent
+months in the wake of the stripping of assets from the Maxwell pension funds
+under the guise of stock lending. Under review now is whether fund managers
+should themselves be able to control the movement of stock, or whether this
+should rest with separate entities. Any such development would partially
+reverse the process which has seen fund managers encroaching more on the
+custodians' territory.
+
+The Financial Times
+
+
+London Page IV
+
+921026
+

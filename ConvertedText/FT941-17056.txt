@@ -1,0 +1,125 @@
+FT941-17056
+
+FT  06 JAN 94 / Creativity will be brought to earth / A look at far-reaching
+proposals to curtail acquisition accounting
+
+
+   By ANDREW JACK
+
+
+'I'll be checking the wheel nuts on my car from now on,' joked Mr David
+Tweedie, chairman of the Accounting Standards Board, after unveiling tough
+new proposals on the way companies account for acquisitions.
+If implemented, the rules will substantially reduce the scope for companies
+to manipulate profits by creating generous pre-acquisition provisions in the
+balance sheet for items such as stock writedowns and reorganisation charges.
+These costs by-pass the profit and loss account of the acquirer, and the
+unused provisions can later be released to bolster profits.
+Some even argue the new restrictions may reduce the level of acquisition
+activity by British companies.
+In a frenzy of activity last month, the board issued drafts of three
+standards likely to change fundamentally the future shape of financial
+reporting: on provisions, capital instruments and goodwill. All three
+threaten some of the most favoured weapons filling the arsenal of creative
+accountants in the late 1980s.
+Mr Tweedie may be given to jovial turns of phrase, but behind the humour
+lies serious concern at the abuses of the past - and a recognition that the
+battle for reform will be difficult. He describes acquisition provisions as
+the 'black hole' of British accounting. 'If I could put one thing right with
+accounts this would be it,' he says.
+His objection is to what he calls 'big bath' accounting, by which companies
+can throw in large provisions supposedly to cover a multitude of future
+expenses. These 'fair value adjustments' are placed in the reserves of the
+acquirer and can be released to the profit and loss account.
+Financial reporting exposure draft 7 (Fred 7) on fair values in acquisition
+provisions, issued in December, toughens up the position considerably. It
+restricts the scope for excessive write-downs on stock, and forbids
+provisions for reorganisation and integration costs or future operating
+losses.
+Up till now, the scope for widespread use of pre-acquisition provisions has
+been plentiful under SSAP 22, the existing accounting standard dealing with
+goodwill - the difference between the net asset value and the purchase price
+of an acquired business.
+A classic instance is cited by Mr Terry Smith, the City analyst, in his book
+'Accounting for Growth'. In the year to March 31 1989, all but Pounds 4m of
+the Pounds 56m in profits of Coloroll, the collapsed home furnishings
+company, came from the release of provisions rather than from its
+operations.
+'For two to three years after an acquisition it is damned difficult to see
+where the profits are coming from,' says Mr Tweedie.
+Some tightening up took place under Exposure Draft 53, the non-mandatory
+guidance issued by the board's predecessor, the Accounting Standards
+Committee, in 1990. It called for a ban on provisions for future earnings,
+and far tighter rules on reorganisation expenses.
+But the scope for substantial - though not necessarily unjust - provisions
+remains. A survey by Company Reporting, the Edinburgh-based accounts
+monitoring service, shows that of companies with turnover above Pounds 300m
+which made acquisitions during 1991 and 1992, provisions were an average of
+35 per cent of the purchase price. The table shows some examples from the
+most recent accounts of large companies.
+In spite of an expected lull over Christmas, the document on pre-acquisition
+provisions has already begun to attract flak.
+Mr Allister Wilson, a technical partner with Ernst & Young, the accountancy
+firm, says: 'I think the ASB has thrown the baby out with the bathwater.
+Clearly there has been wholesale abuse. Perhaps British business has only
+got itself to blame.'
+He argues for a compromise which would still allow scope for some
+reorganisation provisions, in line with generally accepted accounting
+standards in the US.
+Mr Roger Davis, head of audit at Coopers & Lybrand, argues that
+reorganisation expenses are a form of capital expenditure as part of the
+purchase price of a company.
+Some argue that the proposals may dissuade companies from making
+acquisitions. However, Mr Nigel Stapleton, chief financial officer of
+Reed-Elsevier and the new chairman of the 100 Group of finance directors of
+leading British companies, is doubtful. 'I think this was probably a
+necessary area of attention. Most companies look at acquisitions on a
+cashflow basis, not for short-term earnings enhancement. Wise readers of
+accounts are already looking at figures on a Fred 7 basis.
+'There will be a certain amount of beating of drums, but this represents a
+sensible move to what is emerging in international accounting standards,' he
+says.
+The ASB has made some dilutions from its earlier discussion document, which
+was issued in April last year, including removal of strict requirements
+forbidding any provisions being made within six months of an acquisition.
+But it has been unmoved on its principal recommendations, which could be
+issued in final version by the end of the year.
+If pre-acquisition provisions are not enough, Tweedie warns that more is to
+follow. The board is now preparing work on an accounting standard dealing
+with the ordinary provisions companies make, which are also open to abuse.
+ -----------------------------------------------------------------------
+PROVISIONS VERSUS THE PURCHASE PRICE
+ -----------------------------------------------------------------------
+Examples of acquisition reogranisation provisions expressed as per cent
+of consideration
+ -----------------------------------------------------------------------
+                                          Consider-    Pro-     Provs/
+                                            ation    visions    Consid
+Company                      Date         Pounds m   Pounds m  per cent
+ -----------------------------------------------------------------------
+BTR                     year to Dec 92       96.0     54.0       56.2
+British Gas (**)                Apr 92      130.0     55.0       42.3
+ICI (****)              year to Dec 92       59.0     20.0       33.9
+Allied-Lyons (*)                Dec 92      308.0     80.0       26.0
+Hanson                  year to Sep 93     1199.0    290.0       24.2
+Grand Met               year to Sep 92      229.0     40.0       17.5
+BICC (*) (***)                  Feb 92      132.5     18.0       13.6
+Tomkins                         Sep 92      990.5     90.4        9.1
+Thorm EMI (**)          year to Mar 93      653.7     48.5        7.4
+Cadbury Schweppes (*)           Apr 92      183.6      9.2        5.0
+ -----------------------------------------------------------------------
+(*)    Major acquisition only
+(**)   Acquisition provisions, not just reorganisation provisions
+(***)  Consideration includes future options and is an estimate of total
+(****) Acquisition provisions = total fair value adjustments
+ -----------------------------------------------------------------------
+Source: Company Reporting
+ -----------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page 15
+
+940106
+

@@ -1,0 +1,161 @@
+FT942-14905
+
+FT  18 APR 94 / Survey of Vehicle Fleet Management (8): Winners and losers
+
+
+Hundreds of thousands of winners and losers have been created by the revised
+company car taxation system, even though the government does not expect to
+increase its tax intake.
+The majority of the UK's estimated 2m company car users should see their tax
+bill this year rise or fall by only small amounts following the introduction
+of the new system earlier this month.
+But some are in for a nasty shock with fundamental implications for their,
+and their companies', future car choices and policies.
+Increases of up to Pounds 600 in actual tax payable may be faced by the many
+executives who cover between 2,500 and 18,000 business miles a year and
+operate so-called 'tax break specials' - cars costing just under the old
+Pounds 19,250 price band and with engines of just under two litres.
+What makes an employee a winner or loser and how are the sums involved
+calculated?
+The process is relatively simple.
+The accompanying tables show:
+TABLE 1. The tax scale charges for 1993/94 plus the price and engine
+capacity bands by which they were determined. The table also shows
+reductions in the assessed benefit occasioned by three business mileage
+thresholds - under 2,500 miles, between 2,500 and 18,000 miles, and over
+18,000 miles.
+The new tax system is based on a percentage of the car's list price. The
+percentage for a driver covering under 2,500 business miles is 35 per cent;
+for between 2,500 and 18,000 business miles this reduces to 23.3 per cent;
+and to 11.67 per cent for over 18,000 business miles.
+Drivers should deduct a further one-third in each case if the car becomes
+more than four years old during the relevant tax year.
+TABLE 2 provides a reference guide to the break-even points between the old
+regime and the new.
+Take, for example, drivers who covered 2,500 to 18,000 business miles in 1.4
+to two-litre cars costing up to Pounds 19,250 under the old system. They
+will have to run a replacement car costing no more than Pounds 12,814 if a
+higher tax bill is not to be incurred.
+It is in this category that some of the loudest squeals of protest are being
+heard.
+In TABLE 3, where car list prices intersect with the old scale charge band,
+drivers can ascertain the increase/decrease in their tax assessments.
+TABLE 4 shows specific examples of winners and losers among drivers covering
+2,500 to 18,000 business miles on a 40 per cent marginal income tax rate.
+The heaviest losers are those driving less than 2,500 business miles a year
+with cars at the Pounds 80,000 ceiling where an additional actual tax bill
+of Pounds 7,100 will be incurred.
+Just how many losers there are likely to be in the middle manager category
+was underlined in February by a study of 255 business organisations from WF
+Corroon, the human resources and employee benefits consultants.
+It found that most middle managers drive Fords, Vauxhalls and Rovers costing
+between Pounds 16,000 and Pounds 23,600 and that 56 per cent would have
+Pounds 600 increases in their tax bills.
+However, such drivers are unlikely to receive much sympathy from those with
+more utilitarian cars in the under two-litre category.
+A sales rep driving a basic 1.6 litre car costing Pounds 7,000 less than an
+executive's 'tax break special' was, under the old banding system, paying
+the same as his more well-heeled counterpart.
+ ------------------------------------------------------------------
+                      BREAK-EVEN LIST PRICES
+ ------------------------------------------------------------------
+Banding                Breakeven             Annual taxable
+                                               benefit (pounds)
+                      list price  2,500 miles 2,501-17,999 18,000+
+                          pounds    or less     miles        miles
+ ------------------------------------------------------------------
+More than pounds 29,000   43,029     15,060     10,040       5,020
+Pounds 19,251-29,000      26,614      9,315      6,210       3,105
+Less than 19,250
+Engine size
+1400cc or less             9,900      3,465      2,310       1,155
+ 1401-2000cc              12,814      4,485      2,990       1,495
+ Over 2000cc              20,571      7,200      4,800       2,400
+ ------------------------------------------------------------------
+Source: Ernst & Young
+ ------------------------------------------------------------------
+ ------------------------------------------------------------------
+                 HOW MUCH WILL YOUR CAR COST YOU?
+ ------------------------------------------------------------------
+                           Old      New                  Change
+                    List   scale    benefit              to
+                   price   charge   value    Difference  tax bill
+ ------------------------------------------------------------------
+Rolls-Royce
+Silver Spur III  119,428   10,040   18,667        8,627    3,451
+Porsche 911
+3.6 Turbo         80,499   10,040   18,667        8,627    3,451
+Mercedes-Benz
+SL 500            74,400   10,040   17,360        7,320    2,928
+Jaguar XJ 12      48,800   10,040   11,387        1,347      539
+BMW 730i V8       38,550   10,040    8,995       -1,045     -418
+Range Rover
+Vogue SE          36,130   10,040    8,430       -1,610     -644
+Jaguar XJ6 4.0S   33,700   10,040    7,863       -2,177     -871
+Rover Sterling    27,995    6,210    6,532          322      129
+BMW525i SE        25,850    6,210    6,032         -178      -71
+Saab 9000
+CSE 2.0i          20,245    6,210    4,724       -1,486     -594
+Ford Granada
+2.0i Ghia         19,150    2,990    4,468        1,478       591
+Audi 80 2.0E      16,529    2,990    3,857          867       347
+Vauxhall Carlton
+Plaza 2.0i        15,950    2,990    3,722          732       293
+Vauxhall
+Cavalier 2.0 SRi  14,325    2,990    3,343          353       141
+Ford Mondeo
+1.6 GLX           13,300    2,990    3,103          113        45
+Rover 214 SLi     11,985    2,310    2,797          487       195
+Peugeot 405
+GL 1.6i           11,620    2,990    2,711         -279      -111
+Ford Escort
+1.4L 3dr           9,775    2,310    2,281          -29       -12
+Mini Mayfair       6,795    2,310    1,586         -725      -290
+ ------------------------------------------------------------------
+Figures assume business mileage of between 2,501 and 17,999 and a 40 per
+cent taxpayer
+ ------------------------------------------------------------------
+Source: WF Corroon
+ ------------------------------------------------------------------
+ ----------------------------------------------------------------------
+                   TABLE 1: 1993/4 TAX SCALE CHANGES
+                        CARS UNDER 4 YEARS OLD
+ ----------------------------------------------------------------------
+Original                Engine    High        Average     Low
+Market                  size      business    business    business
+value                             mileage     mileage     mileage
+                                  (18,000     (2,501      2,500
+                                  miles       to 17,999   miles
+                                  or more)    miles)      or less)
+pounds                  cc        pounds      pounds      pounds
+ ----------------------------------------------------------------------
+Up to 19,250            0-1400     1,155       2,310       3,465
+                     1401-2000     1,495       2,990       4,485
+                         2001+     2,400       4,800       7,200
+19,251 to 29,000           All     3,105       6,210       9,315
+Over 29,000                All     5,020      10,040      15,060
+ ----------------------------------------------------------------------
+                         CARS OVER 4 YEARS OLD
+ ----------------------------------------------------------------------
+Original                Engine    High        Average     Low
+Market                  size      business    business    business
+value                             mileage     mileage     mileage
+                                  (18,000     (2,501      2,500
+                                  miles       to 17,999   miles
+                                  or more)    miles)      or less)
+pounds                  cc        pounds      pounds      pounds
+ ----------------------------------------------------------------------
+Up to 19,250            0-1400       790       1,580       2,370
+                     1401-2000     1,015       2,030       3,045
+                         2001+     1,610       3,220       4,830
+19,251 to 29,000           All     2,090       4,180       6,270
+Over 29,000                All     3,330       6,660       9,990
+ ----------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page IV
+
+940418
+

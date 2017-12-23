@@ -1,0 +1,108 @@
+FT932-6860
+
+FT  26 MAY 93 / Survey of Foreign Exchange (6): An insurance or a threat to
+stability - Rising interest in products that allow currency exposure to be
+hedged
+
+
+   By JAMES BLITZ
+
+
+THERE ARE many reasons for the dramatic growth of the foreign exchange
+market in recent years. But no technical development is as important as the
+invention of currency-based products which allow investors to hedge their
+underlying assets against exchange rate risks.
+In the 1980s, fund mangers initially diversified their portfolios because of
+the reduction of capital controls and a need to find new sources of income.
+But the factor clinching their strategic decision to invest abroad was that
+they could buy special financial instruments like forward contracts and
+options to hedge themselves against risk.
+More recently, the crisis in the exchange rate mechanism has sponsored a new
+wave of interest in these derivative products among corporates who want to
+hedge their currency exposure in a more volatile environment. Foreign
+exchange managers in London report a huge increase in demand for these
+products in the past 12 months.
+As a result, the outlook for these markets appears healthy. According to the
+International Monetary Fund, spot transactions in FX accounted for 73 per
+cent of turnover in the UK market in 1986, and 50 per cent in 1989. But the
+share of turnover in forwards and swaps increased from 27 per cent to 47 per
+cent.
+However, while these instruments seem like insurance premiums to some
+investors, they are being seen as a threat to the stability of the foreign
+exchange market.
+In particular, serious concerns are being expressed about the development of
+the market in options, which allow investors to buy or sell a currency if it
+strikes a certain price.
+As with so much else in the foreign exchange market these days, the concern
+over options arise from recent changes in the industry. In the early 1980s,
+the trade in currency options was in its infancy and supply-led. But, more
+recently, new and more sophisticated ways have been thought up, by which
+corporate and institutional customers can hedge themselves against risks.
+There is a particularly strong interest in over-the-counter options (OTCs),
+which a bank sells to an individual customer, and can be tailor-made to meet
+customer requirements in considerable detail.
+Mr Patrick Allaway, managing director of global foreign exchange sales at
+Swiss Bank Corporation, says there are now 15 variations of the 'plain
+vanilla' option. Customers, these days, can buy exotic products called
+'barrier options,' or 'basket options,' which allow them to reduce their
+cost of hedging.
+The development of these options has made them extremely attractive to
+investors and turned the derivatives business into a lucrative one.
+But in an age of volatile exchange rates, the security which the customer
+receives from buying the option may create problems for the bank which is
+writing it.
+In the last six months, several options-writing institutions have incurred
+severe losses, because they assumed that the ERM set fixed floors and
+ceilings for excessive movements in exchange rates.
+Nobody talks openly about the casualties in this market. But a commonly-held
+view is that several French institutions, which had particularly well
+developed options businesses, were severely burned in the crisis.
+There were also indications earlier this month that the Bank of Spain lost
+billions of dollars by using options to defend the peseta's exchange rate.
+The central bank in Madrid has denied the allegations. But dealers say that
+the Bank of Spain wrote call options allowing investors to buy D-Marks at
+exchange rates between Pta72 up to Pta80, in the belief that there would be
+no devaluation to these levels.
+Amid higher volatility in European exchange rates, there has been a general
+rise in the cost of premiums. But foreign exchange managers believe that,
+where casualties occur, it is because senior executives do not understand
+the risks being taken by their staff.
+Mr Martin Jaskell, head of global sales at NatWest Markets, says: 'If there
+is not a proper understanding of the risks in this business there is a
+potential for almost unlimited losses. That is why proper control is
+absolutely essential.'
+Central banks have also raised concern about the prospect of credit default
+in this industry. Last month, the Bank for International Settlements said
+that it might extend the amount of cash cover that commercial banks had to
+set against the risks that were being taken in currency and futures markets.
+But concerns remain that the growth of the derivatives market could help to
+intensify currency flows which are directed against fixed exchange rates.
+Again, last year's currency crisis provided a case study in the nature of
+this market. In September, when both the lira and sterling were pushed close
+to their ERM floors against the D-Mark, banks which had written options to
+sell the currency below the ERM floor had to hurriedly hedge their
+underlying (or delta) positions to ensure they could pay customers at the
+new rate.
+As the IMF puts it in its recent report on capital flows: 'Standard option
+pricing formulas do not allow for the possibility of jumps in exchange
+rates, for example during a realignment of ERM central parities. A surprise
+realignment could greatly increase the delta leaving the bank underhedged.'
+For the moment, the options business, which accounts for only 3 per cent of
+total turnover in foreign exchange, is not big enough to concern regulators
+too much.
+But one leading currency manager in London said recently that if the share
+of turnover grew much more, the impact of these products on the market would
+be worrying to central bankers
+'If you got to the stage where 10 per cent of all turnover were options
+related, then the underlying moves would effectively account for half of all
+FX turnover,' he said. 'And once you get to those levels, the more risk
+there is that you would get extreme moves in the major currencies as a
+result of derivatives.'
+
+The Financial Times
+
+
+London Page III
+
+930526
+

@@ -1,0 +1,93 @@
+FT933-10239
+
+FT  05 AUG 93 / Technology: Digital assistant is of limited help - Apple's
+MessagePad is a revolutionary computer but could struggle to find a useful
+role
+
+
+   By LOUISE KEHOE
+
+
+Apple Computer's Newton MessagePad 'personal digital assistant' finally made
+its official debut this week, more than a year after John Sculley, the
+company's chairman, began promoting the device as the focal point for the
+convergence of computer, communications and consumer electronics technology.
+'We believe that Newton will be seen as the defining technology of the
+digital age,' Sculley said at the launch of the computer in Boston. He
+predicted a technology revolution in the 1990s that would overshadow the
+personal computer revolution of the 1980s.
+With such a build-up it is perhaps inevitable that the Newton MessagePad
+will fall short of expectations, even though it is an innovative device that
+brings a whole new meaning to the term personal computing.
+A 1lb-tablet, about the size of a video cassette, the MessagePad is operated
+with a pen stylus, which can be used to jot notes on a three-inch by
+four-inch screen or to point to icons representing specific functions.
+What sets the Newton apart from other hand-held or even desktop personal
+computers is its ability to learn a user's work habits. From the style of
+their handwriting to the format they like to use for business letters, their
+favourite lunch spot and most frequently called clients or colleagues, the
+MessagePad learns, over time, to adapt to its user's preferences.
+Where the computer disappoints, however, is in its communications
+capabilities. Originally billed as a wireless personal communicator, the
+basic model of the MessagePad lacks even a built-in modem. Wireless
+communications capabilities are limited to short-range transmissions using
+infra-red beams. Pointed towards another MessagePad up to about three feet
+away, the device can send or receive messages. A suitably equipped Apple
+Macintosh or other PC can also exchange data with a Newton.
+Apple executives suggest that such transmissions may be a good way to swap
+business card information with other Newton users electronically, or
+silently exchange thoughts with a business colleague during a meeting.
+Yet this seems to be a technology that is searching for a useful
+application.
+Wireless paging and messaging services will be available for US users of the
+MessagePad soon, Apple promises. With the addition of a plug-in device
+offered by Motorola, the MessagePad will act as a pocket pager, albeit a
+more bulky one than the matchbox-sized devices that many business people
+wear on their belts.
+With the addition of another plug-in module, the MessagePad can send - but
+not receive - facsimile messages when plugged into a telephone line. Newton
+will also have its own international electronic mail system, at 'a later
+date'. NewtonMail will be a subscriber-based, 'cost-effective' service,
+Apple says.
+Eventually, the service will be expanded to offer information services such
+as news, weather and financial data, although it is hard to imagine that
+such data could be displayed to advantage on the MessagePad's tiny screen.
+The MessagePad will be available throughout the US over the next few weeks
+and from next month in the UK. Non-English versions will follow next year,
+Apple says. Prices have not been fixed but Apple expects it to sell in the
+US for Dollars 699-Dollars 949 (Pounds 469-Pounds 636) depending on
+configuration.
+As with any new computer, the availability of applications software will be
+critical to the value of the MessagePad. Despite widespread activity among
+independent software developers the must-have application for the Newton has
+yet to emerge. Programs announced this week range from specialised systems
+for estate agents to titles for sports enthusiasts.
+Apple has announced six of its own software titles for Newton, including
+interactive maps of US cities, a reference guide to the Fortune 500, the
+business magazine's league table of the largest US companies, and games.
+Most would be better suited to larger-screen laptop computers.
+Who will buy the Newton MessagePad? Apple is initially targeting technology
+enthusiasts as well as corporate buyers who could use the device as part of
+their information technology systems. Coca-Cola, Monsanto and American
+Express are among early customers, Apple says. However, market analysts do
+not expect the MessagePad to be a big seller. Sales projections range from
+Dollars 50m to Dollars 300m over the next 12 months.
+Whether or not the Newton is a hit, it has defined a new product category in
+the personal computing field. Already Apple is hinting at improvements to
+come in later versions. And, in a break with its usual practice, the company
+is licensing its Newton technology to other companies. Current licensees
+include Sharp and Matsushita Electric of Japan, and Motorola of the US.
+Sharp, which is manufacturing the MessagePad for Apple, also introduced its
+own very similar 'Expert Pad' this week. Rolm, a US telecommunications
+equipment subsidiary of Siemens, will be incorporating Newton technology
+into a new product called the NotePhone.
+Eventually, Newton technology may indeed 'change the world' as Apple
+predicts, but it is unlikely to be an immediate success.
+
+The Financial Times
+
+
+London Page 11
+
+930805
+

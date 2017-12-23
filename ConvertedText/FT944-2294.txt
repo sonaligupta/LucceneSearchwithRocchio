@@ -1,0 +1,95 @@
+FT944-2294
+
+FT  16 DEC 94 / International Company News: Highs and lows of forex hedging
+ -A strong yen worked for some Japanese groups
+
+
+   By GERARD BAKER
+
+
+Corporate casualties of the yen's sharp appreciation in the past five years
+are a familiar story. Most of them are manufacturers who have been forced to
+cut margins as the prices of their exports have risen strongly.
+However, the increasing availability of more sophisticated corporate
+treasury operations in the same period has meant that some companies have
+been able to offset some of those losses by hedging in the forward foreign
+exchange market.
+At the same time, many businesses have seen their performance deteriorate as
+a result of large losses on the same contracts.
+Precisely who were the winners and losers and how big were their gains and
+losses was unclear until this autumn, when companies were required for the
+first time to disclose in detail their profits on currency hedging. A new
+collation of company's results published yesterday by Tokyo Shoko Research,
+a private financial research institution, shows the extent to which Japanese
+businesses have used this particular derivative instrument, and how varied
+the performance has been.
+Total gains among companies listed on the Tokyo Stock Exchange neatly
+balanced losses. Altogether, 211 companies recorded losses of a combined
+Y99.6bn (Dollars 992.1m) in the year to the end of September, as a result of
+the yen's rise, while 162 reported gains of Y95.4bn.
+Transport companies, especially airlines, proved the biggest losers. Between
+them, companies in the transport sector lost more than Y56bn. Other losing
+sectors were textiles and steel. Net losses for 15 textile manufacturers
+were Y3.4bn, while eight steelmakers lost a net Y2.6bn.
+As might be expected, securities companies recorded the largest net gains.
+Between them, 12 brokers managed gains of more than Y6bn. Other net gainers
+were transport and electrical engineering companies.
+The country's two leading airlines both lost heavily as a result of
+long-standing contracts to purchase US dollars at exchange rates that were
+not realised. Japan Airlines (JAL) suffered the largest loss of any company,
+at Y43.9bn, four times as large as the next biggest loser, All Nippon
+Airlines (ANA) with losses totalling Y10.7bn.
+JAL began hedging the dollar-yen rate in 1985, concluding contracts to buy a
+total of Dollars 3.6bn at an exchange rate of Y165.97 to the dollar at a
+series of stipulated dates. ANA made arrangements to buy Dollars 798m at an
+exchange rate of Y111.85. Both companies' moves were intended to insure them
+against a sharp depreciation of the yen in advance of contract payment dates
+for the purchases of foreign air-craft.
+In fact, the yen rose well above the contracted levels and continued to
+rise. At the end of September 1994, the exchange rate stood at Y98.45 to the
+dollar.
+On the plus side, Nomura Securities registered the largest net profit, at
+Y22.9bn, followed by Nippon Telephone and Telegraph at Y18.02bn.
+The research organisation's study covered only forward exchange contracts.
+Companies are not as yet required to give full details of their other
+derivatives gains or losses.
+Tokyo Shoko points out that the rapid growth in the use of derivatives in
+the past few years makes it harder to tell the true state of a company's
+financial operations. 'Future contracts disclosed this time are just a very
+small part of off-balance-sheet derivatives dealings,' he says. 'Interest
+rate swaps are particularly in the dark, but of growing significance.'
+So the scale of most companies' dealings can only be guessed at. There is
+little doubt that in Japan, as elsewhere, many companies have suffered
+heavily in the past year from their derivatives trading.
+The problem was glimpsed last month with the publication of results at Tokyo
+Securities, a small stockbroker. Its exchange losses alone totalled Y3.1bn,
+but in all the company lost Y32bn, almost a third of shareholders' capital.
+The company acknowledged then that the bulk of that loss came from
+fixed-interest derivatives trading.
+ --------------------------------------------------------
+Forward foreign exchange contracts
+Sept 1993 - Sept 1994 (Ybn)
+ --------------------------------------------------------
+              Top 10 winners . . . .  . . . . .and losers
+ --------------------------------------------------------
+Nomura Securities      +22.9   Japan Airlines       -43.9
+NTT                    +18.0   All Nippon Airways   -10.7
+Nikko Securities        +8.8   Tokyo Securities      -3.1
+Dai-Ichi Securities     +6.5   Hirabo Corp           -2.7
+Chiyoda Corp            +5.5   Silver Seiko          -2.2
+Hitachi Zosen           +3.3   Mitsubishi Estate     -1.8
+Honda Motor             +3.1   Fujita Corp           -1.7
+Hitachi                 +2.9   Daiwa House Industry  -1.6
+Shikoku Electric Power  +2.5   Sanyo Denki           -1.6
+Chubu Electric Power    +2.0   Hankyu Corp           -1.4
+ --------------------------------------------------------
+Source: Tokyo Shoko Research
+ --------------------------------------------------------
+
+The Financial Times
+
+
+London Page 27
+
+941216
+

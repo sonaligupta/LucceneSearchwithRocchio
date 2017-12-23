@@ -1,0 +1,57 @@
+FT941-5615
+
+FT  05 MAR 94 / What next as telephones head for the museum: BT weighs up
+its options in the networks race
+
+
+   By ANDREW ADONIS
+
+
+British Telecommunications is at a crossroads. Either it goes ahead with the
+next generation of network modernisation, or it risks being left with local
+networks inferior to those of the cable companies building combined
+television and telephone networks in Britain's urban areas.
+That is the subtext to this week's confirmation by BT of a series of trials
+this year into video-on-demand and other interactive services.
+Until now, BT has insisted that a government ban on it providing
+entertainment services on its network until at least 2001 made it uneconomic
+to invest in taking fibre-optics into the local network - the critical
+investment for interactive network services.
+Instead, it said it planned to offer a video-on-demand service using its
+existing copper local network, upgraded with ADSL electronics.
+However, in its trials it will pilot both ADSL and fibre technologies. In an
+FT interview last week, Dr Alan Rudge, BT's development director, stressed
+the commercial potential of fibre not just for entertainment, but for
+information and travel services.
+Two trials are planned - a trial with 70 BT employees in Kesgrave, near
+Ipswich, followed by a commercial trial later in the year covering 2,500
+residents.
+For the companies chosen to develop equipment, the stakes are enormous.
+Northern Telecom, the Canadian telecoms manufacturer, has won the contract
+for the ADSL equipment. Alcatel, the French supplier, will provide the fibre
+technology.
+Three US companies - Oracle, nCube and Apple Computer - will supply software
+and hardware. Oracle will provide software and systems integration services;
+nCube will provide multimedia server hardware; and Apple Computer will
+supply 'set top boxes' to decode the digital multimedia signals. Whatever
+system is used, the programmers will be a critical link in the chain.
+For the initial trial, more than 250 hours of programming will be available;
+suppliers include the BBC, Carlton Communications, London Weekend
+Television, Thames TV, Picture Music International and Granada. BT is also
+seeking a supplier for Hollywood movies.
+Figures in the region of Pounds 15bn are cited for the cost of taking fibre
+into the local network nationwide - perhaps more if BT decides to go the
+whole hog and lay fibre into the home.
+BT can afford such sums with ease. Capital investment has fallen from Pounds
+3.1bn a year to Pounds 2.1bn since 1990, as its digitalisation programme has
+wound down.
+The key question it faces is the cost of not investing if broadband services
+take off and today's 'plain old telephone' becomes a museum piece.
+
+The Financial Times
+
+
+London Page 9
+
+940305
+

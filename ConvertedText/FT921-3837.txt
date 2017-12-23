@@ -1,0 +1,139 @@
+FT921-3837
+
+FT  12 MAR 92 / Business Law: Risk for professional advisers in US
+
+
+   By LEO HERZEL
+
+
+The US Supreme Court has just agreed to decide an important case involving
+the egregious Racketeer Influenced and Corrupt Organisations Act (RICO)*.
+In 1984 the Farmers' Co-operative of Arkansas and Oklahoma Inc filed for
+bankruptcy. As a result, the holders of certain unpaid demand notes issued
+by the co-operative instituted a class action under rule 10b-5 of the
+federal securities laws, RICO and state law against several defendants
+including the independent auditor for the co-operative, Ernst & Young.
+The main allegation against Ernst & Young was that it had intentionally
+departed from generally accepted accounting principles in an effort to
+overstate the co-operative's worth.
+The same case had been decided once before by the US Supreme Court but on a
+different legal issue. In its first decision the Court had decided that the
+notes were securities under the federal securities law. As a consequence,
+the plaintiffs became entitled to a judgment of Dollars 6.1m.
+This time around the legal issue is whether Ernst & Young violated RICO. If
+so, the plaintiffs would have a right to treble damages. In its past
+encounters with RICO, the US Supreme Court has not provided much help in
+placing reasonable limits on the statute. Essentially, the Court's attitude
+has been, Congress did it to us and it is Congress's responsibility to
+extricate us.
+The relevant section of RICO, section 1962(c), provides: 'It shall be
+unlawful for any person employed by or associated with any enterprise
+engaged in, or the activities of which affect, interstate or foreign
+commerce, to conduct or participate, directly or indirectly, in the conduct
+of such enterprise's affairs through a pattern of racketeering activity . .
+.'
+The precise issue the US Supreme Court is being asked to decide is whether
+section 1962(c) requires proof that Ernst & Young participated in the
+management or operation of the alleged racketeering enterprise.
+The lower court had concluded that Ernst & Young's involvement with the
+co-operative (which had been limited to audits, meetings with the board of
+directors and presentations at annual meetings of the co-operative's
+members) did not rise to the level of participation in the management or
+operation of the enterprise required by section 1962(c).
+Except for the warning against violating federal securities laws in the US,
+a foreign reader reasonably might ask why he or she should be especially
+interested in this peculiar US legal misadventure. But there are several
+important, general lessons for non-American readers in RICO. In particular,
+those readers who are in European Community countries should be interested,
+since the EC is now embarked on the creation of a vast new system of
+statutes and regulations:
+Lesson 1: it is very difficult to predict how a new statute will be
+interpreted in litigation under circumstances that are still unknown. RICO
+had its origins in a congressional investigation of the activities in
+business of ordinary hoodlums.
+Lesson 2: bad statutes are difficult to change. No matter how bad, or even
+absurd, a statute is, it quickly develops an avid constituency who resists
+change. RICO, for example, has become an industry for plaintiff's lawyers in
+civil cases and aggressive prosecutors in criminal cases. The RICO lobby in
+the US remains adamant that the statute is essential to protect us from
+white-collar crooks. Unfortunately, the US, Japan and Europe provide a
+continuous stream of financial scandals which can be used by the RICO lobby
+to support this argument.
+There is another, even more remarkable, recent example of the high risks
+involved in giving professional advice on financial, corporate and
+securities matters in the US. This one was an administrative proceeding,
+dated March 2 1992, brought by the Office of Thrift Supervision against a
+large, ordinary, respectable New York law firm, Kaye, Scholer, Fierman, Hays
+& Handler and three of its partners.
+The legal basis for the proceeding was not RICO but several new federal laws
+passed in the wake of the savings and loan scandals in the 1980s. However,
+these new laws adopt one of RICO's most remarkable innovations in aid of
+intimidation by US government agencies: judgment and punishment first, trial
+later.
+As is now usual in US government blockbuster cases that allege white-collar
+wrongdoing, the administrative notice of charges in this proceeding was
+complicated, contained many allegations and was very long (83 pages).
+The main charges were that the law firm, and the only three partners
+specifically named as defendants, co-operated with Charles H Keating Jr in
+violating banking and securities laws and in deceiving regulators in
+connection with their investigations of the firm's client, Lincoln Savings
+and Loan Association.
+There were also charges that the law firm participated in breaches of
+fiduciary duty with Mr Keating against Lincoln Savings and Loan Association
+which Mr Keating controlled. The damages claimed were 'at least Dollars
+275m'.
+The most extraordinary feature of the proceeding was the temporary order to
+cease and desist issued simultaneously with the notice of charges by the
+Office of Thrift Supervision.
+The order effectively placed Kaye, Scholer and its partners in a kind of
+receivership with the Office of Thrift Supervision as receiver. The firm was
+required to create an escrow account for its partners' earnings. Depending
+on the identity of the partner, the firm had to contribute between 50 per
+cent and 25 per cent of the earnings of each partner into the escrow
+account. The firm was not permitted to enter into unusual transactions or to
+dissolve or modify the partnership.
+Even more startling, a partner was not allowed to leave the partnership
+unless a large amount of security was provided by the firm or the partner.
+In addition, the use by partners of their individual assets and earnings for
+living expenses was restricted and subject to close surveillance by the
+Office of Thrift Supervision. The only partners exempted from the order were
+those who became partners on or after December 1 1987.
+As a practical matter, it was difficult to see how the firm could continue
+to operate successfully while the case was being adjudicated by the Office
+of Thrift Supervision unless a court modified or set aside the order.
+Not surprisingly, Kaye, Scholer reached the same conclusion. Over the
+weekend it entered into a hurried settlement with the Office of Thrift
+Supervision. It agreed to pay the government Dollars 41m. Two of the
+partners named in the proceeding agreed to be barred from representing any
+savings association or bank whose deposits were insured by the Federal
+government. The third partner only had to agree not to commit in the future
+the kind of violations alleged in the proceeding.
+Several years ago, faced with the prospect of similar pre-trial restrictions
+in a RICO case brought by the US government, Drexel Burnham capitulated,
+paid a huge fine and went into bankruptcy.
+In addition, the Resolution Trust Corporation, the federal agency charged
+with bailing out the savings and loan industry has just filed a Dollars 150m
+suit against Deloitte and Touche and a Dollars 100m suit against KPMG Peat
+Marwick in connection with two different failed savings and loan
+associations.
+A flood of such suits against accountants, lawyers and other professional
+firms who advised failed savings and loans is expected in the near future.
+These cases are part of a disappointing regulatory pattern: too late and
+heedlessly tough when something is finally done. The problem is not unique
+to the US. One can see something similar in the UK, for example, in the
+treatment of BCCI and in the Guinness and Blue Arrow prosecutions.
+On the other hand, although Japanese financial regulation does not appear to
+be much more efficient than anyone else's in terms of avoiding financial
+scandals, the Japanese do seem to be much more cautious about limiting the
+wreckage after the event.
+* Reves v Ernst & Young, No. 91-886.
+The author is a partner in the Chicago office of the US law firm, Mayer,
+Brown & Platt.
+
+The Financial Times
+
+
+London Page 42
+
+920312
+

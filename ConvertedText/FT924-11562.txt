@@ -1,0 +1,61 @@
+FT924-11562
+
+FT  24 OCT 92 / Your allowances for September
+
+
+THE TABLE shows capital gains tax allowances for assets sold in September.
+To use it, multiply the original cost of the asset for the figure shown for
+the month in which you bought it.
+If you subtract the result from the proceeds of your sale, the result will
+be your taxable gain or loss.
+Suppose that you bought some shares for Pounds 7,000 in November 1983 and
+sold them in September 1992 for Pounds 15,000. Multiplying the original cost
+by the November 1983 figure of 1.608 gives a total of Pounds 11,256.
+Subtracting that from the proceeds of Pounds 15,000 gives a capital gain of
+Pounds 3,744, which is below the 1992-93 CGT allowance of Pounds 5,800. If
+you realised no other gains during the year, the profits should be tax-free.
+If you sell shares bought before April 6 1982, you should use the March 1982
+figure.
+ -----------------------------------------------------------------------
+CGT INDEXATION ALLOWANCES: SEPTEMBER
+ -----------------------------------------------------------------------
+Month               1982     1983    1984    1985    1986    1987
+ -----------------------------------------------------------------------
+January                -    1.687   1.605   1.528   1.448   1.394
+February               -    1.680   1.599   1.516   1.443   1.388
+March              1.755    1.677   1.594   1.502   1.441   1.386
+April              1.720    1.654   1.573   1.471   1.427   1.369
+May                1.708    1.647   1.567   1.464   1.425   1.368
+June               1.703    1.643   1.563   1.461   1.425   1.368
+July               1.703    1.634   1.565   1.464   1.430   1.369
+August             1.702    1.627   1.550   1.460   1.425   1.365
+September          1.703    1.620   1.547   1.461   1.418   1.361
+October            1.695    1.614   1.537   1.458   1.416   1.355
+November           1.686    1.608   1.533   1.453   1.404   1.348
+December           1.690    1.604   1.534   1.451   1.399   1.349
+ -----------------------------------------------------------------------
+Month               1988     1989    1990    1991    1992
+ -----------------------------------------------------------------------
+January            1.349    1.256   1.167   1.071   1.028
+February           1.344    1.247   1.160   1.065   1.023
+March              1.339    1.241   1.148   1.061   1.020
+April              1.318    1.220   1.114   1.047   1.004
+May                1.313    1.212   1.105   1.044   1.001
+June               1.308    1.208   1.100   1.040   1.001
+July               1.306    1.207   1.099   1.042   1.004
+August             1.292    1.204   1.088   1.040   1.004
+September          1.286    1.196   1.078   1.036       -
+October            1.273    1.186   1.070   1.032       -
+November           1.267    1.176   1.072   1.028       -
+December           1.264    1.173   1.073   1.027       -
+ -----------------------------------------------------------------------
+Source: Inland Revenue
+ -----------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page VI
+
+921024
+

@@ -1,0 +1,46 @@
+FT921-3915
+
+FT  12 MAR 92 / Technology: Reported speech on the books
+
+
+   By PHILIP HUNTER
+
+
+Businesses that produce reports in different languages are obvious
+candidates for machine translation. But so far, real cost savings have been
+elusive, partly because the available systems only do part of the job.
+Considerable work is still needed to finalise the text in a specific
+language.
+Dun & Bradstreet's Swiss subsidiary produces financial and market reports in
+English, French, German and Italian. It used to pay out large sums to human
+translators.
+Of 75,000 reports sent to customers each year, 17.2 per cent required
+translation. This cost the subsidiary SFr 230,000 (Pounds 88,000) a year.
+Now the company has computerised the translation. Apart from eliminating the
+cost, it means all reports are delivered quickly whether or not they've been
+translated.
+Some organisations, including the European Commission, use machine-assisted
+translation in which computers produce a draft of the document in the target
+language. This is cleaned up to produce the final document.
+Dun & Bradstreet Switzerland has managed to avoid the cleaning-up process.
+Rather than translating grammar, the company constructed tables of stock
+phrases and words that are required in finished reports.
+By using only these expressions it is possible to make translations that are
+entirely accurate.
+This approach at first drew criticism from the company's competitors, who
+claimed it would make the reports too standardised with no freedom of
+self-expression for the writers. More important, it was resisted from within
+the company. 'We lost the people who wouldn't work with it,' admits Adrian
+Ashurst, managing director.
+But customers reacted favourably because they were receiving the same
+product more quickly and cheaply. Some even preferred the new type of
+document because it was more consistent. The whole system cost the company
+SFr250,000.
+
+The Financial Times
+
+
+London Page 18
+
+920312
+

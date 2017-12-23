@@ -1,0 +1,104 @@
+FT922-7230
+
+FT  20 MAY 92 / Survey of World Banking (16): Fees down, rewards still high
+ -Andrew Freeman explains why global custody is in vogue
+
+
+   By ANDREW FREEMAN
+
+
+IN RECENT years, international banks have become increasingly enamoured of a
+business they long regarded as a necessary evil.
+Global custody, a cross-border securities settlement and administration
+product, was traditionally seen as an extension of the back-office functions
+banks offered to their investment clients. Now, with balance sheets groaning
+under the pressure of provisions against loans gone bad, custody is in
+vogue.
+The reason is simple enough. Custody is a fee-earning business with a
+relatively stable client base. The banks' income is derived partly from an
+annual charge based on the size of the assets under custody, but the bulk of
+custody revenues is earned from customers' activity. Custody requires
+minimal capital, although it does require continuous investment in
+technology.
+Small wonder, then, that the market for custodial services has grown in
+parallel with cross-border activity by investors. A recent survey by
+InterSec, a US consultancy, suggested that the world's largest pension funds
+will have Dollars 780bn (Pounds 437bn) of foreign assets by 1995, rising to
+Dollars 2,000bn by 2003.
+If that extrapolation is correct, the pool of foreign assets will have grown
+by a hundredfold in a mere 25 years. As funds have sought investment
+opportunities overseas, they have turned to their custodians to provide
+essential support networks.
+There is another reason for custody's new-found popularity among banks.
+After the stockmarket crash of October 1987, senior bankers became concerned
+for the first time about the risks of systemic failure of the world's
+settlement systems. They realised that the smooth flow of financial and
+securities transactions is crucial to the security of their business.
+Leading think-tanks, notably the Group of Thirty, studied clearing and
+settlement practices and discovered that, in many markets, they were
+woefully inadequate. The G30's recommendations and timetable for improved
+settlement efficiency were widely adopted after its influential report three
+years ago.
+Meanwhile, custody has become much more competitive in the last five years.
+Prices have been squeezed to the point where custodians now describe the
+basic product as a commodity.
+Fees have come down sharply as the bigger providers have used their muscle
+to put pressure on vulnerable competitors. Clients, too, have become much
+more aggressive in demanding a better service. Custody has not turned out to
+be the dream product some bankers predicted.
+However, the rewards from activities associated with custody can still be
+huge. In particular, the commercial banks have always made good returns from
+handling the foreign exchange transactions required whenever a fund buys or
+sells foreign assets.
+But there are also big returns available to the banks which use their
+clients' custodial assets for stock lending. In return, the custodian is
+allowed to lend stock and keep a share of the income. That might sound
+unexciting, but returns on lending in some of the smaller securities markets
+can be as high as three percentage points. Some large and sophisticated
+customers have sufficient muscle, in the shape of their assets, to demand
+custody virtually for free.
+That is the type of arrangement thought to underlie the appointment by the
+two huge Californian state employees retirement funds of State Street. State
+Street, which has vast assets under administration, won the business away
+from the rival Boston Company with a bid significantly lower than any
+competitor managed.
+Mr Marshall Carter, president of State Street, told a recent conference that
+custody has evolved from the days when it offered relatively simple services
+like safekeeping, settlement, corporate actions, income collection and tax
+reclamations.
+'Today, services must include decision support such as consolidated
+reporting, performance measurement, risk analysis and analytics. We must be
+able to demonstrate to our customers that we can help them reduce risk,' he
+said.
+At the same time, it is arguable that the banks have not been particularly
+successful at developing the custody product. Because it essentially
+involves the processing of information flows, custody has been a natural
+beneficiary of the revolution in computer technology.
+In practice, banks have struggled to keep pace with that revolution and have
+often been saddled with expensive systems which are out of date soon after
+they are installed.
+It is possible that specialist IT companies will seek to move into the
+commodity end of the custody business and drive prices even lower. Banks
+which rushed to swell the ranks of custodians in the late 1980s could be
+forced into embarrassing retreats.
+That risk is increased by the fact that some of the world's largest
+institutions are not yet active competitors in custody. The Japanese banks,
+for example, have been notably slow to look beyond their domestic market.
+Were they to do so, their assets and their ability to learn from others'
+mistakes would make them formidable competitors.
+In addition, the custodian banks face a dilemma over the development of
+three international institutions which, ironically, they own: Swift, which
+runs the global interbank message system, and the two international clearing
+houses, Euroclear and Cedel. Each of them has the business framework and
+expertise to become a key player in global custody.
+year Swift will allow fund managers to become users of its system, opening
+up the possibility of eventual partial disintermediation of the custodian
+banks.
+
+The Financial Times
+
+
+London Page VIII
+
+920520
+

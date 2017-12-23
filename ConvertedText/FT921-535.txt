@@ -1,0 +1,83 @@
+FT921-535
+
+FT  28 MAR 92 / Finance & The Family: Directors' Transactions
+
+
+   By ANGUS MACDONALD, Directus Ltd
+
+
+IF LAST week's volume of selling reflected boardroom concern at the
+uncertain political outlook, this week's volume is even more emphatic. With
+Labour ahead in the polls, the selling is unlikely to let up until after
+April 9.
+In December last year, Racal Electronics was fighting off the unwelcome
+attentions of Williams Holdings. In an impressive display of solidarity,
+nine of the 12 main board directors bought a total of 5m shares at prices
+between 50p and 53p. Three months after the failure of the Williams bid,
+Martin Richardson has sold considerably more than the 40,000 shares he
+bought in December.
+Guide to sectors: Brew = Brewers & Distillers; Chem = Chemicals; Cong =
+Conglomerates; Elts = Electricals; Elns = Electronics; EngG = Engineering
+General; FdMa = Food Manufacturing; H&H = Health & Household; InsB =
+Insurance Brokers; InTr = Investment Trusts; Misc = Miscellaneous; NewI =
+New Issues; O&G = Oil gas; OthF = Other Financial; OthI = Other Industrial
+Materials; Pack = Packaging & Paper; Text = Textiles.
+DIRECTORS' SHARE TRANSACTIONS IN THEIR OWN COMPANIES (LISTED & USM)
+ ----------------------------------------------------------------------
+                                                  No of
+Company                 Sector   Shares   Value   directors
+ ----------------------------------------------------------------------
+SALES
+ ----------------------------------------------------------------------
+Bass                    Brew    171,725     931      1*
+Blagden Industries      Pack     28,100      60      1*
+British Polythene       Pack      3,700      15      1
+BTR                     OthI    150,000     604      1*
+Cater Allen             OthF      3,689      12      1
+Courtaulds              Chem     10,000      53      1*
+Creighton Naturally     H&H     106,830     235      2
+Dale Electric           Elts    100,000      82      1
+Greenalls               Brew     90,297     355      1
+Halma                   EngG    298,477     478      6*
+Hanson                  Cong      5,000      11      1
+Isotron                 Misc     20,000      46      1
+Leeds                   Text      6,930      25      1
+Leslie Wise             Text     27,500      18      1
+Lowndes Lambert         InsB      5,000      17      1
+M&G                     OthF      7,000      40      2
+MTL Inst                Elns      3,800      11      2
+Macro 4                 Elns     50,000     217      1*
+Mercury Asset Man       OthF    206,250     726      3*
+Metalrax Group          EngG  1,100,000   1,265      1
+Microfilm Repro         Pack    300,000     525      1
+Provident Financial     OthF      5,600      26      2
+Racal                   Elns    431,697     240      1
+Smithkline Beecham      H&H     210,480   1,842      2*
+TI Group                EngG     90,000     575      1
+United Biscuits         FdMa     48,159     201      1*
+Vistec                  Elns  2,890,000     375      2
+ ----------------------------------------------------------------------
+PURCHASES
+ ----------------------------------------------------------------------
+Control Techniques      Elns     72,000     143      1
+Farringford             FdMa    231,050      23      6
+Fleming Inc & Cap       NewI     30,000      30      2
+GT Japan IT             InTr     20,000      32      1
+Hardy Oil & Gas         O&G      10,000      11      1
+ ----------------------------------------------------------------------
+Value expressed in Pounds 000s. Companies must notify the Stock
+Exchange within 5 working days of a share transaction by a director.
+This list contains all transactions, including the exercise of options
+(*) if 100% subsequently sold, with a value over Pounds 10,000.
+Information released by the Stock Exchange 16-20 March 1992.
+ ----------------------------------------------------------------------
+Source:  Directus Ltd, Edinburgh
+ ----------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page IV
+
+920328
+

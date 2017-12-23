@@ -1,0 +1,116 @@
+FT922-4412
+
+FT  05 JUN 92 / Survey of Vehicle Manufacturing Technology (8): Fresh
+challenges - The machine tools industry
+
+
+   By CEDRIC ASHLEY
+
+
+IN relationship to the vehicle industry, machine tools should not in any way
+be thought of in isolation, but instead as part of a system. Indeed, it is a
+complex system going back to the moment of conception of the motor vehicle.
+The present 'buzz word' is 'simultaneous engineering' in which design,
+development, tooling, manufacture, assembly and quality are all considered
+together at the same time.
+It both reduces the key lead time between between initiation of a project
+and selling on the market place, and it ensures that the optimum blend of
+technologies is brought to bear on the complex process of creating a motor
+car.
+In this process, the technology of manufacture is decided, at least in some
+detail, at the same time as the first part is drawn. The most complex
+element is the body and it is now possible to go directly from a computer
+model to the press tool to manufacture the part.
+Normally, there is an intermediate stage in which a styling model is created
+in foam or a special form of very high density wood material. This model may
+be tweaked by the stylist, either at the computer or through traditional
+methods of reshaping using modelling clay.
+The next stage is production of tools for prototype manufacture and finally
+the production tools. In all these cases, use is made of a three- or
+five-axis profiling machine. Indeed, the whole process can be handled on the
+computer to cover the design of the body tools, the jigs, the fixtures, even
+the production line.
+It is even possible to use a computer simulator of the whole process, so
+that it can be optimised at an early stage.
+Quality to a manufacturing engineer is the capability of the production
+process to produce a part to specification. We now look for a zero defect
+production process in which every part is produced right every time.
+Quality is not a measure of the skill of the individual operator, and indeed
+the production process is generally organised in such a way that accurate
+manufacture to specification does not depend on operator skill.
+This means that any computer-controlled production machine must not only
+receive computer-generated information about what it has to do, but also
+computer read information on acceptable limits and sensors to check and
+verify that those limits have been met. Much of the technology advance has
+been in sensor development.
+There is also considerable interest in the arrangement of machine tools
+within the factory. In the late sixties, group technology was initiated
+where groups of machines were put together to manufacture specific parts to
+minimise transfer time between machines and stock holding. To some extent
+the machining centres have superceded the six- to 10-machine group of
+dedicated machines, but the concept is now being developed further in terms
+of the product cell.
+In this concept, an operational unit is formed to produce a specific small
+family of units such as electric motors, water pumps, etc. This allows
+minimum stockholding within the unit.
+In such a unit, a time lag as short as 12 hours may exist between initiation
+of demand for a product variation and such a variation being produced at the
+end of the line.
+A further key element in the selection of the production process is
+flexibility. The speed of product development is such that extensive changes
+in the product can occur in three- to four-year time spans and these must be
+accommodated.
+At one time, transfer lines had such rigid constraints that design and
+development was inhibited. We now expect full flexibility from the transfer
+line to accept both extensive design change and product variation within a
+short time spell.
+There has long been a financial investment and return hierarchy in machine
+tools starting off at the basic building block, the CNC machine such as a
+lathe, drilling machine or miller.
+The next stage is the machining centre capable of a variety of operations
+through multiple tool changes and modes of operation. The Flexible
+Manufacturing System (FMS) effectively links together machining centres and
+finally we have the dedicated transfer line.
+The trick is to know the volume break point at which to invest in the next
+level of machine. These boundaries are continuously moving upwards.
+Some recent developments illustrate these points. Vauxhall has just
+commissioned a new large transfer press at Ellesmere Port which is notable
+for its rapid changeover of tools.
+Tools for the next run are placed on sliding bolsters and are automatically
+changed at the time, using photo-sensors to ensure correct location with
+automatic clamping. The computer controls the usual press operation setting
+up variations and within 13 minutes a completely different pressed part can
+be produced. In the last decade, more than 24 hours would be necessary for a
+tool change of such complexity.
+Adwest has just commissioned a novel machine for producing variable-ratio
+steering racks using a CNC lathe. By combining movement of six elements, two
+cams, two angular axes and two linear axes, the complex form was turned
+rather than ground. Tooling costs were reduced by a factor of 10 and the
+cycle-time reduced from five minutes to only two minutes.
+Ford in the US is to build a transfer line in conjunction with several
+unit-type machines to produce Zeta crankshafts. A novel feature of two of
+the unit machines will be to use rotary broaching to machine the crank pins,
+as opposed to turning.
+Emissions requirements have led Cummins to an improvement in cylinder block
+machining. The bores are now being honed with the block clamped in such a
+way as to simulate the distortions caused when the cylinder head is bolted
+into place. This gives improved bore roundness in service and reduces oil
+consumption and hence particulate emissions.
+These examples show some of the challenges which have been met. Computing
+power for machine tools is falling in cost, but the consumer is demanding
+even higher standards of the end product of his vehicle than before.
+Machines are faster, smarter and more flexible; we expect many more
+developments in the near future in the world of automation and machine
+tools. It is recognised by the CBI and many others that this is one of the
+key areas for new investment if the UK is to retain a viable manufacturing
+base.
+The author is a past chairman of the Automobile Division of the Institution
+of Mechanical Engineers
+
+The Financial Times
+
+
+London Page IV
+
+920605
+

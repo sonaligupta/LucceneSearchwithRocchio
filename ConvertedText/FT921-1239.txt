@@ -1,0 +1,40 @@
+FT921-1239
+
+FT  25 MAR 92 / International Company News: Sun Micro reduces workstation
+prices
+
+
+   By LOUISE KEHOE
+
+
+SUN Microsystems Computer, the leading US computer workstation manufacturer,
+yesterday cut the prices of its high-end workstations for three-dimensional
+imaging by nearly 30 per cent.
+The move is expected to pressure competitors, including Hewlett-Packard,
+Digital Equipment, International Business Machines, and Silicon Graphics -
+which specialises in 3-D workstations - into making similar price
+adjustments. Sun claimed that fully-configured models of its SPARCstation
+2GS and SPARCstation 2GT were now among the cheapest 3-D solids workstations
+in their class.
+'We believe that lower prices will help us in an important quest: broadening
+the market for 3-D graphics,' said Mr Larry Hambly, vice-president of
+marketing.
+Sun also cut prices on 19-inch monitors for all its workstations. Prices of
+add-on memory were also cut.
+The company also announced price reductions on its server products. These
+are computers used to provide additional computer power to networks of
+workstations.
+Intel, the US semiconductor group, has named Mr Ed Masi to the new post of
+president of its supercomputer systems division. He is also being
+recommended for election as an Intel corporate vice-president at the next
+board meeting.
+Mr Masi had been executive vice-president of sales, service and marketing
+for Cray Research.
+
+The Financial Times
+
+
+London Page 27
+
+920325
+

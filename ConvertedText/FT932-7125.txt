@@ -1,0 +1,112 @@
+FT932-7125
+
+FT  25 MAY 93 / Survey of Power Generation Equipment (2): Something
+interesting is afoot - GE's support for an unorthodox power system
+
+
+   By ANDREW BAXTER
+
+
+When the largest company in any industry secures a worldwide licensing deal
+from one of the tiniest for a relatively new technology, something
+potentially very interesting is probably afoot.
+Such was the case in February when General Electric, the world leader in
+power generating equipment, announced a worldwide licensing agreement with
+Exergy of Hayward, California to further develop and market a technology
+that could increase overall efficiency of GE combined cycle power systems.
+Behind the deal lies the Kalina cycle technology developed by Dr Alexander
+Kalina, a Russian emigre who is the principal owner of Exergy. Dr Kalina,
+like many other engineers, was looking for ways to improve the overall
+efficiency of electric power generation.
+Using as a basis theory developed by Dr Myron Tribus, a former GE turbine
+designer who is now a director of Exergy, Kalina decided to 'throw the book
+away' and change a system that has been in place for 140 years. Instead of
+concentrating on equipment and materials that could lead to only marginal
+improvements, Dr Kalina focused on the very process by which heat is
+converted into electricity.
+The Kalina cycle, therefore, is an alternative to the standard steam cycle
+by which 70 per cent of all electric power is generated. The standard or
+Rankine cycle uses a single working fluid (usually water) to make steam in a
+boiler, expand it through a turbine to generate electricity, and then
+condense the spent steam, pump it and return it to the boiler. Because the
+thermodynamic requirements in the various parts of the cycle differ, this
+creates compromises, says Exergy.
+In contrast, the Kalina cycle changes the working fluid in different parts
+of the system, by using a fluid that is a mixture of two or more components
+with different boiling points - typically, ammonia and water - and varying
+their ratio, to avoid compromises in the standard steam cycle.
+The result is that more electricity is produced from the same quantity of
+fuel. According to Exergy, the Kalina cycle improves the efficiency of
+thermal power plants by 8-80 per cent, depending on the particular
+application. Assuming a 15 per cent increase in efficiency, 100 per cent
+adoption of the Kalina cycle in the US would save fuel worth Dollars 6bn at
+1991 prices. Emissions, including greenhouse gases and particulates, would
+decrease by 15 per cent, says Exergy.
+As with many small companies trying to interest large established suppliers
+in a new technology, success has not come overnight for Exergy, which was
+founded in 1980 to exploit the Kalina cycle.
+In 1984 it decided that the best way to demonstrate the advantages of the
+Kalina cycle was to build a prototype power plant, and three years later it
+signed an agreement with the US Department of Energy to build one at the
+Department's Energy Technology Engineering Center in Canoga Park,
+California.
+In 1991, a major milestone was passed when the 3.2MW plant, using exhaust
+gases from an adjacent test facility as its heat source, was successfully
+operated. The working fluid is ammonia and water, and the lynchpin is a
+'distillation condensation subsystem' in which the composition of the
+mixture is changed - so that different mixtures can be used in the boiler
+and condenser.
+It was about this time that GE began a detailed, two-year study of Kalina
+cycle technology. By the time the two companies had announced a deal this
+year, both the efficiency and economics of Kalina cycle systems had been
+improved by the companies' joint efforts.
+GE's worldwide licence for the Kalina cycle covers its application only to
+combined cycle power generation. Using a mixture of ammonia and water
+increases the thermodynamic availability of energy transfer from the gas
+turbine exhaust to the steam turbine. 'So you can use a bigger steam turbine
+for free,' says Mr Del Williamson, vice-president for sales at GE Industrial
+& Power Systems.
+The effect of the Kalina cycle could be to raise the thermal efficiency of
+combined cycle power generation by one or two percentage points from the
+current 55 per cent-plus. This would help the power industry save millions
+of dollars a year in fuel costs, and could, therefore, be very important to
+GE from a competitive point of view.
+According to Mr Williamson, GE is now working on scaling up the technology
+to establish what the cost would be. GE expects to have demonstrator units
+in place over the next three years.
+Mr Tribus points out that there are no theoretical limitations to the size
+of the Kalina cycle. Standard equipment is used, and the only material that
+has to be avoided is copper, which is attacked by ammonia.
+'I am convinced this will give GE an unbeatable advantage over everybody
+else,' says Mr Tribus.
+In practical terms, the Kalina cycle version of a combined cycle plant would
+have a modified heat recovery steam generator (boiler), to include the
+elements of the distillation/condensation subsystem. A low pressure
+condenser, recuperative heat exchanger, gravity flash tank and high pressure
+condenser would replace a single condenser in traditional plants.
+For the utility, the payback would depend on the market and the fuel price,
+says Mr Williamson. 'Where fuel prices are low, the payback will not be so
+attractive,' he says. And if the payback was more than three or four years,
+the system may not be seen as attractive.
+Exergy, meanwhile, is working on several other applications for the Kalina
+cycle. It will be five years until the cash rolls in from any GE sales of
+combined cycle plants with a Kalina cycle, which could be too long to wait
+if Exergy wants to develop its plans for coal-fired plants, says Mr Tribus.
+Here a particular attraction is the repowering market. 'You could take out
+the guts of an old coal-fired plant, put in our plant, and increase output
+by 20 per cent for the same coal usage,' he says.
+To exploit this market, Exergy may well raise Dollars 50m-Dollars 60m to get
+into the coal-fired business itself. A less likely possibility would be to
+find a partner with engineering ability and market knowledge.
+Exergy is also negotiating with several companies that want to take a
+licence for applying the Kalina cycle to geothermal power generation. The
+efficiency gains are as high as 80 per cent here because the Kalina cycle
+performance improves in lower temperatures.
+
+The Financial Times
+
+
+London Page II
+
+930525
+

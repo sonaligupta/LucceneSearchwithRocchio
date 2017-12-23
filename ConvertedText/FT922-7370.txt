@@ -1,0 +1,41 @@
+FT922-7370
+
+FT  19 MAY 92 / International Company News: Sun Micro launches workstations
+
+
+   By LOUISE KEHOE
+
+
+SUN Microsystems aims to fend off mounting competition in the market for
+computer workstations with a new range of products, to be introduced today.
+The US computer company claims the new products will outperform all rivals.
+Although Sun has maintained its lead in workstation sales, with over 25 per
+cent of the Dollars 9bn world market, competitors including Hewlett-Packard
+and International Business Machines have been gaining ground with
+workstations that are significantly faster than Sun's products.
+The new SparcStation 10 represents Sun's response to these higher
+performance workstations. Two models, which Sun calls 'mid-range'
+workstations, priced in the US at Dollars 18,500 to Dollars 25,000, will be
+available in the third quarter of this year.
+These will offer performance of 86m to 96m instructions a second and,
+according to standard benchmarks, are comparable to similarly priced
+workstations from H-P and IBM.
+Later this year Sun will begin shipments of two high-end multiprocessor
+models which outperform any workstations currently available, offering
+processing speeds of 200m to over 400m instructions a second.
+However, its competitors are not standing still, and Sun's claim that it can
+offer 'the world's fastest desktop workstation' is expected to be
+short-lived.
+Competition among workstation manufacturers is intense. It is one of the few
+segments of the computer market that has continued to grow strongly in spite
+of economic recessions in leading markets.
+The new Sun workstations will also provide users with a new way to merge
+computer and telecommunications networks into a single system.
+
+The Financial Times
+
+
+London Page 26
+
+920519
+

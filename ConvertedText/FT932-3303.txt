@@ -1,0 +1,73 @@
+FT932-3303
+
+FT  15 JUN 93 / Technology: Tape hits the cutting floor / A look at
+development in the newsroom
+
+
+   By GEOFFREY DAVIES
+
+
+Broadcasting from tape could soon be a thing of the past as television
+stations make increasing use of computers and special software to replace
+traditional tape technology.
+New tapeless editing equipment, developed with the help of the British
+Broadcasting Corporation and Cable News Network of the US, is being launched
+at this week's bi-annual TV equipment show in Montreux, Switzerland.
+Called the 'NewsCutter', and produced by Avid Technology, it is a full
+news-style edit suite of tape machines and monitors on an Apple computer
+which is capable of broadcasting directly to air. Both the BBC and
+Independent Television News, its UK rival, are evaluating the product and
+Avid hopes other European broadcasters will show a strong interest.
+Avid's equipment works through the compression of digital pictures, with
+data squeezed into ever smaller spaces on hard disc. It then uses other
+software to allow editors to call up pictures instantly from disc.
+Based in the US, Avid is prominent in the tapeless editing market. It will
+shortly open a European service and distribution centre outside Dublin.
+Avid's move into broadcast news has been helped by a partnership with
+Silicon Graphics of the US to provide equipment which allows video to be
+swapped between different machines in the newsroom.
+The process of editing video on disc is called 'non-linear' because it is
+not done in a line, as with normal editing on tape. It is akin to moving
+paragraphs within a document on a word processor.
+Avid is one of several companies selling into this growing market. But
+unlike competitors such as Lightworks and Eidos, both of the UK, which have
+tended to stay with commercials and broadcast programming, Avid is involved
+with both news and feature film production.
+Stephen Crummey, vice-president of world sales and marketing, says there are
+more than 1,500 Avid machines installed worldwide, 100 in Hollywood alone.
+Avid adapted its Film Composer for film use from the Media Composer, which
+was designed for Pal or NTSC television standards. Based on a powerful Apple
+Quadra 950 computer, Film Composer transfers images from tape or film on to
+hard disc, a process called 'digitising'.
+Shots are labelled using the keyboard and then read by the computer as
+reference numbers, usually based on the time-codes recorded during shooting.
+Shots can then be laid out in the edited order to run as a sequence.
+To change the sequence, the film editor simply re-orders the sequence in
+which the shots are to appear. Once a shot is moved, it can be viewed
+instantly in its new position. When the edit is agreed, the list of edit
+numbers is taken on a floppy disc and the originally shot material is then
+reassembled in the new editing order.
+The Media Composer has 24 channels of compact disc quality sound which can
+be dubbed and mixed while the pictures are being edited. The completed sound
+track is then added to the edited pictures. The BBC's political programme,
+On the Record, has been working this way for more than a year.
+But the big breakthrough for the industry is the ability to obtain
+broadcast-quality pictures directly from hard disc. This results from
+developments in video compression and disc speed. One second of
+broadcast-quality television represents 25 megabytes of data. This is
+compressed nearly tenfold to about three megabytes. Taped pictures which
+have been digitised can be held on removable hard drives of about 20
+minutes' airtime.
+One impact of the technology will come in the area of cost. Avid's
+NewsCutter, costing Dollars 50,000 in the US, is half the price of an
+equivalent edit suite. Also, the new equipment needs no special installation
+such as wiring and air conditioning. The BBC has already stopped using
+several edit suites since it first introduced non-linear editing.
+
+The Financial Times
+
+
+London Page 16
+
+930615
+

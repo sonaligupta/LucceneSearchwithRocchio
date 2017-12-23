@@ -1,0 +1,47 @@
+FT933-10025
+
+FT  06 AUG 93 / Data protection scope widened
+
+
+   By RACHEL JOHNSON
+
+
+BUSINESS-to-business mailing lists are covered by the Data Protection Act,
+the data protection registrar ruled yesterday.
+Mailing lists increasingly contained personal data and were vulnerable to
+abuse, said Mr Eric Howe, the registrar, who is seeking stronger safeguards
+against the 'black market' in personal data.
+Mr John Lamidey, assistant data protection registrar, said: 'The direct
+marketing industry has sometimes felt that the act does not affect
+business-to-business lists because they do not contain personal data.'
+He said this argument was no longer tenable as business-to-business direct
+marketing became more sophisticated and personalised and the volume of
+direct mail rose from 251m items in 1980 to 610m last year.
+The new guidance is aimed at ensuring that marketing organisations using
+business-to-business lists obtain and process personal data 'fairly and
+lawfully'. Such lists are compiled by brokers for companies seeking new
+customers to target for products.
+When personal data on such lists are processed with reference to the person
+concerned - rather than the company or job the person holds - the data comes
+within the scope of the act, the registrar said.
+'For example, John Smith, finance manager of The Widget Production Company,
+identifies a particular individual. If that data is then processed so as to
+produce information about 'John Smith' rather than 'the finance manager'
+then it is processed by reference to the data subject and comes within the
+scope of the act.'
+This means that the individuals concerned must be told at the time data is
+collected who the data user is, what are the uses to which the data may be
+put and to whom the data may be disclosed.
+Mr David Clark, of Ibis Information Services, a broker which compiles lists,
+said the guidance would not constrain Ibis's business because it mostly
+processed data 'by reference to some characteristic of the company rather
+than the individual'. The company is registered under the Data Protection
+Act.
+
+The Financial Times
+
+
+London Page 7
+
+930806
+

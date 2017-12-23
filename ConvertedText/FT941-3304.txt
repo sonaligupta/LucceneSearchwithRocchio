@@ -1,0 +1,24 @@
+FT941-3304
+
+FT  16 MAR 94 / Survey of Information and Communications Technology (26):
+The Picasso system
+
+
+AT&T's Picasso still-image phone, above, allows users to send full-colour,
+TV-quality still pictures, using an ordinary phone line - while
+simultaneously talking over the same line. The system, priced at Dollars
+3,295, takes about ten seconds to transmit a single image. The intended
+market is for engineers and other professionals needing fast transmission of
+detailed images.
+The device looks like an office phone, but contains a data modem and
+transceiver. To transmit a picture, users plug in a video camera, photo
+compact disk player or digital still cameras. On the receiving end, a
+computer monitor or TV set displays the picture.
+
+The Financial Times
+
+
+London Page XVII
+
+940316
+

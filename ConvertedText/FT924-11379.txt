@@ -1,0 +1,110 @@
+FT924-11379
+
+FT  26 OCT 92 / Survey of International Fund Management (11): Plethora of
+indices at hand - Barry Riley discusses benchmarks and measurement
+
+
+   By BARRY RILEY
+
+
+   TRADITIONALLY most
+
+
+if not all - fund managers have performed better than the average, and have
+been more than happy to provide figures to prove it. But the age of
+statistical sleight-of-hand may be passing, with the advent of more rigorous
+measurement techniques and the increasing tendency for clients to set very
+specific performance benchmarks.
+Investment authorities around the world have recently been attempting to
+clean up performance measurement standards. In the US, for instance, the
+Association for Investment Management Research has established so-called
+Performance Presentation Standards, which will become effective at the
+beginning of 1993. And in the UK a voluntary Pension Fund Investment
+Performance Code has been introduced by the National Association of Pension
+Funds and other trade bodies, effective from the middle of this year.
+A plethora of indices is available to provide the benchmarks against which
+portfolio performance can be measured, but just two series of equity stock
+indices dominate the picture for global equities.
+The older series, the Capital International indices sponsored by the New
+York investment bank Morgan Stanley, is especially well-entrenched among
+American funds and consultants. A more recent and easily available rival is
+part-sponsored by the Financial Times, the FT-Actuaries World Index series
+which appears daily in the FT. It is also backed by another US investment
+bank, Goldman Sachs, and by the UK's County NatWest.
+These global indices are constructed on a building block basis, so that
+individual country indices - there are 24 in the FT-Actuaries series - are
+combined to create various regional, continental and global benchmarks.
+Common principles include capit-alisation weighting, so that the indices
+track actual portfolio behaviour, and some regard to the availability of
+individual stocks to international invest-tors, who in some countries face
+restrictions on what they can buy.
+There are also national and international bond indices, notably the Salomon
+Bros World Government Bond Index. Other leading broking houses produce their
+own indices - such as the series of Global Benchmark Bond Indices produced
+by Union Bank of Switzerland.
+Even in the esoteric world of bond indices, however, there are
+controversies. Salomon has upset some bond managers by this month including
+Italy in its world index, because some doubt whether Italian debt can any
+longer be regarded as of high quality.
+The use of equity indices can be controversial, too. Some prefer a quite
+different approach to the benchmark problem, which is to compare a fund's
+performance with that of competitors with a similar investment objective.
+This is very common with British pension funds, for instance, which are
+routinely measured against the average or median fund.
+Mr Dugald Eadie, chairman of the Edinburgh-based World Markets Company,
+perform-ance measurement specialists, explains that balanced funds investing
+in different types of assets cannot be compared with any single index. Also,
+sponsors often want to know how much risk their fund managers are taking.
+'The peer group approach allows a measurement of risk around the index,' he
+says.
+But specialist funds invested in one particular asset class are more
+suitable for measurement against an index-related benchmark.
+There have, however, been problems in the past with indices applying to less
+efficient stock markets subject to distortions.
+Japan is the best example, where principal sectors such as financials (and
+until recently the telephone company NTT) have been difficult or impossible
+for international funds to invest in.
+During a particular year the foreign managers have therefore tended either
+all to underperform or outperform an index such as TOPIX. The peer group
+approach can therefore be more satisfactory.
+But there can be conceptual problems when benchmarks are tailored too
+specifically to the requirements of fund managers.
+Mr John Clamp, chief executive of another UK-based performance measurement
+company, Combined Actuarial Performance Services (Caps), points out that
+British pension funds tend to be dissatisfied with a straightforward World
+ex UK benchmark for inter-national equity portfolios. 'For certain funds the
+view is being taken that the spread of the world index on a market
+capitalisation basis is incorrect,' he says.
+This is because British pension funds usually have a lot more invested in
+Continental Europe than, say, in Japan, although capit-isation weights would
+suggest the reverse.
+Therefore a customised peer group benchmark is calculated by Caps, using
+individual country indices weighted by the geographical split of the average
+pension fund.
+Timeliness, however, can also be a factor in the choice of benchmark,
+according to Mr Eadie.
+'Index benchmarks are available very quickly, within two days of the end of
+the quarter,' he says. 'Peer group averages may take many weeks.'
+In the UK pension fund industry, according to Mr John Clamp, there is in
+practice roughly a 50-50 split between index-related and peer group
+benchmarks.
+Meanwhile, more and more indices are being created, and increasingly
+sophisticated benchmarks are being devised. In the US there are large cap,
+mid cap and small cap indices and managers are also categorised according to
+growth, value and many other styles.
+Consultants are designing benchmarks on a mix-and-match basis, and they can
+be individually tailored for a whole range of specialist managers mandated
+by a pension plan. Such capitalisation-segmenting indices have now appeared
+in the UK with the publication of new FT-SE indices such as the Mid 250.
+The question, however, is whether complex benchmarks based on a variety of
+sources will actually help clients, or whether the trustees and other
+sponsors will end up being bamboozled: 'It's a very real danger,' admits Mr
+Clamp.
+
+The Financial Times
+
+
+London Page IV
+
+921026
+

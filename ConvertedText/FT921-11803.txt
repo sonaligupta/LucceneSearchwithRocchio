@@ -1,0 +1,77 @@
+FT921-11803
+
+FT  30 JAN 92 / Technology: Communications in power struggle
+
+
+   By RICHARD WILSON
+
+
+Information technology managers grappling with the problem of creating
+corporate communications networks could do worse than look at the experience
+of Britain's three privatised electricity generators.
+With the break-up of the Central Electricity Generating Board in 1989 into
+three competing generating companies - National Power, PowerGen and Nuclear
+Electric - the company's communications infrastructure was torn apart. The
+generators either lost or were forced to share vital infrastructure with
+their new rivals.
+In 1990 National Power started a three-year programme to build optical fibre
+networks between its 43 sites which would support the company's needs for
+voice, data and videoconferencing until the end of the decade.
+The network would transform the generator's business by improving
+efficiency, changing the way it worked with its customers and providing
+revenues in its own right.
+Faced with a similar problem PowerGen had to completely rebuild the
+infrastructure in its 26 sites. To keep costs down conventional copper
+cabling was used to network the company's 2,500 PCs and workstations.
+According to Jeffery Jones, PowerGen's telecommunications services manager,
+optical fibre was only used when necessary to meet network capacity
+requirements or for safety considerations within power stations.
+As a result, by the end of 1990 PowerGen had spent more than Pounds 6m on
+its telephone and computer networks.
+National Power's was a more ambitious programme costing Pounds 20m, but
+Chris Yates, head of telecommunications services, was convinced the
+long-term approach to the network was the correct one. 'We did not plan to
+do this again in another two or three years, which other companies may find
+themselves doing, like it or not,' he says.
+The first priority was the company's phone network with 15,000 extensions
+spread around the country and connected by lines leased from BT, formerly
+British Telecom, or Mercury. Even before this was finished at the end of
+1990 important decisions had already been made about which equipment to use
+in the rest of the programme.
+Yates decided to use a single supplier for the core network hardware and the
+network management software. It would be easier to gain the operational
+expertise which would improve network efficiency and contain the running
+costs.
+AT&T of the US was chosen to supply the core network infrastructure which
+included more than 2,000 miles of optical fibre cable and 1,000 miles of
+copper cable.
+A team of four contractors were used to build the network, and the overall
+project management responsibility was shared between National Power and PA
+Consulting.
+National Power decided not to put the main contract out to competitive
+tender even though it could have reduced the final cost. 'For a key product
+such as this you cannot afford to go to competitive tenders and the
+professional relationship with our suppliers has more than repaid that
+decision,' says Yates.
+The quality of the relationship between AT&T, the contractors and National
+Power meant that the project was completed in nine months. This was despite
+the unforeseen difficulty of flying equipment from the US at the height of
+the Gulf War.
+According to Yates, current network usage did not dictate the need for
+high-capacity optical fibre. He expects it to be five years before the
+company sees the real benefits of its decision to use more advanced optical
+fibre for most connections.
+At Power Gen, Jones is already reconsidering the need for increasing network
+capacity with optical fibre to the desktop. 'The need for document imaging
+may force us down the route for greater use of fibre,' he says.
+National Power expects to gain the competitive advantage from its early
+investment in optical fibre. 'The choice of fibre over copper will influence
+the company's business over the next 10 or 15 years,' says Yates.
+
+The Financial Times
+
+
+London Page 12
+
+920130
+

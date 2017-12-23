@@ -1,0 +1,142 @@
+FT923-15476
+
+FT  02 JUL 92 / FT Law Report: Restitution claim can go ahead
+
+
+   By RACHEL DAVIES, Barrister
+
+
+SECURITIES AND INVESTMENTS BOARD v PANTELL
+Court of Appeal:
+Lord Justice Neill, Lord Justice Scott, and Lord Justice Steyn:
+June 12 1992
+A SOLICITOR who is knowingly concerned in his client's illegal financial
+services transactions can be ordered by the court to take steps to restore
+innocent investors to their pre-investment position or to remedy their
+situation though he received none of the invested sums and was not party to
+the transactions, provided the order is intended to effect, and might be
+reasonably capable of effecting, restitution or a remedy.
+The Court of Appeal so held when dismissing an appeal by solicitors as
+third, fourth and fifth defendants from a decision (FT, August 9 1991) of
+Sir Nicolas Browne-Wilkinson, vice-chancellor, refusing to strike out the
+claim against them in an action by the Securities and Investments Board
+against Pantell SA and others.
+The facts set out in the judgment were as alleged by the SIB, and for the
+purposes of the striking-out application were assumed to be correct.
+LORD JUSTICE SCOTT said that from about April 1988 to March 1989 Pantell, a
+Swiss company, carried on unauthorised investment business in the UK.
+In the course of that business Pantell distributed false and misleading
+advertisements and made unsolicited telephone calls to persuade persons in
+the UK to purchase shares in a Utah company, European American Corporation
+Inc (Euramco).
+The solicitors acted for Pantell.
+Carrying on unauthorised investment business in the UK was a contravention
+of section 3 of the Financial Services Act 1986. The publishing of
+misleading advertisements contravened section 47. The advertisements had not
+been approved of by an authorised person, in contravention of section 57.
+The sale of shares in consequence of unsolicited telephone calls contravened
+section 56.
+The Act not only imposed criminal sanctions for contraventions, but also
+provided remedies for investors who entered into share transactions as a
+result.
+Section 6(2) provided that if the court was satisfied a person had entered
+into a transaction in contravention of section 3, it might order him 'and
+any other person . . . knowingly concerned in the contravention to take such
+steps as the court may direct for restoring the parties to the position in
+which they were before the transaction was entered into'.
+The SIB sought a remedy against the solicitors under section 6(2). It
+alleged they were 'knowingly concerned' in Pantell's contravention of
+section 3.
+Section 61(1) provided that if there was a reasonable likelihood that 'any
+person' had contravened sections 47, 56 and 57 or 59, the court might make
+an order requiring him 'and any other person . . . knowingly concerned in
+the contravention to take such steps as the court may direct to remedy it'.
+The SIB sought a remedy against the solicitors under section 61(1), alleging
+they were 'knowingly concerned' in Pantell's contraventions of sections 47,
+56 and 57.
+The solicitors denied they were 'knowingly concerned', but contended that
+even if they were, on the true construction of sections 6(2) and 61(1) the
+SIB was not entitled to the relief claimed. They asked for an order that the
+action against them be struck out.
+Sir Nicolas Browne-Wilkinson V-C dismissed the summons.
+The solicitors' case was based upon the undisputed fact that none of the
+payments made by the investors were made to them. The vice-chancellor
+concluded that receipt of the money by the person 'knowingly concerned' was
+not a necessary precondition of a restitutionary order under section 6(2),
+nor of a remedial order under section 61(1). The solicitors appealed.
+Mr Sumption for the solicitors submitted that the relief claimed under
+sections 6(2) and 61(1) could not succeed, since it was a claim for
+compensation for loss and there was no jurisdiction to order compensation
+for loss against persons 'knowingly concerned'. He said the orders sought
+were not restitutionary, because the solicitors had received nothing from
+the investors and so had nothing that they could restore.
+While orders made under section 6(2) and section 61(1) must be restricted to
+their proper restitutionary purpose, it was not right to emasculate the
+restitutionary remedy available against persons 'knowingly concerned' on the
+ground that they were not liable to be subjected to compensatory remedies.
+The precondition of an order under section 6(2) was that a person had
+transacted in contravention of section 3.
+The purpose of an order under section 6(2) must be to restore parties to the
+transaction to the position in which they were before it was entered into.
+So an order ought not to require a contravenor to repay the purchase price
+of shares unless there was also provision for the return of the shares by
+the investor.
+Provided the precondition was met, the only limitations on the type of order
+that could be made under section 6(2) that were justified by the statutory
+language were that the order must be intended to restore the transacting
+parties to their respective former positions and that the steps directed by
+the order to be taken must be reasonably capable of doing so.
+Subject to those limitations there was no reason why restrictions should be
+placed on the type of order that could be made under section 6(2). The width
+of the statutory language, 'such steps as the court may direct', was
+striking and there was no good reason why it should be restricted. Nor did
+the statutory language warrant any distinction between the type of order
+that could be made against the contravenor and the type of order that could
+be made against a person 'knowingly concerned'.
+The fact that a person 'knowingly concerned' had not received anything under
+the transaction did not restrict the court's power to make a section 6(2)
+order against him.
+Each investor must be willing that there should be a rescission of the
+investment transaction in question, and be willing to return any shares or
+money he had received under the transaction.
+Similar points arose in relation to section 61(1).
+There were two relevant preconditions before an order 'to take steps' could
+be made under section 61(1).
+One was that a person had contravened one of the statutory provisions
+referred to in subsection (1)(a). It was alleged that Pantell had
+contravened sections 47, 56 and 57. The second precondition was that there
+were steps that could be taken for remedying the contravention.
+The court was empowered if those two preconditions were satisfied, to make
+an order for 'such steps as the court may direct' to 'remedy' the
+contravention. The steps directed must therefore be intended to remedy, and
+be reasonably capable of remedying, the contravention.
+Subject to those limitations as to purpose and effect, there was no reason
+to place further limitations on the steps the court could direct to be taken
+under section 61(1).
+In the light of that analysis of sections 6(2) and 61(1) it was not a valid
+objection to the SIB's case that the solicitors had not received any of the
+investors' money.
+Orders under the sections should be directed to restoring not only investors
+but all parties to their former positions, and not to a class but to
+individual transactions. A restitution order could not remedy a section 57
+contravention.
+The appeal was dismissed.
+LORD JUSTICE STEYN concurring said that the genesis of the provisions was
+the widespread belief that operations of share-pushers were damaging the
+integrity of the markets and contrary to public interest. Share-pushing
+operations were only made possible because of the assistance of third
+parties, such as bankers, accountants and solicitors.
+'Knowingly concerned' was not defined. Mere passive knowledge would not be
+sufficient. Actual involvement in the contravention must be established.
+LORD JUSTICE NEILL agreed with both judgments.
+For the solicitors: Jonathan Sumption QC and Leslie Kosmin (Barlow Lyde &
+Gilbert).
+For the SIB: David Oliver QC and Thomas Lowe (Booth & Blackwell.
+
+The Financial Times
+
+
+London Page 18
+
+920702
+

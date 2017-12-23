@@ -1,0 +1,118 @@
+FT942-12850
+
+FT  27 APR 94 / Survey of Pension Fund Investment (9): Maturity requires
+lower risks - Asset-liability studies: balance becomes more critical
+
+
+   By BARRY RILEY
+
+
+Leading investment managers say that some 60 per cent of UK pension funds
+are still setting peer group-related performance targets, such as beating
+the median fund or staying in the second quartile of funds.
+But trustees are becoming aware that, as their schemes become more mature,
+it is increasingly less likely that an average or consensus strategy will be
+entirely appropriate for their particular circumstances.
+Last year, an industry-wide survey by the fund managers PDFM showed that 34
+per cent of funds were being significantly influenced by asset-liability
+modelling in setting their portfolio structure - up from 20 per cent in
+1991.
+Moreover the Goode committee's recommendation of a minimum solvency
+standard, which is likely to be taken up and developed in a forthcoming
+pensions white paper, with legislation to follow in 1995, has triggered a
+furious debate within professional actuarial circles.
+R. Watson, a leading firm of consulting actuaries, said last week that half
+of its client schemes worth Pounds 100m or more would have failed to meet
+the Goode 100 per cent standard in March 1993. At the most recent major
+stock market trough in September 1990 two-thirds would have been below even
+the critical 90 per cent level.
+Mr Andrew Wilson, a Watson partner, says the figures illustrate 'the need
+for schemes to consider increasing assets beyond the ongoing funding basis
+established before the Goode Report, or change investment strategy to reduce
+volatility.'
+The recent decision of the British Rail pension scheme to allocate something
+approaching Pounds 1bn to specialist bond portfolios is a sign of the change
+of climate. Many big, well-established schemes, both in the public and
+private sectors, are catering for much reduced current workforces, but still
+have large numbers of pensioners - both in current payment and deferred - on
+their books.
+For such schemes, the liabilities to pay benefits are no longer primarily
+stretched into the distant future but are bunched in the next 10 or 20
+years; and indeed, in many cases there is a constant net cash outflow as
+benefit payments already exceed contributions. The average NAPF member
+scheme now has only 5,000 current members against 4,700 pensioners in
+payment and 2,800 deferreds.
+Although the biggest category of liability is therefore in respect of final
+salary-linked pensions, for which an equity portfolio is generally
+considered to provide an appropriate long-term match, schemes also have
+large liabilities to pay current pensions and provide for deferred pensions.
+These liabilities are different in nature as well as timing. Deferred
+pensions, for instance, are statutorily subject to so-called limited price
+indexation (LPI) - rises in line with the retail price index up to a ceiling
+of 5 per cent.
+As for pensions in payment, the picture is much more complex. Many schemes
+raise pensions by something like 3 per cent a year, others apply the LPI
+formula, and many public-sector schemes offer full indexation. Quite often
+private-sector schemes raise pensions in line with prices in practice, but
+do not guarantee it.
+Matching these liabilities with equities, or with a standard pension fund
+asset mix, is looking increasingly hazardous. The purpose of an
+asset-liability study is to set out the profile of benefit payments, and
+suggest an asset structure that could more safely generate the required
+cash.
+Last year, index-linked gilts, for instance, received Pounds 2bn of extra
+investment from pension funds, according to WM, making this the most popular
+asset category for new money. WM attributes this to the desire of some funds
+to match liabilities more closely.
+Conventional fixed-income gilts offer lower investment risk, but on the
+other hand they do not provide a close match for most scheme liabilities,
+except for fixed pensions. It has been argued that an LPI gilt might prove
+an attractive innovation to many funds. The Goode committee itself suggested
+that deferred income index-linked gilts would be a valuable introduction.
+The proposal for a minimum solvency standard is critical here, and has set
+the cat among the pigeons. Until now, actuaries have been able to absorb
+most market price fluctuations of long-term assets within the reasonable
+assumptions of their valuation basis. So long as there is no reason to
+project a decline in long-term real dividend growth, for instance, a stock
+market tumble can be ignored.
+But this degree of flexibility is destroyed when a market value-based
+solvency test is used. Already, some actuaries have become worried about the
+results of the non-statutory discontinuance tests, which they apply to
+schemes to check whether there would be enough to pay the current benefits
+if the schemes were wound up tomorrow. The problem has arisen because of the
+recent tumble in annuity rates.
+Now this problem looms much larger, because of the Goode committee's
+proposal to apply a statutory minimum solvency requirement. With schemes
+holding a record 80 per cent in equities in their portfolios, they would be
+exposed to the risk of being forced to top up their schemes after an equity
+market crash.
+The investment implications could be quite profound. In theory, for
+instance, UK pension funds might be advised that, in due course, they should
+reduce their equity exposure towards the levels seen in the US. There,
+market value-based valuations are the rule, and the average equity exposure
+of defined benefit schemes is only about 50 per cent.
+Mr Robert Ross, of consultants Frank Russell, has argued that there would be
+great risks in funds holding nearly 60 per cent of their assets in a single
+asset class, UK equities, as they do now.
+Alternatively, UK schemes might decide to retain a high exposure to
+equities, but use portfolio insurance techniques through the derivatives
+market, in order to protect them against the downside risk of a sharp fall
+in share prices.
+Since, in the long run, bonds, for instance, have returned 5 1/2 per cent a
+year less than UK equities, a big switch to non-equity assets could force
+actuaries to recommend significantly higher contribution levels. Using
+derivatives would also involve a net reduction in returns.
+There is a paradox here, in that weakly-funded schemes are precisely those
+that need the highest returns, but in future circumstances they may be least
+able to accept risks.
+A vigorous debate is certain to take place on the proposed solvency laws
+before they are introduced, but whatever happens consultants offering
+asset/liability modelling are likely to have a busy time.
+
+The Financial Times
+
+
+London Page VI
+
+940427
+

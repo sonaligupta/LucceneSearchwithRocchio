@@ -1,0 +1,139 @@
+FT932-148
+
+FT  30 JUN 93 / Business and the Environment: Utilities' chance to clean up
+ -Laurie Morse describes a US plan that allows companies to turn cuts in
+sulphur dioxide emissions into dollars
+
+
+   By LAURIE MORSE
+
+
+Protecting the environment with legislation is notoriously difficult. Even
+when the measures to be taken find general agreement, government regulations
+often result in high costs - either to industry or to taxpayers.
+But the group of environmental radicals who crafted the US 1990 Clean Air
+Act may have turned this situation around. Having achieved a political
+mandate to clean up the air, they set up a rare market solution for
+achieving the goal. To date, the programme, which encourages trading in
+pollution allowances, is getting rave reviews from environmentalists,
+electric utility customers and from the industry it is assigned to modify.
+The Clean Air Act requires that by 2000, US sulphur dioxide emissions be
+reduced to half their 1980 level of 19m tons. This should remove the acid
+rain that is killing many north-eastern watersheds.
+Rather than force the nation's electric utilities - the largest sulphur
+dioxide polluters - to adopt uniform technology for pollution abatement, the
+Environmental Protection Agency defined emissions standards, issued permits
+for the allowable level of pollution, and then told the utilities to design
+their own emissions clean-up programmes. If they reduce emissions more than
+required, they can sell their surplus pollution permits.
+'This turns the regulatory system on its head,' says Daniel Dudek, senior
+economist for the Environmental Defence Fund, a Washington-based advocacy
+group. 'Rather than providing a ceiling for compliance, the regulations
+provide a floor. It motivates companies to clean up beyond legal
+requirements and turn that into dollars. It also inspires innovation in
+technology and clean-up strategies.'
+The programme gives utilities unusual flexibility in meeting emissions
+requirements, and allows them to seek the lowest-cost compliance
+alternative.
+The market-based compliance process is welcomed by the US electric power
+industry, which faces financial pressures from deregulation. Federal energy
+rulings are gradually curbing the utilities' monopoly control over their
+transmission lines, opening the door to cut-rate producers and allowing big
+customers to haggle over the prices they pay for power. In many cases,
+electric companies are finding it difficult to recover capital construction
+expenditures, including those for pollution control equipment, by raising
+utility rates.
+The allowance programme is being implemented in two stages. In the first
+phase, 110 of the nation's dirtiest power plants, most of them in the
+mid-west, have until 1995 to cut their sulphur dioxide output by 25 per
+cent; by 2000 they must reduce emissions by a further 25 per cent.
+They will then be joined by hundreds more utilities in phase two of the
+clean-up, which extends to 2010. By then, US sulphur dioxide emissions will
+have dropped to 8.95m tons (8.12m metric tonnes). From 2010 onward, there
+will be only 8.95m tons of pollution allowances available. The EPA will
+strictly enforce the emissions levels, levying fines of Dollars 2,000
+(Pounds 1,333) for each stray ton of sulphur dioxide output.
+Most of the utilities, which usually burn low-cost regional coal to fuel
+their generators, will comply by installing expensive smokestack
+'scrubbers', or switch to low-sulphur fuels. However, some, like Carolina
+Power and Light, will buy additional pollution allowances as the lowest-cost
+compliance alternative.
+CP and L uses clean-burning low-sulphur coal and already meets the 1995
+emissions standards. To meet the more stringent standards for 2000, it would
+have had to install millions of dollars in air-cleaning equipment for only
+marginal improvement in air quality. Instead, it has purchased 85,103
+pollution permits, each allowing one ton of sulphur dioxide emissions for
+one year in the second phase of the programme. It paid Dollars 11.5m, or
+about Dollars 135 each, at an EPA allowance auction held in Chicago in
+March. The utility expects to buy additional allowances directly from other
+utilities.
+James Davis, CP and L's senior vice-president for fossil generation,
+estimates the price at about one-third the cost of installing and operating
+scrubbers. 'Purchasing these and other allowances will enable us to delay
+the need to install scrubbers until 2005 at the earliest,' he says. 'This
+translates into direct cost savings for our customers, since they ultimately
+pay for environmental regulation.'
+For a relatively clean plant like Davis's, scrubber installation and
+maintenance costs can be as high as Dollars 800 per ton of emission
+reduction.
+Overall, the EPA estimates electric utility customers would have had to pay
+30-60 per cent more for the benefits of the Clean Air Act if it were not for
+the allowance programme. 'There will be an increase in electric rates, but
+it will be far lower than under the old command-and-control system,' says
+Renee Rico, an EPA administrator of the acid rain programme (which is
+implementing the Clean Air Act). She points out that under the allowance
+scheme the biggest polluters will make the biggest emissions reductions.
+American Electric Power, the US's largest coal-burning utility, has 50 power
+plants distributed across seven mid-western states. Twenty-one of its sites
+must meet the 1995 compliance deadlines. Henry Fayne, AEP's controller, says
+the allowance programme enables his company to over-comply by building a
+scrubber on one site, and distributing the resulting surplus permits to
+other plants in the system. 'If we over-comply in one place, we don't have
+to comply in others,' he says.
+AEP is building a Dollars 815m scrubber at its Gavin plant in Gallipolis,
+Ohio. When it begins operation in 1995, it will cut Gavin's sulphur dioxide
+output to 30,000 tons a year from the current 388,000 tons. That reduction,
+and fuel switching at other sites, will bring all 50 of AEP's power plants
+into compliance.
+Pollution permits, like scrubbers, allow utilities to continue to burn local
+high-sulphur coal. The Clean Air Act has significantly reduced demand for
+that coal, depressing prices and putting thousands of mid-western miners out
+of work.
+For some utilities, coal mines, and miners, are important customers.
+Illinois Power, a utility in southern Illinois, used the clean air standards
+to negotiate lower coal prices in contracts with its suppliers, Arch
+Minerals and Peabody Coal. With the contract concessions and a portfolio of
+pollution permits, it will continue to burn about 5m tons of local coal a
+year, preserving mining jobs and satisfying the sulphur dioxide emissions
+requirements.
+Illinois Power will purchase between 75,000 and 125,000 pollution allowances
+a year until 1999. After that, it will install scrubbers. Delaying the
+technology decision will allow new research on scrubbers to be completed,
+Illinois Power chief executive officer Larry Haab said, in a statement
+announcing the agreements.
+Environmental groups have accepted permits as a low-cost and direct means of
+reducing pollution. By removing each allowance they buy from the market,
+they reduce national sulphur dioxide output by one ton for a year. In a
+notable gesture, North East Utilities, a Hartford, Connecticut-based power
+company, donated 10,000 allowances to the American Lung Association in
+support of cleaner air.
+One aspect of the allowance programme that is still lagging is a low-cost
+means for utilities to trade the permits. The EPA is developing a
+computerised system to track allowances and record ownership changes. But
+that system is behind schedule, and until it is operational the Chicago
+Board of Trade will delay holding a second allowance auction, originally
+scheduled for this month.
+Utilities continue to arrange private contracts for permit swaps, with most
+focusing on allowances for the second phase of the programme.
+'All this planning takes tremendous lead time,' says Andrew Weissman, a
+principal in Clear Air Capital Markets, which specialises in allowance
+trades. 'Most companies have finished their phase one planning, and are just
+starting on phase two.'
+
+The Financial Times
+
+
+London Page 20
+
+930630
+

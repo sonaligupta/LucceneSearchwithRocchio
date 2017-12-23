@@ -1,0 +1,82 @@
+FT932-6837
+
+FT  26 MAY 93 / Survey of Computer Industry - Systems, Software & Services
+(18): Discipline that works - Software methodologies
+
+
+   By PHIL MANCHESTER
+
+
+THE USE of formal design principles and rigorous management controls for
+building applications software has long been a controversial area in
+software development. The argument usually revolves around whether to use a
+formal software methodology or not.
+A methodology - such as the Structured Systems Analysis and Design
+Methodology favoured by UK government departments - is a disciplined
+engineering approach to designing and building computer software.
+Two diametrically-opposed schools of thought on methodologies have emerged:
+one argues that a formal approach to design and management is essential to
+ensure that the end product is satisfactory; the other argues that what
+really matters is the end result and it is not important how it is achieved.
+In reality, both groups are right. In some areas rigorous design is
+essential. A large-scale corporate network system, which controls the
+everyday operations of a company, needs careful thought and is best built
+using formal software engineering principles. Infrastructural systems such
+as a worldwide fund's transfer system for a bank - or an airline reservation
+system - demand a disciplined approach to design and construction.
+By contrast, a small-scale departmental information system, which gives its
+users a flexible way to get at their data and process it, does not require
+the same degree of formal design. A marketing information system for
+tracking product sales, for example, is best served by a quick and easy
+development method which involves close co-operation with the end-user.
+Software methodologies have their origins in what are called 'critical'
+systems in areas such as the military and aerospace. Such systems demand
+highly predictable systems and robust design and only rigorous methods can
+deliver these qualities.
+All methodologies start from the idea that software is a product which can
+be 'engineered' in the same way as a bridge or a motor car. They lay down
+procedures for gathering information about company data and the processes
+which transform it. Methodologies also help to enforce good design
+principles and management controls. In the last decade, these engineering
+design principles used to build 'critical' systems have made the transition
+to the commercial sector, where the demand for better quality and greater
+flexibility in software has increased.
+They have, however, had only limited success and many companies still do not
+use formal methodologies - though that does not mean their approach to
+software production is not 'methodical'.
+'I don't believe there is an organisation without a methodology of one sort
+or another,' says Mr Alan Cook, director of product marketing with the
+software tools specialist Softlab. 'It might be informal - but they are
+using some method to develop software. They have to in today's complex
+technology environment.'
+The real issue is about discipline in development, says Mr Cook. 'We are
+working in an engineering field and that demands discipline - standards and
+the like. This means we need somewhere to put information about the system
+being developed - a repository or data dictionary, for example. This acts as
+a starting point to give you a clear view of the company and its goals.'
+Mr John Peyton, European marketing director for Amdahl's Huron development
+system, agrees that development discipline is the important issue. 'You need
+a way to get the best out people in development - they are, at the same
+time, the greatest asset and the weakest link,' he explains.
+'But formal methods can act as a barrier between IT staff and users -
+something which is not acceptable. This barrier reinforces the idea of 'us'
+and 'them' and we need to get away from this.'
+There are other problems with formal methods, Mr Peyton points out. 'They
+are fine for systems which do not change - the infrastructural, operational
+applications, for example. But more and more systems these days must be
+flexible. They must be able to produce quick, demonstrable prototypes. Most
+methodologies struggle with this.'
+The growing sophistication of modern computer systems means that
+methodologies will probably apply only to software which is 'under the
+covers' where it can make a useful contribution as an engineering
+discipline. As far as application development is concerned, however,
+methodologies will recede into the infrastructure and tools used to build
+software.
+
+The Financial Times
+
+
+London Page VI
+
+930526
+

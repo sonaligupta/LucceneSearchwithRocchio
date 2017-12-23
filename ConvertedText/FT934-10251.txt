@@ -1,0 +1,72 @@
+FT934-10251
+
+FT  06 NOV 93 / Rabbit runs out of subscribers and time: Alan Cane charts
+the short and difficult history of Hutchison Whampoa's mobile phone service
+
+
+   By ALAN CANE
+
+
+IT WON accolades from Which? magazine for friendliness and economy but it
+failed to attract the masses. So there was little surprise yesterday when
+Hutchison Whampoa announced it was killing off Rabbit, its telepoint mobile
+phone service, after attracting only 9,000 subscribers.
+It was strange that the company had persevered with the service in the first
+place. In October 1991, a consortium comprising British Telecommunications,
+France Telecom, Deutsche Bundespost Telekom, Nynex of the US and Northern
+Telecom of Canada, essentially wrote the obituary for telepoint in the UK
+when it announced it was withdrawing its Phonepoint operation.
+The operation was one of four consortia licensed by the government in 1988
+to provide mobile phone services based on a technology - known as CT2 -
+developed by Ferranti, the Manchester-based electronics concern.
+CT2 can be used to develop a mobile phone service that is cheaper, lighter
+and more reliable than conventional cellular phones. It depends on a network
+of base stations established in public places. Users have to be within 100m
+of a base station and can only make, not receive, calls. The handsets,
+however, are, at about Pounds 99, significantly cheaper than conventional
+cellular telephones. Transmissions use digital - computer-based - signals
+rather than analogue, bringing improved quality and accuracy.
+By the time the consortium withdrew, declaring the service suspended because
+of adverse market conditions, it was clear that CT2 technology had little
+mass-market appeal. It had established only 3,300 base stations and had
+about 800 customers.
+Mercury Callpoint, a consortium comprising Mercury, Motorola of the US and
+Shaye Communication of the UK, had given up the previous July; Ferranti had
+sold off its Zonephone business. Byps, however, owned by Barclays Bank,
+Philips and Shell, was sold to Hutchison Whampoa which set about developing
+a system for launch in the UK.
+Hutchison launched Rabbit in June last year. It has done rather better than
+Phonepoint, with 9,000 subscribers and 12,000 base stations across the
+country, but it has little prospect of attracting an economically viable
+volume of subscribers in a reasonable time.
+By contrast in Hong Kong, Hutchison, Chevalier Telepoint and Pacific
+Telelink, which is backed by Vodafone, the UK cellular telephone operator,
+have all launched successful services. Hutchison alone has more than 70,000
+subscribers. The Hong Kong market is stronger because it has a large
+population concentrated in a small area.
+Mr Hans Snook, managing director for Hutchison Telecommunications in the UK,
+said Rabbit had been hampered by unsatisfactory equipment - the only
+available handsets performed well but were too big - and the need,
+single-handedly, to educate the market.
+To some extent, Hutchison's decision must also be seen as a way of clearing
+the decks for its own excursion into the next generation of portable
+telephony - PCN or personal communication networks - based on a combination
+of cellular radio and digital signalling. This is the new battleground in
+portable communications and the most important.
+Hutchison says the launch and roll-out of its PCN network, which will cover
+at least 70 per cent of the UK population in the first year of operations,
+will require further investment of about Pounds 345m over the next three or
+four years.
+In the UK, Hutchison's chief competition in the field is Mercury One-2-One,
+a joint venture between Cable & Wireless and US West.
+But if PCN is the mobile communications of tomorrow, does CT2 have any role?
+Mr Snook believes it will be developed as the digital cordless telephone for
+the home, combining low weight with accuracy.
+
+The Financial Times
+
+
+London Page 7
+
+931106
+

@@ -1,0 +1,87 @@
+FT911-4162
+
+FT  20 APR 91 / Stock and Currency Markets
+
+
+ -----------------------------
+STERLING
+ -----------------------------
+New York:
+Dollars 1.7215 (1.7515)
+London:
+Dollars 1.722 (1.772)
+DM 2.99 (same)
+FFr 10.0875 (10.1)
+SFr 2.5325 (2.555)
+Y 238.25 (242.25)
+Pounds index 92.2 (93.0)
+ -----------------------------
+GOLD
+ -----------------------------
+New York: Comex Jun
+Dollars 359.0 (360.2)
+London:
+Dollars 356.45 (357.6)
+ -----------------------------
+N SEA OIL (Argus)
+ -----------------------------
+Brent Jun
+Dollars 18.975 (19.125)
+ -----------------------------
+DOLLAR
+ -----------------------------
+New York
+DM 1.736 (1.705)
+FFr 5.852 (5.757)
+SFr 1.46785 (1.457)
+Y 138.3 (137.7)
+London:
+DM 1.736 (1.688)
+FFr 5.8575 (5.7)
+SFr 1.4705 (1.4415)
+Y 138.35 (136.7)
+Dollars index 66.3 (65.1)
+Tokyo close: Y137.9
+ -----------------------------
+US CLOSING RATES
+ -----------------------------
+Fed Funds 5 3/4% (6 1/8)
+3-mo Treasury Bills:
+yield: 5.91% (5.86)
+Long Bond:
+95 13/16 (96 17/32)
+yield: 8.247% (8.17)
+ -----------------------------
+STOCK INDICES
+ -----------------------------
+FT-SE 100:
+2,520.1 (-18.3)
+FT Ordinary:
+1,980.1 (-16.3)
+FT-A All-Share:
+1,220.16 (-0.7%)
+FT-A World Index:
+145.09 (-1.9%)
+New York
+DJ Ind. Av.
+2,965.59 (-33.67)
+S&P Comp
+384.2(-4.26)
+Tokyo: Nikkei
+26,541.97 (-256.93)
+ -----------------------------
+LONDON MONEY
+ -----------------------------
+3-month interbank:
+closing 11 23/32% (11 1/2)
+Liffe long gilt future:
+Jun 91 29/32 (94 3/4)
+ -----------------------------
+
+The Financial Times
+
+
+London Page 1
+
+910420
+

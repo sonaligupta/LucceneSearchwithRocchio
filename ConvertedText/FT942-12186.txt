@@ -1,0 +1,220 @@
+FT942-12186
+
+FT  30 APR 94 / Finance and the Family: How to track the best performers -
+Beating an index may seem an elementary challenge for a fund manager, but
+there are alarmingly few who meet it
+
+
+   By SCHEHERAZADE DANESHKHU
+
+
+Trackers aim to deliver the returns on an index through a variety of
+methods. In the UK, most tracker funds aim to follow the FT-SE-A All-Share
+but there are others which track FT-SE 100 companies, the mid-250 and
+smaller companies indices. Most trackers are unit trusts but investment
+trusts also offer ways of following an index.
+Unit trusts
+Compared with other unit trusts, tracker funds have done surprisingly well.
+Table 2 shows that in the three years to April 1, the FT-A-All Share index
+grew by more than 45 per cent while the average unit trust in the UK equity
+general sector, the home of UK trackers, rose by 26.8 per cent. All the
+trackers listed easily beat the average and the same holds true for the
+trackers with a five-year record.
+A tracker holds many advantages for the private investor, not least a
+drastic reduction in their choice of 1,500 funds or so, and lower charges.
+Table 1 lists the main trackers. With the exception of Gartmore, the initial
+charge on most is at the lower end of the industry average of between 5.25
+per cent and 6 per cent. Gartmore eliminated its initial charge altogether
+in 1992.
+More importantly, annual charges are well below the 1.5 per cent which most
+unit trust investors expect. Many of the funds' annual charge is a fraction
+of this, at 0.5 per cent or less, with some of the James Capel and John
+Govett funds at 1 per cent and Norwich Union's international index tracker
+at 1.25 per cent. While an initial charge can be made up over time, a high
+annual charge is more detrimental to a fund's performance and to an
+investor's returns.
+But how well do the trackers deliver what they promise? None can match the
+index because of their charges - this is clearly illustrated in the one year
+performance figures in Table 2 which show the trackers falling further
+behind the FT-SE-A All-Share than over three and five year.
+Others are simply less good at tracking than others, although fund managers
+will come up with various defensive arguments such as only aiming to track
+the capital performance of the index.
+Some unit trust trackers, notably John Govett, use derivatives such as
+futures and options to track the indices. With the exception of its FT-SE
+mid-250 fund, which uses shares, this makes its UK funds ineligible for a
+personal equity plan holding. Govett also has a range of bull and bear funds
+(not listed) which aim to do the opposite of an index and which are best
+left to institutions or to experienced investors. Investment trusts
+There are only a few investment trusts which track indices in a similar way
+to unit trusts. These include Edinburgh Fund Managers' Malvern UK trust,
+which tracks the FT-SE-A All Share index. Hoare Govett, has two smaller
+companies trusts tracking its own smaller companies index, and Abtrust has a
+New Europe investment trust to track the FT-A Europe index.
+The costs of investing through an investment trust are those you would
+usually pay when buying shares - stamp duty, stockbroker's commission and
+the bid/offer spread - but there may also be a small annual management fee.
+Malvern, for example, charges an annual fee of 0.25 per cent and the
+administrative expenses of the trust, which come off the investment income,
+are about 0.4 per cent per annum.
+However, John Spiers, of Best Investment, is not an enthusiast: 'Someone who
+wants a tracker wants predictability but with an investment trust, you have
+the added problem of the discount or premium.' The price of shares in an
+investment trust is set by supply and demand and so it does not necessarily
+correspond with the asset value of the trust. When the supply of shares
+exceeds demand, trust shares tend to trade at a discount to the asset value.
+The investment trust sector does have an alternative. Some trusts have
+issued loan stock (see Table 3)which has a prior charge on the trust's
+assets.
+The loan stock is dated but instead of being redeemed at par, it will be
+redeemed at the level of the index. There is also a dividend, usually in
+line with the All-Share. Nigel Sidebottom, of stockbroker Gerrard Vivian
+Gray, says: 'They are a pure tracker because no replication is required -
+what matters is that the trust has sufficient funds to repay the loan stock
+at redemption.'
+The only costs to the holder of the stock are dealing charges; there are no
+management fees to dilute performance. The management costs of the trust
+itself are borne by ordinary shareholders.
+The main danger is poor performance leading to an inability on the part of
+the trust to meet its liabilities at redemption. Since holders of loan stock
+rank ahead of ordinary shareholders, the trust would have to perform very
+poorly to be unable to meet these liabilities, according to Sidebottom.
+John Korwin-Szymanowski, of SG Warburg Securities, says there are some
+safeguards. Trustees of the loan stock, whose job it is to monitor
+performance, can step in to take measures if they think the trust may be in
+danger of not meeting its liabilities.
+The table shows the main loan stocks which track the FT-SE-A All-Share. To
+make comparisons with the index easier, the trusts set the asset value at a
+price (in pounds) arrived at by dividing the level of the index by 1000.
+Prices of the stock listed are all reassuringly close to that of the index.
+Since loan stock can only be bought in a relatively small market, it may
+trade at a discount or premium to the index. If you buy stock at a discount
+and hold it to redemption, you can expect outperformance of the index
+(assuming the loan stock is paid in full). However, a discount can be an
+indication of greater risk.
+ -----------------------------------------------------------------------
+                  TABLE 1: UNIT TRUST TRACKER FUNDS
+ -----------------------------------------------------------------------
+                                                Index
+Manager                   Fund Name             tracked
+ -----------------------------------------------------------------------
+Gartmore                  UK index              FT-SE-A All Share
+ -----------------------------------------------------------------------
+James Capel               JC UK Index           FT-SE-A All Share
+                          Footsie fund          FT-SE 100
+                          JC Trixie             JC Trixie
+                          Eurotrack 100         FT-SE Eurotrack 100
+                          JC American           S&P 500
+                          JC Japan              FTA World Japan
+                          JC Tiger              JC SE Asian
+ -----------------------------------------------------------------------
+John Govett               FT-SE mid 250         FT-SE mid 250
+                          Geared UK indx        FT-SE 100
+                          UK index fund         FT-SE 100
+                          US index fund         S&P 500
+                          European index        FT-SE Eurotrack 100
+                          Japan Index           Nikkei Dow-Jns 225
+                          Hong Kong Indx        Hang Seng
+ -----------------------------------------------------------------------
+Legal &                   UK index              FT-SE-A All Share
+General                   US index              FT-A World US
+                          European index        FT-A Wrld Euro xUK
+                          Japan index           FT-A World Japan
+ -----------------------------------------------------------------------
+Morgan                    UK tracker            FT-SE-A All Share
+Grenfell                  US tracker            S&P 500
+                          Japan tracker         FT-A World Japan
+ -----------------------------------------------------------------------
+Norwich                   UK index trckr        FT-SE-A All Share
+Union                     Intrntntl indx        FT-World excl UK
+ -----------------------------------------------------------------------
+Prov Capitol              All-Share Mirr        FT-SE-A All Share
+ -----------------------------------------------------------------------
+Royal Life                UK Index Track        FT-SE-A All Share
+ -----------------------------------------------------------------------
+Swiss Life                UK Index track        FT-SE-A All Share
+ -----------------------------------------------------------------------
+                          Minimum    Initial     Annual     Pep    Sav
+Manager               inv (Pounds)  charge %   charge %    qual?   sch?
+ -----------------------------------------------------------------------
+Gartmore                    5,000        0        0.5       Yes     Yes
+ -----------------------------------------------------------------------
+James Capel                 1,000     5.25        0.5       Yes     Yes
+Footsie fund                1,000    4.175        1.0       Yes     Yes
+JC Trixie                   1,000     5.25        1.0       Yes     Yes
+Eurotrack 100               1,000     5.25        1.0       Yes     Yes
+JC American                 1,000     5.25        1.0        No     Yes
+JC Japan                    1,000     5.25        0.5        No     Yes
+JC Tiger                    1,000     5.25        1.0        No     Yes
+ -----------------------------------------------------------------------
+John Govett                 3,000      3.5        1.0       Yes     Yes
+Geared UK indx              5,000     5.25        1.0        No     Yes
+UK index fund               2,000      4.5        1.0        No      No
+US index fund               2,000      4.5        1.0        No      No
+European index              2,000      4.5        1.0        No      No
+Japan Index                 2,000      4.5        1.0        No      No
+Hong Kong Indx              2,000      4.5        1.0        No      No
+ -----------------------------------------------------------------------
+Legal &                     1,000      5.0        0.5       Yes      No
+General                     1,000      5.0       0.75        No      No
+European index              1,000      5.0       0.75       Yes      No
+Japan index                 1,000      5.0       0.75        No      No
+ -----------------------------------------------------------------------
+Morgan                      1,000      5.0       0.75       Yes     Yes
+Grenfell                    1,000      5.0       0.75        No     Yes
+Japan tracker               1,000      5.0       0.75        No     Yes
+ -----------------------------------------------------------------------
+Norwich                     5,000      6.0        0.2       Yes      No
+Union                       5,000      6.0       1.25        No      No
+ -----------------------------------------------------------------------
+Prov Capitol                  500      5.5       0.75       Yes     Yes
+ -----------------------------------------------------------------------
+Royal Life                 25,000     5.25        0.3        No      No
+ -----------------------------------------------------------------------
+Swiss Life              500 units      6.0        0.5       Yes      No
+ -----------------------------------------------------------------------
+ -----------------------------------------------------------------------
+                    TABLE 2: HOW TRACKERS PERFORM
+ -----------------------------------------------------------------------
+Fund name                          1 year     3 years     5 years
+ -----------------------------------------------------------------------
+FT-SE-A All Share                    14.3        45.3        73.5
+Gartmore UK index                    12.1        41.7        70.6
+Norwich UK index tracking             8.7        36.1           -
+Legal & Gen UK index                  7.5           -           -
+Royal Life index tracking             6.9        34.2        55.8
+James Capel UK index                  6.1        32.2           -
+Morgan Grenfell UK tracker            6.0        31.8        58.7
+Swiss Life UK index track             4.7        34.8           -
+Prov Capitol UK All Shr Mirr          3.8           -           -
+Av UK equity gen unit trst            5.7        26.8        42.7
+ -----------------------------------------------------------------------
+Source: Micropal. Percentage growth to April 1 1994. Offer to bid, net
+income reinvested
+ -----------------------------------------------------------------------
+ -----------------------------------------------------------------------
+                  TABLE 3: EQUITY INDEX LOAN STOCK
+ -----------------------------------------------------------------------
+                          Number in                    Year of
+Investment trust          issue (m)     Price (p)*   redemption
+ -----------------------------------------------------------------------
+British Assets              140.9         156.5            2005
+Broadgate                     2.2         162.5            2007
+BZW Convertible              17.2         157.5       1996/2002
+Scottish American            49.5         160.0            2004
+Selective Assets             21.2         156.0            2013
+ -----------------------------------------------------------------------
+FT-SE-A All Share @ 26/4                   1580
+ -----------------------------------------------------------------------
+Source: SG Warburg Securities. Stock listed track the FT-SE-A All-Share.
+ -----------------------------------------------------------------------
+*at April 26.
+ -----------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page III
+
+940430
+

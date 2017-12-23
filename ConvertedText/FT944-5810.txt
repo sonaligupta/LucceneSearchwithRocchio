@@ -1,0 +1,110 @@
+FT944-5810
+
+FT  01 DEC 94 / Survey of Software at Work - Winter 1994 (3): One version of
+the truth - Upgrading international delivery information / Integrating its
+operations has reduced DHL's reporting times and increased its productivity
+
+
+   By CLAIRE GOODING
+
+
+Quick delivery is the essence of DHL's business. 'Enthusiasm and getting
+things done is the key to this company,' says Jeremy Young, the financial
+systems manager based in Brussels responsible for implementing DHL's new
+pan-European accounting system.
+'However, the exercise of implementing something on this scale, in 23
+countries, is not to be rushed . . . The challenge is the re-evaluation of
+old practices as well as implementing a new computer system.'
+DHL ships more than 80m packages annually, serving 80,000 locations in more
+than 200 countries. The company has grown rapidly, employing about 28,000
+people worldwide, and prides itself on using information technology
+effectively in its operations. Its reorganisation of European and African
+operations in 1991 triggered a rethink of its accounting system.
+The existing Insight system on an IBM System 36 had become outdated.
+'General Ledger and Accounts Payable were not integrated, there was a lot of
+re-keying of data, and the information available to support management
+decisions was simply too limited for the speed DHL is growing,' says Mr
+Young.
+The accounting project is part of a Pounds 1.5bn spend on updating and
+automating DHL's entire operation. The upgrade allowed it to convert to an
+open systems, Unix-based policy, using Hewlett-Packard computers. For a
+company whose essence is international operation, there were obvious
+long-term benefits and savings in implementing one package across all
+countries.
+The draft specification went to DHL working parties in six countries, whose
+recommendations went into the final tender specification. This went to 11
+suppliers with international packaged offerings, but not all could manage
+some features with an 'essential' rating, such as Gapp requirements in the
+US (Generally Accepted Accounting Practice).
+Oracle Financials won on the question of resources: DHL had already
+identified that any package it chose would need one major bespoke
+alteration. 'DHL has a remarkable business need in Accounts Receivable,'
+explains Mr Young.
+'We have an invoice line for each package. There might be massive volumes
+for one customer, so we might have a query on only three packages in a
+1,000-package order. We need that information up-front on one screen, and in
+every package we saw, the user would have needed to look at several
+different screens to get that information.
+Aware that it did not have all the necessary skills in-house, DHL has built
+a 'core team' for the international implementation, made up of DHL staff and
+consultants from Oracle and Price Waterhouse. This team turns its attention
+to each country: five main modules are being implemented in 23 countries.
+Francis Veldeman, DHL's financial director, wanted to 'transfer the
+knowledge into the organisation'. According to Mr Young, this has worked
+well. The transfer and sharing of knowledge and experience has made the
+international project workable.
+'Good project management is essential. We use Oracle's applications
+implementation methodology, but some flexibility is vital because different
+attitudes are needed to each country: Croatia needs more central support
+than the UK.' DHL has had to push for local support in some countries, but
+where local resources are short, Oracle has sent someone out.
+The benefits are already clear. 'In terms of DHL's day to day business, the
+most important is Accounts Receivable, because of the interaction with
+customers.
+'It is not just a debtors' ledger, it helps us to control the cash flow.'
+'It's an integral part of our 'customer care' approach. Credit controllers
+can keep notes on queries, see the customer history, the amount of business
+outstanding, and ensure that queries are dealt with quickly, and followed
+up.
+The Oracle Financials are integrated with DHL's in-house billing system, and
+currently with the MicroControl consolidation and reporting software. There
+are plans to build on an executive information system once the core
+implementation is complete.
+Mr Young can already measure the benefits in terms of days and labour saved.
+'Where Oracle Financials are implemented, reporting times at the month end
+have gone down from 13 to within a mere eight days of closure,' he says.
+'And we spend more time qualifying the information and less time
+number-crunching.'
+There have also been productivity gains in the Purchasing and Accounts
+Payable systems, from the integration of the information which is now only
+keyed in at one point.
+'The UK estimates productivity gains overall of 50 per cent from when they
+had separate systems,' he says. 'The main advantage of integration is that
+we all get one version of the truth, and there are no longer any disputes or
+misunderstandings over the actual figures.'
+Supplier profile Product: Oracle Financials Release 10 is an integrated
+suite of 10 core modules plus end user report writers and Oracle Alert for
+exception reporting. Multi-currency, multi-company and in 13 languages, the
+Financials can be integrated with manufacturing and human resources
+packages. Suppliers: Oracle, the world's largest independent database
+vendor, was established in 1977, with Oracle UK, a wholly-owned subsidiary
+following in 1984. In addition to database revenues Oracle Corporation's
+Applications business is worth Dollars 200m worldwide.
+Turnover: Dollars 2bn in 1994, with Dollars 284m profit; Dollars 1.5bn in
+1993, with Dollars 157m profit. Employees: 1,700 in the UK. Number of users:
+170 in the UK, 1,500 worldwide.
+Price: Pounds 100,000 average for four core modules, 50-user system.
+Hardware and operating systems: all Unix systems, DEC Vax.
+Sales and support/ maintenance: direct sales.
+User views: multinational implementations easy, (including training), ease
+of integration, good sales and implementation support.
+Contact: Dave O'Connor, Oracle UK.
+Tel: 0344 860066.
+
+The Financial Times
+
+
+London Page IV
+
+941201
+

@@ -1,0 +1,129 @@
+FT942-14508
+
+FT  20 APR 94 / Business and the Environment: Arctic weather on the job -
+Building designers may have overestimated air-conditioning needs
+
+
+   By DAVID LAWSON
+
+
+Air-conditioning became almost a standard feature of building design during
+the construction boom of the 1980s. But evidence is emerging that the
+designers of this latest generation of buildings seem to have greatly
+overestimated the heat produced by the new electronic equipment that litters
+modern offices.
+Introduced to draw off surplus heat from electronic equipment in the
+computer-crammed offices of central London, air-conditioning's popularity
+spread widely. But the fans, pumps and refrigeration plant soak up enormous
+amounts of energy - perhaps as much as one-fifth of a building's power bill.
+And now there are serious doubts that such powerful systems are necessary.
+The UK government is attempting to reverse the trend of air-conditioned
+offices as part of its campaign to reduce CO2 emissions. Revised building
+regulations are due to come into force by 1995, in which, for the first
+time, designers and developers will have to justify the need for
+air-conditioning.
+This has produced protests from some developers who say that occupiers
+demand air-conditioning.
+However, Stuart Lipton, who led the development of the Broadgate complex in
+the City of London, says buildings are over-specified. In other words,
+occupiers are paying for air-conditioning they do not need.
+The miscalculation in requirements by designers occurred during the building
+boom of the 1980s. Peter Hill of the Building Research Establishment's
+Energy Conservation Support Unit argues that office equipment consumes far
+less energy than anticipated by the developer teams. Tenants are paying a
+hefty price for air-conditioning systems that can cope with up to five times
+the real amount of heat generated, he says.
+'Such a cooling system will always be operating inefficiently, vastly
+increasing energy consumption and costs,' he says in a paper presented to
+Clima 2000, the international energy and environment convention recently
+held in London.
+These over-indulgent systems are, according to Hill, a result of fear and
+ignorance. Equipment contributes only 10 per cent of overall office heat but
+designers build in hefty safety factors, he says. They do this to protect
+themselves against potential complaints from occupiers over failure to cool
+buildings sufficiently. At other times, Hill warns, they simply do not check
+the heat output of individual machines.
+Hill's research indicates that simply adding up the potential items likely
+to be used in an office and multiplying that by the manufacturers' ratings
+does not work. One personal computer tested in Hill's research was rated at
+90 watts but consumed only 30W. A laser printer used an average of 75W
+compared with a rating of 850W, while a photocopier took 126W rather than
+the rated 1250W.
+Another important factor in heat production is how often equipment is used.
+A room full of executives, for instance, would create less heat than a
+typing pool. A survey of 74 UK companies with a combined workforce of 3,500
+showed that 10 per cent of managers never touched a PC and 45 per cent were
+only intermittent users. Typists, however, were 100 per cent users.
+Figures also vary for different professions. Some 40 per cent of draughtsmen
+are regular PC users compared with 78 per cent of accountants.
+Surveyors, who have a leading role in planning the capacity of services in
+any building, might look to their own work patterns for a hint of where they
+may be going wrong. Only 23 per cent are regularly in front of their PC and
+a quarter never go near one.
+Designers cannot simply calculate the number of staff in a building,
+multiply that by the likely pieces of equipment and come up with a heat
+output. But they can produce a 'usage diversity factor' compiled from the
+type of staff and the minimum number per machine - ranging from perhaps one
+person per PC to 20 per fax.
+Office size and occupation density are also important. A big telesales or
+financial services floor will have far more staff and machines crammed into
+each square metre of space. On the other hand, a small office with a few
+staff will still need a standard range of equipment, so energy use per head
+may be relatively high. This means power consumption can vary between 50W
+and 250W per person in large offices.
+Most speculative developers would maximise the letting potential for a
+building by aiming for the top of this range, and some occupiers will end up
+paying for an air-conditioning system five times as powerful as they need.
+If designers continue to cater for the most energy-hungry potential user,
+this burden of over-capacity could get worse for less exacting users.
+Research by Brecsu shows that as extra and more powerful equipment is
+introduced, power consumption could rise over the rest of the decade to
+around 300W per person in larger offices and to 350W in those with around 50
+staff.
+From 2000, even the energy guzzlers may find themselves paying too much for
+heat extraction, as conservation measures will steadily reduce demand to
+200W per person. The computer industry is already adjusting to new demands,
+as Jacques Roturier, professor at Bordeaux University, pointed out at Clima
+2000.
+The majority of the 30,000 PCs sold in Sweden each year now have automatic
+turn-off monitors providing a stand-by capability of less than 8W. The US
+Environmental Protection Agency has signed an agreement with leading
+manufacturers for a 'star' rating for computers and printers with automatic
+turn-offs and a stand-by mode of less than 30W.
+But perhaps most significantly, US President Bill Clinton has ordered the
+federal government - perhaps the world's biggest computer purchaser - to buy
+only energy-efficient equipment. This could lead manufacturers to adopt
+energy-saving controls as a standard feature of all equipment.
+In the meantime, Hill and Roturier say substantial energy savings could be
+achieved by closer examination of the real effects of office equipment
+loads, and by avoiding over-estimation for air-conditioning and cooling
+systems.
+ ------------------------------------------------------------
+                   POWER DEMANDS IN THE OFFICE
+ ------------------------------------------------------------
+                      SAMPLE     AVERAGE     AVERAGE
+                      POWER      POWER       POWER
+ITEM                  RATING W   DEMAND W    RATIO PERCENT
+ ------------------------------------------------------------
+Personal computers      200        160        80
+with VDUs combined      287        102        36
+ ------------------------------------------------------------
+Laser                   850         75         9
+printers                773        350        35
+ ------------------------------------------------------------
+Photocopiers           1250        126        10
+                       2200        988        45
+ ------------------------------------------------------------
+Vending
+machines               3000        254         9
+ ------------------------------------------------------------
+Source: Clima 2000 Conference
+ ------------------------------------------------------------
+
+The Financial Times
+
+
+London Page 20
+
+940420
+

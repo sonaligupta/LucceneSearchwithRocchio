@@ -1,0 +1,113 @@
+FT932-6842
+
+FT  26 MAY 93 / Survey of Foreign Exchange (16): Systems prepare for battle
+ -Electronic brokerage is on the march - But even bullish project managers
+recognise the pitfalls
+
+
+   By JAMES BLITZ
+
+
+THIS AUTUMN, foreign exchange dealers will have to watch their screens more
+attentively than ever. The major suppliers of electronic real-time price
+information to the market are about to engage in a huge sales war across
+their desks.
+The battle is to sell computer systems to the banks which simulate the work
+currently done by human brokers - and which will do that work a good deal
+cheaper.
+Around 50 per cent of all FX deals are currently struck in direct
+conversations between two counterparties in the interbank market. An
+additional 35 per cent of deals are matched by brokers, who bring together
+the buyers and sellers in the investment banks.
+But, although brokers are extremely skilled and quick at their job, they add
+significantly to the transaction costs which banks incur. Brokers charge
+commissions, which can be quite considerable for less liquid currencies like
+sterling and the French franc. At times of volatility, they can also widen
+the spread between the cost of buying and selling currencies, so that they
+can make returns.
+Electronic matching systems aim to do the same work as the brokers, but at a
+reduced cost. As one London-based foreign exchange manager puts: 'With these
+new computerised systems, what the dealer sees on the screen is what he
+gets.'
+But more than one system is coming on to the market, and the battle to sell
+them is set to be fierce.
+Reuters, which has the largest market share in the provision of real-time
+information to financial markets, launched its 2000-2 dealing system in May
+of last year. Last month, Minex, a Japanese company, launched its system
+which, for the moment, predominantly operates in the Tokyo market.
+Later this year, a consortium bringing together the major foreign exchange
+banks and the electronic information group, Quotron, is launching an
+electronic matching system called Electronic Broking Service (EBS).
+The Reuters system might easily have gone unchallenged. The information
+group already has a huge hold over communications in the foreign exchange
+market through its main dealing systems, Reuters 2000-1 and Reuter Monitor,
+with 19,000 dealing terminals around the world. Quotron, which is backing
+the EBS project, has only 3,000 of its FX Trader systems world-wide.
+However, the launch of 2000-2 was of such concern to foreign exchange
+managers at London's leading banks, that a group of them felt that they
+needed to launch a rival in the form of EBS.
+One fear was that Reuters would be in a position to dictate the nature of
+foreign exchange dealing if it could extend its share of transactions to
+some 80 per cent of the market.
+There are concerns, too, that an increase in Reuters market share could put
+it in a position to change the whole structure of FX dealing, if it so
+wished.
+A growing concentration of the FX business is in the hands of the major
+interbank counterparties. According to investors in the EBS system, a key
+concern of the banks is that Reuters should not sell its system outside the
+non-banking sector.
+As one backer of the EBS project puts it: 'If Reuters gained such a powerful
+position that it could put its systems in the hands of anyone it wanted, the
+interbank market would lose its strong hold on liquidity.'
+The battle between EBS and Reuters over automated brokerage will be
+particularly intense, because both companies have approached the development
+of their systems in different ways.
+Reuters spent years developing 2000-2 in laboratories, setting it up live
+and then finding customers. 'You must make sure your product works,' says
+Bob Etherington, marketing director at Reuters in London. 'At the end of the
+day, people will judge your system on reliability, speed and security.'
+The EBS consortium is also confident about the technical prowess of the
+system it is yet to launch. But Mr Peter Bartko, director of the group, says
+the critical advantage of the EBS system is the backing it has from the
+dozen or so banks which - together - have a 35 per cent share of the
+liquidity in the currency markets.
+'You can't be half pregnant in this game,' he says. 'You have to encourage
+dealers to use your system, and they will only do that if they can see a
+two-way price on the screen with depth. You need a wide audience on day
+one.'
+Reuters has come under criticism for launching 2000-2 without signing up the
+major counterparties as clients. The company is unwilling to reveal detail
+on transaction volumes, but there has been criticism of the low level of
+trading in the system's first year.
+However, Mr Etherington is confident that the system is going from strength
+to strength. He says that 183 users have signed up for the system, and
+another 118 have contracted to use it, in 17 countries. The daily traffic on
+the system is four times higher than it was at the start of the year. At
+least one member of the EBS consortium is also thought to have subscribed to
+Reuters 2000-2 system already.
+'We would like to have the major counterparties, but we still have an
+increasing number of the major players in the market,' he says.
+Will automated brokerage change the nature of foreign exchange? Even at
+their most bullish, the project managers acknowledge the pitfalls.
+One of the biggest problems is that automated brokerage systems might be
+comparatively slow in inputting prices into a market where every trading
+second counts.
+Today, when a dealer strikes a price with a broker, the transaction is
+completed when he shouts 'done' down the telephone. He is now invited to use
+a system in which deals are done in the slightly longer time it takes to
+type a message on a typewriter keyboard.
+But the earlier Reuters systems proved how technology can - with time -
+change the nature of the market. The volatility and profits in FX are as
+great as they are today because millions of dollars flow around the world in
+a split second.
+These funds would flow even more smoothly - and foreign exchange turnover
+will be even greater - if a single institution can claim to be the world's
+greatest broker.
+
+The Financial Times
+
+
+London Page VI
+
+930526
+

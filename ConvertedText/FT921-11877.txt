@@ -1,0 +1,40 @@
+FT921-11877
+
+FT  29 JAN 92 / International Company News: US disk group unveils computer
+memory system
+
+
+   By ALAN CANE
+
+
+STORAGE Technology, a computer disk drive manufacturer based in Louisville,
+Colorado, yesterday announced a new computer memory which it believes will
+revolutionise the data storage business.
+Called Iceberg, the new memory has been widely promoted by Storage
+Technology over the past three years as the answer to customers' data
+storage problems in the 1990s.
+The principal advance is a design which should ensure the system will never
+fail completely. Iceberg applies techniques pioneered by 'fault tolerant'
+computer manufacturers such as Tandem and Stratus; there is built-in
+redundancy at points where the system could fail. There are, for example,
+redundant disk drives, electronics, power supplies, cooling systems,
+operator panels and data paths.
+There is considerable intelligence built into the system. Mr Ryal Poppa,
+Storage Technology chairman and chief executive, said: 'With Iceberg, a
+global company will have access to its critical data virtually 24 hours a
+day, seven days a week.'
+Storage Technology's chief competitors in the memory market are
+International Business Machines and EMC Corporation. The company emerged
+from Chapter 11 of the US Bankruptcy Code in 1987 after a troubled period in
+the early 1980s. It reported 1990 net income of Dollars 69.3m on sales of
+Dollars 1.14bn.
+US prices for Iceberg range from Dollars 1.3m to Dollars 3.6m. Some 140
+customers are commited to buying the new memory.
+
+The Financial Times
+
+
+London Page 26
+
+920129
+

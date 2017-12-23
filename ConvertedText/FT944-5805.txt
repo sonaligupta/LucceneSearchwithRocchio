@@ -1,0 +1,138 @@
+FT944-5805
+
+FT  01 DEC 94 / Survey of Software at Work - Winter 1994 (5): Local support
+proves a tonic - Controlling global costs / Multinational pharmaceuticals
+company Syntex needed a swift answer to a sudden unprecedented loss of sales
+
+
+   By CLAIRE GOODING
+
+
+Like all pharmaceuticals companies, Syntex is operating in a fast-changing
+market in which profit margins are under threat. Best known for its
+anti-arthritic drug Naprosyn, Syntex is in the pharmaceuticals diagnostics
+and animal health business.
+Although well prepared for the moment when Naprosyn came off patent in the
+US and generic alternatives became available, the effect came as a shock to
+Syntex. 'We lost an unprecedented level of sales,' says Ronan Byrne,
+formerly European finance director, now director of EFSO, the European
+Financial Services Organisation set up by Syntex to implement its new
+business systems in Europe.
+'In a business used to high margins and high research expenditure, we had to
+look at our cost base with some urgency,' says Mr Byrne. 'The loss of
+revenue at an unprecedented rate focused our attention on scaling down
+costs.'
+The decision to control costs by using standard systems internationally was
+taken in the US headquarters in Palo Alto. The aim was to use a common
+system to improve the quality of the information on which operating units
+worldwide based their decisions.
+A crucial factor in the decision was the availability of local support and
+the ability to run in a decentralised organisation. SAP's R/3, a client
+server solution was chosen in the US from a shortlist including JD Edwards,
+BPCS, and Oracle. The selectors saw SAP as an astute company: 'SAP was
+regarded as the only game in town in terms of the global answer,' says Mr
+Byrne. 'It couldn't do everything we wanted but it was still streets ahead
+of the competition.'
+As is typical of a pharmaceuticals company, Syntex is customer focused. Mr
+Byrne, who has been with the company since 1975, wanted to make the new
+business systems part of the 'quality ethos' that he says pervades Syntex
+and set up EFSO to create a pan-European service.
+'We accountants need to focus on providing a truly 'added value' service
+which can support the business decision making and not just focus on
+historic events.'
+The EFSO team used the concept of 'better information delivery' to sell the
+idea to those users who (until they saw something better) were satisfied
+with what they had. 'The system promised meaningful information, rather than
+just what they did last month,' says Mr Byrne.
+The other main objective is to do away with the rush of month-end
+processing. 'We want interactive systems on-line the whole time so that we
+can do away with the concept of month end, and know where we are by pressing
+a button at any one time.'
+Syntex has standardised on hardware from Hewlett-Packard, and in the long
+term is planning links between its laboratory information systems (on
+Perkin-Elmer computers) and its supply and sales systems. Mr Byrne estimates
+that the software itself accounts for only a tenth of the entire cost, with
+large amounts going on training and some on consultancy from KPMG on
+business process re-engineering and project management.
+The two pilot sites up and running are Nordica, consisting of four
+countries, and Benelux, made up of three, working closely with EFSO via
+dedicated telecommunications. Each country has scaled down its internal
+accounts departments.
+The pilots have taught the EFSO team a great deal about change management.
+'A lot of the groundwork is in mapping out the organisational structure
+before implementation,' says Mr Byrne.
+The company had to take a long hard look at itself. It had to decide on
+international standards for such things as chart of accounts, product
+numbering and nomenclature, which meant people had to give up their
+long-establish codes or names for products and raw materials.
+In some cases people's objections were hidden and resistance was more
+difficult to overcome. 'Some cultures accept change more than others.' says
+Mr Byrne.
+'It is essential that users have ownership of the system and do not see it
+as something that is being imposed.'
+Chris Knight, European information systems manager of EFSO, says: 'There was
+a real sense of urgency that focused us, in that everyone realised that we
+couldn't go on as we were. There were national variations, such as pricing,
+reimbursement, just about every aspect of the business.'
+Tailoring options built into the software have largely catered for national
+differences but some national quirks - banking in Sweden, for example, -
+have been dealt with in SAP's ABAP programming language, with extra coding
+shared between SAP and Syntex. Obtaining updates, new releases and
+alterations delivered on time has sometimes been a problem for SAP,
+according to Mr Byrne, but this is as a result of its success. 'The uptake
+of SAP's software - for the same reasons that we chose it - has been so
+great that there simply aren't enough people to go round.'
+The Syntex goal is a worldwide system that can close the books within two
+days and deliver almost immediate information while moving towards a
+paperless environment. Mr Knight estimates that the pilot systems use only
+10 per cent of the SAP software's potential.
+'The objective is to use 80 per cent of the logistics and accounting
+functionality, so that we map our entire business process through the
+software.'
+Mr Knight believes SAP is one of the few packages that can deal with the
+complexities of an international company that operates in multiple
+currencies and languages with research and development, manufacturing and
+marketing operations.
+EFSO has used the well-trodden path of picking 'super-users' to popularise
+the system. Some of the most experienced users have become part of EFSO. Ann
+Page, formerly financial manager of the UK, now does the same job for EFSO,
+and is a regular user of the live systems.
+'Integrated systems have changed the job. The time that used to be spent
+reconciling systems, accounts receivable to general ledger, cash book to
+general ledger, can now be devoted to supporting the decision making
+process,' she says.
+'This system gives me more analytical power. I can look at sales
+achievements for an area, or expenses over a period. Eventually we will be
+able to look at anything from anywhere, compare costs and outgoings in
+different operations.'
+Supplier profile Product: SAP's R/3 system, current release 2.1, launched in
+January 1993, is an integrated suite of client/server-based applications
+software covering the entire scope of business operations, from accounting
+and financial management to manufacturing, logisitics and human resources.
+Suppliers: SAP UK is a privately held wholly-owned subsidiary of SAP AG, the
+world's sixth largest software company, which is publicly quoted in Germany.
+SAP AG was founded in 1972 in Germany and SAP UK was established in in 1988.
+Turnover: DM1.1bn in 1993; DM831.2m in 1992; SAP UK Pounds 10.1m turnover in
+1993. Employees: 60 in the UK.
+Number of users: 1,6000 (R/3 only).
+Price: from Pounds 80,000 for a 32-user system.
+Hardware and operating systems: BOS (Bull), OSF/1 and Open VMS (Digital)
+HP-UX, MPE/iX, AIX, SINIX, Solaris, Windows NT.
+Sales and support/maintenance: through selected business partners, including
+consultants. Maintenance, including on-line help and Early Watch remote
+diagnostics services, charged at 15 per cent of software price.
+Other services available: pre and post-sales support, technical and
+applications consultancy, software upgrade installation, education and
+training.
+User views: highly flexible, feature-rich, adaptable to company structure,
+local support exists in most countries, but SAP skills shortage a problem.
+Contact: Trevor Salomon, SAP UK Ltd.
+Tel: 081 893 2893.
+
+The Financial Times
+
+
+London Page VI
+
+941201
+

@@ -1,0 +1,97 @@
+FT924-6107
+
+FT  23 NOV 92 / Survey of World Commercial Vehicles (13): An exhausting
+programme of technology - A look ahead at the development of new products
+
+
+   By ALAN BUNTING
+
+
+ENVIRONMENTAL legislation has become the most powerful influence on truck
+technology and will remain so, through to the year 2000 and beyond. The
+challenge for manufacturers is one of complying with progressively-tougher
+exhaust emission and noise limits, while remaining competitive on vehicle
+cost, fuel consumption and performance.
+Though environmentalists might argue otherwise, making trucks quieter and
+cleaner does little or nothing to enhance their appeal in the eyes of
+today's recession-battered transport operator, whose concerns are more than
+ever centred on costs and vehicle productivity.
+If truck operators lived in a world where fuel consumption, vehicle price
+and payload (carrying capacity) were of no consequence, then cutting noxious
+emissions to the levels being demanded under so-called Euro 2 and 3
+legislation in 1996 and 1998/9 would be simple.
+But new technology is needed to clean up the diesel engine without incurring
+those penalties. Oxides of nitrogen (NOx) and particulates are the two most
+critical noxious exhaust constituents subject to legal limits. At present,
+moves to reduce NOx lead to heavier fuel consumption and/or reduced engine
+power.
+At the same time, formation of particulates (visible as black exhaust smoke)
+is increased. They can be readily removed from the exhaust using a filter,
+albeit a heavy, bulky and expensive unit, in which the deposits are
+periodically burned off harmlessly at high temperature.
+But diesel technology is moving ahead at such a pace that many manufacturers
+expect by the end of the decade to be offering engines which need no
+aftertreatment (exhaust filters or catalytic converters) to meet even Euro 3
+emissions legislation.
+And those turn-of-the-century engines will match the performance and fuel
+efficiency of today's diesels.
+In the forefront of such development are the American company Cummins, which
+builds engines in the UK, and Scania of Sweden. They have joined forces to
+develop an all-new diesel fuel system called HPI (standing for high pressure
+injection). It will raise peak injection pressures, from today's typical
+1300bar, to 1700 or even 2000bar (30,000psi). With HPI, injection will start
+later in the cycle and finish earlier, enabling both NOx and particulates to
+be reduced.
+Using the established American principle of mechanically- actuated
+injectors, HPI will feature a new method of electronic injection control,
+designed to overcome the leakage and injector bursting problems which would
+otherwise result from such ultra-high fuel pressures.
+Meanwhile, Mercedes-Benz is involved in a parallel fuel system research
+collaboration with another US engine maker, Detroit Diesel. Less radical
+technology will be applied than in HPI; further refinement of Detroit's
+present DDEC electronically-controlled injectors is the most likely path of
+development.
+In the wake of the agreement with Mercedes, Robert Bosch, Europe's near
+monopolistic diesel fuel system supplier, has taken a 49 per cent stake in
+Detroit Diesel's research company.
+Nevertheless, Bosch's own German-based research and development programmes
+continue, with emission law compliance central to them.
+Meanwhile, traditional European diesel fuel-injection systems, in which the
+injector is opened hydraulically, continue to be developed. For diesel
+makers wanting to meet Euro 2 emission laws, without the virtually total
+engine redesign needed to accommodate HPI or DDEC, Bosch will be supplying
+its new RP 39/43 sleeved-element pumps which feature electronic control of
+injection timing and fuel metering (quantity).
+Constrained by an inherent injection pressure limit of about 1300bar, their
+installation will mean, for the same low emission levels, say the proponents
+of HPIx, a greater fuel thirst. On one trend all truck and bus builders
+agree: more electronics are inevitable and not just on engines.
+Interactive electronic connections between the engine, semi- or
+fully-automated gear-change systems, and anti-skid and anti-wheelspin
+systems are already the subject of extensive road trials. Safety as well as
+vehicle operating efficiency are driving such developments, as commercial
+vehicle manufacturers struggle to endow their products with a more positive
+image in the eyes of a hostile public.
+Electronic control of compressed air-powered truck brake systems has been
+under active development for nearly a decade. It promises higher safety
+standards, specifically on the longest trucks and buses, where the
+compressibility of the air in pipes running from the driver's brake pedal to
+actuators on the rearmost axle create a built-in delay. A 'brake by wire'
+system can eliminate that piping, each brake actuator being fed via an
+adjacent air reservoir and solenoid valve.
+Unfortunately, progress is inhibited by the need for both halves of
+articulated tractor-trailer combinations to be equipped for electronic
+braking. In a big fleet that hampers interchangeability and hence
+operational flexibility.
+Given most truck operators' conservative, even sceptical, view of
+electronics - especially the thought of them applied to often neglected and
+abused trailers - it is hardly surprising that 'braking by wire' has been
+greeted less than enthusiastically.
+
+The Financial Times
+
+
+London Page VI
+
+921123
+

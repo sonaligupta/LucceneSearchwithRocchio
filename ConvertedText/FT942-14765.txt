@@ -1,0 +1,73 @@
+FT942-14765
+
+FT  19 APR 94 / Technology: Pool of IT resources keeps CAA in the race
+
+
+   By JOIA SHILLINGFORD
+
+
+Far-reaching changes in the computer world are having an impact on the way
+information technology departments are organised. When large, centralised
+mainframes were the dominant form of computing, so were large, centralised
+IT departments. But these were criticised for being expensive and remote
+from the business.
+Then came distributed computing. This made a 'federal' approach to IT
+possible, with computers and IT staff devolved to individual business units.
+A small, central IT department was usually retained to decide on the
+company's computing strategy and which standards it should support.
+Many companies hoped that putting IT staff in closer contact with
+non-technical managers would make them more business oriented. But all too
+often, devolved IT departments have expanded, creating their own fiefs and
+spiralling costs. As a result, they have become just as remote and
+inflexible as the large, centralised IT departments which they replaced.
+This inflexibility and the growth of PC use is making some companies rethink
+the way they organise IT. Stuart Vaughan, a senior consultant at Pagoda
+Associates, a London-based management consultancy, believes turning the IT
+department into a resource pool will solve some of the weaknesses inherent
+in organising IT staff.
+The idea has been tried before in the UK, but nowhere as radically as at the
+Civil Aviation Authority. The CAA has replaced its 110-strong central IT
+department with a resource pool of 50 staff and an IT department of 25. Any
+CAA business unit can draw staff from the pool so long as it puts them on
+its payroll for at least three months. Ad hoc PC projects (lasting no more
+than a few days) are handled by a team of six in the IT department.
+Vaughan, who is involved in the CAA project, says: 'A major benefit of the
+resource pool is that it can be sized in an optimum way, avoiding
+unnecessary duplication. It is also possible to demonstrate value for money
+because business units cannot hire an IT person unless they present a
+convincing business case.'
+At the CAA, line managers can hire from the pool or buy services from
+outside if the pool does not have the right skills. This makes IT staff very
+service-oriented. Richard Brett, the CAA's director of finance and
+management services, says: 'In the old days, staff whose skills were
+obsolete were simply put to work on internal projects for the IT department,
+while new staff with the latest skills were hired. But IT is no longer a
+self-generating organisation.'
+Now, he says, 'if people in the pool don't have an assignment, they are very
+visible. We try to retrain, but if they haven't been requested for two
+months, we put them on the redeployment list'.
+The pool will not rise above 50. If more staff are needed, the CAA will
+simply increase its use of outsourcing. In fact, the pool is likely to
+shrink. It has been in place for a year (on a transfer-charging basis till
+this month) and no one hired by a business unit has returned.
+Brett finds it encouraging that once IT people get into the business, they
+begin to develop real business skills. 'We're starting to overcome the bug
+bear of project definition, where the line manager knows what he wants the
+system to do but the IT expert is on a different wavelength.'
+He believes IT should not be viewed as a black art but as a normal business
+process. So the business planning group has responsibility for IT strategy,
+the internal audit department checks that business units are sticking to
+group technology standards, and line managers cost-justify and manage IT
+projects.
+This approach has helped the CAA to reduce its central IT overheads from
+Pounds 43m three years ago to Pounds 18m. A lot of money is also spent on IT
+in individual business units, where Brett says managers now see IT as a real
+cost.
+
+The Financial Times
+
+
+London Page 14
+
+940419
+

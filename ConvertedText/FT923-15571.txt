@@ -1,0 +1,70 @@
+FT923-15571
+
+FT  01 JUL 92 / Cleansing the Elbe by data
+
+
+   By ANDREW LAWRENCE
+
+
+The River Elbe, which rises in Czechoslovakia and runs for more than 1,000
+kilometres before it joins the North Sea near Hamburg, is one of the world's
+most beautiful rivers. It is also one of the filthiest. Anyone unlucky
+enough to fall in will swallow a dangerous cocktail of sewage, bacteria,
+heavy metals, nitrates and chlorinated hydrocarbons.
+A single dose of Elbe water may not be lethal, but much of the wildlife in
+and around the river has been killed off. After years of talk, an
+international project is at last under way to clean up the river and the
+North Sea into which it runs. For the first time, the scientists involved
+can draw on advanced data collection, computer analysis and measurement
+techniques borrowed from the world of process manufacturing.
+The initiative to clean up the Elbe began in 1985 when the countries
+bordering the North Sea signed a treaty to halve pollution levels. While the
+former West Germany was willing and able to tackle pollution in the 200
+kilometres of river it controlled, the Czechoslovakian and East German
+authorities, which controlled the remaining 900 kilometres, were
+uncooperative and lacked resources. Now Germany is unified and the Czech
+market economy stabilised the real work has started.
+The first step was the formation of the International Commission for the
+Protection of the Elbe (IKSE) in 1990. IKSE, backed by the Czech and German
+governments and the European Commission, has concentrated on accurate
+measurement. 'It's the first part of the battle. You have to have results
+before you can build plants to clean the river up', says Rolf de Vries, a
+project manager on secondment from computer supplier IBM.
+As part of its main project labelled INES (Information Network Elbe
+Sanitation), IKSE is now treating the river like a huge process plant.
+Remote sensors, monitoring stations and laboratories are being established,
+sending information back for consolidation and further analysis.
+Such an elaborate network of stations would have been unthinkable five years
+ago, but the cost of the technology has fallen and IBM has donated PS/2
+notebook and desktop computers and RS/6000 Unix workstations worth DM 1m.
+The 18 measuring stations are being installed along the banks of the Elbe or
+on floating pontoons. A suction pump takes water and distributes it to
+automatic instruments which measure its composition.
+The results are stored by a local PS/2 personal computer, and forwarded
+electronically every 24 hours, by modem, to laboratories or land stations.
+The water quality data is then sent up through an electronic hierarchy.
+Local results are transmitted to Hamburg and Prague for country analysis and
+then forwarded to the IKSE Secretariat in Magdeburg for final analysis.
+The detectors could reveal if a serious accident has occurred. For example,
+the level of one chemical may exceed allowable levels or the water may be
+less opaque than it should be. The station computer would send an alarm call
+to the land offices. The river is never unguarded. If an alarm occurs
+outside office hours, a standby service receives the alarm call. Duty
+engineers then call into the station using notebook computers for more
+information.
+IKSE expects the benefits from the INES project to be enormous and
+long-term. Ultimately, the data could be used to underpin every
+anti-pollution activity, ranging from prevention, clean-up, legislation,
+prosecution or the issuing of licences to discharge substances.
+The project team hopes its methods will attract interest. An initiative to
+clean up the River Oder (in Poland and Czechoslovakia) is underway, and IKSE
+believes that those responsible for rivers across Europe and beyond could
+make use of the methods and software involved.
+
+The Financial Times
+
+
+London Page 15
+
+920701
+

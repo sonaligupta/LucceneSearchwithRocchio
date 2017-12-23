@@ -1,0 +1,88 @@
+FT932-13551
+
+FT  22 APR 93 / Survey of Pharmaceuticals, Research and Development (6):
+Computers speed up drug dossiers - Technology available for management of
+data
+
+
+   By PAUL ABRAHAMS
+
+
+THE pharmaceuticals industry has been slow to harness the rapidly-improving
+power of personal computing for clinical trials and registration of dossiers
+for new drug applications to regulatory authorities.
+But a combination of changing demands from the US Food and Drug
+Administration and other national licensing bodies, together with the need
+to speed drugs through the development process has led to a huge expansion
+in the use of computers.
+Mr David Matheson, senior vice-president at Boston Consulting Group, warns:
+'Drug development is like a paper factory churning out endless pages.
+Managing the logistics of data is shot through with difficulties and you can
+easily trip yourself up.'
+He claims buying personal computers for investigators so they can enter data
+remotely is not a difficult investment decision.
+The amount of time it takes to organise data in a critical study following
+the last patient entry can be cut from 40 weeks to a fortnight, he
+estimates. Given that every day a top-selling drug is delayed can cost a
+company Dollars 1m, the savings can be immense. Mr Matheson reckons about
+half of drugs groups have started using computers, but few are totally
+automated.
+'Remote data entry for clinical trials is one of the big issues for the
+industry at the moment. The theory is very attractive,' claims Dr
+Frank-Joachim Morich, director of pharmaceuticals R&D at Bayer.
+Dr Poste, research and development director at SmithKline Beecham, explains:
+'The Utopia would be that an electronic case report connected up to
+electronic hospital notes. You would then have a software system that acted
+as a gate, flagging any values that might cause concern. That would identify
+problems early before the data got into the main database and ruined it.
+Essentially you'd have an electronic quality control system in place that
+ensured consistency of case notes.'
+The electronic system would also help clean up the data before it can be
+analysed.
+'There is a lot of duplication in quality control,' says Dr Poste. 'Since
+people know the data is going to be checked by someone else, they don't do
+it properly, but the dossier gets held up nonetheless. It should be done
+properly first time.'
+'The problem is that it's a real software headache,' admits Dr Poste. At
+Bayer, Dr Morich says the software problems are such that although the
+company is slowly starting to use remote data entry, it is only beginning
+with smaller trials and before moving on to bigger ones.
+Computers are also having an impact in computer-assisted new drug
+applications - known in the sector as Candas.
+Traditional dossiers for new drug applications have consisted of thousands
+of pages of documents, that have been long to prepare and difficult to read.
+The aim of Candas is to submit dossiers on CD-Roms.
+One of the first was Ciba's Voltaren, a non-steroidal anti-inflammatory drug
+used for arthritis. The medicine was submitted electronically after the
+company discovered the FDA reviewer was interested in computers. Although
+the dossier was well behind many paper-based submissions, it was third on to
+the market. Dr Max Wilhelm at Ciba says Canda is the group's prefered way of
+preparing dossiers.
+The advantage of submitting in electronic format is both internal and
+external. Dr Poste says the real advantage of Canda is it allows several
+people to interrogate several hundred thick documents simultaneously - which
+helps the company and the regulator.
+In addition, the company is better placed to respond to the regulators'
+questions. 'It's all far less traumatic,' concludes Dr Poste.
+'I genuinely believe that the higher quality of information may accelerate
+approval from the regulators,' says Dr Leon Rosenberg, president,
+Bristol-Myers Squibb Pharmaceutical Research Institute.
+There remain problems with Canda. Speaking recently at an London-based IIR
+conference DR Don MacLean, regulatory affairs manager in Europe for Syntex,
+warned of the problems of incompatible systems among European and US
+regulators.
+Meanwhile, other companies must adjust internally. 'Our scientists are are
+suffering,' laments Prof Gunter Stock, board director in charge of R&D at
+Schering,
+'They are used to working on paper. People in registration have become
+experts over 20 years. Overnight, we can't expect them to become experts in
+computers. We certainly can't throw them out. We need young people who are
+used to technology but we can't afford both,' he says.
+
+The Financial Times
+
+
+London Page 40
+
+930422
+

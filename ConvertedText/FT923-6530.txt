@@ -1,0 +1,81 @@
+FT923-6530
+
+FT  24 AUG 92 / Management: Grandmother's footsteps in Europe - Christopher
+Lorenz urges slow cross-border integration
+
+
+   By CHRISTOPHER LORENZ
+
+
+Two years ago IBM, with its eye very much on the need for cross-border
+integration ahead of 1993, unveiled a far-reaching European reorganisation.
+The strategy of the computer giant's move was eminently sensible: in
+essence, it consisted of a decentralisation around Europe of most of the
+regional responsibilities long exercised by IBM Europe's headquarters in
+Paris. But, from the very start, the precise pattern of the restructuring
+looked too neat and textbookish to be true.
+In a set of patent political compromises, the HQ's regional responsibilities
+were parcelled out to the general managers of the four largest country
+organisations. With a new European title to his name, each took charge of
+strategy for one or two types of product or system, and one or two customer
+sectors. The chairman of IBM Germany gained mainframe computers plus
+manufacturing industry; his French counterpart got telecommunications,
+'professional and technical services' (including maintenance and systems
+integration), software and IBM's internal computing systems; Italy took over
+mid-range machines, scientific computers and government and the public
+sector; while the boss of IBM UK took charge of personal computers and
+'Unix' open systems products, as well as the banking and financial services
+sector.
+Sure enough, within a year two aspects of the neat reorganisation had to be
+reversed in rather embarrassing circumstances because they had proved
+inappropriate. First, responsibility for PCs was transferred back from the
+UK to IBM Europe; then the latter also reassumed professional and technical
+services from the French organisation. The principle of some businesses
+being run centrally was thereby reasserted.
+To most IBM insiders, this episode pales into insignificance compared with
+last summer's much more dramatic reorganisation of IBM worldwide into a
+number of arm's length product/systems businesses and marketing/service
+units. But to the outside world it typifies the dangers of trying to create
+every aspect of a pan-European organisation too rapidly and too neatly.
+The risks of doing so are underlined by four McKinsey consultants - though
+without any reference to IBM - in an article called 'Creating European
+organisations that work', published in the latest issue of the McKinsey
+Quarterly*.
+Experience shows, say the consultants, that the best way to Europeanise is
+to shift power gradually (a tactic which IBM had been following until 1990).
+Most successful efforts focus initially on only a few 'lead functions',
+where the need is most apparent and urgent and where good early results can
+cause a ripple effect which gradually overcomes nationalistic attitudes and
+practices.
+Procter & Gamble, the American consumer goods group, did this by introducing
+a 'Eurobrand' concept to bring national product managers together in a task
+force to thrash out common brand requirements. In another food company, the
+key lever was a manufacturing task force, and a freight company set up a
+pricing task force.
+But only when such groups get down to nuts-and-bolts practicalities does
+commitment to a common European vision - and actual co-ordination  - really
+start to develop, say the consultants. In addition to its main objective,
+the pricing task force also uncovered a need for better cross-functional
+co-ordination on such issues as sales management, product labelling and
+packaging, and distribution.
+When it actually comes to realigning the power structure 'short cuts do not
+work', warns the McKinsey team. Simply imposing a functional 'head of
+Europe' frequently proves ineffective because such people do not have power
+over - and respect from - the various national operations.
+When a German company appointed a European operations manager, it left
+control of production in the hands of its product managers in Germany. So
+sales and marketing companies elsewhere in Europe found they were better off
+ignoring the new Euro-manager and continuing to deal direct with Germany.
+One obvious approach, as at IBM, is to give the managers most threatened by
+prospective changes part of the responsibility for planning and executing
+them.
+* 1992 No 2. By Norman Blackwell, Jean-Pierre Bizet, Peter Child, and David
+Hensley.
+
+The Financial Times
+
+
+London Page 7
+
+920824
+

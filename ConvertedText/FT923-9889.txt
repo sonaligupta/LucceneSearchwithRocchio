@@ -1,0 +1,279 @@
+FT923-9889
+
+FT  03 AUG 92 / Pursuit of price stability may prove a fruitless task
+
+
+   By EDWARD BALLS
+
+
+FIXED EXCHANGE RATES may bring greater economic stability, although the
+present turbulence within the European exchange rate mechanism suggests the
+case is not clear-cut. They certainly produce headaches for politicians. As
+the calls for a devaluation mount, and in the face of a persistently
+stagnant economy, British government ministers have been driven to ever more
+emphatic defences of the present parity and commitments to economic
+austerity. Mr John Major's recently declared goal of reaching a zero
+inflation rate by the next general election is the latest and most extreme
+example.
+The Euro-consensus around the desirability of 'price stability' may already
+have passed its zenith. Yet even proponents of 'price stability' stop short
+of advocating zero inflation as a serious goal for policy, being satisfied
+instead with a measured inflation rate of between 0 and 2 per cent a year.
+Even if the average price level is stable, improvements in the quality of
+goods and changes in relative prices mean that any given basket of consumer
+goods may well be rising.
+Zero or negative inflation rates were once the norm. Money prices in both
+the US and the UK in the 1920s were roughly the same as a century before.
+More recent history suggests that Mr Major's target will prove elusive. Zero
+inflation has been a rare occurrence for the world's most powerful economies
+in recent decades. Germany has had zero or negative inflation rates for just
+12 months in the past 30 years. Japan has managed just six months since
+1970.
+A positive inflation rate does not appear to have hampered Japan's growth
+record. There is, in fact, no link between low or stable inflation and rapid
+economic growth. Some countries fit the popular caricature: the UK has a
+toothless central bank and a post-1945 record of high and variable inflation
+and sluggish economic growth. But while countries with relatively
+independent central banks - including the US, Japan and Germany - do tend to
+have lower and more stable inflation rates, they are no more likely to have
+high or stable growth rates.
+Even successful independent central bankers appear willing to tolerate a
+positive inflation rate. The Bundesbank, whose anti-inflation credentials
+are unquestioned, has delivered inflation rates in excess of 2 per cent for
+much of the past three decades. One reason is that, while inflation can be
+costly, particularly if it is unstable or if savers cannot index-link their
+capital, it may bring benefits, too.
+The less compelling argument for a moderate and stable inflation rate is
+that it acts as a lubricant, allowing companies to change relative prices
+and wages without having to impose price and wage cuts. More important, a
+positive inflation rate allows central bankers, if they choose, to cut
+nominal interest rates to the inflation rate or below, making the real
+interest rate negative. Companies can, in principle, cut nominal wages, but
+nominal interest rates can never be negative, making inflation a
+precondition of negative real rates.
+When might negative real interest rates be desirable? When an economy is so
+lumbered by accumulated debts that individuals are unwilling or unable to
+spend and companies will not invest. The US economy has found itself in such
+a debt trap, and the Federal Reserve has responded by cutting short-term
+interest rates so far that real interest rates are now barely positive. Many
+US economists argue that the Fed should go further and make short-term real
+rates negative.
+The UK economy is also abnormally burdened by debts. So the cost of trying
+to achieve a zero inflation rate may be even higher than the half a million
+more job losses that OECD calculations imply it would normally take to
+reduce UK inflation to zero from its current level. UK short-term interest
+rates remain above 10 per cent, implying real interest rates of 6 per cent.
+With German interest rates unlikely to fall this year, the only route to
+lower real rates in the UK would be through higher inflation. Lower
+inflation may impede rather than speed recovery.
+ ----------------------------------------------------------------------
+INTERNATIONAL ECONOMIC INDICATORS: PRICES AND COMPETITIVENESS
+ ----------------------------------------------------------------------
+Yearly figures are shown in index form with the common base year of
+1985. The real exchange rate is an index throughout; other quarterly and
+monthly figures show the percentage change over the corresponding period
+in the previous year and are positive unless otherwise stated.
+ ----------------------------------------------------------------------
+UNITED STATES
+ ----------------------------------------------------------------------
+                                                   Unit        Real
+               Consumer    Producer                labour    exchange
+                prices      prices     Earnings    costs       rate
+ ----------------------------------------------------------------------
+1985            100.0       100.0       100.0      100.0      100.0
+1986            101.9        98.6       102.0       99.4       77.1
+1987            105.6       100.7       104.0       96.7       64.7
+1988            109.9       103.2       107.0       98.1       59.9
+1989            115.2       108.5       110.0       98.9       63.0
+1990            121.5       113.8       114.0      100.9       56.6
+1991            126.6       116.3       117.0      103.6
+3rd qtr. 1991      3.9         1.9         3.2        2.6
+4th qtr. 1991      3.0        -0.2         2.9        1.8
+1st qtr. 1992      2.9         0.3         2.3        0.2
+2nd qtr. 1992      3.1         1.1
+July 1991         4.4         2.9         3.5        2.5       na
+August            3.8         2.0         3.5        2.9       na
+September         3.4         0.8         2.6        2.5       na
+October           2.9        -0.1         2.6        3.0       na
+November          3.0        -0.5         3.5        1.8       na
+December          3.1        -0.1         2.6        0.7       na
+January 1992      2.6        -0.4         1.7        0.7       na
+February          2.8         0.6         2.6        0.3       na
+March             3.2         0.9         2.6       -0.3       na
+April             3.2         0.9         3.4       -0.1       na
+May               3.0         1.1                   -0.2       na
+June              3.1         1.5                              na
+ ----------------------------------------------------------------------
+JAPAN
+ ----------------------------------------------------------------------
+                                                   Unit        Real
+               Consumer    Producer                labour    exchange
+                prices      prices     Earnings    costs       rate
+ ----------------------------------------------------------------------
+1985            100.0       100.0       100.0      100.0      100.0
+1986            100.8        95.3       101.4      103.3      125.7
+1987            101.2        92.5       103.1      100.6      126.9
+1988            102.2        92.3       107.8       96.2      137.4
+1989            105.0        94.2       114.0       96.1      131.3
+1990            108.2        95.7       120.1       98.2      116.1
+1991            111.8        97.3       124.4      101.7
+3rd qtr. 1991      3.3         1.7         3.3        4.0
+4th qtr. 1991      3.2         0.0         3.2        6.0
+1st qtr. 1992      2.1        -0.6         2.5
+2nd qtr. 1992      2.5
+July 1991         3.4         2.0         1.9        3.0       na
+August            3.5         1.9         6.5        5.0       na
+September         3.0         1.1         2.9        4.0       na
+October           3.1         0.3         2.8        6.1       na
+November          3.6        -0.1         2.7        6.0       na
+December          3.0        -0.1         3.5        5.9       na
+January 1992      2.1        -0.6         4.6                  na
+February          2.2        -0.6         1.2                  na
+March             2.1        -0.7         1.7                  na
+April             2.8        -0.7                              na
+May               2.3                                          na
+June              2.5                                          na
+ ----------------------------------------------------------------------
+GERMANY
+ ----------------------------------------------------------------------
+                                                   Unit        Real
+               Consumer    Producer                labour    exchange
+                prices      prices     Earnings    costs       rate
+ ----------------------------------------------------------------------
+1985            100.0       100.0       100.0      100.0      100.0
+1986             99.9        97.5       104.0      104.0      111.3
+1987            100.1        95.1       108.0      107.0      126.0
+1988            101.4        96.2       113.0      107.0      126.2
+1989            104.2        99.3       117.0      108.0      122.6
+1990            107.0       101.0       124.0      110.0      126.8
+1991            110.7       103.4       132.0      115.0
+3rd qtr. 1991      4.1         2.8        na        4.9
+4th qtr. 1991      3.9         2.4        na        6.9
+1st qtr. 1992      4.3         2.0        na
+2nd qtr. 1992      4.5         2.0        na
+July 1991         4.4         3.3        -2.8                  na
+August            4.1         2.7        -6.4                  na
+September         3.9         2.6         6.4        5.5       na
+October           3.5         2.3        -6.4                  na
+November          4.2         2.5        -5.4                  na
+December          4.2         2.6         6.3        9.0       na
+January 1992      4.0         1.6        -4.5                  na
+February          4.3         2.0        -3.6                  na
+March             4.8         2.5                              na
+April             4.6         1.9                              na
+May               4.6         2.0                              na
+June              4.3         2.0                              na
+ ----------------------------------------------------------------------
+FRANCE
+ ----------------------------------------------------------------------
+                                                   Unit        Real
+               Consumer    Producer                labour    exchange
+                prices      prices     Earnings    costs       rate
+ ----------------------------------------------------------------------
+1985            100.0       100.0       100.0      100.0      100.0
+1986            102.5        97.2       104.5      101.5      101.9
+1987            105.9        97.8       107.8      103.0      102.1
+1988            108.8       102.8       111.1      104.0       99.3
+1989            112.6       108.4       115.4      106.0       95.8
+1990            116.4       107.1       120.6      110.3      100.6
+1991            120.0       105.8       125.8
+3rd qtr. 1991      3.0        -1.5        na        4.5
+4th qtr. 1991      2.9        -3.6        na
+1st qtr. 1992      3.1                    na
+2nd qtr. 1992      3.1                    na
+July 1991         3.4        na         -         na       na
+August            3.0        na         -         na       na
+September         2.6        na         4.3       na       na
+October           2.5        na         -         na       na
+November          3.0        na         -         na       na
+December          3.1        na         4.1       na       na
+January 1992      2.9        na         -         na       na
+February          3.0        na         -         na       na
+March             3.2        na         3.6       na       na
+April             3.1        na         -         na       na
+May               3.1        na         -         na       na
+June              3.0        na                   na       na
+ ----------------------------------------------------------------------
+ITALY
+ ----------------------------------------------------------------------
+                                                   Unit        Real
+               Consumer    Producer                labour    exchange
+                prices      prices     Earnings    costs       rate
+ ----------------------------------------------------------------------
+1985            100.0       100.0       100.0      100.0      100.0
+1986            106.1       100.2       104.8      102.6      101.4
+1987            111.0       103.2       111.6      105.6      102.5
+1988            116.5       106.8       118.4      109.8      101.9
+1989            124.2       113.1       125.6      112.2      109.2
+1990            131.8       117.8       134.7      120.2      117.2
+1991            140.3       121.7       147.9
+3rd qtr. 1991      6.4         3.1        10.7
+4th qtr. 1991      6.1         2.1        10.6
+1st qtr. 1992      5.6         1.4         9.2
+2nd qtr. 1992      6.7         3.8        10.4       na       na
+July 1991         6.3         2.9        10.9       na       na
+August            6.2         2.6        10.8       na       na
+September         6.1         2.2        10.8       na       na
+October           6.2         2.3        10.7       na       na
+November          6.0         1.9        10.4       na       na
+December          6.1         1.3         9.4       na       na
+January 1992      5.3         1.5         9.1       na       na
+February          5.5         1.4         9.1       na       na
+March             5.5                     8.8       na       na
+April             5.7                               na       na
+May               5.4                               na       na
+June
+ ----------------------------------------------------------------------
+UNITED KINGDOM
+ ----------------------------------------------------------------------
+                                                   Unit        Real
+               Consumer    Producer                labour    exchange
+                prices      prices     Earnings    costs       rate
+ ----------------------------------------------------------------------
+1985            100.0       100.0       100.0      100.0      100.0
+1986            103.4       104.3       107.7      104.5       92.9
+1987            107.7       108.3       116.3      105.9       90.6
+1988            113.0       113.2       126.2      108.9       96.8
+1989            121.8       119.0       137.2      113.6       95.0
+1990            133.3       126.0       150.1      123.3       98.3
+1991            141.2       133.0       162.4      133.5
+3rd qtr. 1991      4.8         5.5         7.8        6.9
+4th qtr. 1991      4.2         5.0         7.8        5.1
+1st qtr. 1992      4.1         4.5         8.6        4.4
+2nd qtr. 1992      4.2         3.7
+July 1991         5.5         5.7         7.6        6.9       na
+August            4.7         5.5         8.3        7.8       na
+September         4.1         5.4         7.5        6.1       na
+October           3.7         5.0         8.3        6.6       na
+November          4.3         5.1         7.8        4.2       na
+December          4.5         4.8         7.2        4.7       na
+January 1992      4.1         4.5         7.5        5.1       na
+February          4.1         4.4         7.8        2.7       na
+March             4.0         4.5        10.3        5.5       na
+April             4.3         3.8         5.0        0.2       na
+May               4.3         3.6         7.0        2.9       na
+June              3.9         3.6                              na
+ ----------------------------------------------------------------------
+Statistics for Germany apply only to western Germany. Data supplied by
+Datastream and WEFA from national government and IMF sources. Consumer
+prices: not seasonally adjusted. Producer prices: not seasonally
+adjusted, US - finished goods, Japan - manufactured goods, Germany -
+industrial products, France - intermediate goods, Italy - total
+producer prices, UK - manufactured products. Earnings index: not
+seasonally adjusted, refers to earnings in manufacturing except France
+and Italy (wage rates in industry). Hourly except Japan (monthly) and
+UK (weekly). Unit labour costs: seasonally adjusted, measured in
+domestic currencies. Germany - mining and manufacturing, other
+countries - manufacturing industry. Real exchange rate: IMF real
+effective exchange rate based on relative unit labour costs
+(non-normalised). A fall in the index indicates improved international
+competitiveness.
+ ----------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page 4
+
+920803
+

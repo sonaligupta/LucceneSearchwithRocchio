@@ -1,0 +1,47 @@
+FT944-5859
+
+FT  01 DEC 94 / International Company News: Computer groups establish
+technical standards forum
+
+
+   By LOUISE KEHOE
+
+
+   SAN FRANCISCO
+
+
+Apple Computer, AT&T, IBM and Siemens yesterday announced plans to work
+together to encourage the adoption of technical specifications that will
+improve the compatibility of computer and telephone systems.
+The companies said their goal was to identify, develop and promote open
+technical specifications for data communications among a variety of devices
+such as personal computers, personal digital assistants, telephones and
+private branch exchanges.
+'The revolution promised by the convergence of telecommunications and
+computing will not reach its full potential unless our industries agree to
+open, interoperable standards that make using a PDA, telephone and notebook
+computer together as easy as turning on the different components of a stereo
+system,' said Ms Ellen Hancock, senior vice-president of IBM.
+The group initiative, called Versit, will become a forum for establishing
+technical specifications, the companies said.
+The group is 'small enough to get things done, but large and diverse enough
+to make an impact,' said Ms Hancock.
+Versit will work with other communication and computer companies, as well as
+standards organisations. It is not clear, however, whether Versit will win
+the support of other companies such as Intel and Microsoft that play a
+central role in establishing de facto standards in the computer and data
+communications industries.
+Although presented as a neutral body that will further the objectives of the
+computer and telephone industries, Versit will inevitably be controversial
+because differing technical specifications are often competitive issues. It
+is also uncertain whether Versit will be able to persuade other companies to
+co-operate in widely licensing their technologies to create standard
+specifications.
+
+The Financial Times
+
+
+London Page 30
+
+941201
+

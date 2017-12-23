@@ -1,0 +1,120 @@
+FT924-819
+
+FT  22 DEC 92 / Technology: Creating dreams on computers / A look at the new
+generation of films that use digitalisation techniques
+
+
+   By VICTORIA GRIFFITH
+
+
+A magic carpet teases its companions and hides from them; a woman steps out
+of a pool with water pouring from a hole in her stomach; cows sing; and a
+thousand fans are cloned to fill a baseball stadium.
+Even in the fantasy world of films, these scenes would have been impossible
+just a few years ago. The reason they are on screen today is that a new
+generation of film artists is exploiting a fresh and exciting technique
+known as computer digitalisation. The widespread acceptance of
+computer-generated images in films has surprised even the pioneers of such
+techniques.
+'When we started experimenting with computers in films in the early 1980s, a
+lot of people didn't want to have anything to do with it,' says John
+Lasseter, a film director at Pixar, which has won Academy Awards for its
+innovations in computer-animated films. 'Now, it's hard to imagine an
+animated film without it. And pretty soon, it may be hard to imagine a
+feature film without it.'
+Computers work on both a two-dimensional and three-dimensional level with
+film. On a two-dimensional level, the computer can be used to fill in
+colours and background.
+Walt Disney routinely uses a computer colouring system to add in subtle
+shadings throughout an animated piece. Disney and Pixar, which helped
+develop the system, won a special technical Oscar this year for the
+technique's contribution to Beauty and the Beast. The technique digitally
+'inks and paints' the animator's drawings before compositing them with
+hand-drawn backgrounds and effects.
+Industrial Light & Magic, considered the leader in special effects for
+feature films, used a two-dimensional digitalisation technique to create the
+hole in Goldie Hawn's stomach in Death Becomes Her. 'First we filmed the
+scene without Goldie in it, exactly duplicating the camera moves,' says
+Thomas Williams, in charge of digital technology at the company. 'Then, we
+filmed the scene with her in it. The computer took the two films in its
+memory and used them to create the hole, with the background scenery exactly
+where it was supposed to be.'
+The three-dimensional applications of the technique are even more exciting.
+In the same way that a science researcher uses digitalisation to create a
+three-dimensional computer model of a molecule - capable of being spun
+around and viewed from different angles - film makers create fantasy images,
+then work the film around them.
+Walt Disney first used the technique for the clock gears in the animated
+film The Great Mouse Detective. Digitalisation also created a carriage in
+The Little Mermaid and a convincing three-dimensional ballroom in Beauty and
+the Beast.
+But the company's latest film Aladdin - which has just been released in the
+US and will open next year in Britain - has taken the process one step
+further. It uses the group's first computer-generated animated object, a
+magic carpet, which appears in nearly a third of the film.
+'The software and hardware have progressed, and so has people's acceptance,'
+says Stephen Goldberg, artistic supervisor with the company's computer
+generated imagery (CGI) unit, 'There is a growing sense of trust that we're
+not out to take the art out of animation.'
+Indeed, most of the people working at CGI have a background in traditional
+animation. The magic carpet was initially hand-drawn, then digitalised into
+the computer by animator Tina Price. In the computer's memory, the carpet
+existed in three dimensions and was able to move around on the film with its
+complex pattern - containing magic lamps, crossing swords, and tigers' heads
+ -in place.
+'It would have been impossible to move the pattern convincingly from frame
+to frame using traditional animation methods,' says Goldberg.
+Walt Disney also used the technique to create the film's tiger's head, which
+emerges from the desert. The tiger's head is made up of many grains of sand
+which would have jittered on the surface if conventional methods had been
+used. Instead, the computer memory keeps the grains of sand in place.
+Although Walt Disney is unparalleled in combining digitalisation techniques
+with the more old-fashioned hand-drawn frames, it is Pixar which leads the
+field in 100 per cent computer-animated films. Short pieces like Luxo Jr and
+Tin Toy, which won an Oscar in 1988, have set the pace for the industry.
+'When we started using these techniques in the early 1980s,' says Lasseter,
+'there was a misconception that the computer was making the film. That is no
+more true than the statement that a word processor writes a journalist's
+articles. But once you have the computer tool to use in animation, you
+wouldn't want to give it up any more than you would a word processor.'
+The biggest challenge for animators is getting the computer to generate
+images that are not perfect looking. 'We still want it to look like
+animation,' Lasseter adds. 'Computers like geometric, perfect worlds, and we
+have to fight against that.'
+For feature films, however, the challenge is just the opposite - making
+images look as real as possible. Digitalisation has been widely used in
+science-fiction and fantasy films.
+A three dimensional technique created Meryl Streep's twisted neck in Death
+Becomes Her, and helps contribute to many of the special effects in
+Terminator 2, including the scene in which a creature rises convincingly
+from the surface of a tiled floor.
+The film world may get computer-generated characters soon. Steven Spielberg
+is said to be working on a film that would use computer-generated dinosaurs,
+courtesy of Industrial Light & Magic.
+But the use of computers is rapidly moving beyond the science-fiction and
+fantasy realm to invade all types of films. Pacific Data Image used computer
+generation to clone the extras in scenes for The Babe, a movie about Babe
+Ruth, the baseball legend. 'They needed 30,000 fans in period dress,' says
+Carl Rosendahl, president. 'But it's expensive to hire 30,000 people and
+produce costumes for all of them. So we took 1,000 extras and filmed them in
+various parts of the stadium. The computer used its memory to put them all
+together and we got a stadium full of screaming fans.'
+Computers are being widely used for complex stunts in action movies. 'The
+stunt man can act in complete safety, with cables attached, and we later
+remove the wires and scan the scenery back into the film,' says Rosendahl.
+Computer digitalisation is also making its way into television commercials
+and music videos. Lancia car advertisements used an effect called morphing
+to make a logo in the desert melt to form a car, which then drove off. The
+company also created a singing cow by computer.
+Those involved in using computers in films say the new techniques are a long
+way from reaching their limits. 'This industry is still in its infancy,'
+says Goldberg of Walt Disney. 'At the moment, the possibilities seem
+endless.'
+
+The Financial Times
+
+
+London Page 8
+
+921222
+

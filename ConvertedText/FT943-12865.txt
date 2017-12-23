@@ -1,0 +1,155 @@
+FT943-12865
+
+FT  22 JUL 94 / No longer as safe as houses: The repercussions of losses
+made in the US market for securities based on home loans
+
+
+   By RICHARD WATERS
+
+
+Take a Dollars 1,500bn financial market, a handful of ambitious investment
+banks, and a group of incautious investors willing to risk their (or someone
+else's) money. Add the latest high-tec wizardry Wall Street has to offer.
+Then sit back and wait for external events to take their course - an
+unexpected rise in interest rates, for instance. Suddenly, you have the
+ingredients for a market upheaval, 1990s style.
+The US's market in mortgage-backed securities, by which many home loans are
+financed, has provided just such a spectacle in recent months. The latest
+victim, UK drugs company Glaxo, indicated last week that it had lost about
+Pounds 100m from investments in this and other risky markets. It joins a
+long list of others which have suffered significant losses on the market -
+from US investment fund Askin Capital (which has lost a large part of its
+Dollars 600m capital and been forced to file for bankruptcy) to a US
+subsidiary of Bank of Montreal (whose losses reached Dollars 51m), and
+Kidder Peabody, the investment bank owned by General Electric.
+The debacle not only raises questions about risk assessment on Wall Street
+but threatens to spill over from the financial into the real world. The
+impact of the upheavals in the mortgage-backed securities market on other
+bond markets may have slowed US economic growth by forcing up long-term
+interest rates, though the precise effects are incalculable. As Wall
+Street's fingers have been burnt, families in the US have found it more
+expensive to buy their first homes. Some investors in US mutual funds
+(similar to UK unit trusts) - which have played the market will have lost a
+small amount of their capital.
+The damage mortgage-backed securities has caused seems strange given their
+seemingly humble purpose of providing money for people to buy homes. Rather
+than the cash coming directly from a financial institution such as a bank,
+it is provided by investors who buy bonds. Mortgage payments by home owners
+cover the interest and principal payments on the bonds. By pooling thousands
+of such domestic mortgages, Wall Street has created a multi-billion-dollar
+market which is now reckoned to account for more than Dollars 1,500bn, or
+about half of all home loans in the US.
+Problems have arisen because the evolution of these products has not stopped
+there. Since the late 1980s, the mortgage-backed bond market has been
+subjected to the sort of financial engineering which has made a new
+generation of Wall Street traders rich. The theory behind the re-engineering
+was simple: why not mould the bonds into instruments which would match the
+needs of particular groups of investors more closely?
+This task was achieved with the help of technology developed in the market
+for derivatives - complex financial instruments whose value is based in part
+on that of an underlying market. Bonds were pooled and their interest and
+principal cashflows divided to create new, more exotic financial products.
+After the most attractive parts of the bonds have been made into new
+instruments, the remainder - known as 'toxic waste' - is sold cheaply to
+risk-hungry investors, retained by the investment bank, or perhaps thrown
+together with odds and ends left over from other pools of mortgages to
+create more new instruments (some known as 'kitchen sink bonds', since a bit
+of everything has been thrown in).
+All these reconfigured mortgage-backed bonds go under the name of
+collateralised mortgage obligations (CMOs). By some estimates, as much as a
+half of all mortgage-backed bonds have been converted into CMOs. Because
+they are sometimes heavily geared, their price can move sharply with changes
+in interest rates, giving investors more bang for their bucks.
+If that was the end of the story, there would be little to distinguish
+mortgage-backed securities from other fixed income instruments. But the
+market has a unique feature: when interest rates fall, home owners may pay
+off their loans and take out a new loan at a lower interest rate. When rates
+are high, they probably won't pay them off at all.
+A failure, by those who design and invest in the products, to predict what
+homeowners would do in the unusual financial market conditions since last
+summer has wreaked havoc.
+The problems began at the peak of last year's bond market rally. Against
+most expectations, long-term US bond yields fell to historic lows, as
+investors grew confident that inflation (the bond-buyer's worst enemy) was
+no longer a threat. Mortgage rates fell with them. That unleashed a wave of
+mortgage-refinancing by home owners on an unparalleled scale.
+The complex computer programmes used to construct and value CMOs did not
+predict that people would behave in this way. By paying off their old loans
+at such a rapid rate, homeowners played havoc with bond prices. CMOs took
+the brunt of the pain: 'Interest only', or IO, bonds (created out of the
+interest payments from mortgage-backed securities) fell furthest, as
+investors lost their expected future interest payments. The shock waves were
+felt from the bond-trading floor at securities house Salomon Brothers all
+the way to a string of small municipal authorities in Ohio, which had bought
+IOs.
+This spring, it was the opposite story in the mortgage-backed bond market.
+As US bond yields rose along with short-term interest rates (in turn pushing
+up mortgage rates) homeowners stopped paying off their old loans. The
+Mortgage Bankers Association estimates that the value of mortgages
+refinanced, which reached Dollars 550bn in 1993, will fall to just Dollars
+150bn this year.
+With the level of refinancing lower than expected, investors have suddenly
+found that bonds which had an expected life of, say, two years, are unlikely
+to be repaid until much later. The average duration of bonds in Salomon's
+mortgage-backed bond index has jumped from 3.2 years at the beginning of
+February to more than 5 years.
+One indirect result has been a barrage of selling in the US government bond
+markets. As the duration of mortgage-backed bonds rose, many investors sold
+long-dated government bonds to hold down the average duration of their
+portfolios.
+The actions of regulators may have worsened the impact. US banks are under
+pressure to show their CMOs at market value in their accounts. That means
+that if prices are volatile, there is less incentive to hold such bonds.
+Some regulatory pressure has been more direct. Worried about the losses that
+some supposedly safe mutual funds have taken on complex financial
+instruments, the Securities and Exchange Commission, which regulates US
+investment markets, wrote to mutual fund managers earlier this month to warn
+of the dangers. These funds should work out a way to 'dispose of the
+securities in an orderly manner, consistent with the interests of the funds'
+shareholders,' the SEC said.
+The CMO debacle has revealed some of the shortcomings in the way modern
+financial markets operate. Dealers and investors alike put much trust in the
+ability of computer-driven analyses to predict what would happen to prices
+in different market conditions. As things turned out, their assumptions were
+wrong.
+Also, they failed to take account of the risk inherent in tailor-made
+financial instruments for which there is no ready market. The lack of a
+market accentuated the price falls. And the fact that many unsophisticated
+investors, such as local government treasurers, were sucked into the market,
+is testimony to the poor controls in their organisations and the willingness
+of investment banks to sell complex securities to people who do not really
+understand them.
+Nor are regulators and policy makers blameless. They failed to pay enough
+attention to innovations in the CMO market at an earlier stage, and when
+finally prodded by losses, may have over-reacted.
+Like all market upsets, this one has created opportunities for contrary
+investors. Other markets have seen turn-abouts: the US junk bond market,
+pronounced dead at the end of the 1980s, roared back to life with a record
+year in 1993. Investors who bought junk bonds at knock-down prices have made
+their fortunes. The same is true of some CMOs, for those brave enough to buy
+them. But in the current climate, there are few takers for toxic waste.
+ --------------------------------------------------------------------
+MORTGAGE-BACKED SECURITIES: TROUBLE IN HOMES
+ --------------------------------------------------------------------
+Mortage-backed bonds ownership (dollars bn)
+                             1991       1992       1993
+ --------------------------------------------------------------------
+Banks                         277        306        337
+Life insurance companies      185        244        268
+Pension funds                 157        173        194
+Mutual funds                   79        105        123
+Savings and loans             157        156        163
+Others                        385        420        427
+Total                        1240       1404       1512
+ --------------------------------------------------------------------
+Source: Mortgage Bankers Association of America. Inside Mortgage
+Securities
+ --------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page 15
+
+940722
+

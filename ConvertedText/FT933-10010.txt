@@ -1,0 +1,74 @@
+FT933-10010
+
+FT  06 AUG 93 / Management: The lessons of experience - Christopher Lorenz
+explains how companies gain from self-analysis
+
+
+   By CHRISTOPHER LORENZ
+
+
+Before Boeing started to develop its 757 and 767 aircraft, a group of senior
+employees spent three years on 'Project Homework', comparing the managerial
+failures and successes of past development processes. They produced hundreds
+of recommendations. Several members of the team then transferred to the 757
+and 767 start-up projects.
+Guided by this experience, Boeing produced the most problem-free product
+launches in its history.
+Such systematic self-analysis of a company's experience - especially its
+mistakes - is unusual in industry. But it is one of several essential
+building blocks for any company which wants to become a learning
+organisation, according to David Garvin, a professor at the Harvard Business
+School.
+Garvin's advice is delivered, in a long article in the latest Harvard
+Business Review*, at a time when the learning organisation has become one of
+the most popular concepts in management on both sides of the Atlantic. But
+the Harvard professor certainly has plenty of practical advice on what he
+calls the 'three Ms' of learning organisations.
+Meaning. Other authors differ widely over the definition of a learning
+organisation - for instance over whether behavioural change is required for
+learning to occur. Garvin defines it as one that is 'skilled at creating,
+acquiring and transferring knowledge, and at modifying its behaviour to
+reflect new knowledge and insights'.
+Management. His operational guidelines for practice praise Xerox for its
+systematic problem-solving; US General Electric, General Foods, Chaparral
+Steel and Allegheny Ludlum for various experimental methods; IBM (in the
+1960s), Boeing, BP, and the Arthur D. Little consultancy for learning from
+experience; Digital, AT&T and Xerox (with benchmarking) for learning from
+others; and GTE, Time Life and the PPG Glass Company for transferring
+knowledge throughout their organisations through the rotation of personnel
+and other means.
+Measurement. Ways of assessing an organisation's rate and level of learning
+to ensure that gains have been made. Well-known techniques such as learning
+curves and experience curves, which relate learning to a company's or
+industry's rising production volume, are incomplete, Garvin points out. They
+focus on only a single measure of output, cost or price. They ignore
+learning that affects other competitive variables, such as quality, delivery
+or new product introductions. They ignore possible 'drivers' of learning,
+such as new technology or the challenge posed by competing products. And
+they say little about the sources of learning or levers of change.
+Instead, Garvin advocates use of the half-life curve, a measure originally
+developed by Analog Devices, a US semiconductor manufacturer. This measures
+the time taken to achieve a 50 per cent improvement in any specified
+performance measure, for instance defect rates, on-time delivery or
+time-to-market.
+Garvin also advises companies to use a range of auditing techniques to track
+progress through three overlapping phases: cognitive learning (the expansion
+of knowledge and new patterns of thought); behaviour change; and performance
+improvement.
+For all this to work, companies should start by providing more time and
+skills for employees to reflect, analyse and innovate; by breaking down
+internal boundaries and external ones; and by creating 'learning forums' on
+specific topics, from the changing competitive environment to the health of
+cross-functional processes.
+For many companies, Garvin's list of tips may prove quite a mouthful. But,
+as his examples of best practice show, they are worth digesting.
+*Building a Learning Organisation. HBR July-Aug 93. Reprint 93402. Fax:
+617-495-6985.
+
+The Financial Times
+
+
+London Page 9
+
+930806
+

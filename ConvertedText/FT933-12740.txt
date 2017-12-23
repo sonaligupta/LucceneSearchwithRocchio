@@ -1,0 +1,78 @@
+FT933-12740
+
+FT  22 JUL 93 / International Company News: G30 sets new benchmark for
+derivatives industry - Tracy Corrigan assesses the latest report
+
+
+   By TRACY CORRIGAN
+
+
+What sets yesterday's Group of 30 report on derivatives activity apart from
+the clutch of reviews published in recent months is not the thrust of its
+conclusions, but rather the detail and scope of its recommendations.
+Unlike the reviews already published - most importantly by the Bank of
+England and the Bank for International Settlements (the Promisel report) -
+the G30 report was written by, and primarily for, market practitioners.
+It has little to add to the regulatory debate on derivatives, and indeed
+eschews some of the important issues that trouble regulators.
+For example, Mr Paul Volcker, a former regulator and chairman of G30, notes
+in his foreword to the report the 'virtual absence of comment about the
+appropriate level of capital requirements . . . Plainly the authors believe
+that the amount of capital needed to support derivatives exposure is a
+matter of judgment for individual institutions.'
+Indeed, the potential weak spot of the report, in spite of the status of the
+G30, is that it is largely compiled and written by bankers, with a vested
+interest in promoting a positive view of their market.
+However, the recommendations, which provide the most detailed guidelines on
+managing derivatives business to date, are expected to be studied closely by
+market participants - although they may find some of the smaller ones,
+particularly those involving information technology, expensive to implement.
+The recommendations may be used by regulators as a benchmark for good
+derivatives management.
+According to Mr Paul Sproos, publisher of Swaps Monitor, a trade
+publication, the recommendations 'set extraordinarily high standards. I do
+not think that there is a single swaps dealer who meets all of them in
+full.'
+The report makes a total of 20 recommendations, backed by research into
+practice among market practitioners and end-users conducted by Price
+Waterhouse, accountants.
+The Price Waterhouse survey, which is only sporadically quoted, has not been
+published with the recommendations. The most important are:
+Senior management should determine and control derivatives activity.
+The Price Waterhouse report found that two-thirds of firms responding to the
+survey involve senior management in authorising traders to commit the firm.
+That means up to a third of senior managers may be broadly unaware of how
+their derivatives business is run.
+Dealers should mark their positions to market (adjust the valuation of their
+positions in line with market movements). The survey found that more than
+half the end-users do not follow this practice although most plan to do so.
+The report gives detailed recommendations on market valuation methods, which
+are subject to wide variation, according to the survey.
+Dealers should run stress simulations to determine how their portfolios
+would perform in worst-case scenarios. Stress testing is conducted mainly by
+large dealers, according to the survey.
+Credit risk should be reduced by broadening the use of netting provisions
+(allowing banks to focus on net rather than gross exposure) and by ensuring
+that contracts can be legally enforced across different jurisdictions.
+There should be independent market and credit risk management, so that this
+is separated from the dealing function.
+The recommendations were welcomed as fair by the International Swaps and
+Derivatives Association (ISDA), the industry's trade association. 'It's a
+question of fine-tuning but they are likely to contain some things that are
+not being done even in the largest firms,' said Mr Joe Bauman, chairman of
+ISDA and head of derivatives business development at Citibank.
+Meanwhile, a number of reports on the derivatives market are still in the
+pipeline, including three studies in the US by the Securities and Exchange
+Commission, the Commodity Futures Trading Commission and, most important,
+the General Accounting Office.
+If the conciliatory tone of reports published so far persists, it may be
+that the heat is off the derivatives industry, and regulators' concerns have
+been largely addressed.
+
+The Financial Times
+
+
+London Page 27
+
+930722
+

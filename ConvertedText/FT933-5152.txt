@@ -1,0 +1,103 @@
+FT933-5152
+
+FT  04 SEP 93 / Computing: When figures count - Some better ways to monitor
+price movements
+
+
+   By JEAN MILES
+
+
+EVERY Saturday morning, I spend 10 or 15 minutes typing between 50 and 60
+share prices and Financial Times indices into the computer program which
+monitors our stock market portfolio. On quiet Saturdays, another five or 10
+minutes are then devoted to looking at graphs and charts and ordering the
+portfolio in various ways. It is time spent pleasantly and, I think,
+usefully. I regard it as the investor's equivalent of talking to one's
+plants.
+Undoubtedly, though, I am under-using the power of both the computer and the
+program. If I wanted to keep a daily record of price movements, or to
+monitor a greater number of shares, or to subject the graphs to the process
+known as technical analysis, typing the data would be too slow. There are
+other ways of doing the job.
+Getting prices in to a portfolio program other than by typing is a two-stage
+process. First, you must get the prices from the outside world into your
+computer. After that, you must spoon them into your portfolio program.
+If you know your way around computers, you might be able to do the spooning
+yourself. If, on the other hand, you would rather try translating Plato into
+Chinese without loss of nuance than write batch files or configuring data,
+you must use the links provided by your own particular portfolio management
+program.
+The necessary software to connect the program to the data source could prove
+to be an extra expense in what is going to be a fairly pricey business,
+anyway. And not all portfolio programs can accept automatic price updates.
+So, if you have not yet put your portfolio on computer, and you think you
+might want to go automatic one day, ask sharp questions before you buy a
+program.
+This whole subject, in fact, is one that calls for sharp questions. If
+things are going to go wrong in computing, the frontiers where information
+is passed from machine to machine, or from program to program, are the most
+likely trouble spots. Be sure you know exactly what you are signing up for,
+and what the supplier will do if things do not work as you expect.
+For automatic price updates there are, essentially, three roads you might go
+down, each with advantages and disadvantages. You could connect your
+computer to the telephone lines via a modem and dial up the prices you want.
+Or you could instal a card enabling your computer to receive teletext. Or
+you could subscribe to a data service which will send you a disk, weekly or
+less often.
+The professionals use a telephone connection. The cost is usually high, as
+much as several hundred pounds a quarter, but the information is
+correspondingly good. The high cost is not due entirely to the rapacity of
+the suppliers of price data: the stock exchange holds the copyright on share
+prices and levies charges on anyone who distributes them.
+To use the telephone lines, you need first to equip your computer with a
+modem. In a few years, every personal computer will come with a
+facsimile/modem. For now, it is an optional extra.
+A modem might take the form either of a card to be inserted in the entrails
+of your computer, or a small box which sits beside it. In either case, it
+plugs into a telephone socket.
+Once you have a modem, you will need to pay a subscription to the company
+which provides your share price data and, of course, pay for the use of the
+telephone line just as if you had made a voice call or sent a fax.
+The Rolls-Royce solution is a subscription to British Telecom's CitiService
+(BT claims that the majority of subscribers are private investors). I saw
+this service demonstrated and it is wonderful. It opens the door to the full
+Stock Exchange Automated Quotation system (SEAQ) for equities, gilts, and
+London-listed overseas securities; and to Extel Financial, for unit trusts
+and insurance funds. You can also have futures and options, exchange rates
+and financial news.
+You can sit there and watch your screen while it all happens, just like the
+movies. You can use the Portfolio Manager feature to have your own portfolio
+updated continuously, showing percentage gains or losses for everything in
+it. You can even deal directly from your computer, via ShareLink. (And you
+might be reassured to know that the first thing the ShareLink computer does
+when it receives your order is to print it out on good, old-fashioned
+paper).
+The great advantage of a CitiService subscription is that it covers the
+entire stock exchange. If you do not pile on the optional extras and can
+restrict your use of the system to three or four minutes a day, the cost
+could be less than Pounds 200 a quarter. If I were a college bursar or
+trustee of a wealthy charity, I would insist on nothing less.
+As another option, there are several companies, including CitiService again
+and the FT's own Finstat, which allow users to make one brief daily call via
+a modem to down-load (as we say) information. These services are cheaper,
+but they are still out of the reach of many private investors.
+I list several suppliers at the end of this article: if you are interested,
+compare prices carefully. The deciding factor could prove to be the shares
+which constitute the 'package' you are offered.
+The other possibilities for automatic price updates, teletext and data
+disks, are cheaper still and, on the whole, simpler. They are popular with
+many investors. I will return to the subject in another article.
+CitiService: Network House, Brindley Way, Hemel Hempstead, Herts HP3 9RR.
+Tel. 0442-237 000.
+Finstat: 3rd Floor, Number One Southwark Bridge, London SE1 9HL. Tel.
+071-873 4613; fax 071-873 4610.
+Investment Data Services Ltd: Telephone. 061-474 0080' fax 061-429 0279.
+Market Origin: Tel. 0734-572 636; fax 0734-568 778.
+
+The Financial Times
+
+
+London Page VII
+
+930904
+

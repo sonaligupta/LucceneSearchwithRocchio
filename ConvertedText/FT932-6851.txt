@@ -1,0 +1,77 @@
+FT932-6851
+
+FT  26 MAY 93 / Survey of Computer Industry - Systems, Software & Services
+(10): Users upgrade as prices fall - Printers
+
+
+   By GEORGE BLACK
+
+
+DESPITE the recession, the printer market has remained buoyant. As prices
+fall, users upgrade, writes George Black.
+The market is split into three roughly equal sectors: dot matrix, inkjet and
+laser. Sales of dot matrix machines have fallen sharply, but this has been
+offset by higher sales of inkjet and laser models.
+While the volume of printer sales has gone up by around 20 per cent, prices
+have come down around 30 per cent, so the market has probably grown only
+slightly by value.
+Increasing demand for better quality documents is the main force which is
+driving sales up. Dot matrix printers are becoming steadily less popular,
+even though prices are very low and the quality of output has improved.
+Inkjet is much the fastest growing sector by units, up 85 per cent last
+year, according to market researchers Romtec. These machines are bought
+mainly by small businesses and home users who consider laser prices still
+too high but want better quality than they get from their old nine-pin or
+24-pin dot matrix printers. Inkjets now offer 300-360 dots per inch.
+The boom in sales of inkjet models is also related to the fact that they are
+quieter than dot matrix models, which is especially important for home use.
+Colour inkjet sales have more than doubled in the past year; output is slow,
+but many users are willing to sacrifice speed for colour. Colour laser
+printing is still prohibitively expensive for most purposes.
+However, inkjet is now seen by many users as a low-end solution. A
+laser-printed document looks printed where an inkjet-printed document looks
+no more than nicely typed. Laser printers are replacing inkjets in many
+businesses as they become cheaper.
+Lasers are classed as a 'mature' market compared to inkjets, but they are
+nonetheless the fastest-growing sector by value of sales.
+Laser quality is also improving, which matters to users who want to print
+complex graphics; 300 dpi is the current standard, 600 dpi is spreading.
+Many large companies looking for economies during the recession have been
+sharing laser printers among staff on their local area networks. To do this,
+they need machines capable of eight or 16 pages per minute output, rather
+than two or four pages output by the slower ones.
+Ms Nicky Ayre, Hewlett-Packard's UK peripherals programme manager, says that
+network managers now spend a lot of their time dealing with printer
+problems. The result is a growing market for slot-in cards, which report
+printer faults to the network manager and allow many of them to be solved by
+remote diagnostics.
+Prices keep being pushed down by strong competition and the fall in the cost
+of processors and memory. The market is extremely price-sensitive and most
+suppliers have to offer discounts.
+Laser prices have fallen sharply; most now cost Pounds 600-Pounds 700, some
+as little as Pounds 400. Average inkjet prices are Pounds 300-Pounds 400,
+but some are as low as Pounds 250, and dot matrixes Pounds 150-Pounds 200.
+This could be almost as low as prices can go because of the inherent
+manufacturing cost. High volume manufacturers can take this, but some
+smaller players may soon find the market very tough.
+Hewlett-Packard remains clear market leader, with around half the sales of
+lasers and around 40 per cent of the whole market by value. Its dominance is
+re-enforced by its close relationship with Canon, which makes its laser
+printer engines.
+In the past couple of years a number of printer makers have begun to market
+their products by stressing environmental aspects.
+Kyocera, a Japanese laser printer manufacturer, highlights its ability to
+use 100 per cent recycled paper and its use of toner containers which can be
+burned, rather than non-biodegradable ones which end up as toxic landfill.
+Mr Phil Murphy, Kyocera's UK general manager, says that many large firms now
+have environmental representatives who are taking an interest in these
+issues. He also points out that there are European Commission directives to
+member states to increase the amount of recycling of paper and packaging.
+
+The Financial Times
+
+
+London Page IV
+
+930526
+

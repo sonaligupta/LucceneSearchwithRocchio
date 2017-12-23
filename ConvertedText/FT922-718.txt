@@ -1,0 +1,29 @@
+FT922-718
+
+FT  26 JUN 92 / Technology (Worth Watching): Lasers bring home fibre optics
+closer
+
+
+   By PAUL TAYLOR
+
+
+Fibre-optic networks promise advanced home services such as dial-up films
+and high definition 3-D video, as well as futuristic services like consumer
+retailing using virtual reality techniques.
+The main obstacle to fibre links for home and office has been the high cost
+of the optoelectric transmitter modules, units about the size of a postage
+stamp which combine a laser and microelectric circuitry.
+Bell-Northern Research, the joint venture R&D subsidiary of Canada's
+Northern Telecom and Bell Canada groups, has developed a low-cost
+semiconductor laser smaller than a grain of salt.
+It emits a column of light which makes it easier to connect to optical
+fibers and also drastically reduces costs. BNR: Canada, 613 763 5342;
+Northern Telecom Europe: UK, 0628 812190.
+
+The Financial Times
+
+
+London Page 12
+
+920626
+

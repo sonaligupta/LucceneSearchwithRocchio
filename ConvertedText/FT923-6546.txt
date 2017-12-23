@@ -1,0 +1,277 @@
+FT923-6546
+
+FT  24 AUG 92 / Some time to wait before the Bundesbank budges
+
+
+   By EDWARD BALLS
+
+
+BUNDESBANK-watching is an increasingly popular pastime among Europe's
+politicians as well as financial markets operators. Only when the Bundesbank
+council decides to ease German monetary policy will the beads of sweat on
+the brows of finance ministers in London and France start to dry up.
+History, and the stubborn growth of German money supply, suggest they may
+have a long wait.
+The Bundesbank's task is to secure stable prices in Germany alone. In spite
+of being the de facto central bank of Europe, it is not required to care a
+jot about inflation or economic growth in any other country. So, short of
+leaving the ERM or agreeing to an upward revaluation of the D-Mark which
+might encourage the Bundesbank to ease earlier, other European countries
+have little choice but to wait.
+The Bundesbank will not budge until it is convinced that its monetary policy
+has been tight enough for long enough to put German inflation firmly on a
+downward path. Recent signs have been promising. The annual inflation rate
+in west Germany dropped to 3.3 per cent in July from 4.3 per cent in June,
+its lowest level since May last year. Wholesale prices fell by 0.9 per cent
+over the year to July as the falling dollar cut German import prices.
+Yet, like any other prudent central bank, the Bundesbank will take some
+convincing. Mr Jeremy Hale, an economist at Goldman Sachs, the investment
+bank, has measured the average length of time that central banks in the US,
+Japan and Germany wait before easing policy once inflation has peaked. The
+chart tracks the official discount rate in the US, Japan and Germany in the
+months before and after their most recent inflation-rate peak.
+The US and Japan provide a test for Mr Hale's admittedly rather tentative
+results. Concerns about the build-up of debt in the US encouraged the
+Federal Reserve to move unusually quickly this cycle compared to the
+previous four. The first cut in the discount rate came in January 1990,
+three months after the peak in inflation, compared to an average lag of
+eight months since 1970. But the Bank of Japan hit its average historic lag
+spot on. Inflation peaked in January last year and the first rate cut came
+six months later.
+The German evidence is more difficult to interpret. Strictly, the average
+historic lag since 1970 is only two months, suggesting that, as the consumer
+inflation rate peaked in March of this year, the discount rate should have
+fallen in May. In fact, it rose in June. But this historic average is
+distorted by the period of global fixed exchange rates when the Bundesbank's
+autonomy was compromised and the discount rate was cut in April 1969, 15
+months before German inflation peaked.
+The lag between the inflation peak and the fall in the discount rate was 10
+months in both 1972 and again in 1981-82, slightly longer than in the US and
+Japan, as the Bundesbank's reputation would suggest. If history repeats
+itself for the third time then the first cut in the German discount rate
+will not occur until January, as the chart implies.
+Do not bet on it. Bundesbank-watching, like economics, is an art and not a
+science. While history can provide clues, every cycle is different. And
+unification has made this German cycle especially different. The
+Bundesbank's credibility has since been dented twice, first when its
+recommendations for the terms of monetary unification were ignored and then
+by the subsequent acceleration in inflation.
+To repair the damage and reassert its anti-inflationary zeal, the bank's
+council agreed an austere target for broad money growth this year of 3 1/2
+per cent to 5 1/2 per cent. But continued rapid growth of state subsidised
+bank lending to east Germany means that it is still overshooting this target
+range. M3 grew at an annual rate of 8.6 per cent between the fourth quarter
+of last year and last July and is not expected to re-enter the target range
+this year.
+So history is likely to under-estimate the time that the Bundesbank will
+wait before cutting interest rates. It may even raise them first. Europe's
+finance ministers may still be sweating in the spring.
+ ----------------------------------------------------------------------
+INTERNATIONAL ECONOMIC INDICATORS: MONEY AND FINANCE
+ ----------------------------------------------------------------------
+This table shows growth rates for the most widely followed measures of
+narrow and broad money, a representative short- and long-term interest
+rate series and an average equity market yield. All figures are
+percentages.
+ ----------------------------------------------------------------------
+UNITED STATES
+ ----------------------------------------------------------------------
+                Narrow      Broad       Short         Long      Equity
+                 Money      Money    Interest     Interest      Market
+                  (M1)       (M2)        Rate         Rate       Yield
+ ----------------------------------------------------------------------
+1985               9.0        8.9        8.00        10.59        na
+1986              13.5        8.3        6.49         7.67        3.43
+1987              11.6        6.5        6.82         8.39        3.12
+1988               4.3        5.2        7.65         8.84        3.61
+1989               1.0        3.9        8.99         8.49        3.43
+1990               3.7        5.3        8.06         8.54        3.60
+1991               6.0        3.2        5.87         7.85        3.21
+3rd qtr. 1991       6.1        2.8        5.79         7.95        3.10
+4th qtr. 1991       8.0        2.8        5.00         7.34        3.09
+1st qtr. 1992      11.0        2.9        4.17         7.29        2.90
+2nd qtr. 1992      11.7        1.8        3.95         7.37        2.97
+August 1991        6.2        2.8        5.72         7.90        3.07
+September          6.0        2.4        5.58         7.66        3.08
+October            7.1        2.5        5.34         7.52        3.09
+November           8.2        2.9        4.98         7.41        3.09
+December           8.7        3.0        4.67         7.08        3.08
+January 1992      10.2        3.1        4.09         7.02        2.87
+February          11.3        3.1        4.11         7.33        2.90
+March             11.5        2.6        4.29         7.52        2.94
+April             11.9        2.2        4.04         7.47        2.97
+May               12.2        1.9        3.88         7.39        2.95
+June              11.0        1.4        3.92         7.26        3.00
+July              11.7        1.5        3.44         6.84        2.96
+ ----------------------------------------------------------------------
+JAPAN
+ ----------------------------------------------------------------------
+                Narrow      Broad       Short         Long      Equity
+                 Money      Money    Interest     Interest      Market
+                  (M1)       (M2)        Rate         Rate       Yield
+ ----------------------------------------------------------------------
+1985               5.0        8.4        6.62         6.51        na
+1986               6.9        8.7        5.12         5.35        0.84
+1987              10.5       10.4        4.15         4.64        0.55
+1988               8.4       11.2        4.42         4.77        0.54
+1989               4.1        9.9        5.31         5.22        0.48
+1990               2.6       11.7        7.62         6.91        0.65
+1991               5.2        3.6        7.21         6.37        0.75
+3rd qtr. 1991       6.6        2.8        7.11         6.44        0.76
+4th qtr. 1991       8.5        2.2        6.11         5.88        0.76
+1st qtr. 1992       7.5        1.7        5.01         5.49        0.88
+2nd qtr. 1992       5.7        1.2        4.56         5.63        1.04
+August 1991        7.2        2.7        7.21         6.46        0.77
+September          6.4        2.2        6.64         6.18        0.76
+October            7.5        2.1        6.30         5.96        0.72
+November           9.3        2.4        6.09         5.96        0.75
+December           8.8        2.0        5.94         5.72        0.81
+January 1992       7.6        1.8        5.15         5.45        0.83
+February           7.4        1.6        5.05         5.53        0.87
+March              7.5        1.8        4.84         5.51        0.93
+April              7.0        1.6        4.59         5.68        1.06
+May                6.9        1.1        4.59         5.66        1.00
+June               3.3        0.9        4.49         5.55        1.06
+July               2.8        0.2        4.19         5.26        1.10
+ ----------------------------------------------------------------------
+GERMANY
+ ----------------------------------------------------------------------
+                Narrow      Broad       Short         Long      Equity
+                 Money      Money    Interest     Interest      Market
+                  (M1)       (M2)        Rate         Rate       Yield
+ ----------------------------------------------------------------------
+1985               4.4        5.1        5.45         6.94        na
+1986               9.9        8.3        4.64         5.90        1.79
+1987               9.0        7.3        4.03         6.14        2.21
+1988               9.8        6.4        4.34         6.46        2.61
+1989               6.3        5.7        7.11         6.94        2.22
+1990               4.5        4.5        8.49         8.71        2.11
+1991               5.2        5.6        9.25         8.44        2.38
+3rd qtr. 1991       5.3        5.8        9.24         8.52        2.31
+4th qtr. 1991       4.2        5.6        9.47         8.29        2.45
+1st qtr. 1992       4.3        6.6        9.62         7.91        2.31
+2nd qtr. 1992       6.4        7.9        9.76         7.96        2.26
+August 1991        4.8        5.9        9.31         8.54        2.32
+September          5.0        5.6        9.27         8.42        2.31
+October            4.8        5.3        9.36         8.31        2.41
+November           4.1        5.4        9.43         8.32        2.42
+December           3.7        6.1        9.61         8.24        2.52
+January 1992       3.9        6.3        9.54         7.91        2.39
+February           4.1        6.5        9.61         7.88        2.30
+March              4.9        7.0        9.70         7.94        2.25
+April              7.0        7.5        9.75         7.94        2.26
+May                5.8        7.8        9.79         7.96        2.26
+June               6.5        8.2        9.75         7.97        2.27
+July               5.5        8.4        9.78         8.01        2.37
+ ----------------------------------------------------------------------
+FRANCE
+ ----------------------------------------------------------------------
+                Narrow      Broad       Short         Long      Equity
+                 Money      Money    Interest     Interest      Market
+                  (M1)       (M2)        Rate         Rate       Yield
+ ----------------------------------------------------------------------
+1985               6.2        7.4       10.03        11.74        na
+1986               6.9        6.8        7.79         8.74        2.65
+1987               4.1       10.0        8.26         9.46        2.75
+1988               4.0        8.6        7.94         9.08        3.69
+1989               8.0        9.5        9.39         8.79        2.88
+1990               3.8        9.0       10.32         9.92        3.19
+1991              -4.6        2.7        9.62         9.03        3.58
+3rd qtr. 1991      -2.1        5.4        9.54         9.05        3.60
+4th qtr. 1991      -4.6        2.7        9.66         8.80        3.61
+1st qtr. 1992      -1.4        3.7       10.05         8.48        3.40
+2nd qtr. 1992      -1.2        4.5       10.04         8.66        3.39
+August 1991        2.7        6.9        9.59         9.09        3.62
+September         -2.1        5.4        9.43         8.88        3.47
+October           -3.1        4.2        9.32         8.78        3.50
+November           0.8        4.9        9.56         8.82        3.56
+December          -4.6        2.7       10.10         8.81        3.77
+January 1992      -2.4        3.8        9.99         8.40        3.49
+February          -2.0        3.7       10.06         8.44        3.40
+March             -1.4        3.7       10.12         8.58        3.31
+April             -1.8        4.1       10.04         8.67        3.37
+May                1.0        5.2        9.96         8.58        3.33
+June              -1.2        4.5       10.11         8.73        3.47
+July                                    10.23         8.90        3.69
+ ----------------------------------------------------------------------
+ITALY
+ ----------------------------------------------------------------------
+                Narrow      Broad       Short         Long      Equity
+                 Money      Money    Interest     Interest      Market
+                  (M1)       (M2)        Rate         Rate       Yield
+ ----------------------------------------------------------------------
+1985              13.2       13.5       14.34        13.71        na
+1986              10.4        7.9       13.25        11.47        1.41
+1987              10.4        9.8       11.32        10.58        1.94
+1988               7.8        6.9       11.24        10.54        2.71
+1989               7.4        8.4       12.41        11.61        2.46
+1990               8.1       17.4       11.98        11.87        2.84
+1991               7.3        8.0       11.83        13.20        3.45
+3rd qtr. 1991       7.0        7.7       11.60        13.29        3.31
+4th qtr. 1991       9.0        8.3       11.84        12.92        3.59
+1st qtr. 1992       8.8        8.1       12.04        12.65        3.40
+2nd qtr. 1992       9.9        9.3       12.58        12.82        3.43
+August 1991        7.8        8.1       11.69        13.43        3.31
+September          6.1        7.0       11.56        13.08        3.39
+October            7.4        7.4       11.40        12.83        3.51
+November           9.0        8.3       11.66        12.92        3.58
+December          10.4        9.0       12.47        13.03        3.67
+January 1992      11.1        9.4       11.97        12.71        3.37
+February           8.0        7.5       12.04        12.62        3.31
+March              7.3        7.2       12.10        12.59        3.49
+April              9.7        9.1       12.24        12.71        3.51
+May                9.3        9.0       12.24        12.60        3.45
+June              10.7        9.8       13.23        13.14        3.34
+July                                    15.36        13.65        3.78
+ ----------------------------------------------------------------------
+UNITED KINGDOM
+ ----------------------------------------------------------------------
+                Narrow      Broad       Short         Long      Equity
+                 Money      Money    Interest     Interest      Market
+                  (M1)       (M2)        Rate         Rate       Yield
+ ----------------------------------------------------------------------
+1985               4.7       13.2       12.32        11.03        na
+1986               4.0       15.3       11.02         9.97        4.35
+1987               4.7       14.6        9.77         9.52        3.60
+1988               6.8       17.0       10.41         9.69        4.48
+1989               5.9       17.7       13.96        10.30        4.36
+1990               5.4       16.2       14.82        11.53        5.07
+1991               2.4        8.3       11.58        10.04        4.97
+3rd qtr. 1991       2.0        7.2       10.82         9.97        4.80
+4th qtr. 1991       2.8        6.2       10.61         9.72        5.03
+1st qtr. 1992       2.2        6.0       10.61         9.50        5.00
+2nd qtr. 1992       2.0        5.4       10.28         9.21        4.78
+August 1991        1.6        7.2       10.94        10.00        4.76
+September          2.3        6.8       10.37         9.66        4.73
+October            2.6        6.5       10.45         9.72        4.83
+November           2.9        5.8       10.54         9.77        5.00
+December           3.0        6.3       10.84         9.68        5.25
+January 1992       2.1        6.3       10.71         9.49        5.00
+February           2.2        5.9       10.44         9.34        4.94
+March              2.2        5.8       10.67         9.66        5.04
+April              2.3        5.7       10.68         9.41        4.91
+May                2.5        5.2       10.13         9.06        4.61
+June               1.3        5.3       10.03         9.15        4.82
+July               2.4        5.7       10.21         9.08        5.15
+ ----------------------------------------------------------------------
+Monetary growth rates: show the percentage change over the corresponding
+period in the previous year, and are positive unless otherwise stated.
+All growth rates refer to the seasonally adjusted series except for
+Japan and Italy. German monetary statistics now form a continuous
+pan-German series. Monetary data supplied by Datastream and WEFA from
+central bank sources. Interest rates: short-term: period averages of; US
+ -90-day commercial paper, Japan - 3-month certificates of deposit,
+Germany - 3-month Fibor, France - 3-month Pibor, Italy - 3-month
+Euro-lira, UK - 3-month Libor. long-term:  period average yields on
+10-year benchmark government bonds. Interest rates supplied by
+Datastream. Equity market yield: period averages of the gross dividend
+yield on the relevant FT-A world index.
+ ----------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page 4
+
+920824
+

@@ -1,0 +1,31 @@
+FT922-4291
+
+FT  06 JUN 92 / SE issues proposed Taurus regulations
+
+
+   By TRACY CORRIGAN
+
+
+THE LONDON Stock Exchange has announced proposed rules for participation in
+its Taurus service, the long-awaited paperless settlement system due to be
+launched next year.
+The rules outline three main categories: full participants who can move
+stock within the system; market participants who send instructions to other
+participants to move stock for them; and company controllers and registrars
+who can move shares in their own company. Each group must satisfy specific
+requirements on technical competence, systems security and financial
+adequacy.
+The planned rules have been amended after comments on the draft proposals
+published in June last year. A further consultative period runs until July
+31.
+The system is scheduled for launch next April, although testing will be
+delayed until January. That follows a hitch in the development of an IBM
+system to protect the network from 'hackers'.
+
+The Financial Times
+
+
+London Page 7
+
+920606
+

@@ -1,0 +1,165 @@
+FT923-15393
+
+FT  02 JUL 92 / Names trapped in a spiral of disaster: A group of more than
+4,000 Lloyd's Names heard yesterday that they would soon have to pay a
+further Pounds 307m to meet losses from disasters they helped to insure
+against in the late 1980s. Richard Lapper describes the LMX spiral, which
+produced the losses, and tells the story of Gooda Walker
+
+
+   By RICHARD LAPPER
+
+
+IN THE 1980s, companies and syndicates in the London insurance market
+developed a highly profitable business based on the sale of reinsurance
+policies to each other.
+The business was built on two simple concepts: large catastrophes such as
+hurricanes are expensive when they occur, but they happen infrequently.
+The insurance professionals who developed what became known as 'the spiral'
+also recognised that because the resources that would be needed in the event
+of a catastrophe were huge - the Piper Alpha oil rig disaster in July 1988
+cost Dollars 1.4bn (Pounds 737m) - a way had to be found to spread the risk
+as widely as possible. But the method conceived as a means of spreading risk
+rebounded badly.
+Instead of diversifying the losses, the spiral served to concentrate the
+damage in a relatively small corner of the London insurance market. Names -
+the individuals whose wealth backs the market - face huge losses as a
+result.
+At Lloyd's, the biggest of those syndicates have been devastated by some of
+the biggest losses recorded at the insurance market - nearly half the Pounds
+2.06bn loss reported by the market in 1989.
+The spiral was a high-risk, high-reward business. It was also potentially
+lethal. Names needed to be 'richer than God' to take part in the spiral,
+said Mr Jim Payne, a leading reinsurance broker. But thousands of Names
+whose total wealth amounted to little more than a suburban house were sucked
+in.
+There was a massive inflow of Names to the market after 1985, drawn into
+Lloyd's by the prospect of easy money.
+The overcapacity increased competition and depressed premium rates. Some
+underwriters became complacent. 'They wrote business as if the big one was
+never going to happen,' one agent said.
+The spiral worked like this: an insurance company insured a large number of
+houses in the UK and wished to protect itself against the risk of storms,
+such as the ones in October 1987 that laid waste swathes of the south-east
+of England.
+The insurance company insured all losses up to Pounds 100m. Brokers
+operating on its behalf devised a reinsurance programme that might reinsure
+losses exceeding Pounds 100m.
+That would be be only one of many similar exposures re-insured on the London
+market. A way had to be found to spread the risk in the event of a number of
+disasters happening during the same period.
+Companies and syndicates would divide risks into layers. One typical
+programme might insure all losses from Pounds 100m up to, say, Pounds 150m.
+That slice of risk would, in turn, be divided into layers of say Pounds 2m
+each. Each of those layers would in turn be divided up and offered for
+reinsurance to syndicates and companies.
+But the spiral did not stop there - in fact, it had only really begun.
+Reinsurers would now seek to offset some of the risk they had assumed.
+This is called a retrocession market - the reinsurance of reinsurance.
+The reinsurer who might already have participated in, say, a dozen
+reinsurance transactions, would seek to buy cover in order to offset his own
+overall exposure to catastrophe loss. Those retrocession programmes would
+again be layered and so on. The retrocession markets became known as London
+Market Excess or (LMX).
+The effect was to create a chain or spiral of reinsurance arrangements in
+the market, with many syndicates and companies cropping up at different
+points in the chain - sometimes as reinsurers assuming risk, sometimes as
+reinsurers ceding risk to another reinsurer.
+That high-risk and fragmented market helped to improve cashflow because of
+the time taken to collect hundreds of small reinsurance claims.
+Reinsurers at the top of the spiral were paying claims from a loss at the
+Avondale shipyard in the US nearly 12 years after an incident which gave
+rise to losses of more than Dollars 100m, even though the owner of the
+shipyard and the vessels were paid soon after the event.
+Confidence among spiral reinsurers was fuelled by the infrequency of large
+claims between 1970 and 1987. Catastrophe reinsurers produced good profits,
+and many new Names were attracted to these syndicates.
+Warnings from professionals that this was a high-risk market were ignored.
+Names were encouraged in some cases by a number of agents anxious to
+increase their own income - itself based on fees and profit commissions
+charged to Names.
+Setting premium rates had been at best 'haphazard', said Mr Martin
+Rodney-Smith, whose company has recently completed an investigation on
+behalf of affected Names. But in this soft market, arbitrage - the
+exploitation of price imperfections - became rife. Underwriters could
+reinsure a set of liabilities for one price then reinsure the same
+liabilities for less, pocketing the difference. 'Making a turn was the
+easiest way to make money,' said one successful spiral underwriter.
+Spiral business was extremely attractive business for brokers, who earned 10
+per cent commission on any deal. But the market was blown apart by several
+catastrophes in the late 1980s.
+As the market became more efficient in processing claims, the spiral speeded
+up and underwriters were called upon to pay claims faster.
+Underwriters who did not have to pay out for five years after hurricane
+Alicia in 1983 were faced with huge claims for hurricane Hugo in September
+1989 barely a year after the event.
+The disasters exposed a big structural weakness at Lloyd's. Syndicates -
+annual joint ventures of Names - exist only for a year, so they cannot build
+up reserves to cover losses from future years.
+Lloyd's syndicates are obliged to distribute profits earned in the good
+years, leaving Names with the responsibility of building up their own
+reserves. Few appear to have done so.
+ -----------------------------------------------------------------------
+HOW THE SPIRAL WORKS AT LLOYD'S
+ -----------------------------------------------------------------------
+1 A large direct insurer issues 2m homeowner policies, averaging Pounds
+50,000 - total exposure Pounds 100bn. It receives a total premium of
+Pounds 250m.
+ -----------------------------------------------------------------------
+2. The insurer buys excess loss reinsurance covering a total exposure of
+Pounds 225m. This is spread among five reinsurers, each of which
+receives Pounds 5.4m in premium. A broker places the business with each
+reinsurer and earns a commission of 10 per cent.
+ -----------------------------------------------------------------------
+3. Those reinsurers buy excess loss reinsurance - or retroinsurance -
+covering a total exposure of Pounds 175m. They pay premiums of Pounds
+486,000 to 25 separate reinsurers. Again a broker makes 10 per cent on
+each deal.
+ -----------------------------------------------------------------------
+4. These reinsurers buy their own excess loss reinsurance - or
+reinsurance of retrocession - to cover Pounds 137.5m in exposure.  This
+is spread among a further 125 reinsurers, each of which receives Pounds
+43,740 in premium and takes on exposure of Pounds 1.1m. Yet again a
+broker makes 10% on each deal.
+ -----------------------------------------------------------------------
+ -----------------------------------------------------------------------
+WHAT HAPPENS WHEN A CLAIM OF POUNDS 100m OCCURS
+ -----------------------------------------------------------------------
+                     Gross    Recovered    Net    Premium    Net claims
+                     claims     from      claims  retained    as % of
+                             reinsurance                     premiums
+                     Pounds     Pounds     Pounds   Pounds
+ -----------------------------------------------------------------------
+Primary insurer      100m       75m         25m      220m       11%
+Reinsurer             15m        5m         10m      2.7m      370%
+Retrocession insurer   1m        0           1m   243,000      412%
+Retrocession reinsurer 0         0           0     43,740        0
+ -----------------------------------------------------------------------
+ -----------------------------------------------------------------------
+WHAT HAPPENS WHEN A CLAIM OF POUNDS 200m OCCURS
+ -----------------------------------------------------------------------
+                      Gross    Recovered    Net    Premium    Net claims
+                      claims     from      claims  retained    as % of
+                              reinsurance                     premiums
+                     Pounds     Pounds     Pounds   Pounds
+ -----------------------------------------------------------------------
+Primary insurer       200m       175m        25m      220m       11%
+Reinsurer              35m        25m        10m      2.7m      370%
+Retrocession insurer    5m       3.5m       1.5m   243,000      617%
+Retrocession
+ reinsurer         700,000         0     700,000    43,740     1600%
+ -----------------------------------------------------------------------
+The size of loss increases but the frequency of loss decreases as you
+go though the spiral; the same reinsurers and brokers can participate
+at different levels of the market.
+ -----------------------------------------------------------------------
+Source: Sedgwick
+ -----------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page 6
+
+920702
+

@@ -1,0 +1,336 @@
+FT941-5530
+
+FT  05 MAR 94 / Finance and the Family: All you ever wanted to . . .
+
+
+   By RICHARD CHANT and ALAN SUGDEN
+
+
+This is the first in a series by Richard Chant and Alan Sugden on all
+aspects of capital gains tax. The four articles are intended to help private
+investors in stock market securities work out their cumulative capital gains
+during each tax year, and to describe the steps needed to minimise CGT
+liability. These articles are written specifically for the serious stock
+market investor although capital gains on other assets, such as second
+homes, may also trigger CGT liabilities. Today, we set out the basic rules,
+including chargeable gains and allowable losses.
+CGT is charged on your capital gain when disposing of an asset, and capital
+losses can be set off against capital gains.
+They are known as chargeable gains and allowable losses and are the
+difference between the net proceeds from disposal (or open market value if
+the asset is given away) and the attributable gross cost of the asset when
+it was bought (or the open market value if acquired otherwise).
+The actual gross cost (or the value at March 31 1982) is indexed to allow
+for the increase in the retail price index (RPI) - that is, inflation while
+you have held the asset - to give the attributable indexed cost, but only by
+the amount of inflation since March 31 1982.
+A warning, though: Any calculations you make after reading this article will
+need to be adjusted next week to take account of indexation.
+Calculation of
+chargeable gains
+CGT payable on disposals in any tax year (April 6 to the following April 5)
+is calculated in steps:
+1. Work out the gain or loss on each asset disposed of during the year.
+Where the asset is a security that has been bought and sold in the market,
+use gross cost (cost plus expenses) and net proceeds (gross proceeds less
+expenses).
+Note that the date of the contract is the date of purchase or sale, not the
+settlement date.
+2. Subtract total allowable losses from total chargeable gains. This will
+produce either a net allowable loss, which ends the calculation - such a
+loss can be carried forward indefinitely to offset future net chargeable
+gains; or a net chargeable gain.
+3. Each person has an annual exemption, including children. Deduct the
+annual exemption (Pounds 5,800 in 1992/93 and 1993/94) from the net
+chargeable gain.
+If this produces a negative figure or zero, there is no CGT to pay. If the
+figure is still positive then:
+4. Deduct capital losses brought forward (see below). This will produce
+either a negative figure, which is the amount of losses that can be carried
+forward to future years (there is no CGT to pay), or a positive figure,
+which is the amount of chargeable gain on which CGT will be assessed.
+The calculation must be done in the sequence shown. If, for instance, you
+make a total of Pounds 5,000 chargeable gains and Pounds 2,000 of allowable
+losses, you are not allowed to set the Pounds 5,000 off against your annual
+exemption and carry forward the Pounds 2,000 losses to future years.
+Net gains would be Pounds 3,000, less than the annual exemption, so there
+would be no CGT charge and no losses to carry forward.
+Note that none of this includes the process of indexation, and that no
+unused annual exemption can be carried forward. The list of investments
+exempt from CGT is shown below.
+Calculating CGT payable
+The tax liability on net chargeable gains (less the annual exemption) is
+normally calculated by adding them to taxable income in the tax year and
+working out the additional tax due (see box 1).
+Investments that are
+exempt from CGT
+Gains (and losses) on the following investments are excluded from CGT
+assessments:
+Saye (save as you earn) contracts, but not the shares acquired if linked to
+a share option scheme, as is often the case.
+Premium Bond winnings.
+Government stock (gilts).
+Personal equity plans.
+Bonuses from tax-exempt special savings accounts (Tessas).
+Qualifying corporate bonds (QCBs). These are any debentures, loan stock or
+bonds where the debt attaching to them is a normal commercial loan in
+sterling and cannot be converted to any other currency.
+The rules are not straightforward, though. Gains on QCBs acquired on or
+before March 13 1984 are subject to CGT.
+Losses on disposal of QCBs held on or issued after March 15 1989 are
+allowable for CGT, but the original cost cannot be indexed to calculate
+losses.
+Offsetting trading losses
+against capital gains
+Since 1991/92, you have been allowed to set trading losses not covered by
+all other income against chargeable gains in either the same or the
+following tax year.
+If, for example, you are self-employed and making losses over and above all
+your other income, the excess losses in any tax year can be set off against
+chargeable gains in that year and/or the following year.
+Carrying losses forward
+If capital losses are more than capital gains made in the same year, the
+excess losses in that year can be carried forward indefinitely and offset
+against gains in later years. For an example of how this works, see box 2.
+Negligible value
+The Inland Revenue keeps a list of securities which it deems to be of
+negligible value. But the investor does not have to wait until the security
+appears on that list before claiming for an allowable loss; he can do that
+as soon as he considers that a holding in his portfolio is worthless.
+When he does, and the security is not on the Revenue's list, it will
+investigate.
+If satisfied that the security is worthless, the Revenue will allow the
+claim and add the security to its list. This allows later claims from other
+holders to be agreed without further investigation.
+Each quarter, the Revenue sends out lists of 'deemed' securities to its
+local offices, various tax journals and specialist tax services (although
+not the press in general) which then pass on this information to their
+subscribers.
+Twice a year, Extel Financial publishes a slim A4 size book called CGT
+Capital Losses. It contains the Revenue's quarterly information plus a list
+of companies that have gone into receivership but have not yet had their
+shares deemed of negligible value.
+The annual subscription is Pounds 53 (Extel Financial, tel: 071-251-3333).
+If you want to know if a security is on the Revenue's list, but do not want
+to subscribe to a specialist service, ask your local inspector of taxes (who
+will have the latest quarterly list), or your accountant or stockbroker
+(most of whom take a specialist service).
+In the past, some investors have been slow to make claims on securities of
+negligible value. There are two possible reasons:
+1. They may think, mistakenly, that a security has to appear on the
+Revenue's list before they can claim; this, as we have described, is not so.
+In fact, if no shareholders ever claimed until a security appeared on the
+list, it would never contain any securities: definitely a chicken and egg
+situation.
+2. They may have wanted to allow the indexed cost of the security to
+continue growing with the RPI until they needed to claim the loss to offset
+against gains.
+This was quite a crafty move, but indexing holdings of negligible value was
+ruled out by January 1994's Finance Bill for negligible-value claims made
+after November 29 1993 (Budget day). In our view, this is a bit tough.
+No CGT on death
+When a person dies there is no charge on the net unrealised gains in their
+portfolio although their estate is, of course, subject to inheritance tax.
+Valuing a dead
+person's estate
+Securities in the estate are valued using the open-market value of each on
+the date of death or, if that was not a working day, on the last day for
+which the price was published before death.
+The open-market value of a security listed on the London stock exchange,
+including the USM, is the lower of:
+1. The bid price of the security plus one-quarter of the spread (the
+difference between the bid price and the offer price). This is known
+colloquially as 'quarter up.'
+2. The figure halfway between the highest and the lowest prices of bargains
+recorded that day in the stock exchange's Daily Official List.
+For foreign securities listed on a recognised stock exchange, the basis for
+calculating the value of a disposal is very similar to that for a UK listed
+security; the value is converted into sterling at the rate of exchange at
+the date of death.
+Selling assets from an estate
+If securities are sold from an estate within 12 months of death, the
+executors can elect that, for the purpose of IHT, the proceeds of the sale
+can be substituted for the open market value at the date of death. But the
+election has to be for all disposals during that 12 months.
+This can be a very important concession if money has to be raised by the
+executors and the market is falling.
+Filling in your tax return
+If your chargeable gains do not exceed the exempt amount for the year
+(Pounds 5,800 in 1993/94), and the aggregate value of (or the net
+consideration received for) the assets disposed of does not exceed twice the
+exempt amount for the year (Pounds 11,600 in 1993/94), there is no need to
+provide details of your capital gains and losses in the year (which include
+gains and losses on assets other than stock market securities). You just
+tick the box provided.
+If either of these figures is exceeded, you must give details of each
+chargeable asset disposed of, and the amount of chargeable gain. You might
+also, if you wish, provide your tax inspector with your computations. The
+new version of the annual tax return, form 11P, introduced in 1992/93, gives
+a useful pro forma for doing each computation.
+Date of payment of CGT
+Your return should be sent to your tax office by October 31 following the
+end of each tax year. CGT should then be paid by December 1 (or, if later,
+by 30 days after the issue of the assessment).
+Richard Chant is a tax partner at Bristol chartered accountant Solomon Hare.
+Alan Sugden is the co-author of Interpreting Company Reports & Accounts
+(Woodhead-Faulkner, 4th (revised) edition, p/b Pounds 19.95).
+Answers to the most popular general questions arising from this series will
+be published after the final article. Please mark your envelope 'CGT Series
+Question.' But we cannot provide detailed advice about personal CGT returns.
+Next week: Indexation
+ ---------------------------------------------------------------------
+Table 1: CALCULATING CGT PAYABLE
+ ---------------------------------------------------------------------
+In 1993/94 a wife who stays at home to look after her children
+estimates that her total income, including tax rebates on her dividend
+income, will be pounds2,800.
+In 1993/94 the personal allowance is pounds3,445.
+Her husband pays tax at the marginal rate of 40 per cent; he claims and
+automatically receives the benefit of the married couple's allowance of
+pounds1,720, as they have not elected to do otherwise (see footnote).
+Her net capital gains so far this year after Indexation (which will be
+explained next week) are pounds34,200 - an aunt left her some money and
+she put pounds17,500 into British Airways shares at the time of the Gulf
+War, taking her profit last month. She has no carried forward losses.
+How much CGT will she have to pay, assuming she makes no further
+disposals?
+ ---------------------------------------------------------------------
+The calculation:
+ ---------------------------------------------------------------------
+Capital gain                                   pounds34,200
+Annual exemption                                    (5,800)
+Taxable gain                                         28,400
+ ---------------------------------------------------------------------
+Unused personal allowances can't be used to offset against capital
+gains, so she starts at the bottom of the lowest tax band:
+Tax band pounds           Tax rate %     Tax payable pounds
+ ---------------------------------------------------------------------
+0 - 2,500                         20                    500
+2,501 - 23,700                    25                  5,300
+23,701 - 28,400                   40                  1,880
+CGT payable in 1993/94                                7,680
+ ---------------------------------------------------------------------
+Note: Allocation of Married Couple's Allowance. The wife can ask to
+receive half the allowance, or they can jointly ask for the wife to
+receive it all. If neither of these requests are made, the husband can
+claim and automatically receive all the allowance which, in this case,
+is clearly to their advantage.
+ ---------------------------------------------------------------------
+ ---------------------------------------------------------------------
+               Table 2: CARRYING LOSSES FORWARD (Pounds )
+ ---------------------------------------------------------------------
+(a)             (b)            (c)          (d)          (e)
+Tax         Capital        Capital          Net          Net
+year         gains*        losses*        gains       losses
+ ---------------------------------------------------------------------
+88/89         9,240          2,000        7,240            -
+89/90         5,276          6,476            -        1,200
+90/91         8,600          3,600        5,000            -
+91/92         7,240         15,100            -        7,860
+92/93        10,750          2,245        8,505            -
+93/94        15,020              -       15,020            -
+ ---------------------------------------------------------------------
+(a)             (f)       (g)            (h)          (i)          (j)
+Tax          Annual    Losses         Losses       Losses  CGT payable
+year      exemption       b/f         offset          c/f   on gain of
+ ---------------------------------------------------------------------
+88/89         5,000         -              -            -        2,240
+89/90       5,000**         -              -        1,200            -
+90/91         5,000     1,200              -        1,200            -
+91/92       5,500**     1,200              -        9,060            -
+92/93         5,800     9,060          2,705        6,355            -
+93/94         5,800     6,355          6,355            -        2,865
+ ---------------------------------------------------------------------
+*After indexation, which will be explained next week. **Annual
+exemption unused (can't be carried forward).
+Capital gains on which CGT is charged: (j) = (b) - (c) - (f) - (h).
+Capital losses carried forward: (i) = (c) - (b) + (g) - (h)
+ ---------------------------------------------------------------------
+ ---------------------------------------------------------------------
+Table 3: SHARES OF NEGLIGIBLE VALUE (since 1990)
+ ---------------------------------------------------------------------
+Alpha Estates
+Arley Holdings
+Associated-Henriques
+Astra Holdings
+AT Trust
+Audit & General
+Authority Investments
+Babcock Preson
+Barbican Holdings
+British Commonwealth
+Broadwell Land
+Burad Holdings International
+Centreway Trust
+CH Industrials
+Circaprint Holdings
+Citygrove
+City & Westminster Group
+Clarke Hooper
+Coloroll Group
+Company of Designers
+Conder Group
+Corton Beach
+Davies & Newman Holdings
+Doctus
+Egerton Trust
+England (J) Group
+Equity & General
+Erostin Group
+Ferrari Holdings
+FKB Group
+FOBEL International
+Ford Sellar Morris Properties
+Grovewood Securities
+Guidehouse Group
+Hanover Druce
+Hardanger Properties
+Hartley Baird
+Headland Group
+Honorbilt Group
+Hughes Food Group
+Keatway International
+London United Investments
+Lowndes Queensway
+Maxwell Communication Corporation
+Mountleigh Group
+Mowat Group
+Noble Raredon
+Norfolk House Group
+Parkfield Group
+Pavilion Leisure
+Pavion International
+Pennant Properties
+Plastiseal
+Polly Peck International
+Principal Hotels Group
+Ramar Textiles
+Reliant Group
+Renaissance Holdings
+RKF Group
+Rockfort Group
+Rockwood Holdings
+Rush & Tomkins Group
+Sempernova
+Sheraton Securities International
+Sock Shop International
+Stormgard
+Summer International
+Tern
+Tranwood
+Turriff Corporation
+Video Store Group
+Ward Group
+Warringtons
+Westerly
+Willaire Group
+Yellowhammer
+ ---------------------------------------------------------------------
+
+The Financial Times
+
+
+London Page VIII
+
+940305
+

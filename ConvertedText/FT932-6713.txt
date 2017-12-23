@@ -1,0 +1,49 @@
+FT932-6713
+
+FT  27 MAY 93 / Technology: Consultant's Critique
+
+
+   By KEVIN GRUMBALL
+
+
+No school that I know of restricts pens and pencils solely to the art
+department. Sadly, few schools are as enlightened about computers. Many
+systems are still the exclusive province of the maths or design & technology
+department. Westlands School demonstrates that computers have more general
+application. IT is integrated into other subjects as an enabling technology.
+Whilst computer programming can be regarded as a discipline, the use of a
+computer is far more general. In my opinion, expert systems
+have been the most disappointing area of the computer industry in the past
+10 years. The theory of rule-based systems is attractive - the computer
+makes decisions based on patchy data. To do this, it needs an array of
+knowledge extracted from experts in the field and weightings to know what
+information is important.
+White has been extremely innovative in his use of the various software tools
+available. Westlands School has used Crystal well. How transferable this
+case is to a typical business scenario is
+dubious. Nat West's use of Pharos seems to me to be more of a marketing tool
+than a serious business application. Expert system shells such as Crystal
+impose a level of discipline. They are useful for identifying what you need
+to know to make a decision. Whether they are of value in making that
+decision is a matter of conjecture.
+One reason often stated for the apparent rarity of expert systems is that
+they give such competitive advantage that companies are reluctant to talk
+about them. This is disinformation. Expert systems
+that deliver real customer benefits have become common knowledge very
+rapidly.
+The real lesson from Westlands School is that a good manager with vision,
+such as White, makes all the difference.
+Highlights of this study are:
+IT is a tool for all areas of business, not just finance;
+Expert systems may be useful for imposing discipline on problem-solving;
+Managers with vision make the difference.
+Kevin Grumball The author is a consultant at Software Design and
+Construction, of Milton Keynes
+
+The Financial Times
+
+
+London Page 18
+
+930527
+

@@ -1,0 +1,121 @@
+FT941-3317
+
+FT  16 MAR 94 / Survey of Information and Communications Technology (14):
+Watchword for the future - Global mobile communications / Paul Quigley
+charts the rapid progress towards a mobile millenium in communications
+
+
+   By PAUL QUIGLEY
+
+
+'Mind the gap]' warns a familiar, faceless voice to travellers on the London
+Underground. This could well be the watchword for the future of global
+mobile communications as a radical revolution takes place.
+The 'gap' in this case is 'globalisation and personalisation' - the main
+themes of the wireless age.
+Few of us could have predicted the all-pervasive influence which personal
+computers would come to have in business and personal life over the last
+decade. Yet we are seeing the integration of voice, data, image, and
+communications in a natural evolution towards the multimedia workstation.
+Similarly, emerging technologies in mobile communications have catapulted
+wireless, mobile and personal communications into one of the fastest growing
+markets in the world. The range of technologies becoming available is
+immense. Many people know about and use cellular telephones and radiopagers.
+Others are aware of mobile data and digital cordless technologies. Plans are
+well under way for future wireless and mobile communications systems which
+will obfuscate the demarcation lines between wireless and fixed
+telecommunications.
+First generation cellular technologies - those in use today - are
+predominantly analogue systems such as AMPS (American Mobile Phone System),
+TACS (Total Access Communication System) and NMT (Nordic Mobile Telephone)
+systems.
+Radiopaging has been dominated by the POCSAG (Post Office Code Standards
+Advisory Group) system. Second generation mobile technologies are now
+becoming commercially available, introducing digital architectures to mobile
+communications. These include GSM, CT2, DECT, CDMA and the lesser-known
+IS-54 and PDC.
+The speed of developments in the mobile industry accelerates apace. For
+example, it took cellular phone manufacturers eight hours to make a cellular
+phone in 1988; 30 minutes in 1992. Today it takes a mere 12 minutes - and
+this is a telephone containing computer capacity of between 30m and 40m
+instructions per second, equivalent to the power of mainframes of only a few
+years ago.
+GSM (Global System for Mobile Communications) is in the limelight around the
+world. Developed by the European Telecommunications Standards Institute
+(ETSI), the technical standards body, GSM is the first harmonised European
+standard to catch the imagination and the investment of users, operators,
+and manufacturers alike.
+GSM was developed as a pan-European digital cellular radio network
+architecture; it has evolved over more than 10 years into the standard we
+see today. Set to grow at an unprecedented rate over the next five years,
+GSM is already far more than merely a European standard. Already it has been
+adopted as the preferred choice of international mobile network operators in
+countries as diverse as Australia, New Zealand, Russia, South Africa, Hong
+Kong, China, India, Pakistan, and the Gulf states.
+A report entitled 'GSM - Going Global', by consultancy Nexus Market
+Analysis, forecasts that there will be 40m GSM users by the year 2002 in
+Europe alone. Driven by falling handset prices, competitive tariffs and
+wider network coverage, the market is growing at a phenomenal rate. The
+international roaming capability of GSM, coupled with the phase two
+supplementary service enhancements such as data communications and fax, is
+making GSM a serious contender as the benchmark for future global mobile
+systems.
+DCS1800, a digital cellular standard based on the GSM specification for
+lower power handsets, points to the future in the wireless market. Operating
+in the 1.8 GHz band width, DCS1800 is intended for use as a mass market
+personal communications network, or PCN.
+With a design philosophy quite distinct from its forbears, the key to the
+PCN market will be simplicity and ease of use. The target market for the
+'personal communicator' is you and me.
+In the UK there are two licensed PCN operators. Germany has licensed one
+DCS1800 operator; so has Thailand. France is in the process of licensing a
+DCS1800 operator and others are sure to follow. There is growing speculation
+that US telecom regulators will grant Personal Communications Services (PCS)
+licences to operators touting DCS at 1900 MHz.
+Cordless technologies such as CT2 (second generation digital cordless
+telephony) and DECT (Digital European Cordless Telecoms) are also reviving
+the industry. CT2 has recently experienced mixed fortunes around the world.
+The failure of CT2 as a public telepoint technology in the UK made many
+people think it was a dead-duck digital technology. However, mass uptake of
+CT2 in Hong Kong, France and elsewhere has forced a re-evaluation of its
+future. (The advent of the DECT standard may have somewhat dampened this, as
+DECT has found converts in the cordless PABX arena, the wireless local area
+network (WLAN) market and even in the wireless local loop market.)
+In radiopaging, developments in memory capacity, functionality and coverage
+are vying to re-establish this elder statesman of mobile communications as a
+flexible and feature-rich medium.
+'Wireless Messaging' is the term used by many people in the industry for
+radiopaging. ERMES (European Radio Messaging), the ETSI standard for digital
+paging, is taking longer than expected to launch. Third generation systems
+are already on the drawing board, with concepts such as 'Future Public Land
+Mobile Telecommunications System' (FPLMTS), 'Universal Mobile
+Telecommunications System' (UMTS) and 'Universal Personal
+Telecommunications' (UPT) already well under development.
+The backbone of these third generation systems will be Intelligent Networks
+(Ins) which will enable users to rely on the intelligence in the digital
+network to handle the mechanics and logistics of routeing, storing and
+forwarding of data.
+Competition in Europe and across the world has driven the market -
+competition not only in handsets and equipment manufacture, but especially
+between network operators. At a recent IBC conference on Pan-European
+Digital Cellular Radio in Athens, GSM was seen as the de facto global
+standard.
+Yet, despite GSM's runaway international success, there is a continuing
+debate within the industry over the future air interface of digital cellular
+systems. GSM, DCS1800, DECT, and others use TDMA (Time Division Multiple
+Access), which breaks up speech channels into multiple time slots. Over the
+last few years the industry has been rocked by an alternative digital air
+interface: CDMA (Code Division Multiple Access), a spread-spectrum
+technology making better use of available frequencies.
+As we hurtle headlong towards a new mobile millennium, a blurring of the
+edges in place-to-place and person-to-person communications will give rise
+to wholesale change. We're going global in a wireless world. Mind the gap]
+Stand clear of the doors, please]
+
+The Financial Times
+
+
+London Page VIII
+
+940316
+

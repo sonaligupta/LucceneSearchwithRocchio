@@ -1,0 +1,49 @@
+FT921-3675
+
+FT  13 MAR 92 / Technology: Building a career for engineers
+
+
+   By IAN HOLDSWORTH
+
+
+National Westminster Bank showed off two of the most technically advanced
+buildings in the City of London last week to a party of schoolteachers in a
+drive to boost the image of engineering in UK secondary schools.
+Some 20 staff from Sackville secondary school in East Grinstead toured
+NatWest's multi-million pound dealing centre in the City's Broadgate
+development and its Goodmans Fields cheque-clearing building in nearby
+Aldgate on an open-day for the engineering that underpins both buildings.
+The tours were part of the Engineering Council's Neighbourhood Engineers
+scheme set up in the early 1980s to put local schools in contact with
+engineers in their community.
+'Engineering has been looked on as an oily rag profession,' says Dennis
+Jones, head of technical services in NatWest's property management arm. 'I
+wanted the teachers to see situations they could readily imagine. Everyone
+sees dealing on TV and cheques being paid into branches. We wanted to
+demonstrate the depth of engineering that underpins this process.'
+At County NatWest the teachers saw how an 11,000 volt power intake was
+refined through various stages to support two dealing rooms serving some 440
+dealers.
+The four-year-old building was one of the first in the UK to use 'structured
+cabling' which means equipment can be changed or moved around the building
+without ripping up the floor each time.
+Dealers terminals are supported by a standby generator, and a room
+containing 1,400 car-batteries which ensure a power supply free of bumps.
+At the Goodmans Fields site, the teachers saw cheques being sorted by
+machine in a building that generates its own power. 'This sort of experience
+certainly broadens our horizons,' said John Cunnington, Sackville's head of
+lower school after a debriefing session this week. It is more likely to
+influence the careers department than teaching, he says.
+Neighbourhood Engineers is run by the Engineering Council which was
+established by Royal Charter in 1981 to set and monitor standards in the
+education, training and experience of UK engineers.
+The scheme aims to bring 24,000 qualified engineers into contact with some
+6,000 schools across the country.
+
+The Financial Times
+
+
+London Page 12
+
+920313
+

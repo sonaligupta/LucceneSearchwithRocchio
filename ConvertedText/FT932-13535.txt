@@ -1,0 +1,45 @@
+FT932-13535
+
+FT  22 APR 93 / Technology: Company snapshot
+
+
+Nature of business: ICI Fibres is Europe's leading manufacturer of nylon
+products such as those used in skiwear, carpets and ladies' tights. ICI
+Acrylics is a supplier to the paint, sanitaryware, sign-making and
+automotive industries, producing innovative materials such as Perspex,
+Asterite and Avron.
+ICI Fibres is about to be handed over to Du Pont of the US in exchange for
+Du Pont's US acrylics business. In a separate deal, ICI is to hand its west
+European polypropylene business to BASF of Germany in exchange for BASF's
+acrylic units in Germany and Spain.
+Turnover: ICI Fibres has a turnover of pounds 600m. ICI Acrylics (pre Du
+Pont and BASF acquisitions) has a turnover of pounds 300m per annum.
+Key personnel: At ICI Fibres: Scott Davidson, managing director; Dennis
+James, IT director; Steve Hamlett, finance director. The same trio fulfil
+similar functions in the reorganised ICI Acrylics.
+TECHNOLOGY FILE
+Software: The Business Information System (BIS), implemented at ICI Fibres
+in 1992, is based on the 4GL Focus, from Information Builders. BIS evolved
+from two previous prototype executive information systems (EIS) written
+initially in PC Express, subsequently refined using a combination of
+Lightship, and Lotus 123. The existing system is operational at ICI Fibres,
+now used by more than 20 managers in the UK, Belgium and Germany.
+Hardware: PC front-ends on 386- and 486-based colour laptop computers
+connected to an IBM mainframe via the communications network. Data is stored
+on the mainframe and distributed to local PCs. There is automatic download
+of data sources from core accounting systems.
+Suppliers: West London-based Executive Information Solutions, a 15-strong
+specialist EIS company, advised ICI Fibres on the business and management
+process.
+Cost of system: The consultancy costs in developing the BIS were pounds
+220,000 for ICI Fibres and pounds 150,000 for ICI Acrylics. This includes
+the review of the IT infrastructure, but not hardware and software
+components.
+
+The Financial Times
+
+
+London Page 20
+
+930422
+

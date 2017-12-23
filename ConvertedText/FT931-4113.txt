@@ -1,0 +1,45 @@
+FT931-4113
+
+FT  12 MAR 93 / Technology: Phone gets a look-in
+
+
+   By DELLA BRADSHAW
+
+
+Smile warmly, adopt a regal pose and lash on the lipstick. This is the
+somewhat tongue-in-cheek advice given by BT to purchasers of its latest
+piece of consumer wizardry, the videophone.
+The Relate 2000 videophone, with a three-inch colour screen, sends pictures
+across ordinary telephone lines. Calls are charged at the usual rate.
+The disadvantages are that the picture becomes distinctly blurry as the
+caller moves around and the voice is delayed, as with some calls sent via
+satellite.
+These drawbacks are caused because of the compression needed to send all the
+information in a colour picture along a telephone line. A television picture
+is transmitted at 140m bits of information per second, whereas the
+videophone sends just 14,400 bits - one ten thousandth of the television
+picture.
+A further drawback is that there is no international standard for
+videophones that work on the ordinary network, so not all can communicate.
+Two competing technologies have emerged, the GEC Marconi one, known as
+M-VTS, and one from AT&T in the US. M-VTS has been adopted by the telephone
+companies in Singapore and Hong Kong as well as by BT. In Japan the trading
+company Mitsui is selling the GEC Marconi phone. And in the US, MCI has also
+teamed up with GEC Marconi in competition with AT&T, which launched its
+videophone last year.
+BT is targeting its videophone squarely at the consumer. It will be sold
+through its shops and the Dixons group from April, although first sales will
+be at next week's Ideal Home Exhibition in London.
+The low price of the new videophone - Pounds 399 for a single unit and
+Pounds 749 for two - has caused some consternation. Consumer marketing
+specialist Amstrad had planned to launch a videophone, similarly made by GEC
+Marconi, but has been forced to delay plans while it rethinks manufacturing
+costs.
+
+The Financial Times
+
+
+London Page 15
+
+930312
+

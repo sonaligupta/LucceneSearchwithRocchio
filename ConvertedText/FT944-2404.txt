@@ -1,0 +1,30 @@
+FT944-2404
+
+FT  16 DEC 94 / Technology (Worth Watching): Slow speed town traffic
+transmitted
+
+
+   By VANESSA HOULDER
+
+
+Measuring the speed of traffic flows in towns can be difficult because
+vehicles are constantly stopping and starting.
+Trafficmaster, a company that provides live traffic information to
+motorists, believes it has overcome this problem by devising a system that
+uses video cameras and number plate recognition software to track the speed
+at which traffic moves through two points on the road.
+A video camera photographs the number plates of a batch of cars, which are
+digitised and transmitted by radio signal to a site further down the road,
+where another camera photographs the targeted number plates.
+Trafficmaster plans to install the equipment early next year on two London
+routes. The company will destroy the sightings data after its use to protect
+drivers' privacy.
+Trafficmaster: UK, tel 01908 249800; fax 01908 200330.
+
+The Financial Times
+
+
+London Page 14
+
+941216
+

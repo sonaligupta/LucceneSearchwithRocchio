@@ -1,0 +1,103 @@
+FT932-297
+
+FT  29 JUN 93 / Survey of Computer Networking (5): The great enabler -
+Client-server computing
+
+
+   By JUDITH MASSEY
+
+
+WHEN Trent Health Regional Services upgraded its financial systems recently,
+it chose to move off its health authority's mainframe and implement
+client-server software called Open 1 on a network of personal computers.
+According to Ms Kay Dickinson, senior assistant director of finance at Trent
+Services, Open 1 provides a more flexible approach to accounting systems, so
+that she can get quicker and more relevant management information. Staff can
+use familiar PC applications alongside Open 1, which itself has a friendly,
+graphical user interface (GUI). The hardware to support the system can be
+upgraded using off-the-shelf PC products and add-ons.
+The icing on the cake for Trent Services is that by installing Open 1, it
+will save money. For the same price as one year's maintenance charges on
+Trent's mainframe accounting system, Trent Services has been able to buy a
+new application. 'We have been able substantially to reduce IT overheads as
+a result,' says Ms Dickinson.
+The business benefits that Trent achieved by moving away from centralised
+mainframe systems to a departmental application demonstrate why
+client-server computing is taking off in a big way. But what is different
+about client-server computing, and why are so many people talking about it?
+Mr Mark Treveil, senior consultant with Hoskyns, the UK consultancy group,
+says that flexibility is the key. 'Organisations can do things with
+client-server computing that they could never have done with a mainframe,'
+he says.
+As well as being able to empower users by giving them the tools they need to
+do their jobs properly (including the PC applications they have grown used
+to), organisations which choose the client-server route find that they can
+create systems and reports more easily. Rather than go to the data
+processing department with a request for a report, users can create a new
+view on existing data themselves. Corporate data is a resource to be tapped
+and used in new and different ways by imaginative 'front-end' applications,
+instead of part of a monolithic liability that constrains the business and
+stops it from changing.
+Another benefit of client-server computer systems is that they tend to be
+built from industry standard components, such as Novell NetWare. As anyone
+involved in manufacturing or construction knows, wherever standard
+components are used, prices fall.
+Galileo, which provides a worldwide booking service for air travellers, has
+based its new client-server TravelManager system on standard components for
+these very reasons. Instead of writing new client routines and screens, it
+is making extensive use of tried and tested applications such as SunAccount
+from Systems Union, plus Microsoft Word and Excel.
+Of the two elements in client-server computing, the client can be a PC, a
+Unix workstation or even a remote notebook computer. The server can be
+another PC, a Unix box, a minicomputer, mid-range computer or mainframe. The
+basic premise is that different parts of the application run on the platform
+that best suits the job in hand.
+The PC (or workstation) handles the GUI and low-level PC applications, such
+as spreadsheets and small databases. The server looks after 'back office'
+computing tasks, such as updating large databases, or sorting through client
+records. The two elements are connected via the local and wide area networks
+now commonly in use by most large organisations.
+The way a client-server application works is that users request information
+or data from their PC client, but actually receive it from a server. The
+server could be in the same room, in a different part of the building, or
+even in another part of the country. Clients can access multiple servers for
+different information, but client-server software hides the downloading
+process from those users. As far as they are concerned, the information that
+pops up on their screen could have come from their own PC.
+Client-server computing can be described as 'user-centric'. Processing power
+is brought to the desktop, and applications are designed to serve the
+business need. But that view of computing can create problems for those with
+no experience of how to use client-server applications properly.
+The fact that organisations are integrating multi-vendor components into one
+computing infrastructure brings its own problems, according to Mr David
+Taylor, senior industry analyst at Dataquest. 'Management of these systems
+can be difficult,' he says. 'Organisations need to look carefully at the
+impact of having so much data moving around the network, for example. A lot
+of the pieces of the jigsaw are ready to be used, but you still need
+somebody to put it all together.'
+But the reason that some large client-server applications have failed
+recently has less to do with technology and systems integration skills than
+with business processes, says Mr Ian Faulkner, divisional director of UK
+management consultancy OASiS. 'Just sticking a sexy front-end onto an old
+system that supports outdated business processes is not going to make any
+difference,' he adds. 'Client-server technology is a great enabler, but the
+important thing is to understand how it can help your particular business.'
+The message is that while client-server computing does provide measurable
+benefits (open systems, cheaper hardware and software maintenance, more
+flexible programming and system design, better usability, the ability to
+carry on using familiar PC applications and GUIs), it should never be
+implemented for its own sake.
+In future, more vendors of financial and other corporate applications will
+produce robust, reliable client-server versions of their software. Oracle,
+Dun & Bradstreet, Compuware and others have already announced products that
+will help users move into client-server computing. The new dedicated
+management tools and operating systems such as Microsoft Windows NT will
+also move the whole client-server bandwagon a little further down the track.
+
+The Financial Times
+
+
+London Page III
+
+930629
+

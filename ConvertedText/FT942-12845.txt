@@ -1,0 +1,107 @@
+FT942-12845
+
+FT  27 APR 94 / Survey of Pension Fund Investment (13): A tool for altering
+risk profile - A look at the growing acceptance of derivatives
+
+
+   By TRACY CORRIGAN
+
+
+Pension funds - or, more precisely, their trustees - are gradually yielding
+to years of lobbying by bankers on the attractions of derivatives. While
+trustees continue to exercise caution, there is a growing acceptance that
+derivatives now constitute one of the day-to-day management tools needed by
+fund managers. The most common use of derivatives is for asset allocation
+purposes.
+'Asset allocation is normally the first stage,' says Mr Tony Whalley,
+investment director at Scottish Widows. 'It is easy to understand and most
+people can see the benefits. Very few trustees will turn around and refuse
+permission to use derivatives for this purpose.'
+As fund managers have become more sharply focused on picking the right
+market, rather than picking the right stock, the importance of efficient
+asset allocation has increased. For example, if a fund manager has a heavy
+weighting in UK stocks, but decides there are better opportunities in the US
+market, he can shift his exposure immediately by using stock index futures.
+In contrast, liquidating a portfolio of actual stocks and selecting new
+stocks can be a time-consuming and expensive process.
+Futures can also be used effectively by fund managers when they are
+expecting a large inflow of cash. They can use futures to take advantage of
+an immediate market opportunity, ahead of the cash inflow. Fresh impetus was
+given to the use of derivatives by pension fund managers in the UK by the
+clarification of the tax position in the 1990 Finance Act.
+A year later, the Securities and Investments Board produced rules on
+''efficient portfolio management'', outlining when the use of futures and
+options was an acceptable practice.
+Perhaps the most important boost for derivatives came from the publication
+two years ago of guidelines on performance measurement developed by the
+London International Financial Futures & Options Exchange (LIFFE). These
+guidelines, in suggesting how to report derivatives trades so that trustees
+could more easily assess how and why derivatives were being used, greatly
+increased the level of comfort among trustees. The fact that these standards
+were approved by the National Association of Pension Funds gave further
+weight to the argument.
+However, most trustees keep a tight rein over the use of derivatives by
+imposing a limit of 5-10 per cent on the proportion of the fund which can be
+invested in derivatives at any given time.
+'You really have to talk through the reasons for using derivatives with
+trustees,' said one specialist. 'If they say they are not happy with 5 per
+cent (as a limit), we say what about 2 1/2 per cent.'
+However, there are some within the pension fund industry who believe that
+the industry's own performance measurement criteria are inappropriate, and
+that this is restricting greater use of derivatives.
+'Pension fund managers tend to think that if the market is down 10 per cent
+and they are only down 8 per cent they have done well,' argues one
+derivatives expert. 'There is too much incentive to become a median
+performer, and too little to show a bit of flair.'
+Certainly, while anyone with money in a pension fund is probably mainly
+interested in absolute performance, pension fund managers do often seem
+obsessed with relative performance. This is the result of the way they are
+assessed - most are measured against indices, and also against competitors.
+The potential growth in derivatives' use by pension funds remains
+substantial, both in the UK and elsewhere. In the UK, for example, most fund
+managers do not tend to hedge their foreign currency exposure.
+Since the amount of pension fund assets in the UK totals more than Pounds
+400bn, and the typical asset allocation is around 25 per cent in overseas
+equities and 5 per cent in overseas bonds, it can be assumed that there is
+significant exposure to foreign currency risk.
+But the fact is that many fund managers are doing very little about their
+currency exposure, arguing in some cases that they are not clever enough to
+separate the currency component from, say, a US equity investment.
+However, because most managers do not hedge foreign exchange risk, to do so
+can be perceived as risky. 'For a UK pension fund manager to hedge currency
+risk is to take a huge bet against a performance benchmark, since that is
+usually unhedged,' explains Mr Patrick Lee of pension fund consultants R
+Watson & Sons.
+US fund managers, who usually have a smaller proportion of their assets
+overseas, nevertheless tend to be more concerned about currency risk and are
+more likely to hedge.
+More US fund managers are starting to use currency overlay programmes, to
+separate their bond and stock exposure from currency exposure. The idea is
+that good value in a bond or stock market does not necessarily mean good
+value in its currency. An overlay strategy can be used to separate these
+decisions.
+Despite some nasty experiences in the first quarter of 1994, when financial
+markets around the world slid rapidly, the broad trend is for fund managers
+around the world to continue to diversify their investments. As a result,
+the need to use derivatives for asset allocation and for hedging is set to
+increase substantially, as more managers and trustees grasp their
+complexities, and put in place the necessary systems to use these financial
+instruments.
+But trustees are right to be cautious. They have only to look at some of the
+disaster stories at companies - most recently Procter & Gamble's loss of
+Dollars 100m after tax on swap positions in the first quarter - to see what
+can go wrong.
+'At the end of the day, derivatives are ostensibly a tool for altering risk
+profile. They do not change the basic rule that if you get it right you make
+money, and if you get it wrong you lose, they merely alter the amounts
+involved, and certainly don't provide a free lunch or conjure up an extra 2
+per cent in performance,' warns Mr Whalley of Scottish Widows, 'Their main
+benefit lies in the additional flexibility they afford the fund manager.'
+
+The Financial Times
+
+
+London Page VIII
+
+940427
+

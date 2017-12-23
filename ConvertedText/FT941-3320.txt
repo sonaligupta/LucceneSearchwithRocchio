@@ -1,0 +1,116 @@
+FT941-3320
+
+FT  16 MAR 94 / Survey of Information and Communications Technology (10):
+Computer industry in transition - The seismic trauma that has rocked the
+computer industry in the early 1990s is not just the result of a recession -
+it is the result of a fundamental shift in technology / Philip Manchester
+looks at network developments and the business benefits of client-server
+systems
+
+
+   By PHILIP MANCHESTER
+
+
+The computer industry fared well in previous recessions because companies
+turned to automation to save costs and cut staff. But in the early 1990s it
+was different. Former giants of the industry - such as IBM and DEC -
+tottered alarmingly and have yet to prove they will survive the upheaval.
+The main cause is the transition from centralized, mainframe-based computing
+to distributed client-server-based computing.
+In many ways the transition reflects a wider change which is taking place in
+industry generally; local autonomy from the distribution of computer power
+and management responsibility.
+Technologically, this change manifests itself in client-server systems - an
+approach to distributed computing which separates users (clients) and the
+services they use (servers).
+Client-server computing has its origins in database management systems
+(DBMS) and the trend to separate the software used to access data from the
+software used to manage it.
+During the 1980s, developers created a new model for DBMS which allowed
+these two components to be distributed across computers on a network. The
+front-end tools - data query languages and local applications - became known
+as 'clients' and the back-end DBMS 'engines' became known as servers.
+Database vendors such as Oracle, Ingres, Sybase and Gupta use this approach
+in their products with the result that they can all communicate with each
+other.
+A front-end tool from Gupta, for example, can use a back-end DBMS engine
+from Oracle without the user ever being aware of the location of the data.
+Client-server computing extends this idea across the whole system and breaks
+down functions according to their role either as a client or a server.
+addition to DBMS servers, a modern network will have servers to handle
+printing, communications, mass storage back up and so on.
+This approach can bring many benefits. It allows users greater freedom in
+their choice of hardware and software - with consequent cost-savings. It
+makes systems more flexible and provides for better integration of different
+types of systems.
+'We have to tie the benefits to the business and I think client-server does
+this in four ways,' says Mr Lawrence Hunt, director of distributed
+processing at the UK software company ACT.
+'Firstly, client-server is much more flexible than traditional mainframe
+systems. If you want to get data for management information systems, this is
+difficult with closed mainframes.
+'Secondly, it lets you integrate application more easily. You can integrate
+a PC-based spreadsheet into a mainframe database much more easily with a
+client-server approach.
+'Thirdly, client-server systems give much more independence from vendors.
+All business want to future-proof their investment in applications software,
+which probably represents 80 per cent of the cost of a system. Client-server
+enables you to do this effectively.
+'Finally, client-server systems can cut costs. We were recently installed a
+client-server system at a large investment bank. The costs came to about
+Pounds 1.5m. It would have cost Pounds 3m if we'd had to use a traditional
+approach with mainframes,' says Mr Hunt.
+Other financial institutions have also opted for the client-server approach
+in a big way. The Nationwide Building Society, for example, has standardised
+on Microsoft's Windows NT operating system as the lynchpin for a
+client-server system which will support 10,000 personal computer users over
+the next three years. It is also looking into the possibility of plugging
+its Automatic Teller Machine network into the new system with Windows NT as
+the controlling software.
+National Westminster Bank has also adopted Windows NT as the basis for its
+client-server developments.
+Most organisations are adopting a cautious approach to the transition from
+traditional centralized computer to client-server systems, however.
+Paymaster, formerly the Paymaster General's Office, is typical - 'we are
+introducing client-server slowly - function by function. We have started
+with electronic mail and access to shared spreadsheet and are moving on to
+introducing more function on desktop PCS,' says Mr Derick Harbottle,
+director of information technology at Paymaster.
+After many years of relying on an ICL mainframe computer to do everything,
+Paymaster has embarked on an ambitious plan to integrate up to 800 users
+into a three-layer client-server system using hardware from Olivetti and
+software from Novell and Oracle.
+The ICL mainframe will eventually become no more than a database server.
+'We have a heritage of 'legacy' systems on mainframes and we had to see if
+it was practical to move away from the mainframe. After a rigorous
+right-sizing study to see if it was feasible, we opted for a staged approach
+with a pilot project to start,' says Mr Harbottle. Paymaster's move to
+client-server is the result of the same commercial pressure faced by
+business. Following changes in the UK government's approach to public
+services and the introduction of market testing, Paymaster has had to become
+aware of the service it offers it customers.
+'We have made the change for sound business reasons. We are forward-looking
+company and need do more than sit back and let things just happen,' says Mr
+Harbottle.
+He goes on to emphasise that client-server should not be seen as a
+technology solution - but a business solution which brings greater
+flexibility to building information systems. He is also wary of expecting
+too much in the way of cost savings - 'some people are talking about the
+technical issues or the cost-saving issues. We prefer to concentrate on the
+business benefits which will come from client-server,' he explains.
+Any move to a new technology is bound to cause new problems and the
+transition to client-server systems is no exception. Paymaster's cautious
+approach - with carefully phased introduction of the new system alongside
+the old, is an object lesson in how to move to client-server with the
+minimum amount of pain.
+'We try to avoid being at the bleeding edge of technology. Rather than
+inventing our own, we would rather steel other people's wheels,' observes Mr
+Harbottle.
+
+The Financial Times
+
+
+London Page VI
+
+940316
+

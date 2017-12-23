@@ -1,0 +1,34 @@
+FT921-689
+
+FT  27 MAR 92 / Accident 'black box' for ships launched
+
+
+AN accident 'black box' for ships was launched yesterday, but its
+manufacturers fear that it may be some time before it is adopted worldwide.
+The voyage event recorder provides a record of the last 24 hours of a
+vessel's journey and should help marine investigators looking at the cause
+of shipping accidents.
+The device has already been installed by P&O in 10 of its ships and is said
+to be more sophisticated than its equivalent in aircraft, the flight data
+recorder.
+The International Maritime Organisation, Department of Transport and Marine
+Accidents Investigation Branch have been kept in touch with the development
+of the device by Broadgate Ltd of Almondsbury, Avon. But Mr Chris Winkley,
+managing director of Broadgate, said yesterday: 'I can't see the IMO making
+the VER mandatory on all ships at the moment.'
+Investigators of marine accidents at present have to depend on verbal
+accounts of events leading to a shipping accident.
+The new device has a tape which can play back the last 24 hours of a ship's
+journey using voice recordings and radar screens, on which the vessel's
+exact position can be plotted.
+The device is housed in a 19-inch rack cabinet which incorporates all its
+control electronics and system monitoring devices. It contains an
+eight-track VHS recorder from Racal Recorders.
+
+The Financial Times
+
+
+London Page 10
+
+920327
+

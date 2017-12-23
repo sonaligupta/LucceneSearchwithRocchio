@@ -1,0 +1,67 @@
+FT941-5515
+
+FT  05 MAR 94 / Minding Your Own Business: A little rival for the giants -
+Computing / Robin Brooker looks at a no-frills office package
+
+
+   By ROBIN BROOKER
+
+
+Connect Software, a UK software developer, has taken a careful look at the
+needs of the small office and produced a package, Office Manager, aimed
+squarely at the 'Soho' (small office / home office) market.
+Connect is pleased with its product, but it has to compete with giants such
+as Microsoft, which markets Microsoft Office, a suite of packages with many
+more features, many of which are of little use in a very small office and
+cost nearly 10 times as much.
+Office Manager combines contact management, letter writing, invoicing,
+elementary stock control and document storage. You can use Office Manager on
+its own or link it to Money Manager, with data moving between the two in
+both directions.
+The core of Office Manager is its database. Each database file holds only
+500 records but this should prove no restriction for its potential users.
+Two possible problem areas are in compiling customer lists and parts lists.
+Organising the customer list into separate files for geographic areas
+overcomes the restriction. Similarly, the parts list, taking motor spares as
+an example, could differentiate between engine and electrical items.
+Moving from one database to another is easy: Office Manager automatically
+saves a file before loading a new one, thus eradicating the main danger when
+dashing between files.
+When creating invoices you can have your stock list on screen. As you add
+the quantities to the invoice the stock list is updated automatically. You
+can post the invoice directly to your Money Manager data file with just two
+or three keystrokes.
+Designing templates for invoices is simple. You can prepare them with plain
+paper or for your own pre-printed letterheads.
+Producing letters can be very quick using the text editor and all standard
+letters can be individual templates. It then becomes a matter of choosing
+the person you wish to send it to and telling the program which letter you
+want to send - almost no typing required. As there is no typing, it leaves
+little room for typographical errors. The mail merge facility is also much
+easier to use than in the more sophisticated programs such as Microsoft Word
+for Windows. The word processing facilities seem a little basic compared to
+the larger programs and there is no spell checker, no thesaurus nor grammar
+checker.
+My one apprehension about the program is that it works under MS-Dos. This
+has its benefits: the program will run on a basic PC with a hard disk. It
+ran happily on an old Amstrad 1512, which is considered something from the
+age of the dinosaur by many computer freaks.
+Recent computer purchasers have been sold the idea that Windows is the
+standard computer interface and that programs running under Ms-Dos are
+difficult to use. The menu system of Office Manager is very easy to use. Any
+user of Windows would have no problem using the program and the manual
+describes how to install and operate the software from Windows' Program
+Manager.
+Office Manager's unique combination of facilities makes it suitable for a
+wide variety of uses where larger programs can be both expensive and
+cumbersome.
+Office Manager costs Pounds 49.95 and is available from Connect Software, 3,
+Flanchford Road, London W12 9ND. Tel: 081 743 9792 Fax: 081 743 8073
+
+The Financial Times
+
+
+London Page XIV
+
+940305
+

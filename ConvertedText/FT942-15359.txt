@@ -1,0 +1,89 @@
+FT942-15359
+
+FT  15 APR 94 / Finger points at banks after Procter's gamble: Tracy
+Corrigan looks at the impact of a threat to sue over swap losses
+
+
+   By TRACY CORRIGAN
+
+
+A new dimension has been added to the range of risks associated with trading
+derivative instruments, already the source of sleepless nights for
+regulators, intermediaries and their clients.
+Earlier this week, Procter & Gamble, the US consumer products group,
+threatened to take legal action against Bankers Trust over losses it
+incurred on interest rate swaps marketed by the bank. In the wake of a
+Dollars 100m (Pounds 68m) after-tax charge in the company's first-quarter
+results, this has prompted concern among banks that they could be vulnerable
+to a new type of legal risk: litigation by companies which have lost money
+on complex derivative instruments such as swaps and options.
+The grounds for such an action are unclear, however, and Procter & Gamble
+has declined to expand on its chairman's statement that: 'We are seriously
+considering our legal options relative to Bankers Trust.'
+One American lawyer said: 'The obvious difficulty for P&G is that in theory
+they are a sophisticated user, not a widow or orphan. But it may be that
+certain representations were made by Bankers Trust, perhaps some kind of
+undertaking to help manage the risk.'
+Bankers Trust, however, claims it 'formally recommended that Procter &
+Gamble limit its risk by unwinding all or part of the transactions. Senior
+officials rejected these recommendations.'
+But one corporate treasurer said he was puzzled by P&G's use of 'geared'
+swaps, which are more risky than normal swaps. 'Why did Bankers Trust sell
+them this sort of product?' he wondered, noting that it was an unusual type
+of instrument for a company to use.
+Whether or not any action goes ahead, the incident has raised the issue of
+how much hand-holding a bank should do.
+'They are obliged to inform companies of the effect of changing market
+conditions, but not obliged to reveal complex formulae, because that is
+proprietary information,' according to Ms Maureen Erasmus, a partner of
+Cooper & Lybrand's global risk management practice.
+She points out that many companies have lost money on derivatives because
+they have failed to take account of the tax implications. While this may not
+seem to be a bank's responsibility, some derivatives are specifically
+marketed for tax purposes.
+The fact is that law on derivatives is a rather grey area, precisely because
+the rapid growth of the market has outstripped the development of a legal
+framework.
+'I would have not have thought there was any basis to sue where
+sophisticated grown- up companies are involved,' said Mr Alan Newton,
+partner and head of derivatives at Freshfields, a London law firm. 'I think
+it would be a very difficult argument to get off the ground, unless the
+financial institution had some sort of advisory role. It wouldn't normally
+be the case that the intermediary has any obligation to explain risk.'
+However, in the US, where companies tend to be more litigious a number of
+cases have been brought. City Colleges of Chicago has filed a suit against
+National Western Life Insurance's broker-dealer unit, alleging it wrongfully
+sold the college system Dollars 100m of collateralised mortgage obligations
+(CMOS), risky securities which it alleges were unsuitable for its investment
+portfolio. And Marion Merrell Dow, this week filed a lawsuit against fund
+manager David Askin, alleging improper handling of its investments.
+However, in these cases the claimants can invoke federal securities law,
+which does not cover swaps because they are privately negotiated contracts.
+The Procter & Gamble move has awakened painful memories for London bankers
+of the UK local authorities swaps debacle in the 1980s, which left banks
+facing losses of Pounds 600m when councils were found to have acted outside
+their powers in using these instruments. Some banks were also criticised for
+encouraging councils to take highly speculative positions.
+Mr Geoffrey Isaac, chairman of MTM Partnership, which advises international
+companies on treasury management, says as a result, 'there has been a lot of
+tightening in the way these things are marketed'.
+Whether or not Bankers Trust is sued, the crux of the matter - as in
+virtually every case of large corporate losses, from Allied Lyons' Pounds
+150m to Metallgesellschaft's roughly Dollars 1bn - is that internal controls
+were broken. Procter & Gamble has already admitted that the policies and
+procedures governing the control of swaps 'simply weren't followed in these
+two isolated swaps'.
+While this admission may be enough to scupper any potential action, it could
+still spark further attempts to gain redress for what can be painful losses.
+'It certainly has the potential to become a growing area of litigation
+because of the size of the losses and the reliance that clients may be
+putting on the expertise of financial intermediaries,' said Mr Thomas
+Siebens, a partner at Milbank Tweed Hadley and McCloy, the US law firm.
+
+The Financial Times
+
+
+London Page 23
+
+940415
+

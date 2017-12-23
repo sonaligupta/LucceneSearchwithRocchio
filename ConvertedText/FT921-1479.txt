@@ -1,0 +1,70 @@
+FT921-1479
+
+FT  24 MAR 92 / International Capital Markets: Options market adopts revised
+margining regime
+
+
+   By RICHARD WATERS and TRACY CORRIGAN
+
+
+A REVISED margining regime came into force in the UK options market
+yesterday which, some traders claim, will have a significant impact on the
+way options are traded.
+For some, the revised regime - one consequence of the merger of the London
+Traded Options Market with the London International Financial Futures
+Exchange, which was completed on Sunday - has come as an unpleasant
+surprise.
+One trader complained his margin requirement - the collateral he must
+provide to guard against losses on his trading positions - had jumped more
+than threefold, to more than Pounds 750,000 (Dollars 1.2m), as a result of
+the merger. As a result, he must unwind some of his positions to reduce his
+exposure - a fact that made him reluctant to be named.
+However, Liffe said the new rules had reduced the margining requirements for
+most options traders. As such, they may help to encourage trading of
+individual stock options, which have languished in London in the past.
+The new method of assessing margining for options is one which has been in
+use for some time on the futures market. It is based on the 'Span' method
+for calculating margins, developed by the Chicago Mercantile Exchange and
+used in London by Liffe and other derivatives markets. Liffe claims the
+system is more sensitive to risk than its previous version, or that used by
+the traded options market.
+'The intention is to assess risk more accurately. There are particular
+situations where it will result in an increase in margin, but they are very
+few,' Liffe said. The Span method assesses margin requirements by taking an
+overall view of a trader's portfolio. Factors which determine margin levels
+include market volatility over the past six months. One result of this has
+been to push up margining for stocks which have fallen in recent months, in
+some cases substantially. Previously, the traded options market applied only
+a nominal margining requirement for options which are substantially 'out of
+the money' (where the exercise price and current market price are far apart,
+making exercise unlikely).
+The implications of this for the market are only just beginning to sink in.
+As one trader said: 'Before, you tried to get spreads as wide apart as
+possible. Now, the aim will be to get them as close to the money as
+possible.'
+He complained Liffe had done little to educate traders or brokers about the
+implications of the new rules, making it difficult to adapt a trading
+strategy to the new regime.
+Liffe said it had used workshops and other methods to publicise the changes
+in advance. However, the full implications of the system seem only to have
+sunk in the past fortnight, since Liffe first told traders what their new
+margins would be.
+The first day's business on London's newly-merged futures and options
+markets failed to inspire a burst of celebratory trading, writes Tracy
+Corrigan.
+Volume in FT-SE 100 index options reached 11,300 yesterday, virtually
+unchanged from Friday, against an uninspiring stock market. Index options
+are expected to benefit most from the merger, partly because cross-margining
+between the FT-SE futures and options contracts is now allowed - that is,
+traders can net off trading positions in the two contracts.
+The market in individual stock options, which the merger is designed to
+revive, tailed off yesterday. Volume reached 17,700, down from 27,400 on
+Friday, but in line with average daily volume in February.
+
+The Financial Times
+
+
+London Page 33
+
+920324
+

@@ -1,0 +1,153 @@
+FT932-3216
+
+FT  15 JUN 93 / International Company News: SEC study could bring equities
+trading shake-up - Patrick Harverson examines the US regulation issues which
+the Market 2000 review is considering
+
+
+   By PATRICK HARVERSON
+
+
+THE STRUCTURE of equities trading in the US could soon face a shake-up if
+Market 2000, the Securities and Exchange Commission's year-long study into
+the regulation of the country's stock markets, packs anything like the punch
+of its predecessor.
+The last comparable study undertaken by the SEC, the government agency that
+administers US securities laws and regulates financial markets, was
+completed 20 years ago and led to the 'May Day' revolution of 1975, which
+abolished fixed brokerage commissions and forever changed the way business
+was conducted on Wall Street.
+The SEC's division of market regulation, which is compiling Market 2000,
+hopes the review will be ready later this summer, although it may be delayed
+by the arrival of the new SEC chairman, Mr Arthur Levitt, who has yet to be
+confirmed in his job by Congress.
+The study's recommendations will be considered by the agency's five
+commissioners, who will decide whether to introduce regulations based on its
+findings. Congress may then amend the US securities laws in line with any
+reforms.
+The motivation behind Market 2000 dates from the changes introduced in 1975.
+The SEC hoped then that the competitive forces its reforms unleashed would
+lead to the evolution of a single national market system through which all
+stock trades would be routed, and which would be accessible to all
+investors.
+While many of the changes introduced in 1975 have benefited the securities
+business - trading volume has risen steeply, new financial instruments and
+trading methods have proliferated - the competition that the reforms
+unleashed produced a fragmentation, not a centralisation, of US stock
+markets.
+Today, share orders are executed in an array of different arenas. While many
+investors buy and sell stocks in the traditional way - through brokers who
+place their orders on the floor of the New York Stock Exchange - others
+trade via brokers who execute orders on electronic over-the-counter markets.
+Also, some bigger investors trade directly with broker-dealer firms, while
+others prefer to bypass the intermediaries and exchanges altogether and buy
+and sell directly with each other.
+The growing multiplicity of trading forums has had a profound effect on the
+NYSE, the country's largest stock market. Its share of trading in US stocks
+has been under attack from a growing band of competitors. They include:
+Nasdaq (the electronic broker-dealer market run by the National Association
+of Securities Dealers).
+Smaller registered exchanges such as the American Stock Exchange; regional
+stock markets such as those in Cincinnati and Philadelphia.
+Privately-run computerised trading systems that offer investors an
+electronic trading forum free of dealers and other intermediaries.
+The NYSE has also lost business to the London Stock Exchange, which trades
+US shares before New York opens and which imposes less strict disclosure
+requirements on brokers and institutions than is the case in the US.
+Competition has been the prime reason for the way the NYSE's grip on
+domestic equities trading has weakened. In 1981, 75 per cent of trading in
+all US stocks was handled by the NYSE. Today its share of the business has
+dropped to a little more than half.
+Quite simply, brokerage firms and institutional investors have turned to
+other markets or systems where the absence of expensive trading floors and
+market-makers means trades can be completed more efficiently and for less
+cost.
+This sort of fragmentation is leading to the emergence of a two-tier market
+with one level for the big players and another for the small investors: and
+it is a development which is of concern to the SEC.
+In many ways, a two-tier market already exists. Powerful institutions enjoy
+the benefits of fragmented markets by using their money and power to keep
+transaction costs down, and to gain access to intermediary-free computer
+trading networks.
+Additionally, institutions can trade where they do not have to disclose all
+the details of their activities. The Posit system, run by the Californian
+broking house Jeffries & Co, is one example, and the London Stock Exchange's
+Seaq International system, another.
+As for smaller investors, they lack the sophistication, technology and
+capital to access the cheaper electronic systems, and have to use
+traditional markets where execution can be slower and more expensive. Even
+if their orders are directed by brokers to some of the newer trading arenas,
+it is mostly done without their knowledge or without attendant cost
+advantages being passed on.
+The SEC is approaching the issue of market fragmentation gingerly. The
+agency will not say what it hopes its Market 2000 study will achieve.
+Instead, the SEC says only that it has been addressing a number of issues in
+detail, among them: fragmentation of trading; market liquidity; the
+execution of trades; the emergence of privately-run computerised trading
+systems; and the relative regulatory burdens on the different markets.
+Above all, the SEC wants to look again at the regulatory framework that
+supports equities trading.
+Much of the regulatory structure dates from before the 1970s, when trading
+stocks in the US was a simple process.
+In the intervening years, the SEC has failed to develop an overall
+regulatory strategy. The agency admits that its approach to regulation has
+not been well organised. Mr William Heyman, former director of the SEC's
+division of market regulation and a guiding force behind Market 2000,
+describes the study as 'an effort by the staff to look comprehensively at
+things which in the past we have been looking at piecemeal'.
+Among the regulatory issues the study is tackling, the most contentious is
+the future of NYSE Rules 390 and 500. The former limits NYSE member firms
+from trading listed stocks away from the exchange, the latter makes it
+difficult for companies voluntarily to remove their stock listing from the
+exchange.
+The NYSE's competitors have lobbied for abolition of both rules, claiming
+they give the exchange an unfair advantage.
+Although there is no indication that the abolition of Rule 500 would lead to
+a rush of companies away from the NYSE, the exchange nevertheless fears that
+some companies might leave and list their shares on Nasdaq, home to such
+corporate giants as Microsoft and Apple Computer.
+While the NYSE is under fire over rules 390 and 500, it is on the attack
+over other issues. It is highly critical of the practice employed by trading
+systems and over-the-counter marketmaking firms of paying brokers a fee
+(usually between one and two cents a share) for directing customer orders
+their way.
+This 'payment for order flow' is used by trading firms and systems to bring
+in business that might otherwise go to the NYSE. Madoff Securities in New
+York is one of the biggest payers for order flow, luring large amounts of
+business from brokers in exchange for a payment and a promise of quick order
+execution on its in-house stock trading system. On a good day, Madoff
+handles as much as 10 per cent of all trading in NYSE stocks.
+Not surprisingly, the NYSE wants the SEC to ban payment for order flow,
+arguing that in accepting payments to route customers' orders to a
+particular firm or system, brokers are not necessarily finding the best
+execution price for their customers.
+Until the SEC rules on the issue, the NYSE is defending its share of trading
+by offering rebates to brokers who bring small trades to the exchange. Mr
+William Donaldson, the NYSE chairman, said he hoped the rebate offer would
+'at the very least, arrest further order erosion, and at best, accomplish
+repatriation of order flow'.
+The NYSE has also challenged what it claims are unevenly distributed
+regulatory costs. It says that while it is forced to comply with a wide and
+costly array of SEC regulations, rival electronic trading systems bear a
+lighter regulatory burden. The NYSE would like to see these systems
+regulated as fully as the established exchanges. For their part, operators
+of systems say they should be regulated differently because they handle only
+a fraction of the business handled by the NYSE.
+What are the chances of the SEC heeding the NYSE's requests, or those of its
+competitors? From the start the SEC singled out Rules 390 and 500 as
+important issues for review in the study, so neither is likely to survive in
+its present form.
+While abolishing the two rules would hurt the NYSE, the pain of the blow
+could be softened. As for the broader issues of fragmentation, and the
+two-tier market, the SEC's task will be still more difficult. Although, the
+agency is reluctant to intervene, it is under increasing pressure to do so.
+As the agency's Mr Heyman says: 'Ultimately, the market participants will
+look to the SEC to resolve these seemingly intractable issues.'
+
+The Financial Times
+
+
+London Page 28
+
+930615
+

@@ -1,0 +1,74 @@
+FT921-14318
+
+FT  16 JAN 92 / Technology: Barnacles forced to jump ship
+
+
+   By TIM BURT
+
+
+On a summer's night in 1988 a fireball engulfed one the largest oil
+platforms in the North Sea, the Piper Alpha, killing 167 workers and
+throwing burning metal and spouts of fire and smoke into the sky.
+The heat from the blaze was so intense that the MSV Tharos, the firefighting
+vessel assigned to the rig, was forced out of the area.
+Survivors of the disaster condemned the reaction of the Tharos, a ship built
+on the advice of Red Adair, for failing to turn its high-powered hoses on
+the rig.
+Research scientists now claim Tharos was ineffective on the disaster night
+because its cooling systems were so clogged with marine organisms that it
+could not develop full power in its engines and firefighting equipment.
+The organisms - ranging from barnacles and mussels to microscopic bacteria -
+flourish in the seawater taken on-board ships through cooling pipes below
+the waterline.
+On the Tharos and other vessels 'fouling' by such organisms has been blamed
+for blocking pipes and jamming valves, causing serious corrosion and leading
+to a loss of power.
+Concerned at criticism of the Tharos, the owners, Occidental, turned to
+scientists at the University of Sheffield who have pioneered a system which
+prevents the build-up of marine organisms in ocean-going vessels.
+Occidental, whose North Sea assets have since been sold to the Anglo-French
+joint venture Elf Enterprise, abandoned the old anti-fouling system on its
+firefighting ship and installed equipment developed by Biofouling and
+Corrosion Control (BFCC), a company which was set up by academics in
+Sheffield under a technology transfer scheme.
+Led by Brent Knox-Holmes, the BFCC team discovered that they could nearly
+eliminate fouling in pipes by creating an electrolysis in the sea water
+using a metal oxide electrode producing chlorine and a copper electrode
+producing copper ions.
+The current from the metal oxide electrode converts the sodium chloride  -
+or salt - in seawater into chlorine, which deters marine organisms.
+The scientists found the chlorine acted in synergy with copper ions from the
+other electrode to disrupt any further settlement of algae or molluscs.
+In the past, fouling was controlled by either dousing pipes with large
+amounts of sodium hypochlorite - a hazardous chemical not easily stored at
+sea - or dissolving copper directly into the water, an expensive and
+environmentally damaging solution.
+Following commercial tests at laboratories in the UK and US, the BFCC system
+has been adopted by AP Moller, the Danish shipping line, which has fitted 21
+vessels with the new copper-chlorine treatment. According to Knox-Holmes,
+the Danes were attracted by the low environmental impact and reduced
+maintenance costs of BFCC.
+He claims the BFCC system is 90 per cent more efficient than dousing with
+sodium hypochlorite and 80 per cent better than using copper on its own.
+His arguments have convinced not only the environmentally-aware
+Scandinavians (Fred Olsen Line and J Lauritzen Shipping are using BFCC too),
+but also industrial concerns such as Amoco and Conoco.
+Orders from the two oil exploration companies have marked the successful
+move from anti-fouling on ships to other applications. Amoco has fitted BFCC
+equipment on four gas platforms, while Conoco uses the system on three oil
+rigs.
+With patents awarded in Britain and the US, and others pending in the Far
+East, the academics at BFCC are now looking at ways of adapting their system
+for power stations, desalination plants and fresh water use.
+'We are setting new standards for biofouling control', says Knox-Holmes.
+'Had the MSV Tharos had our system installed at the time of Piper Alpha, it
+might have developed full power to hose down the rig,' he adds. 'Our system
+is not just cleaner but safer.'
+
+The Financial Times
+
+
+London Page 13
+
+920116
+

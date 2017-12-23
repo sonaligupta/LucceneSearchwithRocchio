@@ -1,0 +1,99 @@
+FT932-6839
+
+FT  26 MAY 93 / Survey of Computer Industry - Systems, Software & Services
+(17): Testing limits of silicon chips - Multimedia: One more milestone
+
+
+   By GEORGE BLACK
+
+
+MULTIMEDIA looks set to move from being a niche market to becoming a part of
+the mainstream computer industry, writes George Black.
+This could give the industry the new lease of life it needs after a
+recession. Leading personal computer makers and software package suppliers
+are keenly supporting the development of multimedia because they see it as
+the best hope of sustaining their growth.
+Many users look forward to new applications that combine media such as
+word-processed text, CD-ROM (Compact Disk Read Only Memory), graphics,
+video, photography and audio.
+Banks would like computer files on their customers that include photographs,
+signatures and perhaps recorded interviews. Architects, estate agents,
+engineers and planners would all like to be able to show their offerings on
+a screen, or even to give a guided tour in 'virtual reality' headsets.
+There are masses of prospective users in other sectors such as aerospace,
+retailing, security, education, the police and television.
+The accusation that multimedia is a technology looking for applications
+could not be more wrong. But to become universal, multimedia has to come
+down in price and bring together several emerging technologies. Although the
+principles of the individual technologies have been mastered, getting them
+to work together effectively calls for a lot more effort.
+The biggest drawback for prospective users in the present economic climate
+has been the cost, but the sharp fall in the price of personal computers is
+helping. The market may soon reach the point where falling prices and
+growing sales create a virtuous circle. The rapid spread of
+videoconferencing as a cheaper alternative to air travel is evidence that
+where multimedia is cost-effective there are plenty of customers.
+The progress of multimedia depends on more processing power. Video and sound
+are harder for computers to handle than text and graphics, but users now
+expect instant response. The increase in power will come on the desktop
+through new chips such as Intel's Pentium, as well as through faster
+CD-ROMs, and in larger systems through what is known as 'massively parallel'
+hardware.
+But hardware makers are struggling to keep up with the demand for power. Mr
+Trevor Wing, marketing director for VideoLogic, multimedia products
+supplier, says processing video and sound will test the limits of the
+silicon chip. Today's advanced workstations labour to process video, he
+says. System builders will need to add new hardware to standard chips to
+cope with the volume of information in multimedia applications.
+The rapidly falling cost of storage is making multimedia applications
+commercially feasible, but the capacity of storage devices can barely meet
+demand. While PCs have standard hard disks of 80-120 megabytes and standard
+CD-ROMs give 500 megabytes, processing the image of a newspaper could use
+100 megabytes every day.
+Multimedia will also stretch very large database technology. According to Mr
+Robert McCord, European development director for database vendor Ingres, the
+total volume of data held in databases worldwide could multiply 10 times by
+the turn of the century. Whereas data up to now has been measurable in
+gigabytes and terabytes, multimedia could need some new unit of volume not
+yet in use.
+Formidable problems of indexing and retrieval will need to be faced.
+Multimedia vendors will be looking for bright ideas from developers of
+relational and object-oriented database management systems and hypertext
+searching software.
+The recent move by Microsoft and Apple to modify their standard operating
+systems software so that video, sound and graphics can be incorporated into
+programs is seen by the industry as a big step towards creating a mass
+market for multimedia.
+Before, it was too difficult and expensive for software houses to change the
+operating systems to connect them to multimedia applications. Now the
+software houses are hard at work to build on the adapted operating systems.
+In the next year or two a new generation of software packages should include
+presentation systems using sound, video and graphics, aimed mainly at
+marketing departments and sales people.
+Video quality has to improve; at present postage stamp-sized video windows
+give an acceptable image but anything larger tends to lose in smoothness.
+The cost is such that there is usually a trade-off between the size and the
+quality of the video. Add-in boards for video can be bought for Pounds 300,
+which should help the market to grow and make good quality cheaper.
+Users will want also higher resolution displays. The PC now delivers 256
+colours as an industry standard, which is good enough for many applications,
+but others will require even higher, television quality images.
+By far the most popular application for multimedia is still training. The
+reason for this, says Mr Peter Copeland, chairman of the Sussex-based
+training company Futuremedia, is that it is both effective and cheap. Unlike
+class instruction, it can be tailored to the individual's needs. A 10-hour
+training course might cost Pounds 10,000, but the investment could be
+recouped in less than a year, he says.
+Standardisation is one of the main needs of the business in the next couple
+of years. Microsoft has forged ahead with its own standards, but these may
+soon merge with the official standards being developed by the International
+Standards Organisation and the Consultative Committee on International
+Telephony and Telegraphy.
+
+The Financial Times
+
+
+London Page VI
+
+930526
+

@@ -1,0 +1,106 @@
+FT942-12735
+
+FT  28 APR 94 / Technology: Digital dream come true - Xerox is hoping for a
+document 'highway'
+
+
+   By ANDREW FISHER
+
+
+Documents are going digital. Electronic printing 'on demand' is likely to
+become as common in offices, factories, universities and libraries as
+voluminous files of paper and shelves of books are today. Some companies
+already save time and money by storing, sending and printing their
+information digitally.
+Xerox, the US document processing company, has even invented a new term for
+this. Just as people are getting to grips with the information superhighway,
+it has come up with the notion of the document superhighway. There are even
+'on ramps' and 'off ramps', in the form of equipment such as document
+scanners and printers, to link users to the new digital communications
+networks (the data highways) being set up worldwide, notably in the US.
+As with many announcements in the computer and electronics world, the
+message Xerox sought to put across in New York last week was somewhat
+overwhelmed by the breathless show business nature of its presentation. It
+mixed in news about improved equipment, software to integrate the stages in
+the life of a document from creation to printing, and alliances with other
+companies to help develop the
+manufacturing and operating standards for future products and services.
+Beneath the hype, though, Xerox's basic message was simple: that the
+worldwide users of the many billions of business, government, educational
+and other documents would increasingly be able to collect, store, distribute
+and print them electronically where, when and in what form and volume they
+pleased - 'the ability to plug in and publish anywhere and everywhere,' as
+Peter van Cuylenberg, Xerox executive vice-president, puts it. This would
+mean big savings on logistical and transport costs, which RR Donnelley, the
+US commercial printer, says can account for more than half the cost of a
+document.
+'Today,' adds van Cuylenberg, 'you can pick up and telephone anywhere and
+call anywhere else. It should be the same with documents and publications.'
+But there is a long way to go before this digital dream is realised and the
+offset printing industry loses large chunks of business to electronic
+techniques. Current digital technology allows only black and white printing
+with colour highlights, though Xerox says colour is on the way; full offset
+quality (using plates and ink) will still be demanded by many document
+users.
+Xerox recognises this. 'They're not going to roll over and play dead,' says
+Paul Allaire, the group's chairman, about the offset printers. 'We
+understand that.' Even so, it intends to capture as large a slice as
+possible of the section of the offset market which could eventually go
+digital. This amounts to some Dollars 93bn (Pounds 64bn) worldwide,
+according to a study by the US Department of Commerce and Gartner Group, a
+consultancy.
+While commercial book printing could also become digital eventually - some
+educational publications are already printed this way, especially in the US
+ -the main switch from offset is expected to occur in the more mundane area
+of business forms, training manuals, brochures and newsletters. Offset
+printers will still compete for this business, as will other companies in
+the digital document business such as Hewlett-Packard and Kodak.
+Document users who have started taking the digital route have achieved
+significant savings. Tektronix, the Oregon-based computer graphics, video
+system and measurement company, can now print its complicated product
+manuals electronically at a day's notice compared with up to 28 days by
+conventional methods. It can insert changes more easily and its whole
+printing operation runs in line with the product manufacturing process.
+At the Los Angeles county health department, responsible for six hospitals
+and 50 clinics, annual savings of some Dollars 220,000 have been made by
+moving to digital methods. Massachusetts-based Technical Documentation
+Publishing saved 26 per cent of the cost of one job for a client wanting
+bulky files sent to Europe; it sent them electronically to the UK for
+digital printing.
+The industry buzzword for all this is 'connectivity'. John Seely Brown,
+Xerox's chief scientist, describes it as 'taking the sides off the boxes
+(the high-speed document scanners, storage devices and printers) and making
+the machines truly modular'. Towards the end of 1994, it will sell new
+software called DocuSP (document services platform) to integrate the boxes
+and link them with personal computer-based desktop publishing operations.
+Looking to the future, Xerox is entering into alliances with more than 50
+information technology concerns to speed the development of new open systems
+which can be used by all equipment and software suppliers.
+It also announced a link-up with AT&T in the US to enable document data to
+be sent along telecommunications lines. Similar deals are being made with
+Belgacom, the Belgian telecommunications operator, and PTT Telecom
+Netherlands.
+Yet all the digital expertise in the world will not help if document users
+cannot keep a close eye on the growing mass of information bombarding them.
+Xerox has thus evolved new ways of viewing large amounts of data so that
+items of varying importance and relevance can be seen together without
+cluttering up the screen.
+Its Information Visualizer, based on scientific and psychological research,
+will enable users to call up files and keep them in context. One method
+already in use is the 'cone tree' on which file names can be identified as
+this is rotated, then pulled out to examine data. Another is to put file
+names on a computerised wall which can be moved to view items of both
+central and peripheral interest.
+Seely Brown, who also heads the group's Xerox Parc research unit, believes
+such technological changes will help take the growing chaos out of office
+work by making complex equipment easier to use. 'I have the feeling that
+technology is finally getting powerful enough to get the hell out of the
+way.'
+
+The Financial Times
+
+
+London Page 22
+
+940428
+

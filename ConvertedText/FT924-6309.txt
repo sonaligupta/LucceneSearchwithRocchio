@@ -1,0 +1,84 @@
+FT924-6309
+
+FT  21 NOV 92 / Computing: The facts about databases - How to pick from a
+bewildering range of software
+
+
+   By DAVID CARTER
+
+
+SELECTING a database programme can be confusing. The two other common
+software packages - word processing and spreadsheet - are well charted
+territory, but databases are tricky. There are 'flat file' and 'relational'
+databases, menu-driven and programmable databases, specialised databases for
+text retrieval and for personal information management.
+In its original meaning, a database is simply a mass of data. You might talk
+of a database of names and addresses, or a database of membership records.
+Different types of database demand different types of database package. At
+the simplest level, a list of client names and addresses can be handled by a
+single file (or 'flat file') database. At the other extreme the package
+might need to be 'relational', that is, able to accommodate several related
+files which pass information between (update) one another. For example, a
+sales order database will generate a sales invoice which in turn updates the
+sales ledger file, the nominal ledger file, and the stock file.
+To write complex business packages such as sales order processing,
+developers use 'database development packages' such as dBase IV, Foxpro,
+Clipper, DataEase, Paradox and R:Base 3.1. These are called 'programmable'
+databases because they use programme-like instructions. Complex applications
+demand the flexibility of a programmable database. These top of the range
+packages cost Pounds 500 plus and their power and sophistication really make
+them suitable only for professionals.
+For non-technical users who want to perform simpler tasks database packages
+are available which are entirely 'menu-driven'. Without having to learn any
+programming language you can design your own database, enter data, edit it
+and print out reports. Menu-driven databases are the nearest you or I will
+get to writing our own computer programs.
+Most of the top-range packages use menus for simple tasks. Some come in
+cut-down versions for the amateur where the underlying programming language
+has been removed so that they are entirely menu-driven. Examples are Paradox
+Special Edition (Pounds 80 from retailers like Dixons or Wildings) or
+Personal R:Base (about Pounds 80 by mail order in PC magazines) In terms of
+price / performance these are probably the best value database packages on
+the market. However, they were originally designed for the professional and
+employ a formal, classical approach. This takes some getting used to and
+Personal R:Base, for example, is simply too powerful and complex to be given
+to the novice. But database users who think they have outgrown their first
+package and want something more sophisticated will love it.
+This leaves packages designed ab initio for the amateur rather than cut-down
+versions of professional packages. Examples are Q & A, Reflex, Masterfile,
+Cardbox Plus, Professional File, Rapidfile. Which do you choose? There is
+one fundamental question - is your database primarily made up of text or
+numbers? Each requires different functions.
+In the case of a text application such as address lists or membership
+records you need to be able to query the file in order to extract, say,
+prospective customers who live in Wales and have expressed an interest in
+antique furniture. The important thing is to be able to search through 5,000
+records, retrieve the half-dozen that meet your criteria, then print them
+out in a list. Maintaining contact name and addresses is the most common
+application for a database. Every package on the market can do this, and do
+not forget the databases within integrated packages such as Microsoft Works,
+Smartware, Eight-in-One Gold, PFS First Choice. They are more than adequate
+and have the added advantage that they are designed to work with the
+integrated word processor to produce mailshots.
+These are textual databases. The other type is a numeric database, for
+example, a database of sales invoices. In this case you are not interested
+in retrieving individual sales invoices but in data analysis and reporting
+analysing which products have been sold to which customers by which
+salesmen, producing summary reports and identifying trends. Here you must be
+careful.
+All databases can handle text applications; few can handle numeric. For data
+analysis the key requirement is 'cross-tab reporting' which enables you to
+summarise data in different ways rather than simply listing individual
+records within the database. A database package without cross-tab reporting
+is useless for analysis of numeric data.
+Few packages excel in data analysis and reporting, but one that does is
+Borland's Reflex which is a easy to use and can be recommended even to
+beginners.
+
+The Financial Times
+
+
+London Page VII
+
+921121
+

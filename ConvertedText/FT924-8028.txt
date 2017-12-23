@@ -1,0 +1,35 @@
+FT924-8028
+
+FT  13 NOV 92 / Technology (Worth Watching): Touchy screen under pressure
+
+
+   By DELLA BRADSHAW
+
+
+Companies interested in touch-screen technology but reticent to throw away
+existing personal computers could find the answer in TouchMate, a two-inch
+high, pressure-sensitive platform which sits beneath the PC monitor and
+converts the ordinary PC into a touch-screen model. Developed in the US by
+Visage, and sold in Europe by Ellinor Technology, TouchMate costs Pounds
+650.
+When the screen is touched, plates in the platform sense the pressure; from
+that, TouchMate calculates the location of the pressure. The PC, running
+Windows software, then carries out the task as instructed.
+To install the system the user sits the monitor on the platform and then
+connects the two via the PC's serial port.
+To calibrate the system, the user touches the four corners of the screen.
+The TouchMate software adjusts constantly to allow for background noise or
+wobble. Ellinor Technology: UK, 0734 311066; Visage: US, 508 620 7100.
+To save the weary arms of City dealers, Trinitech, of Stamford, Connecticut,
+has developed a dealing room system incorporating colour touch screens which
+can sit flat on the desk. The flat screens use the same thin-film transistor
+technology incorporated in the latest portable computers. Trinitech: US, 203
+328 3766; UK, 071 935 1220.
+
+The Financial Times
+
+
+London Page 12
+
+921113
+

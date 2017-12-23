@@ -1,0 +1,135 @@
+FT932-7126
+
+FT  25 MAY 93 / Survey of Power Generation Equipment (3): Weakest will go to
+the wall - The boilermaking industry is changing, but at its own speed
+
+
+   By ANDREW BAXTER
+
+
+Along with other parts of the power generating equipment industry, boiler
+makers are having to adapt to changing product and technology trends -
+environmental pressures, the growth in popularity of combined cycle power
+generation - and are also reorganising themselves to become more
+competitive.
+But, in comparison with newer sectors such as gas turbines, the boiler
+industry has travelled less far down the road towards global concentration.
+As one of the oldest, and - until recently, at least - less sophisticated
+sectors of power engineering, national buying preferences have prevailed
+longer than elsewhere.
+Worldwide, there are about 50 companies capable of producing boilers for
+power plants - the boilers are traditionally used for raising steam in
+coal-fired generation but are also used in combined cycle: the waste heat
+steam generators that link the gas turbine to the steam turbine are
+basically boilers.
+In Europe alone there are 20-30 producers and manufacturing overcapacity has
+been a serious problem. A study for the European Commission in 1988 found
+that capacity utilisation by Europe's boiler manufacturers averaged just 20
+per cent, compared with 60 per cent for the turbine generator sector.
+In Europe and worldwide, the situation has improved since then, due partly
+to mergers worldwide, to improved world market conditions and also to
+restructuring within individual companies in Europe and North America.
+Among the various deals that have more closely tailored boiler manufacturing
+capacity to worldwide demand or, at the very least, rationalised the
+industry's structure, were:
+Asea Brown Boveri's takeover of Combustion Engineering of the US and its
+recent acquisition in Prvni brnenska strojirna in the Czech Republic;
+The integration of France's Stein Industrie and EVT of Germany - each of
+which had themselves developed through mergers - under one roof as the main
+elements of GEC Alsthom's boilers and environmental systems business;
+Last year's joint venture in boilers between Deutsche Babcock and Lentjes, a
+subsidiary of Metallgesellschaft; Deutsche Babcock had acquired Riley Stoker
+of the US in 1990.
+The acquisition by Finland's Ahlstrom Pyropower of Outokumpu's boiler
+business and of Fakop, a leading Polish boiler manufacturer.
+Last year's acquisition by Germany's Steinmuller of a 40 per cent stake in
+Tampella's boiler-making business. Tampella, based in Finland, had
+previously bought Keeler in the US.
+There has also been thoroughgoing slimming and refocusing at many of the
+larger companies. The workforce at Babcock Energy's main boiler plant at
+Renfrew in Scotland, for example, has been reduced by 800 in the past five
+years to just under 1,200 and the factory is a true low-cost producer, says
+Mr John Prosser, executive director of Babcock Energy's power engineering
+division.
+The workforce at Combustion Engineering has been cut by about 15 per cent to
+under 5,000, although the entity no longer exists as such within ABB. The
+business, says Mr Kevin Pilon, vice-president for strategic development at
+ABB's boiler business, is 'down to the core, and perhaps now in a small
+build-up phase' for employment.
+Outsourcing of less critical components has been stepped up, and the
+business has been reorganised on a profit centre basis, and given new
+management at profit centre levels.
+Worldwide, the major boiler producers are Combustion Engineering, Foster
+Wheeler and Babcock & Wilcox, all of the US; Ahlstrom, Babcock Energy, and
+Deutsche Babcock from Europe and Mitsubishi Heavy Industries of Japan. The
+Babcock companies are unconnected, albeit linked in the past.
+Then come dozens of national producers, some of which are active in
+international markets.
+Most observers believe there both could and should be further
+rationalisation in the boiler industry, with weaker players going to the
+wall and companies with niche technologies either remaining independent or
+finding financial security within larger groups.
+But the pace at which some of the national producers will be squeezed will
+depend critically on how quickly some of the more protectionist markets will
+be opened up. Countries such as France and Italy, for example, have never
+been easy for foreign suppliers.
+Meanwhile, overcapacity remains and the strong competition for orders means
+that prices for power plant boilers have been stable or declining in real
+terms, according to Mr Pilon.
+He points out, though, that there are ways for boiler makers to
+differentiate themselves. One measure of competitiveness is an effective
+cycle time strategy - the ability to deliver quicker. Differing product
+strategies add another twist to the competition.
+Companies such as ABB make a virtue of offering a turnkey package of
+virtually everything needed to build a power station. Siemens and
+Westinghouse, in contrast, buy in their boilers.
+Then there are companies which concentrate almost exclusively on boilers, at
+least as regards their power equipment business.
+Mr Prosser points out that Babcock Energy has supplied boilers with ABB, and
+in one of the biggest recent power plant contracts, the Dollars 1.25bn Black
+Point combined cycle project in Hong Kong won by GEC Alsthom and General
+Electric, Babcock won an Pounds 80m contract to supply the heat-recovery
+steam generators because of the customer's strong preference for its
+equipment.
+Inevitably, the outlook for the boiler industry over the next few years
+mirrors that of the power generating equipment market generally. Overall,
+says Mr Prosser, the next two years will be tough but there are big market
+opportunities in Asia and the Pacific Rim.
+Naturally, therefore, the western boiler makers are stepping up local
+manufacturing to help win orders and because it makes economic sense to
+build at least some of the components close to the market place.
+ABB, for example, has a boiler fabrication joint venture in Indonesia, and
+Babcock Energy, says Mr Prosser, is looking for partners in China and
+Malaysia to supply plant such as flues and ductwork.
+Babcock is currently bidding jointly with Wuhan Boiler Works in central
+China for the Ezhou anthracite-fired power station. Again Wuhan will be
+manufacturing some of the less critical parts if the consortium wins the
+contract.
+As for technological developments, there is still considerable debate as to
+how environmental pressures will affect the boiler industry. The boiler
+producers have already made important contributions to clean coal burning,
+whether through the development of low-Nox burners or through flue gas
+desulphurisation equipment which removes sulphur dioxide. The big companies
+are trying to keep their options open, as it is not clear what the relative
+long-term importance will be in the market place for such clean coal
+technologies as integrated gas combined cycle, circulating fluidised bed
+boilers, traditional pulverised coal boilers with scrubbers, or such
+combinations as pressurised fluidised bed boilers linked to IGCC.
+GEC Alsthom's Stein Industrie recently won an order in France for a 250MW
+CFB boiler, which it claims is the world's largest. Mr Eric Oakes, Ahlstrom
+Pyropower's president, says the company has orders for two 230MW boilers in
+Poland, and says 300MW boilers are attainable.
+'If a CFB boiler can match the price of a pulverised coal boiler with a
+scrubber, it can be the boiler of choice as the emissions are lower,' says
+Mr Oakes. He suggests that the future could see IGCC repowering existing gas
+turbine plants as the price of gas rises, while CFBs could be used to
+re-equip existing coal-fired plants or fitted to new ones. 'There is room
+for both in the future,' he says.
+
+The Financial Times
+
+
+London Page II
+
+930525
+

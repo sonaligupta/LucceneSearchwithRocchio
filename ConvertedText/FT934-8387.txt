@@ -1,0 +1,74 @@
+FT934-8387
+
+FT  16 NOV 93 / Technology: A catalogue of developments - Computer moves in
+the British Library
+
+
+   By GRAHAM CLAYTON
+
+
+Computers can prise out nuggets of information from databases at speeds that
+narrow information searches down to seconds. This was just what the British
+Library wanted to achieve by computerising its catalogues, a process which
+has just been completed.
+But the volume of information to be handled was vast. The size of the
+catalogues from the library's various sites - such as the reading room at
+the British Museum, the science library in central London and the newspaper
+library in north London - was one of the biggest problems to be overcome. It
+claims to have 150m items in its collections, ranging from papyrus to
+CD-Rom, in every written language.
+Most local libraries have a computer system to keep track of items loaned
+out, but in many cases the only way users can see what is in the catalogue
+is by searching card indexes or microfiches. This is because putting an
+existing catalogue on to a computer system is time-consuming and expensive.
+Another problem is that the British Library must also cater for
+inexperienced users. The solution is its recently unveiled Online Public
+Access Catalogue (OPAC) which uses equipment provided by Digital Equipment
+as part of a Pounds 1m sponsorship
+deal.
+This enables the user to search catalogues by responding to questions on a
+computer. Using software developed in-house, the system asks for details
+such as subject, author, title or publisher and finds the relevant material.
+The user looks at this and asks the system to note items of interest.
+This throws up a further problem. Since much of the material is of foreign
+origin, searches must be possible in the appropriate language. If a document
+was published in Russian, the system can display a Cyrillic 'keyboard' on
+the terminal screen and this can be used to type in a request. The user's
+first language may not be English, so the system will be able to talk to
+users in one of six languages, currently English, four other western
+European languages and Russian.
+OPAC covers 6m items from the catalogues of recent material in the science
+and humanities collections - 80 per cent of the printed books held in
+London. The system, which has just gone live, also includes earlier
+humanities material and the recent printed music catalogue.
+OPAC will really come into its own when the British Library moves to its new
+site at St Pancras, due to be completed after lengthy delays in 1996.
+Equipped with 150 terminals, it will be linked to a book-ordering and a
+mechanical handling system. The aim will be to have 90 per cent of all
+requested material delivered to the users within half an hour.
+The system will also be linked to reader admission software so that it can
+build up an awareness of the level of skill of each individual user. By this
+means, it will be able to offer much more help to novices, while allowing
+advanced users to build up complex searches with the minimum of prompting.
+One further development means some users will not have to visit the library
+at all. A trial has just begun which uses the Joint Academic Network (Janet)
+to make OPAC available to other libraries, initially at University College
+London and Brunel University, near London.
+At first, librarians will act as gatekeepers to handle the system at these
+sites, but there is no reason why the facility should not be made available
+later on networks outside these libraries. The system will be formally
+launched on Janet at the beginning of next year with about 20 UK
+institutions taking part. There are also plans to offer similar access over
+public networks such as Internet.
+Most users will welcome the advantages the new technology will bring, but
+some will miss the studious atmosphere of the old reading rooms. Maybe they
+can compensate by using a home computer to browse through the catalogues
+surrounded by their own books.
+
+The Financial Times
+
+
+London Page 18
+
+931116
+

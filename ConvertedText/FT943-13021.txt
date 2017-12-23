@@ -1,0 +1,109 @@
+FT943-13021
+
+FT  21 JUL 94 / Technology: Chemistry by design - Scientists are
+constructing enzymes artificially
+
+
+   By LIONEL MILGROM
+
+
+Imagine looking down the barrel of a microscope at a single wriggling cell.
+It could be a deadly bacterium, a human sperm or a white blood cell. The
+tiny, writhing glob of protoplasm is a highly efficient chemical factory,
+doing the same as any other chemical plant the world over - making and
+transforming chemicals.
+The chemical output from a cell is minuscule - micrograms compared with the
+tonnes from man-made chemical factories. But cells are doing chemistry
+faster and more efficiently than any chemical plant is ever likely to do.
+For example, it would require a laboratory the size of Britain to reproduce
+the number of chemical reactions in a single cell using conventional
+chemistry.
+A cell's ability to package and control complex chemical processes is
+awe-inspiring. With pressure building on chemical manufacturers to clean up
+their operations, while remaining competitive and profitable, research
+chemists are now taking a hard look at how cells do chemistry with a view to
+mimicking the process.
+One area being studied is enzymes, made from large, intricately folded,
+protein molecules. Enzymes can orchestrate almost every chemical process in
+cells with total finesse, speed and selectivity. They can bring together two
+seemingly unreactive molecules (by recognising them), make them react
+(catalysing reactions between molecules which under normal circumstances
+would not react or would take a long time to do so), and then release the
+products, ready to start the cycle again. This is all done in less than one
+ten-millionth of a second, with a subtlety that ensures only one chemical
+outcome from the many possibilities available.
+In contrast to the slow, comparatively haphazard progress of man-made
+chemical reactions, enzymes make and break chemical bonds in a fast and
+controlled manner.
+'The trouble is we don't know all the rules of this game yet,' says Jeremy
+Sanders, a chemistry lecturer at Cambridge University in the UK. 'We want to
+build molecules that mimic enzymes in order to discover those rules,'
+Sanders adds, and not purely for the chemical insights such a discovery
+would bring.
+Artificial enzymes are being developed from the insights obtained so far.
+Although inferior to the real thing, they are built out of simpler, tougher,
+molecular components that are relatively easy for chemists to assemble.
+Molecules like these could one day help chemists perform their own,
+large-scale chemical processes, much faster and more efficiently.
+How is an artificial enzyme made? There are two approaches: by design and by
+empirical research. In the design approach, a particular system is selected
+and made, preferably out of molecular building blocks enabling a big
+molecule (artificial enzymes have to be big in order to contain the reacting
+molecules) to be assembled in as few steps as possible.
+The new molecule is then studied to see how well it binds other molecules
+and makes them react. 'The beauty of this approach,' says Sanders, 'is that
+we know what we are trying to make, so we can build in rational changes as
+we go along. The disadvantage is that because we don't know all the rules
+yet, any molecule we design is likely to fail as an artificial enzyme.' In
+other words, the design approach involves inspired guesswork. Nevertheless,
+Sanders and his Cambridge team have had some success.
+In constructing their artificial enzymes, the researchers adopt a minimalist
+approach. Their target molecules consist simply of a rigid cavity with
+several binding sites for other molecules (real enzymes, of course, are more
+flexible and much more complicated). Nevertheless, one of Sanders's rigid
+cavities can speed up, by approximately a thousandfold, an industrially
+important reaction, called the Diels-Alder reaction - used to make
+insecticides.
+Sanders's rigid cavity accelerates the Diels-Alder reaction much less than
+real enzymes speed up their reactions. Also, the Diels-Alder products remain
+strongly bound within the cavity, so that Sanders's molecules are not
+behaving as true catalysts. Even so, they are much tougher than real
+enzymes.
+In its latest work, Sanders's group has tried out artificial enzymes on a
+different type of reaction; this time, they behave as proper catalysts.
+Again, the rate of acceleration of the reaction is nowhere near as good as
+that achieved by enzymes, but it is a start. 'We have a long way to go
+before we have synthetic enzymes worthy of the name,' says Sanders, 'but at
+least we know it can be done.'
+The empirical approach can quickly generate a large number of molecules  -
+usually big proteins called catalytic antibodies - for testing as enzyme
+mimics. The most catalytically active ones are then selected.
+The disadvantages with this approach are that it can be difficult to
+identify a catalytically-active species. The very nature of these catalytic
+antibodies also makes them difficult to modify in any systematic way. Both
+these disadvantages can lead to problems in figuring out the rules that the
+empirical approach was intended to understand in the first place.
+Nevertheless, Frederic Menger and his chemistry team at Emory University in
+Atlanta have come up with a simple enzyme mimic based on the empirical
+approach. It operates in a way that many chemists believe enzymes may have
+evolved billions of years ago.
+Enzymes work by bringing together two molecules leaving them no choice but
+to react. Menger uses molecules with long, fatty chains at one end and
+reactive sites at the other. When the mixture is put in water, the fatty
+chains cause the molecules to behave like oil and form a clump. As with
+enzymes their reactive ends are now so close together they react very
+smartly indeed.
+'It's almost as if our randomly created clumps are like random mutations,'
+says Menger.
+The artificial enzymes Sanders and Menger have created could be the
+blueprint for future industrial chemical catalysts. The rules and criteria
+these and other chemists working in this field are discovering, seem set to
+revolutionise chemistry in the 21st century.
+
+The Financial Times
+
+
+London Page 18
+
+940721
+

@@ -1,0 +1,105 @@
+FT934-11222
+
+FT  02 NOV 93 / Technology: Power to the people - The UK's National Grid has
+just invested in a sophisticated control network
+
+
+   By ANDREW FISHER
+
+
+The sight of Chris Waddle missing a vital penalty at a World Cup soccer
+semi-final three years ago may not appear to have much to do with
+electricity use, but the behaviour of television viewers after England lost
+to Germany led to a record surge of power that night.
+The management of power demand is a complex task. To ensure it continues to
+be handled smoothly, from times of normal use to emergencies such as
+hurricanes, the National Grid - which distributes electricity in England and
+Wales - has spent Pounds 32m on a computerised energy management system it
+believes is the biggest and most modern in the world.
+Electricity demand in the area covered by the National Grid can vary between
+16,000 megawatts early on a summer morning to nearly 48,000 MW on a very
+cold winter evening. Power consumption also rises sharply after popular TV
+soap operas or blockbuster films. Viewers get up after a long evening's
+viewing, switch on the lights and put on the kettle for a cup of tea.
+This is what happened after Waddle and his team-mate missed the deciding
+penalties at the end of one of the most exciting matches of the
+championship, televised from Italy. Electricity use briefly shot up by as
+much as 2,800 MW after the game, equivalent to the output of a very large
+power station.
+On an average day, enough electricity is used in England and Wales to keep
+10m kettles boiling round the clock; in winter, the equivalent is 17m. This
+is what the National Grid's new system, formally opened last month after 100
+days in faultless operation, is designed to manage. From the new control
+centre at Wokingham, Surrey, with the help of four area centres in St
+Albans, Birmingham, Leeds and Bristol, electricity is routed around the
+7,000km of the country's transmission routes.
+By spending some Pounds 80m on its new control network (including the energy
+management system), the National Grid has streamlined its activities and
+closed two regional sites at Manchester and East Grinstead. It now has an
+array of new computers and sophisticated software capable of evolving in
+line with future advances in technology.
+The previous system dated from 1970, when the national control centre was at
+London's Park Street, south of the River Thames. Its Argos computers made by
+Ferranti of the UK - now the subject of a humiliating 1p a share bid from
+General Electric Company of the UK - were kept running until earlier this
+year, although new equipment was also added over the past two decades.
+'In the early 1980s, we realised we needed to get to the next level of
+technology,' says John Tomlinson, system control manager. After going out to
+tender, National Grid narrowed the choice down to Ferranti and
+Minnesota-based Empros Power Systems Control, then owned by Control Data of
+the US but now part of Siemens, the German industrial group.
+Having decided on Empros, which has more than 400 energy systems installed
+around the world, the National Grid went to great lengths to ensure its
+systems would be as error-free as possible. It subjected the hardware and
+software to 14 different audits each. Testing was so rigorous that the test
+plans took up 45 feet of paper.
+As a result, the company believes it has a system which is as reliable as it
+is possible to obtain. Roger Hunter, EMS project manager, is suitably
+cautious, however, when he says: 'As far as we know, at the present time,
+there are no errors.' The system was also delivered on time and within
+budget, a rarity for such big computer projects.
+The National Grid went to such lengths to ensure both quality and robustness
+because it wanted a system which could do much more than its previous one.
+The Empros system, with its host of computers, workstations, display units
+and 4m lines of software code (capable of running 46 applications and 40,000
+displays) is not just designed to switch energy around the grid system,
+including the import of power from Scotland (where distribution is handled
+by the generating companies) and France. It also has a far greater capacity
+to deal with emergencies such as freak storms or terrorist bombs.
+To ensure the utmost degree of fail-safe security, each centre has three big
+Cyber computers from Control Data for normal, stand-by and emergency use. If
+a disaster causes the Wokingham centre to go down, national control can be
+switched to St Albans which controls the London region.
+Here, there is a fourth Cyber, normally used for training - faults such as
+those caused by the 1981 blizzards have been modelled into the simulator
+with frightening realism - but which can be switched to run the whole grid.
+'You can't have a day off while you put something right,' says Tomlinson.
+In the old system, this degree of integration did not exist. Nor was it able
+to perform advanced applications at a level far beyond the normal ones of
+monitoring power flows, voltage levels and other daily functions.
+With the Empros equipment, says Hunter, the grid system can be subjected to
+'limits and capabilities never before possible.' Readouts on any aspect of
+the grid system can be obtained in seconds rather than minutes; 22,000
+separate items of information are checked every five seconds.
+This vast flow of data is needed not only to update the rate of daily power
+flows from the privatised energy groups to the regional electricity
+companies (who own the National Grid), but also to deal with the unexpected.
+'This system can handle the most onerous of power station conditions,' adds
+Hunter. The Empros system was tested to see how it would stand up to all
+types of use from normal demand to the impact of lightning strikes and
+hurricanes.
+Now its system is in operation, the National Grid is keen to work with
+Empros and Siemens, on foreign contracts. 'The whole market place is worth
+nearly Dollars 1bn (Pounds 714m),' says Tim Kenealy, general manager of
+Siemens Empros, which has a share of around 20 per cent. He sees strong
+possibilities in eastern Europe and other developing areas, despite scarce
+funds, as well as in industrialised countries wanting to update electricity
+distribution.
+
+The Financial Times
+
+
+London Page 18
+
+931102
+

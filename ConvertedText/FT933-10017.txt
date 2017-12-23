@@ -1,0 +1,48 @@
+FT933-10017
+
+FT  06 AUG 93 / Technology: A speedy result on exams
+
+
+   By DELLA BRADSHAW
+
+
+As students bite their nails waiting for their examination results, due to
+be published this month, they might spare a thought for the examiners, who
+have to mark the papers and compile the results.
+The task could hardly be more difficult than for the International
+Baccalaureate Organisation (IBO), the charity that offers a pre-university
+curriculum and examination for 16-19-year-olds in nearly 500 schools in 67
+countries. The papers are set in up to 80 different languages, from English
+and French to Dzongkha, Swahili and Welsh.
+The IBO is now turning to the latest technology to ensure that the results
+are published as quickly as possible. The sooner the publication, the
+greater the chance of students getting a 'second bite of the cherry' if
+their first choice college rejects them, points out Andrew Bollington, IT
+project manager at the IBO.
+The IBO is conducting a trial with an international managed data network
+service which should eventually whizz the test results between the
+administrative centre in Cardiff, the headquarters in Geneva, the offices in
+New York, Singapore and Buenos Aires and the many schools where the
+examination is conducted.
+At the moment the post from some schools can take six weeks to arrive in
+Wales. Communicating with the examiners can also take an inordinate length
+of time, Bollington points out.
+Once the IBO's plans are fully operational, Bollington envisages data being
+sent backwards and forwards between the participating schools and Cardiff in
+minutes. The bulk of the schools should be communicating electronically in
+two years, he believes.
+The network will be used for schools to register the marks for individual
+coursework, which is one aspect of the assessment process. Then it will be
+used for examiners to send the test results. Cardiff will then send the
+final results back to the school.
+The IBO has chosen to use BT's managed data network, which means that the
+schools need only pay a local call charge to dial into the network - the
+IBO's Cardiff office foots the rest of the bill.
+
+The Financial Times
+
+
+London Page 8
+
+930806
+
